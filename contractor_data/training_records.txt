@@ -1,0 +1,601 @@
+TrainingID|EmployeeID|Name|Type|Provider|StartDate|CompletionDate|HoursRequired|HoursCompleted|Status|Score|Passed|CertificationRenewed
+1|119|Troubleshooting Techniques - Control4|Troubleshooting Techniques|CEDIA|2023-04-01|2023-05-23|9|9|Completed|67|No|N/A
+2|156|Programming Workshop - Barco|Programming Workshop|CEDIA|2022-09-26|2022-10-04|24|24|Completed|96|Yes|N/A
+3|88|Product Training - Triad|Product Training|Industry Association|2023-11-19|TBD|9|4|In Progress|N/A|N/A|N/A
+4|59|Programming Workshop|Programming Workshop|Manufacturer|2020-03-29|2020-04-03|37|37|Completed|70|Yes|N/A
+5|33|Project Management|Project Management|Internal|2021-06-21|2021-08-10|13|13|Completed|91|Yes|N/A
+6|176|Product Training|Product Training|Internal|2020-02-07|2020-03-31|22|22|Completed|94|Yes|N/A
+7|56|Leadership Workshop|Leadership Workshop|Consultant|2020-01-08|TBD|17|5|Did Not Complete|N/A|No|N/A
+8|165|Advanced Installation|Advanced Installation|Internal|2022-05-04|2022-06-20|38|38|Completed|77|Yes|N/A
+9|43|First Aid/CPR Cert|Technical Certification|Manufacturer|2020-06-24|2020-07-13|50|50|Completed|97|Yes|Yes
+10|130|Financial Acumen - Paradigm|Financial Acumen|Industry Association|2021-12-15|2021-12-23|8|8|Completed|71|Yes|N/A
+11|129|Financial Acumen|Financial Acumen|Industry Association|2022-12-02|2022-12-14|21|21|Completed|73|Yes|N/A
+12|190|Financial Acumen - Savant|Financial Acumen|Internal|2020-07-29|TBD|30|4|Did Not Complete|N/A|No|N/A
+13|88|Product Training|Product Training|Industry Association|2021-03-06|2021-04-27|7|7|Completed|95|Yes|N/A
+14|108|Sales Training|Sales Training|Online Platform|2022-05-21|TBD|4|1|In Progress|N/A|N/A|N/A
+15|130|Client Communication - Sony Professional|Client Communication|Industry Association|2023-10-03|2023-11-14|4|4|Completed|86|Yes|N/A
+16|10|CEDIA Certified Cert|Technical Certification|CEDIA|2021-05-16|2021-05-23|31|31|Completed|89|Yes|Yes
+17|16|Financial Acumen|Financial Acumen|Industry Association|2022-08-01|2022-08-22|8|8|Completed|71|Yes|N/A
+18|87|Programming Workshop|Programming Workshop|Online Platform|2020-02-01|2020-03-03|38|38|Completed|N/A|N/A|N/A
+19|16|Leadership Workshop|Leadership Workshop|Manufacturer|2022-07-18|2022-08-24|31|31|Completed|N/A|N/A|N/A
+20|141|Financial Acumen - Stewart Filmscreen|Financial Acumen|Industry Association|2021-12-30|2022-02-06|5|5|Completed|89|Yes|N/A
+21|121|Financial Acumen|Financial Acumen|Industry Association|2024-06-24|2024-07-21|32|32|Completed|79|Yes|N/A
+22|105|Safety Training|Safety Training|Manufacturer|2020-02-22|2020-03-08|20|20|Completed|88|Yes|N/A
+23|60|Product Training|Product Training|CEDIA|2024-03-20|2024-05-12|37|37|Completed|68|No|N/A
+24|92|Product Training|Product Training|Consultant|2021-10-30|2021-12-11|9|9|Completed|98|Yes|N/A
+25|185|Financial Acumen|Financial Acumen|CEDIA|2021-08-01|2021-08-25|21|21|Completed|73|Yes|N/A
+26|71|Product Training|Product Training|Internal|2020-07-03|2020-08-05|11|11|Completed|72|Yes|N/A
+27|9|Financial Acumen|Financial Acumen|Consultant|2022-02-05|2022-03-12|12|12|Completed|65|No|N/A
+28|167|Safety Training - Ruckus|Safety Training|Industry Association|2024-11-26|2025-01-08|11|11|Completed|N/A|N/A|N/A
+29|191|Sales Training|Sales Training|Industry Association|2024-08-06|TBD|13|5|In Progress|N/A|N/A|N/A
+30|32|Safety Training|Safety Training|Online Platform|2021-10-13|2021-11-25|29|29|Completed|79|Yes|N/A
+31|189|Financial Acumen|Financial Acumen|CEDIA|2020-04-29|2020-05-19|36|36|Completed|74|Yes|N/A
+32|145|Advanced Installation|Advanced Installation|Industry Association|2020-05-14|2020-05-22|32|32|Completed|81|Yes|N/A
+33|42|Programming Workshop|Programming Workshop|Manufacturer|2022-04-27|2022-06-18|30|30|Completed|87|Yes|N/A
+34|138|Advanced Installation|Advanced Installation|Industry Association|2023-10-14|TBD|17|13|In Progress|N/A|N/A|N/A
+35|196|Financial Acumen|Financial Acumen|Manufacturer|2020-04-09|TBD|30|14|In Progress|N/A|N/A|N/A
+36|4|Troubleshooting Techniques - Stewart Filmscreen|Troubleshooting Techniques|Industry Association|2023-06-19|2023-07-19|8|8|Completed|82|Yes|N/A
+37|71|InfoComm CTS Cert|Technical Certification|Industry Association|2023-03-02|2023-03-06|79|79|Completed|77|Yes|Yes
+38|111|Lutron Certified Installer Cert|Technical Certification|Consultant|2023-01-22|2023-03-14|76|76|Completed|91|Yes|Yes
+39|36|Product Training|Product Training|Manufacturer|2023-03-10|2023-04-02|38|38|Completed|83|Yes|N/A
+40|55|Financial Acumen|Financial Acumen|Consultant|2024-09-18|2024-09-29|17|17|Completed|94|Yes|N/A
+41|13|Manufacturer Update|Manufacturer Update|CEDIA|2022-08-17|2022-09-12|18|18|Completed|96|Yes|N/A
+42|76|Troubleshooting Techniques - NAD|Troubleshooting Techniques|Consultant|2020-02-14|2020-02-26|13|13|Completed|78|Yes|N/A
+43|45|Product Training - Triad|Product Training|Online Platform|2025-01-22|2025-02-01|30|30|Completed|70|Yes|N/A
+44|179|New Technology Seminar|New Technology Seminar|Manufacturer|2022-10-31|2022-11-06|31|31|Completed|98|Yes|N/A
+45|31|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2023-05-21|2023-06-12|35|35|Completed|96|Yes|N/A
+46|146|New Technology Seminar|New Technology Seminar|Manufacturer|2021-05-13|2021-05-18|12|12|Completed|70|Yes|N/A
+47|50|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2024-07-02|2024-07-09|20|20|Completed|89|Yes|N/A
+48|8|Product Training - Somfy|Product Training|CEDIA|2020-07-14|2020-08-01|6|6|Completed|66|No|N/A
+49|64|Crestron Certified Programmer Cert|Technical Certification|Internal|2023-10-16|2023-12-07|36|36|Completed|94|Yes|No
+50|21|Project Management|Project Management|Manufacturer|2020-12-17|TBD|13|3|Did Not Complete|N/A|No|N/A
+51|73|Advanced Installation|Advanced Installation|Online Platform|2025-01-27|2025-03-04|10|10|Completed|90|Yes|N/A
+52|78|Programming Workshop|Programming Workshop|Internal|2020-09-28|2020-10-31|32|32|Completed|72|Yes|N/A
+53|24|Safety Training|Safety Training|Online Platform|2022-01-05|2022-02-24|9|9|Completed|97|Yes|N/A
+54|17|Safety Training|Safety Training|Industry Association|2024-09-30|2024-11-17|34|34|Completed|92|Yes|N/A
+55|7|Programming Workshop - Savant|Programming Workshop|Manufacturer|2025-01-25|2025-03-05|20|20|Completed|73|Yes|N/A
+56|104|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2024-03-09|2024-05-04|13|13|Completed|95|Yes|N/A
+57|77|Leadership Workshop - Meridian|Leadership Workshop|Consultant|2020-05-05|2020-05-19|36|36|Completed|78|Yes|N/A
+58|120|Advanced Installation - Somfy|Advanced Installation|Internal|2020-07-09|TBD|25|18|In Progress|N/A|N/A|N/A
+59|151|System Architecture|System Architecture|CEDIA|2021-05-25|2021-06-22|10|10|Completed|85|Yes|N/A
+60|96|Troubleshooting Techniques - RTI|Troubleshooting Techniques|Online Platform|2023-04-17|2023-06-07|40|40|Completed|82|Yes|N/A
+61|161|Troubleshooting Techniques - Lutron|Troubleshooting Techniques|Consultant|2021-08-29|2021-10-02|4|4|Completed|76|Yes|N/A
+62|135|Programming Workshop|Programming Workshop|CEDIA|2022-06-14|2022-06-24|35|35|Completed|90|Yes|N/A
+63|160|Programming Workshop - Screen Innovations|Programming Workshop|Industry Association|2020-02-01|2020-03-20|11|11|Completed|84|Yes|N/A
+64|181|Product Training|Product Training|Online Platform|2020-02-13|2020-03-20|33|33|Completed|73|Yes|N/A
+65|99|Troubleshooting Techniques - Marantz|Troubleshooting Techniques|Online Platform|2020-07-02|2020-08-05|33|33|Completed|N/A|N/A|N/A
+66|57|Leadership Workshop - Axis|Leadership Workshop|Consultant|2021-11-27|TBD|34|15|In Progress|N/A|N/A|N/A
+67|101|Safety Training|Safety Training|Online Platform|2021-04-27|2021-05-27|21|21|Completed|94|Yes|N/A
+68|85|Troubleshooting Techniques - Kaleidescape|Troubleshooting Techniques|Industry Association|2020-09-02|2020-10-13|7|7|Completed|67|No|N/A
+69|31|Safety Training|Safety Training|Manufacturer|2020-12-17|2021-01-12|26|26|Completed|65|No|N/A
+70|118|Advanced Installation - Cisco Meraki|Advanced Installation|Internal|2023-02-11|2023-03-02|10|10|Completed|72|Yes|N/A
+71|46|Product Training|Product Training|Internal|2021-12-31|2022-01-30|15|15|Completed|66|No|N/A
+72|36|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2020-11-30|TBD|7|2|In Progress|N/A|N/A|N/A
+73|50|Programming Workshop|Programming Workshop|Online Platform|2021-01-25|TBD|9|2|In Progress|N/A|N/A|N/A
+74|36|Advanced Installation - Ubiquiti|Advanced Installation|Industry Association|2022-06-04|2022-06-11|16|16|Completed|100|Yes|N/A
+75|106|Leadership Workshop|Leadership Workshop|Manufacturer|2020-05-13|2020-07-04|25|25|Completed|N/A|N/A|N/A
+76|156|Troubleshooting Techniques|Troubleshooting Techniques|Manufacturer|2021-02-26|TBD|5|1|In Progress|N/A|N/A|N/A
+77|113|Safety Training|Safety Training|Industry Association|2022-07-06|2022-08-13|20|20|Completed|73|Yes|N/A
+78|101|Troubleshooting Techniques - KEF|Troubleshooting Techniques|Internal|2024-03-09|2024-05-01|17|17|Completed|73|Yes|N/A
+79|24|Product Training|Product Training|Industry Association|2024-05-08|2024-06-23|13|13|Completed|68|No|N/A
+80|151|System Architecture|System Architecture|Manufacturer|2024-04-16|TBD|14|9|In Progress|N/A|N/A|N/A
+81|59|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2024-04-12|2024-04-16|22|22|Completed|88|Yes|N/A
+82|46|Troubleshooting Techniques - Stewart Filmscreen|Troubleshooting Techniques|Online Platform|2022-02-28|2022-04-01|39|39|Completed|65|No|N/A
+83|173|Advanced Installation - Lutron|Advanced Installation|Industry Association|2020-05-23|2020-07-08|13|13|Completed|N/A|N/A|N/A
+84|56|Project Management|Project Management|Internal|2022-05-22|2022-07-06|5|5|Completed|98|Yes|N/A
+85|67|Product Training - Screen Innovations|Product Training|Consultant|2021-05-25|2021-07-13|16|16|Completed|72|Yes|N/A
+86|25|Product Training|Product Training|CEDIA|2023-10-25|2023-11-08|14|14|Completed|73|Yes|N/A
+87|2|Savant Certified Programmer Cert|Technical Certification|Manufacturer|2020-07-08|2020-09-02|37|37|Completed|94|Yes|Yes
+88|56|Sales Training|Sales Training|Internal|2020-02-21|2020-04-19|28|28|Completed|91|Yes|N/A
+89|17|OSHA Safety Cert|Technical Certification|Industry Association|2023-01-13|TBD|77|34|In Progress|N/A|N/A|N/A
+90|101|Product Training|Product Training|Online Platform|2022-12-06|2022-12-08|15|15|Completed|99|Yes|N/A
+91|61|Client Communication|Client Communication|Online Platform|2020-09-19|2020-10-20|26|26|Completed|71|Yes|N/A
+92|135|Product Training - Barco|Product Training|Online Platform|2024-04-23|2024-06-12|21|21|Completed|100|Yes|N/A
+93|7|Troubleshooting Techniques - RTI|Troubleshooting Techniques|Industry Association|2022-05-07|2022-06-01|22|22|Completed|71|Yes|N/A
+94|188|System Architecture|System Architecture|CEDIA|2020-06-02|2020-06-06|10|10|Completed|N/A|N/A|N/A
+95|93|Advanced Installation|Advanced Installation|Manufacturer|2021-01-12|2021-03-02|40|40|Completed|81|Yes|N/A
+96|14|Advanced Installation|Advanced Installation|Internal|2023-07-11|2023-07-18|5|5|Completed|75|Yes|N/A
+97|25|Programming Workshop - Barco|Programming Workshop|Internal|2021-09-10|2021-10-17|13|13|Completed|94|Yes|N/A
+98|46|Troubleshooting Techniques - Screen Innovations|Troubleshooting Techniques|Industry Association|2021-07-12|2021-07-29|8|8|Completed|N/A|N/A|N/A
+99|173|Safety Training|Safety Training|Online Platform|2020-11-09|2020-11-26|26|26|Completed|97|Yes|N/A
+100|126|AMX Certified Cert|Technical Certification|Industry Association|2024-02-11|2024-02-13|61|61|Completed|76|Yes|Yes
+101|193|New Technology Seminar|New Technology Seminar|CEDIA|2022-08-07|TBD|40|19|Did Not Complete|N/A|No|N/A
+102|41|Safety Training|Safety Training|Internal|2020-01-13|2020-02-07|4|4|Completed|82|Yes|N/A
+103|51|Sales Training - Ruckus|Sales Training|Manufacturer|2025-03-07|2025-03-19|10|10|Completed|86|Yes|N/A
+104|156|Product Training|Product Training|CEDIA|2024-08-06|2024-08-12|6|6|Completed|68|No|N/A
+105|2|Lutron Certified Installer Cert|Technical Certification|CEDIA|2023-05-28|2023-07-06|60|60|Completed|98|Yes|Yes
+106|88|Advanced Installation|Advanced Installation|Online Platform|2024-05-29|TBD|36|33|In Progress|N/A|N/A|N/A
+107|118|Electrical Administrator Cert|Technical Certification|Industry Association|2023-11-23|TBD|33|11|Did Not Complete|N/A|No|N/A
+108|43|Troubleshooting Techniques - Screen Innovations|Troubleshooting Techniques|Internal|2020-02-07|2020-03-09|12|12|Completed|69|No|N/A
+109|44|Safety Training|Safety Training|Manufacturer|2025-03-12|2025-04-09|10|10|Completed|98|Yes|N/A
+110|6|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2023-02-15|2023-02-21|29|29|Completed|94|Yes|N/A
+111|63|System Architecture|System Architecture|Internal|2024-07-29|2024-09-21|25|25|Completed|84|Yes|N/A
+112|39|Safety Training - KEF|Safety Training|Manufacturer|2022-07-06|2022-07-15|25|25|Completed|65|No|N/A
+113|169|Leadership Workshop|Leadership Workshop|CEDIA|2020-04-17|2020-05-25|33|33|Completed|74|Yes|N/A
+114|197|Product Training|Product Training|Consultant|2023-12-07|2023-12-14|9|9|Completed|68|No|N/A
+115|141|Client Communication|Client Communication|CEDIA|2023-03-24|2023-04-15|21|21|Completed|87|Yes|N/A
+116|142|Client Communication|Client Communication|Consultant|2024-08-11|2024-09-19|15|15|Completed|N/A|N/A|N/A
+117|135|Programming Workshop|Programming Workshop|Consultant|2021-09-22|TBD|28|20|In Progress|N/A|N/A|N/A
+118|116|Client Communication|Client Communication|Online Platform|2024-08-20|TBD|32|22|In Progress|N/A|N/A|N/A
+119|42|Advanced Installation|Advanced Installation|Online Platform|2024-09-26|2024-11-18|23|23|Completed|84|Yes|N/A
+120|39|Troubleshooting Techniques - Savant|Troubleshooting Techniques|Internal|2023-08-19|2023-08-26|9|9|Completed|94|Yes|N/A
+121|37|Advanced Installation|Advanced Installation|Consultant|2020-02-16|2020-02-17|39|39|Completed|77|Yes|N/A
+122|3|Client Communication|Client Communication|Consultant|2024-03-24|2024-05-17|24|24|Completed|99|Yes|N/A
+123|53|Safety Training|Safety Training|Industry Association|2021-03-07|2021-03-08|40|40|Completed|96|Yes|N/A
+124|30|Advanced Installation|Advanced Installation|Manufacturer|2024-06-15|2024-07-31|25|25|Completed|84|Yes|N/A
+125|140|Client Communication - Meridian|Client Communication|Internal|2023-08-02|2023-08-15|8|8|Completed|76|Yes|N/A
+126|89|Elan Certified Cert|Technical Certification|Internal|2024-03-10|2024-04-16|60|60|Completed|88|Yes|Yes
+127|1|Safety Training - Control4|Safety Training|CEDIA|2021-02-13|2021-04-01|26|26|Completed|80|Yes|N/A
+128|47|Advanced Installation - Control4|Advanced Installation|Internal|2020-12-02|2021-01-12|34|34|Completed|95|Yes|N/A
+129|165|Advanced Installation - Ubiquiti|Advanced Installation|CEDIA|2020-10-20|TBD|15|7|Did Not Complete|N/A|No|N/A
+130|21|Leadership Workshop - Dynaudio|Leadership Workshop|Internal|2024-09-23|TBD|21|8|In Progress|N/A|N/A|N/A
+131|109|Project Management|Project Management|Online Platform|2024-02-17|2024-02-21|36|36|Completed|72|Yes|N/A
+132|168|Programming Workshop - Barco|Programming Workshop|CEDIA|2023-11-08|TBD|24|20|In Progress|N/A|N/A|N/A
+133|95|Troubleshooting Techniques - Savant|Troubleshooting Techniques|Manufacturer|2020-10-16|2020-11-09|17|17|Completed|70|Yes|N/A
+134|64|New Technology Seminar|New Technology Seminar|CEDIA|2023-03-04|TBD|7|1|In Progress|N/A|N/A|N/A
+135|22|Safety Training - Ubiquiti|Safety Training|Internal|2023-01-21|2023-02-26|22|22|Completed|67|No|N/A
+136|160|Product Training|Product Training|CEDIA|2021-01-24|2021-02-18|17|17|Completed|91|Yes|N/A
+137|93|Advanced Installation|Advanced Installation|Consultant|2022-01-03|2022-02-13|10|10|Completed|81|Yes|N/A
+138|72|Lutron Certified Installer Cert|Technical Certification|Internal|2021-10-05|TBD|39|7|In Progress|N/A|N/A|N/A
+139|139|Manufacturer Update|Manufacturer Update|Manufacturer|2020-12-10|2021-01-12|34|34|Completed|96|Yes|N/A
+140|135|Programming Workshop|Programming Workshop|Internal|2020-06-21|2020-07-19|32|32|Completed|82|Yes|N/A
+141|46|Advanced Installation - Integra|Advanced Installation|Internal|2022-05-26|TBD|38|9|In Progress|N/A|N/A|N/A
+142|51|Financial Acumen|Financial Acumen|Consultant|2020-10-12|2020-10-21|19|19|Completed|80|Yes|N/A
+143|71|Vantage Lighting Certified Cert|Technical Certification|CEDIA|2023-06-29|2023-08-26|34|34|Completed|73|Yes|Yes
+144|158|Design Software|Design Software|Manufacturer|2022-08-03|2022-09-21|34|34|Completed|95|Yes|N/A
+145|166|Product Training|Product Training|CEDIA|2020-11-12|2020-11-28|13|13|Completed|75|Yes|N/A
+146|10|Safety Training - KEF|Safety Training|Internal|2023-03-03|2023-04-25|9|9|Completed|83|Yes|N/A
+147|88|Advanced Installation - Bowers & Wilkins|Advanced Installation|CEDIA|2024-01-27|2024-02-02|19|19|Completed|73|Yes|N/A
+148|32|Product Training - Lutron|Product Training|Consultant|2025-02-03|2025-03-03|37|37|Completed|99|Yes|N/A
+149|146|Manufacturer Update - Barco|Manufacturer Update|Online Platform|2022-06-27|2022-07-20|27|27|Completed|67|No|N/A
+150|188|Biamp Certified Cert|Technical Certification|Manufacturer|2023-07-30|TBD|22|1|In Progress|N/A|N/A|N/A
+151|84|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2021-04-02|2021-04-22|27|27|Completed|82|Yes|N/A
+152|123|New Technology Seminar|New Technology Seminar|Internal|2021-04-15|2021-04-27|33|33|Completed|89|Yes|N/A
+153|117|Safety Training|Safety Training|Consultant|2021-12-15|TBD|8|1|In Progress|N/A|N/A|N/A
+154|117|Programming Workshop|Programming Workshop|Industry Association|2021-11-14|2021-12-08|10|10|Completed|89|Yes|N/A
+155|183|Product Training|Product Training|CEDIA|2025-03-29|TBD|4|1|Did Not Complete|N/A|No|N/A
+156|194|Advanced Installation - Stewart Filmscreen|Advanced Installation|Internal|2022-01-22|TBD|27|2|Did Not Complete|N/A|No|N/A
+157|168|Safety Training - Axis|Safety Training|Manufacturer|2020-04-02|2020-05-27|18|18|Completed|79|Yes|N/A
+158|72|Programming Workshop|Programming Workshop|Manufacturer|2021-09-01|2021-10-03|10|10|Completed|99|Yes|N/A
+159|119|Safety Training - Martin Logan|Safety Training|Online Platform|2020-12-17|TBD|31|8|Did Not Complete|N/A|No|N/A
+160|148|Product Training|Product Training|Consultant|2020-02-27|2020-03-04|6|6|Completed|99|Yes|N/A
+161|192|Product Training - Dynaudio|Product Training|Internal|2021-02-02|2021-03-16|37|37|Completed|67|No|N/A
+162|129|Client Communication - Josh.ai|Client Communication|Manufacturer|2023-07-30|2023-09-01|31|31|Completed|93|Yes|N/A
+163|31|Troubleshooting Techniques - RTI|Troubleshooting Techniques|Consultant|2021-01-16|2021-01-31|12|12|Completed|71|Yes|N/A
+164|52|Project Management|Project Management|Internal|2021-08-18|2021-09-14|16|16|Completed|87|Yes|N/A
+165|194|Advanced Installation|Advanced Installation|Internal|2024-03-03|2024-04-06|33|33|Completed|N/A|N/A|N/A
+166|82|Project Management - Josh.ai|Project Management|Consultant|2023-06-26|2023-08-24|22|22|Completed|88|Yes|N/A
+167|58|Leadership Workshop|Leadership Workshop|Internal|2023-06-04|2023-07-12|24|24|Completed|88|Yes|N/A
+168|128|KNX Certified Cert|Technical Certification|Online Platform|2024-03-06|2024-04-15|72|72|Completed|70|Yes|Yes
+169|70|Advanced Installation - Crestron|Advanced Installation|Internal|2023-11-18|2024-01-12|17|17|Completed|65|No|N/A
+170|67|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2022-01-26|2022-02-23|12|12|Completed|89|Yes|N/A
+171|18|Programming Workshop|Programming Workshop|CEDIA|2020-09-12|TBD|34|7|In Progress|N/A|N/A|N/A
+172|191|Client Communication - Sonos|Client Communication|CEDIA|2020-01-06|2020-01-25|31|31|Completed|74|Yes|N/A
+173|92|Advanced Installation|Advanced Installation|Manufacturer|2020-08-20|2020-09-23|39|39|Completed|65|No|N/A
+174|17|Product Training|Product Training|Industry Association|2022-08-06|TBD|7|2|Did Not Complete|N/A|No|N/A
+175|26|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2020-10-10|2020-11-05|22|22|Completed|N/A|N/A|N/A
+176|78|Troubleshooting Techniques|Troubleshooting Techniques|Manufacturer|2021-03-26|TBD|37|21|In Progress|N/A|N/A|N/A
+177|178|Advanced Installation|Advanced Installation|Manufacturer|2024-11-18|2024-12-18|23|23|Completed|N/A|N/A|N/A
+178|135|Product Training|Product Training|Online Platform|2021-02-05|2021-03-25|11|11|Completed|90|Yes|N/A
+179|80|Product Training - RTI|Product Training|Internal|2024-02-09|2024-03-15|34|34|Completed|100|Yes|N/A
+180|159|Safety Training|Safety Training|CEDIA|2025-02-05|2025-02-27|18|18|Completed|65|No|N/A
+181|92|Advanced Installation - Elan|Advanced Installation|Consultant|2020-12-28|2021-02-02|17|17|Completed|90|Yes|N/A
+182|154|Programming Workshop - Control4|Programming Workshop|Industry Association|2024-02-10|2024-03-10|27|27|Completed|65|No|N/A
+183|75|Leadership Workshop - NAD|Leadership Workshop|Internal|2021-05-27|2021-07-08|10|10|Completed|71|Yes|N/A
+184|191|Sales Training|Sales Training|Manufacturer|2020-08-31|2020-09-12|9|9|Completed|100|Yes|N/A
+185|175|Advanced Installation|Advanced Installation|Online Platform|2023-08-30|2023-09-22|30|30|Completed|90|Yes|N/A
+186|195|Sales Training|Sales Training|Manufacturer|2020-04-24|2020-05-13|34|34|Completed|91|Yes|N/A
+187|164|Project Management - KEF|Project Management|Industry Association|2020-10-28|2020-12-18|36|36|Completed|83|Yes|N/A
+188|86|Sales Training - Stewart Filmscreen|Sales Training|Industry Association|2024-01-16|2024-03-13|40|40|Completed|100|Yes|N/A
+189|137|Safety Training|Safety Training|Online Platform|2023-03-20|2023-04-18|36|36|Completed|74|Yes|N/A
+190|60|Product Training|Product Training|Consultant|2020-12-26|TBD|18|1|Did Not Complete|N/A|No|N/A
+191|42|Product Training - Lutron|Product Training|Internal|2021-11-10|TBD|20|2|Did Not Complete|N/A|No|N/A
+192|58|Financial Acumen|Financial Acumen|Online Platform|2021-12-28|2022-01-23|12|12|Completed|84|Yes|N/A
+193|91|Advanced Installation|Advanced Installation|CEDIA|2024-05-06|2024-06-13|32|32|Completed|71|Yes|N/A
+194|191|Financial Acumen - Linn|Financial Acumen|Industry Association|2021-05-03|2021-07-02|5|5|Completed|97|Yes|N/A
+195|64|AMX Certified Cert|Technical Certification|Industry Association|2022-07-08|2022-08-16|56|56|Completed|97|Yes|Yes
+196|80|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2023-04-21|2023-06-14|28|28|Completed|90|Yes|N/A
+197|189|Leadership Workshop - Triad|Leadership Workshop|CEDIA|2024-02-29|TBD|22|3|In Progress|N/A|N/A|N/A
+198|57|Client Communication|Client Communication|CEDIA|2020-07-25|2020-08-03|28|28|Completed|68|No|N/A
+199|25|Product Training|Product Training|Online Platform|2023-10-18|2023-12-01|18|18|Completed|98|Yes|N/A
+200|69|Financial Acumen - Control4|Financial Acumen|Consultant|2020-11-13|TBD|17|15|In Progress|N/A|N/A|N/A
+201|82|Project Management - Paradigm|Project Management|Consultant|2022-06-18|TBD|5|2|In Progress|N/A|N/A|N/A
+202|74|Advanced Installation|Advanced Installation|Internal|2021-12-19|2022-01-11|35|35|Completed|74|Yes|N/A
+203|106|Project Management|Project Management|CEDIA|2021-03-09|2021-03-23|19|19|Completed|93|Yes|N/A
+204|87|Programming Workshop|Programming Workshop|Consultant|2021-04-13|2021-06-02|11|11|Completed|80|Yes|N/A
+205|82|Financial Acumen|Financial Acumen|Consultant|2021-01-02|2021-01-21|10|10|Completed|87|Yes|N/A
+206|74|Safety Training - Savant|Safety Training|CEDIA|2023-10-02|2023-10-30|15|15|Completed|79|Yes|N/A
+207|38|Programming Workshop - Meridian|Programming Workshop|Industry Association|2024-09-23|2024-11-13|16|16|Completed|73|Yes|N/A
+208|54|Financial Acumen|Financial Acumen|Manufacturer|2021-12-18|TBD|6|1|In Progress|N/A|N/A|N/A
+209|34|Programming Workshop - Stewart Filmscreen|Programming Workshop|Consultant|2020-02-20|2020-03-10|22|22|Completed|90|Yes|N/A
+210|170|Product Training|Product Training|Online Platform|2023-03-07|2023-04-23|25|25|Completed|71|Yes|N/A
+211|8|Product Training|Product Training|Internal|2021-10-19|2021-10-27|31|31|Completed|84|Yes|N/A
+212|40|Biamp Certified Cert|Technical Certification|CEDIA|2024-04-07|2024-04-08|61|61|Completed|83|Yes|Yes
+213|163|Advanced Installation|Advanced Installation|CEDIA|2022-10-30|2022-11-20|23|23|Completed|65|No|N/A
+214|55|Leadership Workshop|Leadership Workshop|Industry Association|2024-11-03|2024-12-23|31|31|Completed|N/A|N/A|N/A
+215|189|Project Management - Elan|Project Management|Industry Association|2021-10-06|TBD|34|4|Did Not Complete|N/A|No|N/A
+216|111|Advanced Installation - Crestron|Advanced Installation|CEDIA|2023-01-29|2023-03-22|4|4|Completed|N/A|N/A|N/A
+217|182|Programming Workshop - Kaleidescape|Programming Workshop|Manufacturer|2020-05-23|TBD|31|20|In Progress|N/A|N/A|N/A
+218|12|Design Software|Design Software|Industry Association|2023-06-27|2023-08-04|34|34|Completed|69|No|N/A
+219|75|Client Communication|Client Communication|CEDIA|2020-05-04|2020-06-20|24|24|Completed|95|Yes|N/A
+220|104|Product Training|Product Training|Industry Association|2020-03-11|2020-03-30|16|16|Completed|91|Yes|N/A
+221|23|Safety Training - Cisco Meraki|Safety Training|Industry Association|2024-09-05|TBD|28|9|In Progress|N/A|N/A|N/A
+222|41|Product Training - Meridian|Product Training|Consultant|2023-12-01|2023-12-31|13|13|Completed|83|Yes|N/A
+223|154|Troubleshooting Techniques - Bowers & Wilkins|Troubleshooting Techniques|Consultant|2020-02-15|2020-03-24|5|5|Completed|86|Yes|N/A
+224|174|Product Training|Product Training|Internal|2023-10-06|TBD|34|9|In Progress|N/A|N/A|N/A
+225|151|Manufacturer Update|Manufacturer Update|Manufacturer|2021-01-29|2021-03-03|12|12|Completed|93|Yes|N/A
+226|48|Troubleshooting Techniques - Sonos|Troubleshooting Techniques|Internal|2023-12-25|2024-02-21|29|29|Completed|73|Yes|N/A
+227|166|Safety Training - Integra|Safety Training|Manufacturer|2022-12-25|2023-01-22|35|35|Completed|100|Yes|N/A
+228|164|Sales Training - Bowers & Wilkins|Sales Training|Manufacturer|2024-07-06|2024-08-29|5|5|Completed|87|Yes|N/A
+229|198|Design Software|Design Software|Internal|2025-02-15|2025-02-28|11|11|Completed|87|Yes|N/A
+230|47|Product Training|Product Training|CEDIA|2022-07-09|2022-07-25|40|40|Completed|73|Yes|N/A
+231|1|Troubleshooting Techniques - Anthem|Troubleshooting Techniques|CEDIA|2024-11-16|2025-01-14|17|17|Completed|97|Yes|N/A
+232|191|Project Management|Project Management|Internal|2020-11-04|2020-12-17|18|18|Completed|N/A|N/A|N/A
+233|151|Control4 Gold Certified Cert|Technical Certification|Online Platform|2020-12-12|2021-01-23|60|60|Completed|79|Yes|Yes
+234|54|Financial Acumen|Financial Acumen|Manufacturer|2023-09-03|2023-10-22|25|25|Completed|100|Yes|N/A
+235|131|Project Management - RTI|Project Management|CEDIA|2024-02-07|2024-02-28|31|31|Completed|90|Yes|N/A
+236|121|Sales Training - RTI|Sales Training|Consultant|2024-11-15|2024-12-07|5|5|Completed|75|Yes|N/A
+237|62|Advanced Installation|Advanced Installation|Manufacturer|2022-08-06|2022-09-15|9|9|Completed|80|Yes|N/A
+238|104|Programming Workshop - Control4|Programming Workshop|Internal|2020-01-02|2020-02-26|6|6|Completed|76|Yes|N/A
+239|73|Safety Training - Cisco Meraki|Safety Training|Industry Association|2024-04-25|TBD|34|3|Did Not Complete|N/A|No|N/A
+240|172|Project Management|Project Management|Industry Association|2024-07-11|2024-09-02|10|10|Completed|N/A|N/A|N/A
+241|19|Safety Training|Safety Training|Consultant|2022-06-01|2022-06-09|17|17|Completed|79|Yes|N/A
+242|197|Biamp Certified Cert|Technical Certification|Consultant|2023-02-14|2023-04-04|65|65|Completed|97|Yes|Yes
+243|188|Josh.ai Certified Cert|Technical Certification|Industry Association|2021-04-09|2021-05-16|71|71|Completed|99|Yes|Yes
+244|44|Programming Workshop|Programming Workshop|Manufacturer|2024-01-03|2024-01-15|10|10|Completed|92|Yes|N/A
+245|158|System Architecture|System Architecture|Industry Association|2024-04-21|2024-05-02|24|24|Completed|N/A|N/A|N/A
+246|5|First Aid/CPR Cert|Technical Certification|CEDIA|2021-10-02|2021-11-25|52|52|Completed|100|Yes|No
+247|200|Product Training|Product Training|Industry Association|2021-02-20|2021-02-22|12|12|Completed|65|No|N/A
+248|83|Programming Workshop|Programming Workshop|Consultant|2020-08-06|2020-09-23|27|27|Completed|68|No|N/A
+249|76|Safety Training|Safety Training|CEDIA|2022-04-08|TBD|4|2|In Progress|N/A|N/A|N/A
+250|19|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2024-02-27|TBD|29|4|In Progress|N/A|N/A|N/A
+251|123|RTI Certified Cert|Technical Certification|CEDIA|2022-12-11|2023-01-22|75|75|Completed|69|No|Yes
+252|198|System Architecture - KEF|System Architecture|Online Platform|2020-11-07|TBD|22|7|In Progress|N/A|N/A|N/A
+253|112|New Technology Seminar|New Technology Seminar|Internal|2021-03-20|2021-04-08|28|28|Completed|82|Yes|N/A
+254|192|Product Training|Product Training|Internal|2024-11-17|2025-01-13|10|10|Completed|N/A|N/A|N/A
+255|15|System Architecture|System Architecture|CEDIA|2024-02-07|2024-03-08|36|36|Completed|74|Yes|N/A
+256|127|Programming Workshop - Marantz|Programming Workshop|Consultant|2023-11-29|2023-12-03|29|29|Completed|68|No|N/A
+257|39|Programming Workshop|Programming Workshop|Manufacturer|2023-04-12|2023-06-04|19|19|Completed|77|Yes|N/A
+258|41|Product Training - KEF|Product Training|Manufacturer|2022-10-02|TBD|15|6|Did Not Complete|N/A|No|N/A
+259|17|Safety Training|Safety Training|CEDIA|2020-11-12|2020-11-25|25|25|Completed|76|Yes|N/A
+260|78|Advanced Installation|Advanced Installation|Online Platform|2020-06-28|2020-08-23|6|6|Completed|65|No|N/A
+261|125|Financial Acumen - Josh.ai|Financial Acumen|CEDIA|2024-05-27|2024-06-18|6|6|Completed|N/A|N/A|N/A
+262|98|Safety Training - Screen Innovations|Safety Training|CEDIA|2023-12-28|2024-01-14|12|12|Completed|68|No|N/A
+263|199|CEDIA Certified Cert|Technical Certification|Online Platform|2021-10-24|2021-11-03|62|62|Completed|N/A|N/A|No
+264|68|Crestron Certified Programmer Cert|Technical Certification|Manufacturer|2020-06-09|2020-06-28|79|79|Completed|75|Yes|Yes
+265|179|Elan Certified Cert|Technical Certification|Manufacturer|2022-09-07|2022-09-10|25|25|Completed|84|Yes|Yes
+266|89|Safety Training - JBL Synthesis|Safety Training|Online Platform|2024-02-24|2024-03-15|19|19|Completed|77|Yes|N/A
+267|99|Advanced Installation - McIntosh|Advanced Installation|Online Platform|2020-05-31|2020-07-11|33|33|Completed|66|No|N/A
+268|97|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2024-06-24|2024-07-06|30|30|Completed|93|Yes|N/A
+269|124|Client Communication - Linn|Client Communication|Industry Association|2024-03-03|2024-03-10|19|19|Completed|97|Yes|N/A
+270|64|Design Software|Design Software|Online Platform|2023-10-08|TBD|15|9|In Progress|N/A|N/A|N/A
+271|151|Design Software - RTI|Design Software|Manufacturer|2022-02-12|2022-04-08|39|39|Completed|66|No|N/A
+272|162|Financial Acumen|Financial Acumen|Industry Association|2024-06-04|2024-07-27|34|34|Completed|84|Yes|N/A
+273|110|Design Software|Design Software|Industry Association|2022-03-02|2022-04-11|36|36|Completed|77|Yes|N/A
+274|144|Programming Workshop|Programming Workshop|Consultant|2023-11-17|2024-01-08|40|40|Completed|68|No|N/A
+275|14|Programming Workshop - Linn|Programming Workshop|Consultant|2021-02-01|2021-02-27|21|21|Completed|94|Yes|N/A
+276|24|Programming Workshop|Programming Workshop|Internal|2024-01-10|2024-02-18|20|20|Completed|72|Yes|N/A
+277|142|Financial Acumen|Financial Acumen|Consultant|2020-09-29|2020-10-09|7|7|Completed|81|Yes|N/A
+278|173|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2020-12-25|2021-02-06|26|26|Completed|74|Yes|N/A
+279|165|Safety Training - Marantz|Safety Training|Internal|2021-05-11|2021-07-04|6|6|Completed|100|Yes|N/A
+280|117|Advanced Installation|Advanced Installation|Manufacturer|2024-04-02|2024-05-13|31|31|Completed|81|Yes|N/A
+281|107|Product Training|Product Training|CEDIA|2020-05-07|2020-05-26|19|19|Completed|97|Yes|N/A
+282|66|Product Training|Product Training|Manufacturer|2023-10-02|2023-11-06|22|22|Completed|75|Yes|N/A
+283|158|System Architecture|System Architecture|CEDIA|2025-01-28|2025-02-21|31|31|Completed|N/A|N/A|N/A
+284|73|Biamp Certified Cert|Technical Certification|Manufacturer|2022-05-01|2022-06-26|55|55|Completed|85|Yes|No
+285|197|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2021-02-11|2021-03-28|39|39|Completed|72|Yes|N/A
+286|155|Product Training - Linn|Product Training|Manufacturer|2024-07-15|2024-09-01|17|17|Completed|73|Yes|N/A
+287|63|Manufacturer Update|Manufacturer Update|Online Platform|2024-10-09|2024-11-27|12|12|Completed|93|Yes|N/A
+288|54|Project Management - RTI|Project Management|Manufacturer|2021-08-08|TBD|33|29|In Progress|N/A|N/A|N/A
+289|41|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2025-02-21|TBD|20|14|In Progress|N/A|N/A|N/A
+290|58|Client Communication|Client Communication|Consultant|2023-04-26|2023-06-16|5|5|Completed|84|Yes|N/A
+291|106|Project Management - Stewart Filmscreen|Project Management|Consultant|2020-04-28|TBD|21|9|Did Not Complete|N/A|No|N/A
+292|19|Product Training|Product Training|Consultant|2025-03-10|2025-04-09|14|14|Completed|86|Yes|N/A
+293|137|Savant Certified Programmer Cert|Technical Certification|CEDIA|2023-10-15|2023-10-18|35|35|Completed|96|Yes|No
+294|4|Safety Training - Barco|Safety Training|Internal|2024-02-05|2024-03-08|26|26|Completed|83|Yes|N/A
+295|140|Sales Training - Martin Logan|Sales Training|Internal|2024-02-10|2024-02-24|28|28|Completed|95|Yes|N/A
+296|161|Troubleshooting Techniques - Sony Professional|Troubleshooting Techniques|Industry Association|2022-11-24|2022-12-07|8|8|Completed|72|Yes|N/A
+297|23|Advanced Installation|Advanced Installation|Internal|2020-11-12|2021-01-02|17|17|Completed|72|Yes|N/A
+298|37|KNX Certified Cert|Technical Certification|CEDIA|2024-08-09|2024-09-15|25|25|Completed|76|Yes|Yes
+299|34|Safety Training - Sonos|Safety Training|Manufacturer|2020-06-16|2020-07-04|25|25|Completed|N/A|N/A|N/A
+300|83|Advanced Installation|Advanced Installation|Internal|2024-09-10|2024-10-17|22|22|Completed|94|Yes|N/A
+301|84|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2025-03-26|2025-03-28|9|9|Completed|73|Yes|N/A
+302|23|Programming Workshop|Programming Workshop|Internal|2021-01-10|TBD|12|4|In Progress|N/A|N/A|N/A
+303|3|Client Communication - Somfy|Client Communication|Manufacturer|2020-04-26|2020-05-18|11|11|Completed|N/A|N/A|N/A
+304|197|Advanced Installation - NAD|Advanced Installation|Online Platform|2022-04-09|2022-05-01|27|27|Completed|88|Yes|N/A
+305|109|Client Communication|Client Communication|Industry Association|2020-04-01|TBD|13|4|In Progress|N/A|N/A|N/A
+306|176|Troubleshooting Techniques - Kaleidescape|Troubleshooting Techniques|Manufacturer|2020-06-05|2020-07-18|30|30|Completed|88|Yes|N/A
+307|80|Troubleshooting Techniques - Kaleidescape|Troubleshooting Techniques|Internal|2022-04-13|2022-06-06|10|10|Completed|88|Yes|N/A
+308|181|Advanced Installation|Advanced Installation|Internal|2022-10-20|2022-11-01|31|31|Completed|89|Yes|N/A
+309|21|Leadership Workshop|Leadership Workshop|Consultant|2020-08-09|TBD|23|5|In Progress|N/A|N/A|N/A
+310|70|Programming Workshop|Programming Workshop|Consultant|2022-02-18|2022-03-30|23|23|Completed|94|Yes|N/A
+311|49|Safety Training|Safety Training|Online Platform|2023-03-14|2023-03-27|27|27|Completed|81|Yes|N/A
+312|101|Troubleshooting Techniques - Sony Professional|Troubleshooting Techniques|Consultant|2021-07-25|2021-09-06|5|5|Completed|92|Yes|N/A
+313|89|Safety Training - McIntosh|Safety Training|Industry Association|2023-06-10|2023-07-05|34|34|Completed|77|Yes|N/A
+314|63|New Technology Seminar|New Technology Seminar|Internal|2024-05-22|2024-06-12|10|10|Completed|70|Yes|N/A
+315|9|Financial Acumen|Financial Acumen|Manufacturer|2022-06-19|2022-08-16|8|8|Completed|74|Yes|N/A
+316|2|Lutron Certified Installer Cert|Technical Certification|Industry Association|2020-01-18|2020-01-24|56|56|Completed|82|Yes|Yes
+317|1|Electrical Administrator Cert|Technical Certification|Internal|2023-11-22|2023-12-28|22|22|Completed|65|No|Yes
+318|33|Project Management - Ubiquiti|Project Management|Online Platform|2022-10-17|2022-10-20|24|24|Completed|81|Yes|N/A
+319|40|Dante Level 3 Certified Cert|Technical Certification|Industry Association|2023-02-07|2023-03-10|67|67|Completed|94|Yes|No
+320|148|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2022-07-21|2022-08-30|12|12|Completed|65|No|N/A
+321|42|Advanced Installation|Advanced Installation|Industry Association|2020-06-17|2020-07-08|5|5|Completed|66|No|N/A
+322|120|Advanced Installation|Advanced Installation|Industry Association|2023-12-31|TBD|39|33|In Progress|N/A|N/A|N/A
+323|73|Advanced Installation|Advanced Installation|Consultant|2023-12-04|2023-12-25|10|10|Completed|71|Yes|N/A
+324|108|Financial Acumen - RTI|Financial Acumen|Internal|2020-08-31|2020-10-19|11|11|Completed|94|Yes|N/A
+325|159|Safety Training - Savant|Safety Training|CEDIA|2024-03-28|TBD|16|0|Did Not Complete|N/A|No|N/A
+326|61|Sales Training - Anthem|Sales Training|Industry Association|2020-02-26|2020-03-02|20|20|Completed|82|Yes|N/A
+327|84|Programming Workshop - Cisco Meraki|Programming Workshop|Consultant|2023-01-12|2023-02-26|37|37|Completed|N/A|N/A|N/A
+328|109|Sales Training - Control4|Sales Training|Consultant|2024-10-30|2024-11-15|27|27|Completed|88|Yes|N/A
+329|185|Leadership Workshop - Integra|Leadership Workshop|CEDIA|2025-01-22|2025-02-14|16|16|Completed|N/A|N/A|N/A
+330|123|New Technology Seminar|New Technology Seminar|Manufacturer|2022-02-07|TBD|23|1|In Progress|N/A|N/A|N/A
+331|97|Safety Training|Safety Training|Manufacturer|2020-03-12|2020-05-02|32|32|Completed|75|Yes|N/A
+332|33|Financial Acumen|Financial Acumen|Consultant|2020-11-30|2020-12-13|31|31|Completed|87|Yes|N/A
+333|182|Programming Workshop - Marantz|Programming Workshop|CEDIA|2022-05-24|2022-06-28|14|14|Completed|82|Yes|N/A
+334|2|Safety Training|Safety Training|Internal|2024-01-12|2024-03-03|28|28|Completed|88|Yes|N/A
+335|72|Safety Training|Safety Training|CEDIA|2022-08-13|2022-09-12|14|14|Completed|91|Yes|N/A
+336|127|Safety Training|Safety Training|Industry Association|2023-10-17|2023-10-20|34|34|Completed|87|Yes|N/A
+337|156|Safety Training|Safety Training|Industry Association|2021-11-19|2021-12-28|24|24|Completed|N/A|N/A|N/A
+338|167|Product Training|Product Training|Industry Association|2024-10-23|2024-12-11|15|15|Completed|84|Yes|N/A
+339|53|First Aid/CPR Cert|Technical Certification|Internal|2024-08-21|2024-10-15|79|79|Completed|N/A|N/A|No
+340|170|Advanced Installation|Advanced Installation|Industry Association|2024-12-09|TBD|8|5|In Progress|N/A|N/A|N/A
+341|174|Biamp Certified Cert|Technical Certification|CEDIA|2022-03-05|2022-03-11|61|61|Completed|66|No|Yes
+342|62|Product Training|Product Training|CEDIA|2024-12-23|2025-01-29|4|4|Completed|N/A|N/A|N/A
+343|37|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2024-11-24|2024-12-21|13|13|Completed|84|Yes|N/A
+344|85|Advanced Installation|Advanced Installation|Manufacturer|2023-10-29|2023-12-03|15|15|Completed|76|Yes|N/A
+345|109|Client Communication|Client Communication|Manufacturer|2021-08-31|2021-10-30|27|27|Completed|94|Yes|N/A
+346|21|Client Communication|Client Communication|Online Platform|2023-07-09|2023-08-16|25|25|Completed|70|Yes|N/A
+347|183|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2025-02-11|2025-02-15|28|28|Completed|92|Yes|N/A
+348|191|Client Communication - Axis|Client Communication|Industry Association|2022-09-21|TBD|40|2|In Progress|N/A|N/A|N/A
+349|125|Leadership Workshop|Leadership Workshop|Manufacturer|2023-08-28|2023-10-12|31|31|Completed|75|Yes|N/A
+350|90|Programming Workshop - Triad|Programming Workshop|CEDIA|2022-05-18|2022-06-18|5|5|Completed|68|No|N/A
+351|155|Programming Workshop|Programming Workshop|Consultant|2022-12-03|TBD|20|7|Did Not Complete|N/A|No|N/A
+352|24|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2020-09-25|2020-10-14|19|19|Completed|74|Yes|N/A
+353|81|Programming Workshop - NAD|Programming Workshop|Manufacturer|2020-11-04|2020-11-07|26|26|Completed|66|No|N/A
+354|67|Sonos Certified Installer Cert|Technical Certification|Industry Association|2020-10-21|2020-12-12|72|72|Completed|76|Yes|No
+355|108|Leadership Workshop|Leadership Workshop|Industry Association|2020-01-06|2020-02-15|39|39|Completed|65|No|N/A
+356|23|Advanced Installation|Advanced Installation|CEDIA|2020-11-21|TBD|25|18|In Progress|N/A|N/A|N/A
+357|99|Advanced Installation|Advanced Installation|Consultant|2020-11-01|2020-12-06|9|9|Completed|70|Yes|N/A
+358|126|Troubleshooting Techniques - Ubiquiti|Troubleshooting Techniques|Online Platform|2023-06-24|2023-08-22|36|36|Completed|N/A|N/A|N/A
+359|55|Leadership Workshop|Leadership Workshop|CEDIA|2020-07-02|2020-07-31|24|24|Completed|80|Yes|N/A
+360|177|Leadership Workshop - McIntosh|Leadership Workshop|Manufacturer|2022-04-24|2022-06-09|12|12|Completed|68|No|N/A
+361|111|First Aid/CPR Cert|Technical Certification|Industry Association|2022-10-04|TBD|32|11|In Progress|N/A|N/A|N/A
+362|142|Client Communication - Screen Innovations|Client Communication|Manufacturer|2024-03-16|2024-05-01|30|30|Completed|68|No|N/A
+363|83|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2022-12-24|2023-01-28|40|40|Completed|78|Yes|N/A
+364|118|Troubleshooting Techniques - McIntosh|Troubleshooting Techniques|CEDIA|2020-02-02|TBD|12|4|Did Not Complete|N/A|No|N/A
+365|54|Financial Acumen - Axis|Financial Acumen|CEDIA|2022-07-05|2022-07-29|7|7|Completed|91|Yes|N/A
+366|149|Design Software - RTI|Design Software|Internal|2021-11-16|TBD|39|1|In Progress|N/A|N/A|N/A
+367|1|KNX Certified Cert|Technical Certification|Internal|2024-04-01|2024-05-10|38|38|Completed|84|Yes|Yes
+368|83|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2024-02-25|2024-03-05|6|6|Completed|88|Yes|N/A
+369|184|Client Communication|Client Communication|Industry Association|2022-04-30|2022-06-13|35|35|Completed|82|Yes|N/A
+370|180|Advanced Installation|Advanced Installation|Industry Association|2020-10-28|2020-12-21|26|26|Completed|75|Yes|N/A
+371|11|Biamp Certified Cert|Technical Certification|Industry Association|2023-05-26|2023-07-19|37|37|Completed|N/A|N/A|Yes
+372|163|Product Training|Product Training|Industry Association|2023-10-30|2023-11-25|5|5|Completed|67|No|N/A
+373|75|Client Communication|Client Communication|Online Platform|2024-12-01|2024-12-07|34|34|Completed|77|Yes|N/A
+374|9|Sales Training - Bowers & Wilkins|Sales Training|Industry Association|2022-10-17|2022-11-21|20|20|Completed|91|Yes|N/A
+375|83|Advanced Installation|Advanced Installation|CEDIA|2024-07-13|2024-08-17|33|33|Completed|86|Yes|N/A
+376|17|Sonos Certified Installer Cert|Technical Certification|CEDIA|2024-01-19|TBD|26|15|In Progress|N/A|N/A|N/A
+377|82|Sales Training|Sales Training|Industry Association|2020-09-01|TBD|17|2|Did Not Complete|N/A|No|N/A
+378|36|Safety Training - Ruckus|Safety Training|Manufacturer|2024-05-21|TBD|14|8|In Progress|N/A|N/A|N/A
+379|74|Safety Training - Josh.ai|Safety Training|Consultant|2024-06-22|TBD|16|5|In Progress|N/A|N/A|N/A
+380|73|Safety Training|Safety Training|Online Platform|2024-01-09|2024-01-30|29|29|Completed|96|Yes|N/A
+381|195|Leadership Workshop|Leadership Workshop|CEDIA|2025-01-01|2025-02-04|26|26|Completed|79|Yes|N/A
+382|176|Troubleshooting Techniques - Kaleidescape|Troubleshooting Techniques|Manufacturer|2024-07-09|2024-08-06|27|27|Completed|81|Yes|N/A
+383|146|Manufacturer Update|Manufacturer Update|Manufacturer|2023-04-16|2023-05-15|13|13|Completed|97|Yes|N/A
+384|58|Leadership Workshop|Leadership Workshop|Manufacturer|2020-04-06|2020-05-10|40|40|Completed|84|Yes|N/A
+385|48|Advanced Installation|Advanced Installation|Consultant|2024-06-03|TBD|20|6|Did Not Complete|N/A|No|N/A
+386|55|Sales Training|Sales Training|Internal|2025-02-28|2025-04-09|22|22|Completed|89|Yes|N/A
+387|80|Elan Certified Cert|Technical Certification|Manufacturer|2020-03-21|TBD|24|11|In Progress|N/A|N/A|N/A
+388|124|Project Management - Screen Innovations|Project Management|Manufacturer|2020-12-14|2021-01-30|18|18|Completed|78|Yes|N/A
+389|84|Advanced Installation|Advanced Installation|Online Platform|2020-01-20|2020-03-16|36|36|Completed|68|No|N/A
+390|8|Troubleshooting Techniques - Triad|Troubleshooting Techniques|Online Platform|2023-02-25|2023-04-07|23|23|Completed|77|Yes|N/A
+391|162|Financial Acumen - Josh.ai|Financial Acumen|Industry Association|2025-03-19|2025-04-09|8|8|Completed|71|Yes|N/A
+392|62|Safety Training|Safety Training|Manufacturer|2020-03-10|2020-03-25|5|5|Completed|79|Yes|N/A
+393|135|Advanced Installation|Advanced Installation|Industry Association|2024-07-14|2024-08-11|33|33|Completed|73|Yes|N/A
+394|167|Programming Workshop - Axis|Programming Workshop|Manufacturer|2021-07-23|2021-08-06|15|15|Completed|98|Yes|N/A
+395|193|Manufacturer Update - Control4|Manufacturer Update|Internal|2024-10-15|2024-11-02|26|26|Completed|85|Yes|N/A
+396|102|Advanced Installation|Advanced Installation|CEDIA|2021-01-27|2021-03-10|6|6|Completed|70|Yes|N/A
+397|25|Troubleshooting Techniques - RTI|Troubleshooting Techniques|Industry Association|2022-02-19|TBD|9|8|In Progress|N/A|N/A|N/A
+398|102|KNX Certified Cert|Technical Certification|Online Platform|2020-05-13|2020-06-29|21|21|Completed|82|Yes|Yes
+399|95|Advanced Installation - RTI|Advanced Installation|CEDIA|2024-03-21|2024-05-19|35|35|Completed|86|Yes|N/A
+400|146|Manufacturer Update|Manufacturer Update|Manufacturer|2022-11-09|2022-11-13|18|18|Completed|66|No|N/A
+401|115|Electrical Administrator Cert|Technical Certification|Consultant|2021-05-04|2021-05-11|36|36|Completed|84|Yes|No
+402|124|Sales Training - Elan|Sales Training|Internal|2023-07-16|2023-09-06|33|33|Completed|83|Yes|N/A
+403|35|Project Management - McIntosh|Project Management|Internal|2022-04-26|2022-05-28|22|22|Completed|71|Yes|N/A
+404|65|Programming Workshop - Stewart Filmscreen|Programming Workshop|Internal|2024-01-15|TBD|12|10|In Progress|N/A|N/A|N/A
+405|19|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2022-11-04|2022-12-06|35|35|Completed|67|No|N/A
+406|30|Troubleshooting Techniques - Anthem|Troubleshooting Techniques|Manufacturer|2021-03-06|2021-03-24|18|18|Completed|68|No|N/A
+407|123|Manufacturer Update|Manufacturer Update|Online Platform|2022-11-29|2022-12-20|27|27|Completed|68|No|N/A
+408|173|Advanced Installation|Advanced Installation|Industry Association|2020-03-21|2020-04-17|8|8|Completed|89|Yes|N/A
+409|110|Manufacturer Update - Meridian|Manufacturer Update|CEDIA|2023-02-07|2023-04-05|29|29|Completed|98|Yes|N/A
+410|186|Safety Training|Safety Training|Online Platform|2022-01-04|2022-01-18|4|4|Completed|81|Yes|N/A
+411|167|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2020-02-17|2020-03-10|6|6|Completed|95|Yes|N/A
+412|188|Design Software - Integra|Design Software|Internal|2021-07-07|2021-09-04|33|33|Completed|83|Yes|N/A
+413|18|Product Training - Cisco Meraki|Product Training|Consultant|2024-11-20|TBD|20|9|In Progress|N/A|N/A|N/A
+414|72|Programming Workshop - RTI|Programming Workshop|Manufacturer|2022-09-14|TBD|37|18|In Progress|N/A|N/A|N/A
+415|123|New Technology Seminar|New Technology Seminar|CEDIA|2021-02-23|2021-03-02|20|20|Completed|86|Yes|N/A
+416|167|Safety Training|Safety Training|Internal|2022-11-17|2023-01-12|39|39|Completed|69|No|N/A
+417|24|Product Training|Product Training|Industry Association|2020-07-18|2020-07-20|5|5|Completed|71|Yes|N/A
+418|141|Financial Acumen|Financial Acumen|Manufacturer|2020-05-03|2020-06-12|29|29|Completed|66|No|N/A
+419|51|Sales Training - Control4|Sales Training|Manufacturer|2022-06-29|TBD|30|10|Did Not Complete|N/A|No|N/A
+420|139|New Technology Seminar|New Technology Seminar|Online Platform|2022-12-28|2023-02-12|14|14|Completed|83|Yes|N/A
+421|185|Client Communication|Client Communication|Manufacturer|2022-08-23|2022-09-11|39|39|Completed|87|Yes|N/A
+422|102|Product Training - Ruckus|Product Training|Consultant|2023-06-13|2023-07-18|31|31|Completed|79|Yes|N/A
+423|98|Josh.ai Certified Cert|Technical Certification|Manufacturer|2021-07-23|2021-08-27|52|52|Completed|95|Yes|Yes
+424|171|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2021-10-30|2021-12-14|19|19|Completed|N/A|N/A|N/A
+425|192|Troubleshooting Techniques - Dynaudio|Troubleshooting Techniques|Internal|2022-11-30|2023-01-26|9|9|Completed|66|No|N/A
+426|90|Troubleshooting Techniques - Somfy|Troubleshooting Techniques|Online Platform|2022-10-13|2022-10-24|40|40|Completed|93|Yes|N/A
+427|189|Leadership Workshop - Meridian|Leadership Workshop|Manufacturer|2022-12-07|2022-12-21|9|9|Completed|100|Yes|N/A
+428|138|Safety Training|Safety Training|Online Platform|2023-07-26|2023-08-26|36|36|Completed|N/A|N/A|N/A
+429|60|Advanced Installation - Dynaudio|Advanced Installation|Online Platform|2024-12-25|2025-02-11|5|5|Completed|94|Yes|N/A
+430|152|Product Training - Anthem|Product Training|Industry Association|2024-12-01|2025-01-13|17|17|Completed|90|Yes|N/A
+431|109|Financial Acumen - Cisco Meraki|Financial Acumen|Online Platform|2020-07-17|TBD|23|3|In Progress|N/A|N/A|N/A
+432|127|Control4 Gold Certified Cert|Technical Certification|Industry Association|2022-06-25|2022-07-04|50|50|Completed|N/A|N/A|Yes
+433|117|Safety Training - NAD|Safety Training|Consultant|2020-03-14|2020-03-18|35|35|Completed|93|Yes|N/A
+434|133|Project Management - Control4|Project Management|CEDIA|2021-01-09|2021-02-24|16|16|Completed|77|Yes|N/A
+435|114|Cisco Network Professional Cert|Technical Certification|Consultant|2024-01-30|2024-03-03|35|35|Completed|N/A|N/A|Yes
+436|185|Client Communication - Barco|Client Communication|Consultant|2025-02-15|2025-03-31|11|11|Completed|83|Yes|N/A
+437|24|KNX Certified Cert|Technical Certification|Consultant|2022-08-28|2022-09-28|48|48|Completed|75|Yes|No
+438|185|Sales Training - Triad|Sales Training|Internal|2021-11-28|2021-12-07|4|4|Completed|74|Yes|N/A
+439|184|Leadership Workshop|Leadership Workshop|CEDIA|2024-07-10|2024-09-05|28|28|Completed|88|Yes|N/A
+440|190|Financial Acumen|Financial Acumen|Online Platform|2023-04-13|2023-06-09|10|10|Completed|N/A|N/A|N/A
+441|11|Safety Training|Safety Training|CEDIA|2022-09-30|2022-11-24|10|10|Completed|95|Yes|N/A
+442|39|CEDIA Certified Cert|Technical Certification|Consultant|2020-02-21|2020-03-12|73|73|Completed|87|Yes|No
+443|23|Troubleshooting Techniques|Troubleshooting Techniques|Internal|2022-08-21|2022-10-14|29|29|Completed|84|Yes|N/A
+444|171|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2020-06-09|2020-06-15|36|36|Completed|65|No|N/A
+445|47|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2023-12-22|2024-02-08|19|19|Completed|77|Yes|N/A
+446|27|Vantage Lighting Certified Cert|Technical Certification|Internal|2022-08-04|2022-08-31|56|56|Completed|79|Yes|Yes
+447|12|CEDIA Certified Cert|Technical Certification|CEDIA|2023-04-05|2023-06-01|31|31|Completed|83|Yes|Yes
+448|115|Product Training - KEF|Product Training|Consultant|2020-10-02|2020-11-23|8|8|Completed|65|No|N/A
+449|37|Programming Workshop - Integra|Programming Workshop|Manufacturer|2025-02-22|2025-03-10|12|12|Completed|95|Yes|N/A
+450|194|Product Training - Epson Pro Cinema|Product Training|CEDIA|2021-02-18|2021-03-26|32|32|Completed|86|Yes|N/A
+451|192|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2022-05-01|2022-06-27|33|33|Completed|91|Yes|N/A
+452|109|Leadership Workshop|Leadership Workshop|Online Platform|2024-10-12|2024-10-17|16|16|Completed|88|Yes|N/A
+453|123|System Architecture|System Architecture|Consultant|2021-08-19|2021-09-18|4|4|Completed|N/A|N/A|N/A
+454|135|Product Training - Paradigm|Product Training|Manufacturer|2024-01-19|2024-01-22|20|20|Completed|100|Yes|N/A
+455|155|Advanced Installation - Lutron|Advanced Installation|CEDIA|2024-12-18|2025-01-23|14|14|Completed|89|Yes|N/A
+456|77|Client Communication - Bowers & Wilkins|Client Communication|Consultant|2023-07-25|2023-08-15|26|26|Completed|82|Yes|N/A
+457|2|Advanced Installation - JBL Synthesis|Advanced Installation|Industry Association|2021-08-08|2021-08-20|18|18|Completed|73|Yes|N/A
+458|61|Project Management - Triad|Project Management|Online Platform|2021-04-04|TBD|21|6|In Progress|N/A|N/A|N/A
+459|96|Safety Training|Safety Training|Online Platform|2023-07-07|TBD|5|0|Did Not Complete|N/A|No|N/A
+460|78|Product Training|Product Training|Online Platform|2024-06-14|2024-08-07|7|7|Completed|74|Yes|N/A
+461|69|Sales Training|Sales Training|Industry Association|2023-09-19|TBD|35|27|In Progress|N/A|N/A|N/A
+462|96|Low Voltage License Cert|Technical Certification|Industry Association|2024-07-30|2024-08-13|48|48|Completed|70|Yes|Yes
+463|72|Safety Training|Safety Training|Online Platform|2022-02-03|2022-03-31|35|35|Completed|65|No|N/A
+464|29|Advanced Installation|Advanced Installation|CEDIA|2022-11-04|2022-12-15|7|7|Completed|87|Yes|N/A
+465|46|Programming Workshop|Programming Workshop|Internal|2021-11-02|2021-12-25|21|21|Completed|69|No|N/A
+466|176|Advanced Installation - Barco|Advanced Installation|Consultant|2020-06-09|2020-07-26|35|35|Completed|96|Yes|N/A
+467|8|Safety Training|Safety Training|Manufacturer|2025-01-17|2025-02-25|33|33|Completed|100|Yes|N/A
+468|127|Product Training - Lutron|Product Training|Online Platform|2020-01-22|2020-03-12|5|5|Completed|100|Yes|N/A
+469|143|Troubleshooting Techniques - Savant|Troubleshooting Techniques|Online Platform|2023-05-28|2023-07-18|30|30|Completed|81|Yes|N/A
+470|78|Programming Workshop|Programming Workshop|Internal|2020-01-08|2020-01-24|13|13|Completed|93|Yes|N/A
+471|188|Sonos Certified Installer Cert|Technical Certification|Industry Association|2021-12-16|2022-02-09|48|48|Completed|82|Yes|Yes
+472|41|Safety Training|Safety Training|Consultant|2021-01-16|2021-02-13|9|9|Completed|83|Yes|N/A
+473|70|Advanced Installation - RTI|Advanced Installation|CEDIA|2023-01-13|2023-02-20|31|31|Completed|84|Yes|N/A
+474|146|RTI Certified Cert|Technical Certification|CEDIA|2021-04-18|TBD|79|6|In Progress|N/A|N/A|N/A
+475|24|Product Training|Product Training|Consultant|2021-05-15|2021-06-12|15|15|Completed|80|Yes|N/A
+476|150|Financial Acumen - JBL Synthesis|Financial Acumen|Online Platform|2020-03-23|2020-04-13|9|9|Completed|94|Yes|N/A
+477|111|Programming Workshop|Programming Workshop|Manufacturer|2020-03-20|2020-05-06|8|8|Completed|72|Yes|N/A
+478|23|First Aid/CPR Cert|Technical Certification|Online Platform|2022-02-28|2022-03-03|46|46|Completed|87|Yes|Yes
+479|115|Advanced Installation - Marantz|Advanced Installation|Online Platform|2021-04-07|TBD|38|35|In Progress|N/A|N/A|N/A
+480|1|Josh.ai Certified Cert|Technical Certification|Online Platform|2023-08-06|2023-08-21|60|60|Completed|N/A|N/A|No
+481|49|Product Training|Product Training|Manufacturer|2022-06-22|2022-07-15|40|40|Completed|72|Yes|N/A
+482|69|Project Management - Paradigm|Project Management|CEDIA|2020-07-18|2020-08-29|24|24|Completed|N/A|N/A|N/A
+483|85|Product Training - Lutron|Product Training|CEDIA|2024-06-21|2024-07-31|30|30|Completed|95|Yes|N/A
+484|192|Safety Training - Anthem|Safety Training|CEDIA|2021-10-28|2021-12-17|30|30|Completed|N/A|N/A|N/A
+485|43|Advanced Installation|Advanced Installation|Online Platform|2023-07-08|2023-07-14|35|35|Completed|86|Yes|N/A
+486|154|Product Training|Product Training|Consultant|2024-02-15|2024-03-08|22|22|Completed|83|Yes|N/A
+487|56|Sales Training - Marantz|Sales Training|Online Platform|2022-03-08|TBD|17|9|In Progress|N/A|N/A|N/A
+488|52|Client Communication|Client Communication|Manufacturer|2022-07-27|2022-08-06|35|35|Completed|70|Yes|N/A
+489|131|Client Communication|Client Communication|Manufacturer|2021-02-09|TBD|12|7|In Progress|N/A|N/A|N/A
+490|82|Sales Training|Sales Training|Industry Association|2025-02-01|2025-02-23|14|14|Completed|86|Yes|N/A
+491|5|Safety Training|Safety Training|Industry Association|2023-02-05|2023-03-25|17|17|Completed|79|Yes|N/A
+492|138|Troubleshooting Techniques - Cisco Meraki|Troubleshooting Techniques|Online Platform|2020-08-04|2020-08-27|36|36|Completed|84|Yes|N/A
+493|87|Josh.ai Certified Cert|Technical Certification|Internal|2023-03-26|TBD|76|26|Did Not Complete|N/A|No|N/A
+494|140|Client Communication|Client Communication|Manufacturer|2023-03-19|2023-04-07|22|22|Completed|86|Yes|N/A
+495|106|Leadership Workshop|Leadership Workshop|Online Platform|2023-06-28|2023-08-23|16|16|Completed|86|Yes|N/A
+496|162|Project Management - Axis|Project Management|Internal|2021-05-02|2021-06-13|7|7|Completed|N/A|N/A|N/A
+497|61|Sales Training|Sales Training|Online Platform|2022-03-20|2022-05-17|34|34|Completed|N/A|N/A|N/A
+498|196|Financial Acumen|Financial Acumen|Consultant|2021-09-28|TBD|36|19|In Progress|N/A|N/A|N/A
+499|52|Client Communication - Dynaudio|Client Communication|Online Platform|2021-10-12|2021-10-16|26|26|Completed|81|Yes|N/A
+500|111|Electrical Administrator Cert|Technical Certification|CEDIA|2021-08-18|2021-09-18|60|60|Completed|68|No|Yes
+501|85|Advanced Installation - Axis|Advanced Installation|Manufacturer|2021-02-21|2021-03-17|27|27|Completed|81|Yes|N/A
+502|175|InfoComm CTS Cert|Technical Certification|Consultant|2024-01-26|2024-02-22|67|67|Completed|97|Yes|Yes
+503|89|Low Voltage License Cert|Technical Certification|Manufacturer|2021-11-23|2021-12-21|38|38|Completed|97|Yes|No
+504|8|Safety Training|Safety Training|Online Platform|2023-09-18|2023-10-26|8|8|Completed|69|No|N/A
+505|188|Manufacturer Update|Manufacturer Update|Online Platform|2022-04-15|TBD|34|31|In Progress|N/A|N/A|N/A
+506|172|Financial Acumen|Financial Acumen|Manufacturer|2024-12-13|2025-01-22|7|7|Completed|96|Yes|N/A
+507|20|Project Management - Stewart Filmscreen|Project Management|Consultant|2024-09-07|2024-11-03|22|22|Completed|98|Yes|N/A
+508|67|Safety Training|Safety Training|CEDIA|2023-05-03|2023-05-06|31|31|Completed|100|Yes|N/A
+509|150|Sales Training|Sales Training|CEDIA|2023-03-31|2023-05-06|24|24|Completed|89|Yes|N/A
+510|32|Advanced Installation - Dynaudio|Advanced Installation|Internal|2022-07-27|2022-08-12|22|22|Completed|88|Yes|N/A
+511|4|Product Training - Ubiquiti|Product Training|Consultant|2023-05-29|2023-07-26|40|40|Completed|75|Yes|N/A
+512|55|Sales Training - Kaleidescape|Sales Training|Manufacturer|2023-03-12|2023-04-01|22|22|Completed|77|Yes|N/A
+513|95|Safety Training|Safety Training|Industry Association|2024-03-05|2024-04-19|34|34|Completed|70|Yes|N/A
+514|146|Dante Level 3 Certified Cert|Technical Certification|Online Platform|2020-01-29|2020-02-17|40|40|Completed|99|Yes|Yes
+515|66|Advanced Installation|Advanced Installation|Manufacturer|2022-03-17|TBD|21|2|Did Not Complete|N/A|No|N/A
+516|119|Troubleshooting Techniques|Troubleshooting Techniques|Manufacturer|2021-12-06|2022-01-25|38|38|Completed|92|Yes|N/A
+517|156|Advanced Installation|Advanced Installation|Internal|2020-12-12|2021-02-02|35|35|Completed|87|Yes|N/A
+518|37|Safety Training|Safety Training|Consultant|2023-12-27|2024-01-14|26|26|Completed|91|Yes|N/A
+519|17|Safety Training|Safety Training|CEDIA|2024-01-21|2024-03-01|33|33|Completed|71|Yes|N/A
+520|115|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2023-04-03|2023-05-12|31|31|Completed|81|Yes|N/A
+521|58|Leadership Workshop - Sonos|Leadership Workshop|Internal|2024-03-11|2024-04-16|21|21|Completed|89|Yes|N/A
+522|160|Lutron Certified Installer Cert|Technical Certification|Industry Association|2021-04-29|2021-06-03|44|44|Completed|69|No|No
+523|157|Safety Training - Anthem|Safety Training|Industry Association|2024-10-15|2024-11-12|31|31|Completed|86|Yes|N/A
+524|104|Programming Workshop|Programming Workshop|Manufacturer|2023-06-14|2023-06-25|30|30|Completed|91|Yes|N/A
+525|113|Safety Training|Safety Training|Industry Association|2022-08-20|TBD|4|2|In Progress|N/A|N/A|N/A
+526|133|Sales Training - Sony Professional|Sales Training|Manufacturer|2021-05-06|2021-05-28|34|34|Completed|81|Yes|N/A
+527|42|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2021-01-03|2021-02-17|17|17|Completed|98|Yes|N/A
+528|146|System Architecture - Savant|System Architecture|CEDIA|2023-06-02|2023-07-26|20|20|Completed|90|Yes|N/A
+529|126|Product Training|Product Training|Online Platform|2022-05-27|2022-07-07|15|15|Completed|88|Yes|N/A
+530|87|Product Training - Lutron|Product Training|CEDIA|2022-09-24|2022-11-17|30|30|Completed|80|Yes|N/A
+531|66|Product Training|Product Training|Internal|2024-05-03|TBD|29|4|In Progress|N/A|N/A|N/A
+532|113|Troubleshooting Techniques - Meridian|Troubleshooting Techniques|Industry Association|2021-01-05|2021-02-16|18|18|Completed|69|No|N/A
+533|191|Financial Acumen - Anthem|Financial Acumen|Consultant|2020-03-31|2020-04-26|13|13|Completed|87|Yes|N/A
+534|34|Advanced Installation - Axis|Advanced Installation|Consultant|2024-02-24|TBD|5|1|In Progress|N/A|N/A|N/A
+535|54|Sales Training|Sales Training|Industry Association|2022-06-12|2022-07-21|20|20|Completed|78|Yes|N/A
+536|90|Vantage Lighting Certified Cert|Technical Certification|Industry Association|2020-07-28|2020-08-10|29|29|Completed|98|Yes|Yes
+537|163|Lutron Certified Installer Cert|Technical Certification|Manufacturer|2024-02-25|2024-04-11|26|26|Completed|96|Yes|Yes
+538|49|Programming Workshop|Programming Workshop|Industry Association|2022-04-16|2022-05-21|16|16|Completed|97|Yes|N/A
+539|146|Lutron Certified Installer Cert|Technical Certification|Internal|2024-04-28|2024-06-24|28|28|Completed|N/A|N/A|No
+540|26|Programming Workshop|Programming Workshop|Online Platform|2023-11-10|2023-12-30|20|20|Completed|70|Yes|N/A
+541|73|Troubleshooting Techniques - Sony Professional|Troubleshooting Techniques|Industry Association|2024-08-27|2024-09-19|31|31|Completed|66|No|N/A
+542|106|Sales Training|Sales Training|CEDIA|2023-09-09|2023-11-04|39|39|Completed|80|Yes|N/A
+543|72|HAA Level II Cert|Technical Certification|CEDIA|2021-10-12|2021-10-31|22|22|Completed|91|Yes|No
+544|128|Troubleshooting Techniques|Troubleshooting Techniques|Consultant|2022-08-31|2022-09-20|34|34|Completed|81|Yes|N/A
+545|175|KNX Certified Cert|Technical Certification|Industry Association|2022-09-17|2022-10-10|38|38|Completed|98|Yes|Yes
+546|104|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2024-10-24|2024-12-19|12|12|Completed|98|Yes|N/A
+547|23|Product Training|Product Training|Manufacturer|2021-01-23|2021-02-08|19|19|Completed|92|Yes|N/A
+548|1|Troubleshooting Techniques|Troubleshooting Techniques|Online Platform|2023-02-20|2023-03-07|22|22|Completed|84|Yes|N/A
+549|152|Programming Workshop - Marantz|Programming Workshop|Consultant|2023-06-18|2023-07-20|16|16|Completed|N/A|N/A|N/A
+550|71|Lutron Certified Installer Cert|Technical Certification|Online Platform|2020-07-18|2020-08-12|55|55|Completed|81|Yes|No
+551|89|Advanced Installation|Advanced Installation|Manufacturer|2020-10-28|2020-12-20|17|17|Completed|78|Yes|N/A
+552|70|Advanced Installation|Advanced Installation|Industry Association|2023-03-06|2023-03-11|25|25|Completed|98|Yes|N/A
+553|63|System Architecture|System Architecture|Manufacturer|2020-11-13|2020-12-15|11|11|Completed|N/A|N/A|N/A
+554|68|Dante Level 3 Certified Cert|Technical Certification|Consultant|2021-04-05|TBD|26|14|In Progress|N/A|N/A|N/A
+555|26|Product Training - JBL Synthesis|Product Training|Online Platform|2025-01-03|2025-02-08|36|36|Completed|95|Yes|N/A
+556|198|Manufacturer Update|Manufacturer Update|Manufacturer|2023-05-07|2023-06-01|36|36|Completed|83|Yes|N/A
+557|73|Elan Certified Cert|Technical Certification|Internal|2023-01-05|2023-01-30|80|80|Completed|92|Yes|Yes
+558|5|Advanced Installation|Advanced Installation|Online Platform|2024-12-04|2024-12-15|6|6|Completed|N/A|N/A|N/A
+559|7|Programming Workshop|Programming Workshop|Manufacturer|2023-08-31|2023-09-29|5|5|Completed|73|Yes|N/A
+560|171|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2024-07-03|2024-07-11|12|12|Completed|97|Yes|N/A
+561|117|Vantage Lighting Certified Cert|Technical Certification|Consultant|2021-08-24|2021-09-09|57|57|Completed|79|Yes|No
+562|37|Product Training - Somfy|Product Training|Online Platform|2024-07-28|2024-09-17|38|38|Completed|79|Yes|N/A
+563|185|Leadership Workshop|Leadership Workshop|CEDIA|2023-04-02|2023-05-22|29|29|Completed|71|Yes|N/A
+564|37|Troubleshooting Techniques|Troubleshooting Techniques|CEDIA|2022-12-21|2023-01-26|40|40|Completed|73|Yes|N/A
+565|76|Advanced Installation - Barco|Advanced Installation|Industry Association|2020-06-25|2020-07-15|34|34|Completed|89|Yes|N/A
+566|14|Programming Workshop|Programming Workshop|Industry Association|2024-05-24|2024-05-25|6|6|Completed|N/A|N/A|N/A
+567|23|Product Training|Product Training|Manufacturer|2024-04-19|2024-06-01|24|24|Completed|72|Yes|N/A
+568|11|Sonos Certified Installer Cert|Technical Certification|Internal|2021-09-20|2021-10-15|77|77|Completed|77|Yes|No
+569|134|Advanced Installation|Advanced Installation|CEDIA|2021-11-07|2021-11-12|22|22|Completed|91|Yes|N/A
+570|109|Project Management - Elan|Project Management|Consultant|2022-01-02|2022-02-12|39|39|Completed|70|Yes|N/A
+571|93|Product Training|Product Training|Internal|2020-03-03|2020-04-13|10|10|Completed|66|No|N/A
+572|88|Product Training - Lutron|Product Training|Consultant|2020-12-25|TBD|40|37|In Progress|N/A|N/A|N/A
+573|18|Product Training|Product Training|Internal|2024-08-24|2024-09-13|34|34|Completed|94|Yes|N/A
+574|159|Safety Training - NAD|Safety Training|Industry Association|2024-11-13|2024-11-28|10|10|Completed|N/A|N/A|N/A
+575|17|Programming Workshop|Programming Workshop|Internal|2021-10-18|2021-12-05|32|32|Completed|69|No|N/A
+576|70|RTI Certified Cert|Technical Certification|Manufacturer|2024-04-24|2024-05-24|59|59|Completed|N/A|N/A|No
+577|141|Financial Acumen - RTI|Financial Acumen|Industry Association|2024-04-07|2024-05-28|18|18|Completed|85|Yes|N/A
+578|153|Programming Workshop - Marantz|Programming Workshop|Manufacturer|2023-02-23|2023-03-19|18|18|Completed|80|Yes|N/A
+579|169|Client Communication - Kaleidescape|Client Communication|Manufacturer|2024-03-27|TBD|28|10|Did Not Complete|N/A|No|N/A
+580|179|New Technology Seminar - Paradigm|New Technology Seminar|CEDIA|2023-11-26|2023-12-25|15|15|Completed|99|Yes|N/A
+581|126|Advanced Installation - Lutron|Advanced Installation|Consultant|2020-08-26|2020-10-05|39|39|Completed|98|Yes|N/A
+582|34|Product Training|Product Training|Online Platform|2023-09-28|TBD|4|2|In Progress|N/A|N/A|N/A
+583|116|Sales Training|Sales Training|Manufacturer|2020-02-07|2020-02-26|17|17|Completed|91|Yes|N/A
+584|44|Programming Workshop|Programming Workshop|Online Platform|2024-08-17|TBD|36|32|In Progress|N/A|N/A|N/A
+585|1|Product Training|Product Training|CEDIA|2020-12-08|2020-12-09|16|16|Completed|N/A|N/A|N/A
+586|9|Client Communication - Elan|Client Communication|Consultant|2020-05-03|TBD|17|6|In Progress|N/A|N/A|N/A
+587|130|Sales Training - Epson Pro Cinema|Sales Training|Manufacturer|2023-01-03|2023-02-15|29|29|Completed|75|Yes|N/A
+588|126|Electrical Administrator Cert|Technical Certification|Consultant|2022-09-26|2022-11-25|71|71|Completed|96|Yes|Yes
+589|101|Safety Training|Safety Training|Consultant|2020-03-27|2020-04-18|20|20|Completed|66|No|N/A
+590|22|Advanced Installation|Advanced Installation|Consultant|2021-07-15|2021-08-11|17|17|Completed|68|No|N/A
+591|75|Sales Training|Sales Training|Manufacturer|2023-03-28|2023-04-11|21|21|Completed|68|No|N/A
+592|32|Product Training - Meridian|Product Training|Consultant|2021-12-11|2022-01-02|31|31|Completed|82|Yes|N/A
+593|122|Troubleshooting Techniques|Troubleshooting Techniques|Industry Association|2024-01-13|TBD|35|30|In Progress|N/A|N/A|N/A
+594|113|Product Training|Product Training|Manufacturer|2021-01-26|2021-02-13|17|17|Completed|71|Yes|N/A
+595|160|Safety Training - Somfy|Safety Training|Online Platform|2023-05-21|2023-06-18|35|35|Completed|70|Yes|N/A
+596|90|Troubleshooting Techniques - McIntosh|Troubleshooting Techniques|Online Platform|2020-07-12|2020-07-29|40|40|Completed|67|No|N/A
+597|5|InfoComm CTS Cert|Technical Certification|Online Platform|2021-11-06|2021-11-09|45|45|Completed|100|Yes|No
+598|60|Programming Workshop|Programming Workshop|Online Platform|2020-10-25|2020-12-17|28|28|Completed|92|Yes|N/A
+599|26|Product Training|Product Training|CEDIA|2022-03-20|2022-05-12|23|23|Completed|79|Yes|N/A
+600|18|KNX Certified Cert|Technical Certification|Consultant|2020-05-01|2020-05-11|26|26|Completed|75|Yes|No

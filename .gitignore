@@ -1,0 +1,21 @@
+# Python Virtual Environment
+venv/
+.venv/
+
+# Python Cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables - VERY IMPORTANT
+.env
+
+# Operating System files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# IDE specific files (VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Log files (if you create any)
+*.log

@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit==1.36.0
+pandas==2.2.2
+plotly==5.22.0
+folium==0.17.0
+google-generativeai==0.8.2
+python-dotenv==1.0.1
+streamlit-folium==0.22.0
+scikit-learn==1.5.1

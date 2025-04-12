@@ -1,0 +1,601 @@
+ItemID|Category|Manufacturer|Model|Description|CurrentStock|ReorderLevel|UnitCost|MarkupPercentage|SupplierID|LastOrderDate|LeadTime|Discontinued
+1|High-End Networking Equipment|Barco|BAR-1510|Barco High-End Networking Equipment - Premium Series|2|3|24689.57|48|12|2021-08-25|33 days|No
+2|Luxury Control Interfaces|Savant|SAV-9326|Savant Luxury Control Interfaces - Premium Series|5|2|3019.7|38|97|2022-11-12|23 days|No
+3|Ultra HD Projectors|Kaleidescape|KAL-4679|Kaleidescape Ultra HD Projectors - Premium Series|8|5|10548.05|30|141|2025-03-30|7 days|No
+4|Distributed Audio Systems|Meridian|MER-8738|Meridian Distributed Audio Systems - Premium Series|8|5|23325.63|58|113|2023-05-28|6 days|No
+5|Motorized Shading|Integra|INT-6930|Integra Motorized Shading - Premium Series|3|4|25064.19|46|81|2024-06-24|18 days|No
+6|Premium Speakers|Triad|TRI-6766|Triad Premium Speakers - Premium Series|8|5|12298.76|51|20|2020-06-12|26 days|No
+7|Biometric Security|Paradigm|PAR-3052|Paradigm Biometric Security - Premium Series|8|2|16686.94|53|105|2021-04-15|29 days|No
+8|Biometric Security|Sony Professional|SON-2932|Sony Professional Biometric Security - Premium Series|1|4|16695.9|43|108|2021-10-04|24 days|No
+9|Luxury Control Interfaces|Martin Logan|MAR-8439|Martin Logan Luxury Control Interfaces - Premium Series|0|2|17437.73|37|31|2024-11-29|14 days|No
+10|Enterprise-Grade WiFi|Paradigm|PAR-8068|Paradigm Enterprise-Grade WiFi - Premium Series|0|2|20456.77|33|19|2024-09-03|5 days|No
+11|Automated Door Systems|Screen Innovations|SCR-4955|Screen Innovations Automated Door Systems - Premium Series|4|1|24877.69|47|87|2022-04-03|11 days|No
+12|Cinema Room Acoustics|Ubiquiti|UBI-6815|Ubiquiti Cinema Room Acoustics - Premium Series|7|4|16310.58|31|116|2020-05-31|5 days|No
+13|Premium Cables & Connectors|Integra|INT-9345|Integra Premium Cables & Connectors - Premium Series|1|2|20862.31|33|2|2024-01-22|14 days|No
+14|High-End Networking Equipment|Anthem|ANT-5576|Anthem High-End Networking Equipment - Premium Series|1|2|10501.07|53|77|2022-11-07|14 days|No
+15|Ultra HD Projectors|Dynaudio|DYN-7292|Dynaudio Ultra HD Projectors - Premium Series|5|2|23228.95|52|37|2021-10-23|21 days|Yes
+16|Voice Control Systems|Linn|LIN-6150|Linn Voice Control Systems - Premium Series|1|3|11902.43|42|73|2024-12-06|39 days|No
+17|Smart Home Processors|Marantz|MAR-5250|Marantz Smart Home Processors - Premium Series|1|2|13438.95|39|72|2021-08-13|13 days|No
+18|Motorized Shading|Dynaudio|DYN-1651|Dynaudio Motorized Shading - Premium Series|8|5|20785.75|26|50|2025-01-22|41 days|Yes
+19|Automated Door Systems|Savant|SAV-8288|Savant Automated Door Systems - Premium Series|8|2|10231.72|43|117|2022-05-23|39 days|No
+20|Premium Speakers|Meridian|MER-2423|Meridian Premium Speakers - Premium Series|2|3|12282.25|52|30|2021-06-22|34 days|No
+21|Enterprise-Grade WiFi|Bowers & Wilkins|BOW-3567|Bowers & Wilkins Enterprise-Grade WiFi - Premium Series|8|3|20495.76|39|71|2021-10-31|7 days|No
+22|Voice Control Systems|Dynaudio|DYN-1628|Dynaudio Voice Control Systems - Premium Series|6|1|18518.31|29|134|2025-01-01|23 days|No
+23|Automated Door Systems|Control4|CON-7163|Control4 Automated Door Systems - Premium Series|3|2|26108.11|25|68|2020-10-07|18 days|No
+24|Custom Lighting Controls|Elan|ELA-2453|Elan Custom Lighting Controls - Premium Series|8|2|20202.23|43|1|2021-02-10|11 days|No
+25|Custom Lighting Controls|Linn|LIN-5310|Linn Custom Lighting Controls - Premium Series|6|5|19556.64|27|61|2023-11-09|29 days|No
+26|Custom Lighting Controls|Elan|ELA-8947|Elan Custom Lighting Controls - Premium Series|7|4|24155.4|39|154|2023-09-30|21 days|No
+27|Custom Lighting Controls|Integra|INT-8326|Integra Custom Lighting Controls - Premium Series|5|2|2754.05|32|109|2022-05-09|21 days|No
+28|Custom Lighting Controls|Cisco Meraki|CIS-3098|Cisco Meraki Custom Lighting Controls - Premium Series|7|4|18204.19|47|154|2023-12-14|28 days|No
+29|Motorized Shading|Savant|SAV-7701|Savant Motorized Shading - Premium Series|0|5|8078.58|57|83|2024-12-27|16 days|No
+30|High-End Networking Equipment|Barco|BAR-5271|Barco High-End Networking Equipment - Premium Series|0|3|10829.85|53|125|2022-03-27|30 days|No
+31|High-End Networking Equipment|Control4|CON-3728|Control4 High-End Networking Equipment - Premium Series|8|2|8560.11|51|29|2023-03-18|17 days|No
+32|Smart Glass Solutions|Ubiquiti|UBI-1345|Ubiquiti Smart Glass Solutions - Premium Series|6|1|3649.21|59|86|2024-01-19|4 days|No
+33|Enterprise-Grade WiFi|Sonos|SON-9773|Sonos Enterprise-Grade WiFi - Premium Series|3|2|18048.58|58|138|2022-01-11|16 days|No
+34|Voice Control Systems|KEF|KEF-7773|KEF Voice Control Systems - Premium Series|3|5|8058.24|35|64|2021-11-09|26 days|No
+35|Ultra HD Projectors|Savant|SAV-7519|Savant Ultra HD Projectors - Premium Series|7|1|20792.79|58|41|2022-10-24|9 days|No
+36|Ultra HD Projectors|KEF|KEF-3025|KEF Ultra HD Projectors - Premium Series|6|4|17408.31|40|34|2021-07-11|5 days|No
+37|Cinema Room Acoustics|Marantz|MAR-7805|Marantz Cinema Room Acoustics - Premium Series|0|1|23719.73|29|139|2022-10-30|7 days|No
+38|Luxury Control Interfaces|McIntosh|MCI-6114|McIntosh Luxury Control Interfaces - Premium Series|5|4|20265.57|50|132|2024-08-29|15 days|No
+39|Smart Home Processors|Marantz|MAR-8723|Marantz Smart Home Processors - Premium Series|6|3|12679.43|31|110|2023-09-05|19 days|No
+40|Premium Cables & Connectors|Marantz|MAR-7265|Marantz Premium Cables & Connectors - Premium Series|0|4|13348.94|59|101|2021-05-15|35 days|No
+41|Enterprise-Grade WiFi|McIntosh|MCI-4802|McIntosh Enterprise-Grade WiFi - Premium Series|7|3|12497.68|26|123|2024-04-28|28 days|No
+42|Biometric Security|Ruckus|RUC-3773|Ruckus Biometric Security - Premium Series|3|4|9215.41|30|152|2023-02-22|9 days|No
+43|Luxury Control Interfaces|Stewart Filmscreen|STE-4808|Stewart Filmscreen Luxury Control Interfaces - Premium Series|0|4|16995.62|55|65|2024-01-20|36 days|No
+44|Voice Control Systems|Ubiquiti|UBI-7660|Ubiquiti Voice Control Systems - Premium Series|0|3|22962.12|27|54|2023-11-12|23 days|No
+45|Enterprise-Grade WiFi|Martin Logan|MAR-6272|Martin Logan Enterprise-Grade WiFi - Premium Series|7|4|15053.68|45|132|2021-04-27|44 days|No
+46|Voice Control Systems|Bowers & Wilkins|BOW-3085|Bowers & Wilkins Voice Control Systems - Premium Series|0|2|25342.5|52|134|2022-02-08|7 days|No
+47|Luxury Control Interfaces|RTI|RTI-7949|RTI Luxury Control Interfaces - Premium Series|7|2|12095.9|32|135|2024-12-18|5 days|No
+48|Voice Control Systems|Barco|BAR-5820|Barco Voice Control Systems - Premium Series|4|5|11049.72|43|83|2022-06-10|10 days|No
+49|High-End Networking Equipment|Josh.ai|JOS-7082|Josh.ai High-End Networking Equipment - Premium Series|8|5|3986.17|58|65|2024-07-02|16 days|No
+50|Motorized Shading|Ubiquiti|UBI-8763|Ubiquiti Motorized Shading - Premium Series|0|3|25502.71|33|107|2022-12-09|13 days|No
+51|Custom Lighting Controls|Sonos|SON-4074|Sonos Custom Lighting Controls - Premium Series|3|1|27316.77|25|138|2023-12-07|22 days|No
+52|Premium Speakers|Lutron|LUT-4703|Lutron Premium Speakers - Premium Series|5|1|17228.0|35|50|2021-12-18|7 days|No
+53|Automated Door Systems|Epson Pro Cinema|EPS-7607|Epson Pro Cinema Automated Door Systems - Premium Series|4|5|16118.59|44|139|2023-07-02|26 days|No
+54|Motorized Shading|Sonos|SON-3921|Sonos Motorized Shading - Premium Series|4|5|16342.39|31|27|2021-07-27|16 days|No
+55|Distributed Audio Systems|Screen Innovations|SCR-8756|Screen Innovations Distributed Audio Systems - Premium Series|3|2|9153.09|42|1|2023-10-01|42 days|No
+56|Motorized Shading|Bowers & Wilkins|BOW-8790|Bowers & Wilkins Motorized Shading - Premium Series|0|3|25570.3|34|20|2020-12-03|12 days|No
+57|Ultra HD Projectors|Sony Professional|SON-8728|Sony Professional Ultra HD Projectors - Premium Series|5|3|14125.61|53|129|2023-09-23|30 days|No
+58|Motorized Shading|Stewart Filmscreen|STE-6107|Stewart Filmscreen Motorized Shading - Premium Series|8|3|10444.51|49|136|2021-12-28|33 days|No
+59|Smart Glass Solutions|Linn|LIN-8163|Linn Smart Glass Solutions - Premium Series|8|4|26277.31|42|126|2024-09-16|12 days|No
+60|Smart Home Processors|Meridian|MER-3916|Meridian Smart Home Processors - Premium Series|0|3|15391.02|52|120|2021-12-14|44 days|No
+61|High-End Networking Equipment|Epson Pro Cinema|EPS-7130|Epson Pro Cinema High-End Networking Equipment - Premium Series|2|1|5965.43|60|51|2022-02-22|15 days|No
+62|Distributed Audio Systems|RTI|RTI-7043|RTI Distributed Audio Systems - Premium Series|4|5|263.78|44|4|2020-07-11|24 days|No
+63|Ultra HD Projectors|Marantz|MAR-5145|Marantz Ultra HD Projectors - Premium Series|4|1|17685.45|50|147|2023-11-25|5 days|No
+64|Automated Door Systems|Paradigm|PAR-8756|Paradigm Automated Door Systems - Premium Series|8|1|27424.17|54|10|2020-12-21|34 days|No
+65|Smart Glass Solutions|Kaleidescape|KAL-7874|Kaleidescape Smart Glass Solutions - Premium Series|1|1|19437.47|36|114|2020-06-18|11 days|No
+66|Ultra HD Projectors|Cisco Meraki|CIS-4181|Cisco Meraki Ultra HD Projectors - Premium Series|0|3|2779.85|59|82|2024-10-12|20 days|No
+67|Luxury Control Interfaces|Somfy|SOM-2007|Somfy Luxury Control Interfaces - Premium Series|1|2|14252.56|50|129|2024-09-11|29 days|No
+68|Smart Home Processors|Bowers & Wilkins|BOW-4255|Bowers & Wilkins Smart Home Processors - Premium Series|8|4|4837.11|27|45|2023-05-31|20 days|No
+69|Automated Door Systems|Crestron|CRE-6594|Crestron Automated Door Systems - Premium Series|7|5|8632.8|60|23|2020-08-29|25 days|No
+70|Custom Lighting Controls|Bowers & Wilkins|BOW-2415|Bowers & Wilkins Custom Lighting Controls - Premium Series|2|3|3294.41|30|152|2024-02-03|14 days|No
+71|Ultra HD Projectors|Josh.ai|JOS-8542|Josh.ai Ultra HD Projectors - Premium Series|1|2|21713.5|38|79|2022-02-06|43 days|No
+72|Biometric Security|RTI|RTI-7214|RTI Biometric Security - Premium Series|4|2|20581.52|33|72|2020-04-19|22 days|No
+73|High-End Networking Equipment|Barco|BAR-4264|Barco High-End Networking Equipment - Premium Series|2|3|6299.05|37|67|2024-12-14|20 days|No
+74|Smart Home Processors|Bowers & Wilkins|BOW-9569|Bowers & Wilkins Smart Home Processors - Premium Series|7|2|13527.97|48|10|2024-04-30|25 days|No
+75|Smart Glass Solutions|Screen Innovations|SCR-5729|Screen Innovations Smart Glass Solutions - Premium Series|3|3|4374.74|38|129|2021-12-11|30 days|No
+76|Voice Control Systems|Marantz|MAR-8662|Marantz Voice Control Systems - Premium Series|4|1|2595.85|38|30|2021-03-22|19 days|No
+77|Biometric Security|Elan|ELA-7099|Elan Biometric Security - Premium Series|6|5|13126.0|54|9|2021-10-23|40 days|No
+78|Premium Speakers|Axis|AXI-8790|Axis Premium Speakers - Premium Series|5|3|23920.92|25|26|2022-05-13|13 days|No
+79|High-End Networking Equipment|Ruckus|RUC-1356|Ruckus High-End Networking Equipment - Premium Series|7|5|4567.6|59|117|2024-03-20|14 days|No
+80|Voice Control Systems|Epson Pro Cinema|EPS-7114|Epson Pro Cinema Voice Control Systems - Premium Series|5|4|20130.85|55|103|2021-06-01|18 days|No
+81|Cinema Room Acoustics|KEF|KEF-7977|KEF Cinema Room Acoustics - Premium Series|4|5|21013.31|57|103|2022-05-12|9 days|No
+82|Luxury Control Interfaces|Dynaudio|DYN-9586|Dynaudio Luxury Control Interfaces - Premium Series|3|5|4667.28|44|36|2023-11-29|41 days|No
+83|High-End Networking Equipment|Lutron|LUT-6670|Lutron High-End Networking Equipment - Premium Series|7|4|26687.21|44|43|2024-06-29|12 days|No
+84|Biometric Security|Kaleidescape|KAL-2316|Kaleidescape Biometric Security - Premium Series|2|2|5599.14|36|53|2021-09-21|22 days|No
+85|Voice Control Systems|Triad|TRI-8820|Triad Voice Control Systems - Premium Series|2|3|4331.84|60|26|2020-01-11|26 days|No
+86|Biometric Security|Stewart Filmscreen|STE-8593|Stewart Filmscreen Biometric Security - Premium Series|3|1|19249.58|55|100|2022-02-09|45 days|No
+87|Enterprise-Grade WiFi|Sony Professional|SON-7956|Sony Professional Enterprise-Grade WiFi - Premium Series|6|5|11062.81|45|19|2024-08-05|21 days|No
+88|Biometric Security|Savant|SAV-6935|Savant Biometric Security - Premium Series|5|5|6182.2|36|1|2022-01-25|18 days|No
+89|Enterprise-Grade WiFi|Stewart Filmscreen|STE-4079|Stewart Filmscreen Enterprise-Grade WiFi - Premium Series|0|2|25160.51|39|78|2022-10-20|11 days|No
+90|High-End Networking Equipment|Screen Innovations|SCR-6096|Screen Innovations High-End Networking Equipment - Premium Series|6|4|18024.29|52|9|2021-08-06|12 days|No
+91|Premium Cables & Connectors|Elan|ELA-2353|Elan Premium Cables & Connectors - Premium Series|5|1|4589.44|58|104|2022-08-10|9 days|No
+92|Ultra HD Projectors|Josh.ai|JOS-8449|Josh.ai Ultra HD Projectors - Premium Series|0|4|8848.12|57|103|2023-11-06|27 days|No
+93|Ultra HD Projectors|Ruckus|RUC-8377|Ruckus Ultra HD Projectors - Premium Series|8|3|11750.24|32|122|2024-07-10|41 days|No
+94|Automated Door Systems|Somfy|SOM-7282|Somfy Automated Door Systems - Premium Series|1|2|3168.7|36|2|2022-12-24|30 days|No
+95|Cinema Room Acoustics|JBL Synthesis|JBL-8614|JBL Synthesis Cinema Room Acoustics - Premium Series|4|1|5522.62|54|32|2020-04-09|30 days|No
+96|Custom Lighting Controls|Somfy|SOM-6528|Somfy Custom Lighting Controls - Premium Series|4|1|1481.51|48|139|2022-05-21|19 days|No
+97|Smart Home Processors|Axis|AXI-1583|Axis Smart Home Processors - Premium Series|1|3|11533.28|53|10|2021-09-01|23 days|No
+98|Premium Cables & Connectors|Triad|TRI-3369|Triad Premium Cables & Connectors - Premium Series|7|4|4909.65|59|71|2020-09-15|9 days|No
+99|Custom Lighting Controls|Triad|TRI-1665|Triad Custom Lighting Controls - Premium Series|1|3|25275.25|58|96|2022-07-27|39 days|Yes
+100|Smart Glass Solutions|McIntosh|MCI-5947|McIntosh Smart Glass Solutions - Premium Series|6|4|10570.6|30|6|2025-03-14|24 days|No
+101|Voice Control Systems|JBL Synthesis|JBL-4139|JBL Synthesis Voice Control Systems - Premium Series|4|3|19874.46|30|158|2020-08-26|30 days|No
+102|Automated Door Systems|Triad|TRI-8748|Triad Automated Door Systems - Premium Series|3|4|19125.7|28|71|2023-03-20|26 days|No
+103|Enterprise-Grade WiFi|Elan|ELA-3969|Elan Enterprise-Grade WiFi - Premium Series|4|3|7693.03|27|2|2022-03-27|41 days|No
+104|Ultra HD Projectors|Barco|BAR-6212|Barco Ultra HD Projectors - Premium Series|1|2|18111.06|42|58|2022-08-05|20 days|Yes
+105|High-End Networking Equipment|KEF|KEF-8547|KEF High-End Networking Equipment - Premium Series|6|5|1855.36|43|85|2024-08-20|41 days|No
+106|Custom Lighting Controls|Crestron|CRE-8280|Crestron Custom Lighting Controls - Premium Series|2|4|9503.42|45|128|2024-08-11|25 days|No
+107|Voice Control Systems|Josh.ai|JOS-2287|Josh.ai Voice Control Systems - Premium Series|7|5|18543.09|41|89|2020-03-07|28 days|No
+108|Voice Control Systems|Somfy|SOM-8657|Somfy Voice Control Systems - Premium Series|0|2|8437.46|45|160|2023-10-13|31 days|No
+109|Smart Glass Solutions|Axis|AXI-5651|Axis Smart Glass Solutions - Premium Series|8|4|15582.4|51|61|2024-03-18|4 days|No
+110|Distributed Audio Systems|Sony Professional|SON-4576|Sony Professional Distributed Audio Systems - Premium Series|3|1|10475.17|32|147|2022-03-21|9 days|No
+111|Automated Door Systems|Josh.ai|JOS-6767|Josh.ai Automated Door Systems - Premium Series|3|4|21114.7|50|154|2022-04-16|38 days|No
+112|Enterprise-Grade WiFi|Somfy|SOM-9724|Somfy Enterprise-Grade WiFi - Premium Series|6|2|17373.25|45|104|2023-01-01|35 days|No
+113|Custom Lighting Controls|Integra|INT-3910|Integra Custom Lighting Controls - Premium Series|6|3|22737.93|53|1|2025-03-07|13 days|No
+114|High-End Networking Equipment|Anthem|ANT-7850|Anthem High-End Networking Equipment - Premium Series|6|4|18083.06|31|49|2023-04-03|27 days|No
+115|Smart Glass Solutions|KEF|KEF-7697|KEF Smart Glass Solutions - Premium Series|0|3|3905.49|57|157|2023-05-12|8 days|No
+116|Smart Glass Solutions|Paradigm|PAR-7378|Paradigm Smart Glass Solutions - Premium Series|8|5|18854.7|48|50|2024-03-01|4 days|No
+117|Luxury Control Interfaces|Anthem|ANT-4273|Anthem Luxury Control Interfaces - Premium Series|5|2|10218.67|40|76|2022-08-25|14 days|No
+118|Ultra HD Projectors|Linn|LIN-8268|Linn Ultra HD Projectors - Premium Series|3|2|15930.53|54|119|2023-11-01|18 days|No
+119|Premium Speakers|Ubiquiti|UBI-2144|Ubiquiti Premium Speakers - Premium Series|0|1|23996.42|35|105|2022-08-04|18 days|No
+120|Custom Lighting Controls|Screen Innovations|SCR-9803|Screen Innovations Custom Lighting Controls - Premium Series|1|5|2037.31|51|137|2024-12-14|19 days|No
+121|Custom Lighting Controls|Paradigm|PAR-7527|Paradigm Custom Lighting Controls - Premium Series|0|3|22782.18|28|103|2024-07-20|21 days|No
+122|Distributed Audio Systems|NAD|NAD-5300|NAD Distributed Audio Systems - Premium Series|1|2|11849.04|32|94|2020-10-25|9 days|No
+123|High-End Networking Equipment|Kaleidescape|KAL-2591|Kaleidescape High-End Networking Equipment - Premium Series|5|1|25116.37|55|118|2021-06-25|16 days|No
+124|Custom Lighting Controls|Triad|TRI-8285|Triad Custom Lighting Controls - Premium Series|5|4|20843.7|46|67|2023-11-12|21 days|No
+125|Smart Glass Solutions|Control4|CON-1425|Control4 Smart Glass Solutions - Premium Series|3|3|20962.63|34|145|2021-08-13|36 days|No
+126|Smart Home Processors|Ruckus|RUC-5992|Ruckus Smart Home Processors - Premium Series|7|4|25987.85|35|76|2023-07-22|39 days|No
+127|Enterprise-Grade WiFi|Sony Professional|SON-4734|Sony Professional Enterprise-Grade WiFi - Premium Series|0|2|4123.35|43|150|2021-06-10|27 days|No
+128|Smart Glass Solutions|Crestron|CRE-8814|Crestron Smart Glass Solutions - Premium Series|2|3|7215.55|57|40|2022-04-11|36 days|No
+129|Distributed Audio Systems|Cisco Meraki|CIS-3770|Cisco Meraki Distributed Audio Systems - Premium Series|8|4|14444.21|49|45|2023-08-20|34 days|No
+130|Premium Cables & Connectors|Crestron|CRE-6067|Crestron Premium Cables & Connectors - Premium Series|3|2|18426.92|29|39|2021-04-05|24 days|No
+131|Enterprise-Grade WiFi|Meridian|MER-1199|Meridian Enterprise-Grade WiFi - Premium Series|8|2|17913.41|47|52|2022-07-29|34 days|No
+132|Ultra HD Projectors|Stewart Filmscreen|STE-5447|Stewart Filmscreen Ultra HD Projectors - Premium Series|8|5|17267.15|46|138|2020-05-17|35 days|No
+133|Enterprise-Grade WiFi|Lutron|LUT-5195|Lutron Enterprise-Grade WiFi - Premium Series|2|2|12343.27|58|59|2021-05-16|18 days|No
+134|Custom Lighting Controls|Elan|ELA-2496|Elan Custom Lighting Controls - Premium Series|3|1|1211.98|42|34|2021-07-22|38 days|No
+135|Ultra HD Projectors|Linn|LIN-9797|Linn Ultra HD Projectors - Premium Series|0|3|6343.59|55|19|2020-07-20|32 days|No
+136|Premium Speakers|NAD|NAD-4522|NAD Premium Speakers - Premium Series|7|3|2393.95|37|146|2023-01-15|9 days|Yes
+137|Premium Cables & Connectors|Meridian|MER-8475|Meridian Premium Cables & Connectors - Premium Series|0|3|19830.29|53|105|2021-02-02|44 days|No
+138|Custom Lighting Controls|Elan|ELA-5909|Elan Custom Lighting Controls - Premium Series|4|5|9111.43|55|64|2021-08-04|35 days|No
+139|Biometric Security|Dynaudio|DYN-3984|Dynaudio Biometric Security - Premium Series|7|1|8568.14|53|82|2024-03-29|10 days|No
+140|Distributed Audio Systems|Paradigm|PAR-8078|Paradigm Distributed Audio Systems - Premium Series|4|1|13689.63|36|114|2024-04-06|7 days|No
+141|Biometric Security|Elan|ELA-6033|Elan Biometric Security - Premium Series|8|3|5412.58|31|82|2021-03-12|17 days|No
+142|Custom Lighting Controls|McIntosh|MCI-3532|McIntosh Custom Lighting Controls - Premium Series|5|2|18865.2|38|50|2023-10-08|39 days|No
+143|Enterprise-Grade WiFi|Josh.ai|JOS-8762|Josh.ai Enterprise-Grade WiFi - Premium Series|6|3|23456.07|35|59|2022-11-23|23 days|No
+144|Custom Lighting Controls|Ruckus|RUC-6798|Ruckus Custom Lighting Controls - Premium Series|5|4|10265.97|44|79|2024-01-28|24 days|No
+145|Premium Cables & Connectors|Barco|BAR-6793|Barco Premium Cables & Connectors - Premium Series|2|4|265.37|50|71|2022-04-17|6 days|Yes
+146|Voice Control Systems|RTI|RTI-7119|RTI Voice Control Systems - Premium Series|0|3|5823.8|41|110|2024-09-01|21 days|No
+147|High-End Networking Equipment|RTI|RTI-5488|RTI High-End Networking Equipment - Premium Series|1|1|21952.83|57|63|2024-10-19|31 days|No
+148|Voice Control Systems|Paradigm|PAR-7390|Paradigm Voice Control Systems - Premium Series|7|2|25897.52|55|72|2024-05-18|5 days|No
+149|Smart Glass Solutions|Screen Innovations|SCR-5522|Screen Innovations Smart Glass Solutions - Premium Series|8|3|1734.69|28|113|2021-12-02|43 days|No
+150|Premium Speakers|Paradigm|PAR-7779|Paradigm Premium Speakers - Premium Series|2|2|3788.06|29|151|2024-05-06|23 days|No
+151|Motorized Shading|Bowers & Wilkins|BOW-5271|Bowers & Wilkins Motorized Shading - Premium Series|8|5|12113.97|45|75|2023-01-24|39 days|No
+152|Luxury Control Interfaces|Sonos|SON-8304|Sonos Luxury Control Interfaces - Premium Series|3|2|23959.17|45|83|2025-01-27|26 days|No
+153|Custom Lighting Controls|Somfy|SOM-1379|Somfy Custom Lighting Controls - Premium Series|2|1|9231.2|41|106|2023-05-21|19 days|No
+154|Enterprise-Grade WiFi|Martin Logan|MAR-9392|Martin Logan Enterprise-Grade WiFi - Premium Series|5|1|21969.88|58|145|2025-02-12|6 days|No
+155|Ultra HD Projectors|Dynaudio|DYN-5630|Dynaudio Ultra HD Projectors - Premium Series|5|1|24023.69|45|20|2022-10-04|37 days|No
+156|Distributed Audio Systems|Meridian|MER-8675|Meridian Distributed Audio Systems - Premium Series|3|1|14674.97|57|111|2023-03-21|8 days|No
+157|Custom Lighting Controls|NAD|NAD-2196|NAD Custom Lighting Controls - Premium Series|2|5|24469.45|34|87|2021-11-07|44 days|No
+158|Enterprise-Grade WiFi|Epson Pro Cinema|EPS-1104|Epson Pro Cinema Enterprise-Grade WiFi - Premium Series|6|1|24470.58|50|3|2021-08-24|39 days|No
+159|Premium Cables & Connectors|Kaleidescape|KAL-6351|Kaleidescape Premium Cables & Connectors - Premium Series|8|4|7199.98|39|52|2023-10-13|40 days|No
+160|Smart Glass Solutions|Axis|AXI-3429|Axis Smart Glass Solutions - Premium Series|3|3|24575.94|34|47|2024-05-02|15 days|No
+161|Distributed Audio Systems|Control4|CON-6365|Control4 Distributed Audio Systems - Premium Series|5|2|21459.5|59|54|2020-05-21|25 days|No
+162|Luxury Control Interfaces|Epson Pro Cinema|EPS-6821|Epson Pro Cinema Luxury Control Interfaces - Premium Series|0|2|27253.59|39|113|2024-04-30|16 days|No
+163|Premium Cables & Connectors|Savant|SAV-8320|Savant Premium Cables & Connectors - Premium Series|7|4|12269.86|38|51|2020-04-10|27 days|No
+164|Premium Cables & Connectors|Meridian|MER-9462|Meridian Premium Cables & Connectors - Premium Series|1|2|2653.21|36|54|2025-02-13|35 days|No
+165|Custom Lighting Controls|Axis|AXI-4446|Axis Custom Lighting Controls - Premium Series|1|5|20643.81|45|93|2021-01-26|29 days|No
+166|Distributed Audio Systems|Meridian|MER-7881|Meridian Distributed Audio Systems - Premium Series|6|1|25990.72|26|91|2022-02-17|3 days|No
+167|Smart Home Processors|Sonos|SON-2383|Sonos Smart Home Processors - Premium Series|6|4|12001.34|44|5|2023-12-07|17 days|No
+168|Smart Home Processors|Cisco Meraki|CIS-1151|Cisco Meraki Smart Home Processors - Premium Series|2|5|1352.67|40|40|2023-03-02|14 days|No
+169|Custom Lighting Controls|Control4|CON-7089|Control4 Custom Lighting Controls - Premium Series|6|2|1785.76|38|108|2021-08-23|45 days|No
+170|Cinema Room Acoustics|Kaleidescape|KAL-2792|Kaleidescape Cinema Room Acoustics - Premium Series|2|1|20432.47|36|128|2024-12-05|26 days|No
+171|Premium Cables & Connectors|Somfy|SOM-1466|Somfy Premium Cables & Connectors - Premium Series|0|3|25006.99|41|8|2021-10-19|42 days|No
+172|Ultra HD Projectors|Kaleidescape|KAL-9604|Kaleidescape Ultra HD Projectors - Premium Series|2|2|25132.87|27|26|2022-02-11|37 days|Yes
+173|Cinema Room Acoustics|KEF|KEF-8609|KEF Cinema Room Acoustics - Premium Series|6|5|2633.27|29|113|2022-09-01|10 days|No
+174|Smart Glass Solutions|Crestron|CRE-6290|Crestron Smart Glass Solutions - Premium Series|8|3|8640.09|55|158|2020-09-19|19 days|No
+175|Premium Speakers|Paradigm|PAR-9433|Paradigm Premium Speakers - Premium Series|2|2|13607.84|37|58|2021-03-25|11 days|No
+176|Voice Control Systems|McIntosh|MCI-5092|McIntosh Voice Control Systems - Premium Series|3|3|19755.97|43|48|2020-08-03|42 days|No
+177|Smart Home Processors|Ubiquiti|UBI-9518|Ubiquiti Smart Home Processors - Premium Series|8|5|19569.51|54|69|2023-04-24|45 days|No
+178|Luxury Control Interfaces|Cisco Meraki|CIS-1560|Cisco Meraki Luxury Control Interfaces - Premium Series|6|1|11669.15|34|51|2024-02-17|40 days|No
+179|Ultra HD Projectors|Kaleidescape|KAL-6284|Kaleidescape Ultra HD Projectors - Premium Series|0|5|17492.53|40|124|2022-03-23|13 days|No
+180|High-End Networking Equipment|RTI|RTI-8425|RTI High-End Networking Equipment - Premium Series|4|5|17330.45|50|113|2021-03-15|31 days|No
+181|Smart Home Processors|Dynaudio|DYN-6586|Dynaudio Smart Home Processors - Premium Series|7|5|25415.23|46|117|2021-06-06|14 days|No
+182|Biometric Security|Ubiquiti|UBI-6987|Ubiquiti Biometric Security - Premium Series|6|1|21015.95|41|140|2024-05-20|7 days|No
+183|Motorized Shading|Anthem|ANT-5844|Anthem Motorized Shading - Premium Series|2|3|22845.84|32|79|2023-12-30|38 days|No
+184|Distributed Audio Systems|Bowers & Wilkins|BOW-9370|Bowers & Wilkins Distributed Audio Systems - Premium Series|3|2|26576.75|57|57|2022-03-25|14 days|No
+185|Motorized Shading|Axis|AXI-9692|Axis Motorized Shading - Premium Series|8|1|14505.49|34|137|2024-10-27|39 days|No
+186|Motorized Shading|Josh.ai|JOS-4707|Josh.ai Motorized Shading - Premium Series|2|5|10366.79|31|157|2023-07-24|13 days|No
+187|Motorized Shading|Marantz|MAR-9548|Marantz Motorized Shading - Premium Series|6|4|1449.7|50|120|2022-03-09|21 days|No
+188|Voice Control Systems|Ruckus|RUC-6105|Ruckus Voice Control Systems - Premium Series|3|5|119.69|41|153|2023-09-30|38 days|No
+189|Ultra HD Projectors|Barco|BAR-4972|Barco Ultra HD Projectors - Premium Series|6|2|3952.91|55|108|2024-04-14|13 days|No
+190|Motorized Shading|Triad|TRI-3300|Triad Motorized Shading - Premium Series|6|1|22962.27|29|150|2021-07-19|17 days|No
+191|Luxury Control Interfaces|Linn|LIN-2921|Linn Luxury Control Interfaces - Premium Series|8|3|12254.22|42|135|2020-01-23|23 days|No
+192|Biometric Security|Paradigm|PAR-3045|Paradigm Biometric Security - Premium Series|8|5|6469.44|53|117|2024-08-10|22 days|No
+193|Cinema Room Acoustics|Ubiquiti|UBI-5185|Ubiquiti Cinema Room Acoustics - Premium Series|1|4|24082.7|27|110|2024-09-12|27 days|No
+194|Cinema Room Acoustics|Martin Logan|MAR-2451|Martin Logan Cinema Room Acoustics - Premium Series|5|2|20884.21|39|127|2020-07-30|36 days|No
+195|Premium Cables & Connectors|Barco|BAR-5519|Barco Premium Cables & Connectors - Premium Series|4|5|1661.71|31|85|2024-09-21|20 days|No
+196|Automated Door Systems|JBL Synthesis|JBL-8955|JBL Synthesis Automated Door Systems - Premium Series|3|5|27036.74|30|127|2020-07-26|3 days|No
+197|Premium Cables & Connectors|Marantz|MAR-7157|Marantz Premium Cables & Connectors - Premium Series|8|4|2957.61|56|11|2023-05-27|38 days|No
+198|Smart Glass Solutions|McIntosh|MCI-7911|McIntosh Smart Glass Solutions - Premium Series|6|1|15876.38|32|89|2022-01-08|18 days|No
+199|Custom Lighting Controls|Anthem|ANT-7532|Anthem Custom Lighting Controls - Premium Series|6|1|15813.92|58|56|2025-04-09|5 days|No
+200|Ultra HD Projectors|Ubiquiti|UBI-8481|Ubiquiti Ultra HD Projectors - Premium Series|4|3|2816.25|51|89|2024-02-02|4 days|No
+201|Motorized Shading|Marantz|MAR-5311|Marantz Motorized Shading - Premium Series|2|2|12326.13|28|143|2022-07-27|23 days|No
+202|Distributed Audio Systems|Cisco Meraki|CIS-9189|Cisco Meraki Distributed Audio Systems - Premium Series|1|3|20397.9|47|91|2024-09-25|14 days|No
+203|Voice Control Systems|KEF|KEF-2481|KEF Voice Control Systems - Premium Series|6|3|8779.87|44|160|2025-02-15|9 days|No
+204|Luxury Control Interfaces|Screen Innovations|SCR-8172|Screen Innovations Luxury Control Interfaces - Premium Series|5|2|5646.86|56|44|2021-11-21|25 days|No
+205|Premium Speakers|RTI|RTI-5853|RTI Premium Speakers - Premium Series|8|5|16046.78|57|46|2023-02-21|44 days|No
+206|Voice Control Systems|Sonos|SON-7629|Sonos Voice Control Systems - Premium Series|4|2|5550.19|30|88|2025-02-16|41 days|No
+207|Premium Cables & Connectors|Sony Professional|SON-2346|Sony Professional Premium Cables & Connectors - Premium Series|5|2|25343.27|31|114|2023-06-10|21 days|No
+208|Motorized Shading|Kaleidescape|KAL-4677|Kaleidescape Motorized Shading - Premium Series|3|2|18393.41|42|58|2022-10-09|4 days|No
+209|Enterprise-Grade WiFi|Linn|LIN-8917|Linn Enterprise-Grade WiFi - Premium Series|7|4|4091.87|43|143|2020-02-12|18 days|No
+210|Smart Glass Solutions|RTI|RTI-7342|RTI Smart Glass Solutions - Premium Series|4|3|11403.54|58|68|2022-03-29|40 days|No
+211|High-End Networking Equipment|Triad|TRI-3203|Triad High-End Networking Equipment - Premium Series|5|2|8879.04|47|138|2023-11-20|7 days|No
+212|Premium Speakers|Dynaudio|DYN-4732|Dynaudio Premium Speakers - Premium Series|5|5|19511.81|59|58|2020-08-02|23 days|No
+213|Smart Glass Solutions|Lutron|LUT-8146|Lutron Smart Glass Solutions - Premium Series|1|2|12715.94|53|6|2023-04-25|34 days|No
+214|Distributed Audio Systems|Lutron|LUT-6806|Lutron Distributed Audio Systems - Premium Series|1|3|24647.1|55|146|2020-05-10|12 days|No
+215|Cinema Room Acoustics|Savant|SAV-3184|Savant Cinema Room Acoustics - Premium Series|6|2|19655.84|56|116|2023-12-13|30 days|No
+216|Voice Control Systems|Ruckus|RUC-9841|Ruckus Voice Control Systems - Premium Series|5|1|9163.31|57|157|2020-10-22|29 days|No
+217|Enterprise-Grade WiFi|Axis|AXI-9679|Axis Enterprise-Grade WiFi - Premium Series|6|2|16200.19|29|50|2020-05-10|42 days|No
+218|Smart Glass Solutions|Elan|ELA-9109|Elan Smart Glass Solutions - Premium Series|1|3|23000.9|26|23|2025-03-17|44 days|No
+219|Premium Cables & Connectors|Screen Innovations|SCR-6624|Screen Innovations Premium Cables & Connectors - Premium Series|2|1|22156.59|49|80|2020-10-10|33 days|No
+220|Voice Control Systems|Epson Pro Cinema|EPS-5268|Epson Pro Cinema Voice Control Systems - Premium Series|6|2|24187.58|56|59|2021-01-12|8 days|No
+221|Biometric Security|Bowers & Wilkins|BOW-1334|Bowers & Wilkins Biometric Security - Premium Series|0|5|9414.94|31|16|2021-06-11|36 days|No
+222|Premium Speakers|Josh.ai|JOS-6355|Josh.ai Premium Speakers - Premium Series|6|3|157.35|58|8|2020-01-10|3 days|No
+223|Smart Glass Solutions|Somfy|SOM-9162|Somfy Smart Glass Solutions - Premium Series|2|5|23647.83|36|56|2023-07-27|15 days|No
+224|Premium Speakers|Kaleidescape|KAL-3908|Kaleidescape Premium Speakers - Premium Series|8|2|16536.28|36|114|2023-12-17|31 days|Yes
+225|Ultra HD Projectors|Meridian|MER-6718|Meridian Ultra HD Projectors - Premium Series|2|5|22219.34|44|133|2020-08-08|21 days|No
+226|Premium Speakers|Martin Logan|MAR-6527|Martin Logan Premium Speakers - Premium Series|7|5|5400.64|34|100|2025-02-27|42 days|No
+227|Premium Speakers|Sonos|SON-9040|Sonos Premium Speakers - Premium Series|3|4|9377.24|48|11|2021-05-05|12 days|No
+228|Cinema Room Acoustics|Paradigm|PAR-6251|Paradigm Cinema Room Acoustics - Premium Series|8|5|22320.75|31|148|2020-07-05|36 days|No
+229|Distributed Audio Systems|Stewart Filmscreen|STE-3219|Stewart Filmscreen Distributed Audio Systems - Premium Series|7|2|20842.13|37|75|2021-10-18|21 days|No
+230|Premium Cables & Connectors|Stewart Filmscreen|STE-9048|Stewart Filmscreen Premium Cables & Connectors - Premium Series|1|3|12028.45|30|144|2020-02-18|34 days|No
+231|Premium Cables & Connectors|Ruckus|RUC-1682|Ruckus Premium Cables & Connectors - Premium Series|3|1|13739.66|43|79|2022-12-16|6 days|No
+232|Voice Control Systems|Elan|ELA-1773|Elan Voice Control Systems - Premium Series|4|4|17665.14|28|49|2020-02-27|37 days|No
+233|Distributed Audio Systems|Lutron|LUT-3921|Lutron Distributed Audio Systems - Premium Series|8|3|22672.41|52|12|2022-12-09|35 days|No
+234|Premium Speakers|Anthem|ANT-4335|Anthem Premium Speakers - Premium Series|7|2|26129.52|39|147|2020-05-29|23 days|No
+235|Ultra HD Projectors|Control4|CON-5758|Control4 Ultra HD Projectors - Premium Series|0|2|25365.94|38|85|2025-03-07|10 days|No
+236|Premium Cables & Connectors|KEF|KEF-3321|KEF Premium Cables & Connectors - Premium Series|3|5|10293.16|50|67|2020-11-15|5 days|No
+237|Premium Cables & Connectors|Ruckus|RUC-1167|Ruckus Premium Cables & Connectors - Premium Series|6|4|5721.56|42|97|2023-11-14|29 days|No
+238|Cinema Room Acoustics|RTI|RTI-1170|RTI Cinema Room Acoustics - Premium Series|6|1|22480.09|56|115|2023-05-14|19 days|No
+239|Voice Control Systems|KEF|KEF-9004|KEF Voice Control Systems - Premium Series|1|2|2041.66|32|138|2020-11-21|10 days|No
+240|Voice Control Systems|JBL Synthesis|JBL-5693|JBL Synthesis Voice Control Systems - Premium Series|4|5|26276.14|50|67|2023-01-03|21 days|No
+241|Premium Speakers|Stewart Filmscreen|STE-9158|Stewart Filmscreen Premium Speakers - Premium Series|3|2|22648.61|37|133|2023-02-10|8 days|No
+242|Custom Lighting Controls|Paradigm|PAR-7358|Paradigm Custom Lighting Controls - Premium Series|2|1|3104.93|39|18|2024-09-02|5 days|No
+243|Smart Glass Solutions|Somfy|SOM-1672|Somfy Smart Glass Solutions - Premium Series|8|2|12109.79|34|54|2023-05-07|31 days|No
+244|Ultra HD Projectors|Crestron|CRE-3875|Crestron Ultra HD Projectors - Premium Series|5|4|26091.86|46|52|2025-03-02|19 days|No
+245|Ultra HD Projectors|Stewart Filmscreen|STE-4690|Stewart Filmscreen Ultra HD Projectors - Premium Series|2|2|10519.14|43|86|2020-05-10|35 days|No
+246|Custom Lighting Controls|Savant|SAV-9659|Savant Custom Lighting Controls - Premium Series|4|5|23975.93|29|42|2023-05-17|18 days|No
+247|High-End Networking Equipment|Lutron|LUT-9753|Lutron High-End Networking Equipment - Premium Series|0|5|3160.31|29|44|2022-11-26|29 days|No
+248|High-End Networking Equipment|Somfy|SOM-7245|Somfy High-End Networking Equipment - Premium Series|0|5|1162.6|31|15|2020-01-13|17 days|No
+249|Enterprise-Grade WiFi|Meridian|MER-2211|Meridian Enterprise-Grade WiFi - Premium Series|0|4|23583.31|27|147|2023-01-22|39 days|No
+250|Smart Home Processors|Screen Innovations|SCR-5096|Screen Innovations Smart Home Processors - Premium Series|5|4|12426.49|40|123|2023-06-08|34 days|No
+251|Luxury Control Interfaces|Anthem|ANT-5699|Anthem Luxury Control Interfaces - Premium Series|2|4|14803.49|48|66|2020-10-22|17 days|No
+252|High-End Networking Equipment|Savant|SAV-8535|Savant High-End Networking Equipment - Premium Series|6|5|11935.27|44|59|2020-03-28|12 days|No
+253|Luxury Control Interfaces|Axis|AXI-7844|Axis Luxury Control Interfaces - Premium Series|7|4|5809.88|50|114|2024-12-14|29 days|No
+254|Custom Lighting Controls|Somfy|SOM-9682|Somfy Custom Lighting Controls - Premium Series|3|2|9362.38|50|56|2024-01-21|11 days|No
+255|Smart Glass Solutions|RTI|RTI-7688|RTI Smart Glass Solutions - Premium Series|5|3|26075.86|48|55|2023-01-27|32 days|No
+256|Custom Lighting Controls|McIntosh|MCI-7752|McIntosh Custom Lighting Controls - Premium Series|0|2|14978.08|53|56|2025-01-26|22 days|No
+257|Cinema Room Acoustics|Josh.ai|JOS-8257|Josh.ai Cinema Room Acoustics - Premium Series|0|2|18177.85|58|99|2021-01-04|30 days|No
+258|Luxury Control Interfaces|Marantz|MAR-4240|Marantz Luxury Control Interfaces - Premium Series|2|4|27051.7|34|82|2022-04-03|44 days|No
+259|Automated Door Systems|Sony Professional|SON-9693|Sony Professional Automated Door Systems - Premium Series|0|1|20998.17|56|17|2023-06-04|23 days|No
+260|Ultra HD Projectors|Lutron|LUT-6844|Lutron Ultra HD Projectors - Premium Series|3|2|9190.02|30|55|2025-03-22|23 days|No
+261|Premium Speakers|Somfy|SOM-8317|Somfy Premium Speakers - Premium Series|7|3|17180.32|45|45|2025-01-26|40 days|No
+262|Premium Speakers|Josh.ai|JOS-2940|Josh.ai Premium Speakers - Premium Series|8|5|24783.38|34|105|2022-04-30|13 days|No
+263|Distributed Audio Systems|Paradigm|PAR-3402|Paradigm Distributed Audio Systems - Premium Series|7|1|19279.24|42|11|2020-08-20|18 days|No
+264|Premium Cables & Connectors|Paradigm|PAR-6937|Paradigm Premium Cables & Connectors - Premium Series|7|5|10500.94|35|147|2023-04-15|4 days|No
+265|Cinema Room Acoustics|Savant|SAV-7061|Savant Cinema Room Acoustics - Premium Series|1|2|26686.43|47|35|2020-06-23|24 days|No
+266|Biometric Security|Stewart Filmscreen|STE-6254|Stewart Filmscreen Biometric Security - Premium Series|4|1|25220.17|32|91|2021-02-07|45 days|No
+267|Enterprise-Grade WiFi|Martin Logan|MAR-5140|Martin Logan Enterprise-Grade WiFi - Premium Series|3|5|547.02|51|72|2022-01-17|13 days|No
+268|Cinema Room Acoustics|Savant|SAV-4912|Savant Cinema Room Acoustics - Premium Series|4|3|13520.39|35|115|2023-08-22|6 days|No
+269|High-End Networking Equipment|Control4|CON-6454|Control4 High-End Networking Equipment - Premium Series|8|1|7582.99|54|34|2020-06-13|45 days|No
+270|Cinema Room Acoustics|Crestron|CRE-4270|Crestron Cinema Room Acoustics - Premium Series|7|4|20231.82|26|100|2022-02-18|22 days|Yes
+271|Biometric Security|Marantz|MAR-9398|Marantz Biometric Security - Premium Series|6|4|19196.89|46|88|2024-07-02|26 days|No
+272|High-End Networking Equipment|JBL Synthesis|JBL-2364|JBL Synthesis High-End Networking Equipment - Premium Series|7|1|15239.76|56|82|2021-06-30|21 days|No
+273|Cinema Room Acoustics|Meridian|MER-2219|Meridian Cinema Room Acoustics - Premium Series|2|3|740.17|33|17|2021-05-12|9 days|No
+274|Enterprise-Grade WiFi|Triad|TRI-1220|Triad Enterprise-Grade WiFi - Premium Series|5|5|21443.43|29|19|2024-01-20|3 days|No
+275|Biometric Security|Anthem|ANT-2998|Anthem Biometric Security - Premium Series|0|2|17393.17|46|52|2020-08-04|45 days|No
+276|Cinema Room Acoustics|Bowers & Wilkins|BOW-4818|Bowers & Wilkins Cinema Room Acoustics - Premium Series|3|1|5192.89|30|21|2022-06-05|3 days|No
+277|Biometric Security|RTI|RTI-4048|RTI Biometric Security - Premium Series|7|3|13148.85|37|152|2023-05-24|34 days|No
+278|Ultra HD Projectors|NAD|NAD-4239|NAD Ultra HD Projectors - Premium Series|4|2|5175.17|25|139|2020-12-26|8 days|No
+279|Motorized Shading|Meridian|MER-6265|Meridian Motorized Shading - Premium Series|3|2|19361.56|29|102|2021-01-18|15 days|No
+280|Smart Glass Solutions|Integra|INT-4575|Integra Smart Glass Solutions - Premium Series|6|3|16586.56|57|89|2021-08-07|43 days|No
+281|Distributed Audio Systems|Crestron|CRE-3642|Crestron Distributed Audio Systems - Premium Series|1|1|18046.13|41|17|2024-03-24|21 days|No
+282|Cinema Room Acoustics|Lutron|LUT-8306|Lutron Cinema Room Acoustics - Premium Series|0|1|17087.57|52|82|2023-10-12|8 days|No
+283|Cinema Room Acoustics|Somfy|SOM-6227|Somfy Cinema Room Acoustics - Premium Series|7|3|19230.3|29|123|2021-06-21|39 days|No
+284|Smart Home Processors|Martin Logan|MAR-3794|Martin Logan Smart Home Processors - Premium Series|0|3|8696.07|37|105|2023-04-17|17 days|No
+285|Custom Lighting Controls|Cisco Meraki|CIS-8608|Cisco Meraki Custom Lighting Controls - Premium Series|7|2|25403.19|50|37|2024-11-14|32 days|No
+286|Premium Cables & Connectors|Barco|BAR-3447|Barco Premium Cables & Connectors - Premium Series|6|3|26120.48|33|4|2022-02-20|23 days|No
+287|Automated Door Systems|Elan|ELA-1268|Elan Automated Door Systems - Premium Series|6|4|4246.95|36|39|2020-07-13|16 days|No
+288|Motorized Shading|Savant|SAV-5549|Savant Motorized Shading - Premium Series|3|2|13731.66|35|125|2024-08-26|22 days|No
+289|Custom Lighting Controls|Epson Pro Cinema|EPS-1979|Epson Pro Cinema Custom Lighting Controls - Premium Series|5|1|12027.6|35|18|2023-09-25|34 days|No
+290|Voice Control Systems|Paradigm|PAR-9097|Paradigm Voice Control Systems - Premium Series|3|4|16758.13|34|126|2022-11-28|18 days|Yes
+291|Smart Home Processors|Josh.ai|JOS-2996|Josh.ai Smart Home Processors - Premium Series|2|5|9383.72|44|73|2022-05-28|42 days|No
+292|High-End Networking Equipment|Sony Professional|SON-8324|Sony Professional High-End Networking Equipment - Premium Series|5|4|10232.45|55|64|2020-02-06|7 days|No
+293|High-End Networking Equipment|KEF|KEF-8801|KEF High-End Networking Equipment - Premium Series|4|5|25038.9|45|88|2025-02-18|43 days|No
+294|High-End Networking Equipment|RTI|RTI-4750|RTI High-End Networking Equipment - Premium Series|3|2|24811.83|45|126|2023-03-18|43 days|No
+295|Cinema Room Acoustics|Savant|SAV-3430|Savant Cinema Room Acoustics - Premium Series|5|1|8695.67|31|136|2024-03-16|27 days|No
+296|Smart Glass Solutions|Marantz|MAR-5525|Marantz Smart Glass Solutions - Premium Series|2|3|1943.09|49|16|2024-06-08|15 days|No
+297|Motorized Shading|Crestron|CRE-5468|Crestron Motorized Shading - Premium Series|5|4|9072.4|55|81|2020-10-26|38 days|No
+298|Distributed Audio Systems|RTI|RTI-2972|RTI Distributed Audio Systems - Premium Series|4|1|22683.1|37|50|2023-05-24|41 days|No
+299|Distributed Audio Systems|Integra|INT-1178|Integra Distributed Audio Systems - Premium Series|4|3|6908.92|49|53|2023-12-05|30 days|No
+300|Ultra HD Projectors|Savant|SAV-8617|Savant Ultra HD Projectors - Premium Series|2|4|17958.28|51|98|2022-01-24|8 days|No
+301|Smart Glass Solutions|NAD|NAD-5521|NAD Smart Glass Solutions - Premium Series|3|5|20884.26|31|117|2022-07-22|20 days|No
+302|Smart Glass Solutions|Sony Professional|SON-6349|Sony Professional Smart Glass Solutions - Premium Series|8|4|8951.59|26|95|2020-04-17|10 days|No
+303|Automated Door Systems|Screen Innovations|SCR-7480|Screen Innovations Automated Door Systems - Premium Series|2|3|15177.98|52|157|2021-10-25|44 days|No
+304|Ultra HD Projectors|Integra|INT-3160|Integra Ultra HD Projectors - Premium Series|7|1|8984.75|27|18|2020-04-24|35 days|No
+305|Premium Speakers|Josh.ai|JOS-6903|Josh.ai Premium Speakers - Premium Series|5|3|25859.96|40|21|2024-03-25|8 days|No
+306|Enterprise-Grade WiFi|Sonos|SON-7821|Sonos Enterprise-Grade WiFi - Premium Series|6|2|13598.36|59|141|2022-12-10|6 days|No
+307|Automated Door Systems|Linn|LIN-4920|Linn Automated Door Systems - Premium Series|0|5|12394.36|32|7|2021-04-10|19 days|No
+308|Automated Door Systems|KEF|KEF-4811|KEF Automated Door Systems - Premium Series|2|2|13221.41|27|129|2024-04-02|17 days|No
+309|Premium Cables & Connectors|Stewart Filmscreen|STE-7798|Stewart Filmscreen Premium Cables & Connectors - Premium Series|8|1|637.41|43|11|2020-02-18|34 days|No
+310|Ultra HD Projectors|Linn|LIN-2320|Linn Ultra HD Projectors - Premium Series|5|5|6396.17|56|43|2021-12-16|3 days|No
+311|Luxury Control Interfaces|Crestron|CRE-7132|Crestron Luxury Control Interfaces - Premium Series|8|4|25177.35|43|41|2023-02-13|20 days|No
+312|Enterprise-Grade WiFi|JBL Synthesis|JBL-2952|JBL Synthesis Enterprise-Grade WiFi - Premium Series|4|4|9271.56|45|8|2022-03-15|19 days|No
+313|Biometric Security|Dynaudio|DYN-1682|Dynaudio Biometric Security - Premium Series|6|1|21200.76|38|53|2020-08-18|14 days|No
+314|Smart Glass Solutions|Ruckus|RUC-5970|Ruckus Smart Glass Solutions - Premium Series|5|4|22923.94|38|14|2024-08-01|40 days|No
+315|Motorized Shading|JBL Synthesis|JBL-4545|JBL Synthesis Motorized Shading - Premium Series|2|3|6048.32|26|53|2020-01-26|22 days|No
+316|Voice Control Systems|Screen Innovations|SCR-3707|Screen Innovations Voice Control Systems - Premium Series|7|4|19829.96|54|144|2023-05-17|28 days|No
+317|Enterprise-Grade WiFi|Triad|TRI-1511|Triad Enterprise-Grade WiFi - Premium Series|0|1|2237.49|31|71|2024-10-12|3 days|No
+318|Smart Home Processors|NAD|NAD-7030|NAD Smart Home Processors - Premium Series|3|2|10557.12|35|109|2020-04-19|9 days|No
+319|High-End Networking Equipment|Sonos|SON-1573|Sonos High-End Networking Equipment - Premium Series|1|3|7778.62|26|37|2024-04-26|22 days|No
+320|Cinema Room Acoustics|Linn|LIN-1235|Linn Cinema Room Acoustics - Premium Series|1|1|3405.7|26|61|2020-12-23|33 days|No
+321|Cinema Room Acoustics|Marantz|MAR-3511|Marantz Cinema Room Acoustics - Premium Series|3|1|7507.13|55|102|2024-02-06|7 days|No
+322|Ultra HD Projectors|Control4|CON-1217|Control4 Ultra HD Projectors - Premium Series|0|1|13734.43|54|72|2020-12-24|29 days|No
+323|Voice Control Systems|Paradigm|PAR-5455|Paradigm Voice Control Systems - Premium Series|3|2|5661.92|42|115|2023-10-06|4 days|No
+324|Biometric Security|Control4|CON-9004|Control4 Biometric Security - Premium Series|3|1|24035.74|52|74|2023-12-10|38 days|No
+325|Smart Glass Solutions|Somfy|SOM-7115|Somfy Smart Glass Solutions - Premium Series|5|5|12606.89|55|139|2020-12-01|37 days|No
+326|Voice Control Systems|Axis|AXI-6692|Axis Voice Control Systems - Premium Series|4|2|11257.78|50|127|2022-08-15|26 days|No
+327|Premium Cables & Connectors|Somfy|SOM-3255|Somfy Premium Cables & Connectors - Premium Series|5|3|26442.37|30|120|2021-06-02|41 days|No
+328|Distributed Audio Systems|Josh.ai|JOS-3376|Josh.ai Distributed Audio Systems - Premium Series|5|5|24480.0|46|41|2025-02-23|35 days|No
+329|Smart Glass Solutions|Sony Professional|SON-7864|Sony Professional Smart Glass Solutions - Premium Series|1|5|26876.38|38|140|2020-06-16|28 days|Yes
+330|Premium Speakers|Crestron|CRE-4715|Crestron Premium Speakers - Premium Series|5|4|7086.7|60|30|2020-12-03|45 days|No
+331|Automated Door Systems|Somfy|SOM-7435|Somfy Automated Door Systems - Premium Series|3|5|15132.06|50|90|2023-09-07|36 days|No
+332|Voice Control Systems|McIntosh|MCI-4085|McIntosh Voice Control Systems - Premium Series|0|5|6295.07|54|28|2024-09-04|12 days|No
+333|Cinema Room Acoustics|Sonos|SON-7653|Sonos Cinema Room Acoustics - Premium Series|4|2|19144.34|44|139|2024-03-27|18 days|No
+334|Automated Door Systems|RTI|RTI-4392|RTI Automated Door Systems - Premium Series|2|1|753.82|26|18|2020-09-04|21 days|No
+335|Premium Speakers|Epson Pro Cinema|EPS-5918|Epson Pro Cinema Premium Speakers - Premium Series|5|4|25990.12|50|96|2023-11-30|3 days|No
+336|Premium Cables & Connectors|Paradigm|PAR-9191|Paradigm Premium Cables & Connectors - Premium Series|5|3|17508.66|27|8|2020-03-05|34 days|No
+337|Custom Lighting Controls|Screen Innovations|SCR-6751|Screen Innovations Custom Lighting Controls - Premium Series|7|1|20732.42|31|98|2023-11-11|30 days|Yes
+338|Custom Lighting Controls|Bowers & Wilkins|BOW-5020|Bowers & Wilkins Custom Lighting Controls - Premium Series|1|4|13116.74|59|98|2020-06-18|8 days|No
+339|Motorized Shading|Paradigm|PAR-8392|Paradigm Motorized Shading - Premium Series|3|5|1050.63|44|106|2024-05-10|38 days|No
+340|Biometric Security|Sony Professional|SON-2132|Sony Professional Biometric Security - Premium Series|8|2|16364.02|26|119|2022-06-29|35 days|No
+341|Smart Glass Solutions|Screen Innovations|SCR-1798|Screen Innovations Smart Glass Solutions - Premium Series|4|5|22057.82|59|31|2024-01-23|44 days|No
+342|Custom Lighting Controls|Elan|ELA-5756|Elan Custom Lighting Controls - Premium Series|5|4|24822.95|43|29|2020-03-22|13 days|No
+343|Automated Door Systems|Sonos|SON-7345|Sonos Automated Door Systems - Premium Series|2|4|5563.98|56|12|2020-01-12|18 days|No
+344|Motorized Shading|Ubiquiti|UBI-8285|Ubiquiti Motorized Shading - Premium Series|1|1|23817.84|56|43|2024-01-01|17 days|No
+345|Voice Control Systems|Savant|SAV-9604|Savant Voice Control Systems - Premium Series|5|5|12109.48|48|28|2020-02-12|30 days|No
+346|Ultra HD Projectors|Marantz|MAR-2429|Marantz Ultra HD Projectors - Premium Series|4|3|12060.01|52|122|2020-05-13|7 days|No
+347|Cinema Room Acoustics|Triad|TRI-3654|Triad Cinema Room Acoustics - Premium Series|1|5|24942.22|33|48|2020-02-19|10 days|No
+348|Custom Lighting Controls|Somfy|SOM-4039|Somfy Custom Lighting Controls - Premium Series|6|1|15376.32|55|144|2024-06-05|7 days|Yes
+349|Motorized Shading|Kaleidescape|KAL-1982|Kaleidescape Motorized Shading - Premium Series|8|1|8336.4|50|29|2022-01-31|3 days|No
+350|Smart Home Processors|Crestron|CRE-4992|Crestron Smart Home Processors - Premium Series|7|2|8418.6|33|49|2025-02-28|23 days|No
+351|Custom Lighting Controls|Paradigm|PAR-9870|Paradigm Custom Lighting Controls - Premium Series|1|2|5974.81|36|33|2023-02-06|27 days|No
+352|Luxury Control Interfaces|Sonos|SON-5047|Sonos Luxury Control Interfaces - Premium Series|6|3|13193.89|29|58|2020-12-03|39 days|No
+353|Premium Cables & Connectors|Lutron|LUT-7465|Lutron Premium Cables & Connectors - Premium Series|0|2|20717.44|27|96|2024-05-17|23 days|No
+354|Smart Glass Solutions|KEF|KEF-9348|KEF Smart Glass Solutions - Premium Series|6|2|20614.39|33|62|2023-06-13|33 days|No
+355|Smart Home Processors|Martin Logan|MAR-7837|Martin Logan Smart Home Processors - Premium Series|1|5|21285.19|52|22|2020-03-04|41 days|No
+356|Enterprise-Grade WiFi|Kaleidescape|KAL-7443|Kaleidescape Enterprise-Grade WiFi - Premium Series|4|4|21280.23|27|88|2021-07-22|26 days|No
+357|Distributed Audio Systems|Cisco Meraki|CIS-7325|Cisco Meraki Distributed Audio Systems - Premium Series|8|5|25290.36|55|154|2022-09-25|35 days|No
+358|Smart Glass Solutions|Sony Professional|SON-9728|Sony Professional Smart Glass Solutions - Premium Series|8|5|12964.9|30|17|2021-12-02|34 days|No
+359|Smart Home Processors|Marantz|MAR-6311|Marantz Smart Home Processors - Premium Series|3|5|24069.44|57|49|2021-10-03|17 days|No
+360|Smart Home Processors|RTI|RTI-5323|RTI Smart Home Processors - Premium Series|6|2|22726.89|58|157|2021-07-24|29 days|No
+361|Luxury Control Interfaces|Integra|INT-6261|Integra Luxury Control Interfaces - Premium Series|3|4|5313.17|48|149|2023-02-06|37 days|No
+362|Premium Speakers|Integra|INT-6527|Integra Premium Speakers - Premium Series|2|4|17601.13|38|96|2024-06-05|41 days|No
+363|Custom Lighting Controls|Marantz|MAR-3397|Marantz Custom Lighting Controls - Premium Series|4|5|25650.73|54|19|2021-11-30|37 days|No
+364|Premium Cables & Connectors|Stewart Filmscreen|STE-9110|Stewart Filmscreen Premium Cables & Connectors - Premium Series|7|5|199.49|37|150|2025-03-15|19 days|No
+365|Distributed Audio Systems|Barco|BAR-9020|Barco Distributed Audio Systems - Premium Series|1|4|5565.81|28|112|2023-07-10|30 days|No
+366|Premium Speakers|Sony Professional|SON-2151|Sony Professional Premium Speakers - Premium Series|4|1|5070.46|48|141|2020-03-25|6 days|No
+367|Luxury Control Interfaces|McIntosh|MCI-1981|McIntosh Luxury Control Interfaces - Premium Series|0|1|25466.23|52|87|2020-03-22|16 days|No
+368|Voice Control Systems|Marantz|MAR-5370|Marantz Voice Control Systems - Premium Series|8|3|7893.91|40|61|2021-03-27|17 days|No
+369|Distributed Audio Systems|Cisco Meraki|CIS-9875|Cisco Meraki Distributed Audio Systems - Premium Series|0|2|20990.8|35|24|2021-02-20|27 days|No
+370|Smart Glass Solutions|Marantz|MAR-7658|Marantz Smart Glass Solutions - Premium Series|3|2|22283.58|32|118|2021-05-19|9 days|No
+371|Cinema Room Acoustics|Elan|ELA-4912|Elan Cinema Room Acoustics - Premium Series|4|4|25243.76|42|149|2020-01-07|9 days|No
+372|Automated Door Systems|Screen Innovations|SCR-2343|Screen Innovations Automated Door Systems - Premium Series|6|4|12330.46|39|114|2024-10-01|9 days|No
+373|Cinema Room Acoustics|Screen Innovations|SCR-5451|Screen Innovations Cinema Room Acoustics - Premium Series|3|4|23407.56|49|112|2023-01-13|4 days|No
+374|Distributed Audio Systems|Ubiquiti|UBI-7355|Ubiquiti Distributed Audio Systems - Premium Series|7|5|8931.77|56|53|2023-06-14|35 days|No
+375|Voice Control Systems|Sonos|SON-7619|Sonos Voice Control Systems - Premium Series|3|2|16570.12|49|81|2024-06-01|13 days|No
+376|Smart Home Processors|Triad|TRI-8695|Triad Smart Home Processors - Premium Series|0|5|19692.04|39|63|2023-05-14|27 days|No
+377|Premium Speakers|NAD|NAD-6655|NAD Premium Speakers - Premium Series|5|4|19640.98|26|6|2023-03-16|27 days|No
+378|Voice Control Systems|NAD|NAD-6705|NAD Voice Control Systems - Premium Series|3|3|25012.66|30|94|2021-06-06|30 days|No
+379|Smart Home Processors|Paradigm|PAR-9473|Paradigm Smart Home Processors - Premium Series|8|2|4440.31|39|10|2023-08-13|40 days|No
+380|High-End Networking Equipment|Lutron|LUT-1820|Lutron High-End Networking Equipment - Premium Series|4|1|20945.85|30|135|2020-07-08|13 days|No
+381|Custom Lighting Controls|Kaleidescape|KAL-4047|Kaleidescape Custom Lighting Controls - Premium Series|3|4|8139.46|52|80|2024-11-18|20 days|No
+382|Premium Speakers|KEF|KEF-3882|KEF Premium Speakers - Premium Series|4|5|23988.88|28|121|2023-09-02|39 days|No
+383|Cinema Room Acoustics|Josh.ai|JOS-2262|Josh.ai Cinema Room Acoustics - Premium Series|1|1|6580.76|37|69|2023-12-30|41 days|No
+384|Luxury Control Interfaces|Meridian|MER-3931|Meridian Luxury Control Interfaces - Premium Series|2|5|21448.43|60|48|2024-01-21|26 days|No
+385|Ultra HD Projectors|Cisco Meraki|CIS-1339|Cisco Meraki Ultra HD Projectors - Premium Series|8|5|23539.61|42|15|2024-07-23|35 days|No
+386|Luxury Control Interfaces|Lutron|LUT-7016|Lutron Luxury Control Interfaces - Premium Series|4|4|12957.74|33|63|2024-10-30|18 days|No
+387|Voice Control Systems|Meridian|MER-1692|Meridian Voice Control Systems - Premium Series|1|4|19650.84|35|35|2023-05-26|43 days|Yes
+388|Custom Lighting Controls|Martin Logan|MAR-7617|Martin Logan Custom Lighting Controls - Premium Series|8|4|18667.42|50|134|2023-01-13|38 days|No
+389|Smart Glass Solutions|Stewart Filmscreen|STE-9243|Stewart Filmscreen Smart Glass Solutions - Premium Series|7|2|20697.18|58|10|2020-12-07|29 days|No
+390|Smart Glass Solutions|Somfy|SOM-7756|Somfy Smart Glass Solutions - Premium Series|6|4|23170.9|32|77|2025-01-25|41 days|No
+391|High-End Networking Equipment|Martin Logan|MAR-3411|Martin Logan High-End Networking Equipment - Premium Series|7|5|5552.47|26|36|2022-06-10|16 days|No
+392|Smart Home Processors|Stewart Filmscreen|STE-8193|Stewart Filmscreen Smart Home Processors - Premium Series|4|4|6806.63|26|103|2025-01-24|17 days|No
+393|Custom Lighting Controls|Somfy|SOM-1841|Somfy Custom Lighting Controls - Premium Series|3|2|24278.48|54|26|2022-05-01|11 days|No
+394|Ultra HD Projectors|Axis|AXI-8100|Axis Ultra HD Projectors - Premium Series|1|5|12848.8|49|76|2024-11-21|44 days|No
+395|Distributed Audio Systems|Paradigm|PAR-6430|Paradigm Distributed Audio Systems - Premium Series|3|3|1219.96|55|130|2021-12-22|7 days|No
+396|Premium Speakers|Kaleidescape|KAL-1404|Kaleidescape Premium Speakers - Premium Series|8|2|20497.41|60|134|2020-05-02|20 days|No
+397|Custom Lighting Controls|Stewart Filmscreen|STE-6350|Stewart Filmscreen Custom Lighting Controls - Premium Series|4|3|9259.38|54|14|2023-06-27|25 days|No
+398|Smart Glass Solutions|Meridian|MER-9420|Meridian Smart Glass Solutions - Premium Series|0|5|24309.97|56|145|2024-04-12|30 days|No
+399|Luxury Control Interfaces|Screen Innovations|SCR-3358|Screen Innovations Luxury Control Interfaces - Premium Series|2|2|9152.86|53|24|2021-07-01|43 days|No
+400|Smart Home Processors|Stewart Filmscreen|STE-3178|Stewart Filmscreen Smart Home Processors - Premium Series|3|4|6142.31|27|146|2020-01-25|22 days|No
+401|Enterprise-Grade WiFi|Kaleidescape|KAL-2085|Kaleidescape Enterprise-Grade WiFi - Premium Series|2|1|11803.11|41|68|2020-01-02|16 days|No
+402|Enterprise-Grade WiFi|Sonos|SON-2310|Sonos Enterprise-Grade WiFi - Premium Series|7|3|6111.0|35|158|2020-08-21|34 days|No
+403|High-End Networking Equipment|Paradigm|PAR-9977|Paradigm High-End Networking Equipment - Premium Series|5|3|26285.76|41|135|2023-02-17|39 days|No
+404|Biometric Security|Marantz|MAR-1364|Marantz Biometric Security - Premium Series|6|4|22191.52|40|70|2024-07-26|17 days|No
+405|Distributed Audio Systems|Ruckus|RUC-5920|Ruckus Distributed Audio Systems - Premium Series|4|1|13774.17|50|38|2023-04-26|6 days|No
+406|Automated Door Systems|KEF|KEF-3510|KEF Automated Door Systems - Premium Series|1|5|24233.64|40|130|2025-01-27|32 days|No
+407|Voice Control Systems|Stewart Filmscreen|STE-4973|Stewart Filmscreen Voice Control Systems - Premium Series|2|5|11594.4|46|124|2020-06-15|22 days|No
+408|Biometric Security|Sonos|SON-8080|Sonos Biometric Security - Premium Series|2|4|21336.32|28|122|2022-04-11|30 days|No
+409|High-End Networking Equipment|Somfy|SOM-9058|Somfy High-End Networking Equipment - Premium Series|6|5|3348.22|40|55|2024-12-05|34 days|No
+410|Automated Door Systems|Triad|TRI-6359|Triad Automated Door Systems - Premium Series|6|1|7956.35|35|26|2020-11-22|24 days|No
+411|Enterprise-Grade WiFi|Crestron|CRE-2512|Crestron Enterprise-Grade WiFi - Premium Series|2|1|4219.77|52|1|2025-01-10|34 days|No
+412|Ultra HD Projectors|Sony Professional|SON-2433|Sony Professional Ultra HD Projectors - Premium Series|0|2|8092.08|48|80|2023-09-26|25 days|No
+413|Ultra HD Projectors|Bowers & Wilkins|BOW-3784|Bowers & Wilkins Ultra HD Projectors - Premium Series|6|4|27176.38|25|28|2024-06-04|15 days|No
+414|Smart Home Processors|Sonos|SON-8574|Sonos Smart Home Processors - Premium Series|4|2|22893.06|43|132|2020-05-13|11 days|No
+415|Smart Glass Solutions|KEF|KEF-6548|KEF Smart Glass Solutions - Premium Series|2|4|18982.59|27|116|2024-10-11|28 days|No
+416|Distributed Audio Systems|Ruckus|RUC-4852|Ruckus Distributed Audio Systems - Premium Series|4|3|8153.16|50|54|2024-07-10|29 days|No
+417|Luxury Control Interfaces|Kaleidescape|KAL-2928|Kaleidescape Luxury Control Interfaces - Premium Series|2|1|1117.89|28|115|2024-11-27|40 days|No
+418|Voice Control Systems|Sonos|SON-4919|Sonos Voice Control Systems - Premium Series|7|4|7847.0|46|105|2023-04-01|23 days|No
+419|Biometric Security|Ruckus|RUC-1554|Ruckus Biometric Security - Premium Series|5|2|25786.38|38|101|2023-09-05|33 days|No
+420|Premium Speakers|Lutron|LUT-9152|Lutron Premium Speakers - Premium Series|7|4|969.48|41|83|2021-01-17|27 days|No
+421|Automated Door Systems|Cisco Meraki|CIS-4014|Cisco Meraki Automated Door Systems - Premium Series|0|2|20523.25|52|65|2021-10-06|45 days|No
+422|Custom Lighting Controls|Ubiquiti|UBI-9115|Ubiquiti Custom Lighting Controls - Premium Series|4|2|4168.32|33|47|2022-11-16|18 days|No
+423|Enterprise-Grade WiFi|Crestron|CRE-6524|Crestron Enterprise-Grade WiFi - Premium Series|0|1|17407.82|46|124|2022-02-02|42 days|No
+424|Distributed Audio Systems|RTI|RTI-9273|RTI Distributed Audio Systems - Premium Series|4|5|5890.98|46|101|2024-10-22|45 days|No
+425|Smart Glass Solutions|RTI|RTI-9964|RTI Smart Glass Solutions - Premium Series|4|5|12022.94|27|117|2024-01-12|32 days|Yes
+426|High-End Networking Equipment|Savant|SAV-7836|Savant High-End Networking Equipment - Premium Series|7|5|11266.94|29|147|2024-08-25|33 days|No
+427|High-End Networking Equipment|KEF|KEF-1634|KEF High-End Networking Equipment - Premium Series|3|5|12415.54|44|66|2024-10-11|44 days|No
+428|Ultra HD Projectors|KEF|KEF-1036|KEF Ultra HD Projectors - Premium Series|6|1|1220.5|53|20|2022-03-24|18 days|No
+429|Smart Home Processors|Barco|BAR-1838|Barco Smart Home Processors - Premium Series|7|5|557.65|44|55|2023-09-20|41 days|No
+430|Distributed Audio Systems|Integra|INT-6383|Integra Distributed Audio Systems - Premium Series|2|5|21465.29|40|52|2023-02-22|27 days|Yes
+431|Premium Cables & Connectors|Bowers & Wilkins|BOW-2629|Bowers & Wilkins Premium Cables & Connectors - Premium Series|2|3|9115.14|40|44|2020-02-12|33 days|No
+432|Biometric Security|JBL Synthesis|JBL-3685|JBL Synthesis Biometric Security - Premium Series|5|1|11492.62|52|74|2024-02-02|16 days|No
+433|Distributed Audio Systems|Sonos|SON-1054|Sonos Distributed Audio Systems - Premium Series|3|1|2197.82|34|70|2024-10-13|10 days|No
+434|Premium Speakers|NAD|NAD-9368|NAD Premium Speakers - Premium Series|1|4|9354.94|57|158|2022-08-10|37 days|No
+435|Premium Speakers|Axis|AXI-4101|Axis Premium Speakers - Premium Series|8|3|21720.71|47|5|2022-03-05|14 days|No
+436|Smart Glass Solutions|Bowers & Wilkins|BOW-3627|Bowers & Wilkins Smart Glass Solutions - Premium Series|8|5|27284.25|35|50|2021-12-01|12 days|No
+437|Cinema Room Acoustics|Axis|AXI-9395|Axis Cinema Room Acoustics - Premium Series|6|2|925.92|49|43|2020-07-31|30 days|No
+438|Biometric Security|Paradigm|PAR-9099|Paradigm Biometric Security - Premium Series|8|4|21295.16|29|100|2024-09-05|17 days|No
+439|High-End Networking Equipment|RTI|RTI-1060|RTI High-End Networking Equipment - Premium Series|5|1|24760.19|27|96|2021-01-20|31 days|No
+440|Premium Cables & Connectors|Crestron|CRE-2572|Crestron Premium Cables & Connectors - Premium Series|8|5|26666.9|54|30|2020-10-01|8 days|No
+441|Custom Lighting Controls|Martin Logan|MAR-1532|Martin Logan Custom Lighting Controls - Premium Series|5|2|15272.69|60|80|2020-09-02|24 days|No
+442|Premium Cables & Connectors|Integra|INT-5918|Integra Premium Cables & Connectors - Premium Series|2|3|1176.53|31|98|2025-04-07|6 days|No
+443|Smart Home Processors|Ubiquiti|UBI-2230|Ubiquiti Smart Home Processors - Premium Series|7|3|23384.3|29|77|2022-01-15|36 days|No
+444|Ultra HD Projectors|Integra|INT-9600|Integra Ultra HD Projectors - Premium Series|1|3|9087.18|30|30|2025-03-22|11 days|No
+445|Smart Home Processors|Ubiquiti|UBI-4478|Ubiquiti Smart Home Processors - Premium Series|1|2|8828.56|32|13|2023-03-26|14 days|No
+446|Automated Door Systems|Bowers & Wilkins|BOW-9946|Bowers & Wilkins Automated Door Systems - Premium Series|4|5|22339.1|60|77|2024-11-17|39 days|No
+447|Premium Cables & Connectors|Control4|CON-6460|Control4 Premium Cables & Connectors - Premium Series|4|1|8652.73|51|36|2023-09-09|8 days|No
+448|Smart Glass Solutions|Crestron|CRE-6916|Crestron Smart Glass Solutions - Premium Series|6|5|3036.04|55|28|2022-08-18|5 days|No
+449|Smart Glass Solutions|Triad|TRI-2701|Triad Smart Glass Solutions - Premium Series|0|4|2356.22|35|56|2023-08-21|14 days|No
+450|Luxury Control Interfaces|Josh.ai|JOS-1086|Josh.ai Luxury Control Interfaces - Premium Series|8|3|20320.03|57|148|2022-04-15|18 days|No
+451|Enterprise-Grade WiFi|RTI|RTI-4457|RTI Enterprise-Grade WiFi - Premium Series|6|2|13603.76|40|136|2022-05-30|6 days|No
+452|Luxury Control Interfaces|Stewart Filmscreen|STE-5413|Stewart Filmscreen Luxury Control Interfaces - Premium Series|3|5|26780.23|51|32|2021-08-12|40 days|No
+453|Smart Home Processors|Martin Logan|MAR-4132|Martin Logan Smart Home Processors - Premium Series|4|2|149.79|32|148|2023-04-24|28 days|No
+454|Biometric Security|Meridian|MER-1658|Meridian Biometric Security - Premium Series|3|2|26600.91|40|12|2023-12-27|11 days|No
+455|Biometric Security|Stewart Filmscreen|STE-1046|Stewart Filmscreen Biometric Security - Premium Series|3|1|3751.83|38|4|2020-08-18|20 days|No
+456|High-End Networking Equipment|Linn|LIN-3019|Linn High-End Networking Equipment - Premium Series|5|3|12355.37|34|106|2024-05-27|44 days|No
+457|Distributed Audio Systems|Marantz|MAR-4387|Marantz Distributed Audio Systems - Premium Series|6|3|12255.05|37|49|2020-10-25|43 days|No
+458|Automated Door Systems|Triad|TRI-5130|Triad Automated Door Systems - Premium Series|0|4|13528.73|42|119|2020-04-10|30 days|No
+459|Enterprise-Grade WiFi|Lutron|LUT-7773|Lutron Enterprise-Grade WiFi - Premium Series|1|3|20606.6|58|37|2021-02-21|21 days|No
+460|Luxury Control Interfaces|Epson Pro Cinema|EPS-8445|Epson Pro Cinema Luxury Control Interfaces - Premium Series|5|3|21174.38|55|58|2020-05-13|36 days|No
+461|Voice Control Systems|Marantz|MAR-8870|Marantz Voice Control Systems - Premium Series|3|4|23103.03|49|35|2020-11-24|20 days|Yes
+462|Motorized Shading|Martin Logan|MAR-3370|Martin Logan Motorized Shading - Premium Series|1|3|10643.69|60|95|2023-08-07|35 days|No
+463|Voice Control Systems|McIntosh|MCI-7614|McIntosh Voice Control Systems - Premium Series|0|1|7554.93|58|146|2024-03-08|22 days|No
+464|Premium Speakers|Triad|TRI-9682|Triad Premium Speakers - Premium Series|2|4|24727.47|41|136|2024-03-31|18 days|Yes
+465|Ultra HD Projectors|Cisco Meraki|CIS-6591|Cisco Meraki Ultra HD Projectors - Premium Series|0|4|21159.03|60|50|2023-03-09|29 days|No
+466|Voice Control Systems|Ruckus|RUC-5455|Ruckus Voice Control Systems - Premium Series|3|4|19854.92|52|155|2023-11-26|19 days|No
+467|High-End Networking Equipment|McIntosh|MCI-1750|McIntosh High-End Networking Equipment - Premium Series|5|3|10516.05|37|121|2021-10-27|18 days|No
+468|Distributed Audio Systems|Ubiquiti|UBI-2249|Ubiquiti Distributed Audio Systems - Premium Series|1|5|13617.39|52|36|2020-02-03|38 days|No
+469|Automated Door Systems|Control4|CON-2189|Control4 Automated Door Systems - Premium Series|1|5|5723.84|51|113|2024-02-21|37 days|No
+470|Motorized Shading|Linn|LIN-1191|Linn Motorized Shading - Premium Series|6|1|6093.91|31|72|2021-06-09|5 days|No
+471|Cinema Room Acoustics|NAD|NAD-4878|NAD Cinema Room Acoustics - Premium Series|1|1|24572.08|30|65|2025-03-06|24 days|No
+472|Distributed Audio Systems|Triad|TRI-1104|Triad Distributed Audio Systems - Premium Series|7|2|1319.83|42|106|2020-12-08|37 days|No
+473|Premium Speakers|Bowers & Wilkins|BOW-1001|Bowers & Wilkins Premium Speakers - Premium Series|6|3|13906.36|39|92|2021-07-22|39 days|No
+474|Distributed Audio Systems|Josh.ai|JOS-1349|Josh.ai Distributed Audio Systems - Premium Series|4|2|846.77|31|45|2023-03-16|43 days|No
+475|Motorized Shading|Control4|CON-3172|Control4 Motorized Shading - Premium Series|4|4|20171.54|37|16|2021-02-08|16 days|No
+476|Motorized Shading|Sony Professional|SON-5908|Sony Professional Motorized Shading - Premium Series|6|2|972.54|38|17|2023-07-08|26 days|No
+477|Luxury Control Interfaces|Paradigm|PAR-9733|Paradigm Luxury Control Interfaces - Premium Series|2|4|10465.78|35|28|2020-03-12|26 days|No
+478|Luxury Control Interfaces|Linn|LIN-4756|Linn Luxury Control Interfaces - Premium Series|2|3|2115.3|51|134|2022-06-09|9 days|No
+479|Cinema Room Acoustics|Ubiquiti|UBI-4532|Ubiquiti Cinema Room Acoustics - Premium Series|7|4|24388.17|35|45|2022-12-27|41 days|No
+480|Enterprise-Grade WiFi|NAD|NAD-1328|NAD Enterprise-Grade WiFi - Premium Series|3|4|7756.61|41|76|2021-03-14|41 days|No
+481|Distributed Audio Systems|Anthem|ANT-1881|Anthem Distributed Audio Systems - Premium Series|3|5|25507.31|32|29|2025-01-18|11 days|No
+482|Premium Cables & Connectors|Sony Professional|SON-4797|Sony Professional Premium Cables & Connectors - Premium Series|2|2|1557.06|36|13|2024-11-28|37 days|No
+483|Smart Glass Solutions|Sonos|SON-9602|Sonos Smart Glass Solutions - Premium Series|8|1|6724.54|60|67|2021-11-25|8 days|No
+484|Distributed Audio Systems|Sony Professional|SON-4363|Sony Professional Distributed Audio Systems - Premium Series|2|2|22791.94|27|23|2022-10-01|30 days|No
+485|Smart Glass Solutions|NAD|NAD-6273|NAD Smart Glass Solutions - Premium Series|7|2|2066.61|59|71|2024-02-19|8 days|No
+486|High-End Networking Equipment|Savant|SAV-1396|Savant High-End Networking Equipment - Premium Series|0|1|1016.78|25|83|2024-05-06|4 days|No
+487|Voice Control Systems|Bowers & Wilkins|BOW-2609|Bowers & Wilkins Voice Control Systems - Premium Series|7|5|2373.31|37|96|2024-07-07|33 days|No
+488|Biometric Security|Savant|SAV-2886|Savant Biometric Security - Premium Series|8|3|19809.58|47|75|2022-02-15|23 days|No
+489|Premium Speakers|Kaleidescape|KAL-9046|Kaleidescape Premium Speakers - Premium Series|8|1|16553.54|59|39|2021-08-11|33 days|No
+490|Enterprise-Grade WiFi|Integra|INT-8682|Integra Enterprise-Grade WiFi - Premium Series|0|5|13843.77|27|112|2022-02-16|23 days|No
+491|Ultra HD Projectors|Lutron|LUT-6658|Lutron Ultra HD Projectors - Premium Series|5|1|186.57|41|93|2022-02-12|18 days|No
+492|Smart Home Processors|Kaleidescape|KAL-3445|Kaleidescape Smart Home Processors - Premium Series|4|5|11207.97|32|59|2022-04-25|18 days|No
+493|High-End Networking Equipment|Lutron|LUT-1686|Lutron High-End Networking Equipment - Premium Series|8|1|10140.51|35|121|2022-02-07|39 days|No
+494|Motorized Shading|Triad|TRI-6817|Triad Motorized Shading - Premium Series|0|5|11344.93|60|135|2023-06-19|32 days|No
+495|Premium Speakers|Lutron|LUT-7417|Lutron Premium Speakers - Premium Series|4|5|7445.33|28|32|2024-11-07|10 days|No
+496|Cinema Room Acoustics|Crestron|CRE-9969|Crestron Cinema Room Acoustics - Premium Series|7|4|7275.44|41|64|2020-12-29|44 days|No
+497|Premium Cables & Connectors|RTI|RTI-4968|RTI Premium Cables & Connectors - Premium Series|2|1|14580.72|29|37|2021-07-02|28 days|No
+498|Smart Glass Solutions|Integra|INT-6038|Integra Smart Glass Solutions - Premium Series|6|3|19994.86|58|41|2023-08-14|39 days|Yes
+499|Cinema Room Acoustics|Barco|BAR-9656|Barco Cinema Room Acoustics - Premium Series|6|2|20829.97|33|27|2024-01-19|26 days|No
+500|Enterprise-Grade WiFi|JBL Synthesis|JBL-7387|JBL Synthesis Enterprise-Grade WiFi - Premium Series|2|3|2360.59|27|96|2021-08-20|27 days|No
+501|Automated Door Systems|Control4|CON-9904|Control4 Automated Door Systems - Premium Series|2|3|5220.68|39|50|2021-11-27|26 days|No
+502|Cinema Room Acoustics|Savant|SAV-7736|Savant Cinema Room Acoustics - Premium Series|4|3|18424.72|55|132|2021-09-22|27 days|No
+503|Automated Door Systems|Dynaudio|DYN-2785|Dynaudio Automated Door Systems - Premium Series|5|2|25206.76|26|143|2024-02-05|17 days|No
+504|Distributed Audio Systems|Elan|ELA-3199|Elan Distributed Audio Systems - Premium Series|7|5|22855.08|42|16|2024-01-25|24 days|No
+505|High-End Networking Equipment|Control4|CON-4352|Control4 High-End Networking Equipment - Premium Series|3|2|8044.78|28|91|2021-05-04|21 days|No
+506|Distributed Audio Systems|JBL Synthesis|JBL-4635|JBL Synthesis Distributed Audio Systems - Premium Series|2|1|16191.26|32|24|2024-01-31|28 days|No
+507|Smart Glass Solutions|Anthem|ANT-4254|Anthem Smart Glass Solutions - Premium Series|3|5|14522.93|32|24|2020-04-08|37 days|No
+508|Motorized Shading|Martin Logan|MAR-4698|Martin Logan Motorized Shading - Premium Series|0|4|6047.67|50|9|2021-10-23|44 days|No
+509|Premium Speakers|Dynaudio|DYN-8564|Dynaudio Premium Speakers - Premium Series|8|4|13713.69|45|142|2020-07-14|27 days|No
+510|Distributed Audio Systems|Crestron|CRE-1435|Crestron Distributed Audio Systems - Premium Series|0|5|402.3|36|28|2024-08-07|16 days|No
+511|Premium Cables & Connectors|Meridian|MER-7181|Meridian Premium Cables & Connectors - Premium Series|5|4|15167.39|58|128|2021-05-15|3 days|No
+512|Smart Home Processors|Meridian|MER-4501|Meridian Smart Home Processors - Premium Series|6|3|26414.5|51|157|2024-12-11|3 days|No
+513|Luxury Control Interfaces|Lutron|LUT-9617|Lutron Luxury Control Interfaces - Premium Series|4|1|2198.54|29|139|2024-11-18|10 days|No
+514|Motorized Shading|Stewart Filmscreen|STE-3282|Stewart Filmscreen Motorized Shading - Premium Series|6|2|14623.65|46|44|2023-04-16|4 days|No
+515|Luxury Control Interfaces|Linn|LIN-4934|Linn Luxury Control Interfaces - Premium Series|7|3|16723.91|57|86|2020-05-30|12 days|No
+516|Premium Speakers|Bowers & Wilkins|BOW-9514|Bowers & Wilkins Premium Speakers - Premium Series|8|4|7098.49|27|11|2020-09-23|21 days|No
+517|Biometric Security|Savant|SAV-7479|Savant Biometric Security - Premium Series|6|4|21419.93|46|12|2022-10-05|18 days|No
+518|Premium Speakers|Meridian|MER-1690|Meridian Premium Speakers - Premium Series|3|1|20552.33|52|134|2025-04-06|4 days|No
+519|High-End Networking Equipment|Screen Innovations|SCR-3523|Screen Innovations High-End Networking Equipment - Premium Series|7|1|11006.57|30|83|2022-03-02|4 days|No
+520|Motorized Shading|McIntosh|MCI-6579|McIntosh Motorized Shading - Premium Series|5|1|26206.83|38|111|2025-01-12|19 days|No
+521|Luxury Control Interfaces|Epson Pro Cinema|EPS-8950|Epson Pro Cinema Luxury Control Interfaces - Premium Series|6|5|15778.22|56|37|2024-10-01|43 days|No
+522|Distributed Audio Systems|JBL Synthesis|JBL-5980|JBL Synthesis Distributed Audio Systems - Premium Series|8|1|8064.08|27|136|2021-05-10|10 days|No
+523|Enterprise-Grade WiFi|RTI|RTI-9660|RTI Enterprise-Grade WiFi - Premium Series|2|4|9494.07|40|12|2024-11-02|33 days|No
+524|Biometric Security|Somfy|SOM-7071|Somfy Biometric Security - Premium Series|7|1|16941.39|32|156|2020-07-28|6 days|No
+525|Distributed Audio Systems|Somfy|SOM-3978|Somfy Distributed Audio Systems - Premium Series|0|4|27313.49|29|66|2021-08-08|21 days|No
+526|Luxury Control Interfaces|Stewart Filmscreen|STE-7158|Stewart Filmscreen Luxury Control Interfaces - Premium Series|4|5|20822.83|51|155|2023-03-18|42 days|No
+527|Voice Control Systems|Anthem|ANT-9769|Anthem Voice Control Systems - Premium Series|5|5|2565.64|58|99|2020-10-24|21 days|No
+528|Smart Glass Solutions|Triad|TRI-9199|Triad Smart Glass Solutions - Premium Series|4|5|4134.46|31|159|2020-02-13|21 days|No
+529|Automated Door Systems|RTI|RTI-4654|RTI Automated Door Systems - Premium Series|4|2|26220.57|37|111|2021-01-13|9 days|No
+530|Distributed Audio Systems|Lutron|LUT-3539|Lutron Distributed Audio Systems - Premium Series|6|1|11280.17|26|118|2022-08-26|38 days|No
+531|Cinema Room Acoustics|Savant|SAV-4737|Savant Cinema Room Acoustics - Premium Series|8|5|17692.63|36|57|2021-09-25|16 days|No
+532|Biometric Security|Somfy|SOM-1286|Somfy Biometric Security - Premium Series|4|1|17918.69|58|89|2023-09-08|11 days|No
+533|Cinema Room Acoustics|Meridian|MER-9998|Meridian Cinema Room Acoustics - Premium Series|2|4|26995.97|52|152|2020-03-02|24 days|No
+534|Distributed Audio Systems|Kaleidescape|KAL-7265|Kaleidescape Distributed Audio Systems - Premium Series|6|3|12001.25|42|105|2024-05-23|8 days|No
+535|Cinema Room Acoustics|Linn|LIN-3387|Linn Cinema Room Acoustics - Premium Series|3|5|519.02|55|81|2020-07-20|30 days|No
+536|Cinema Room Acoustics|Meridian|MER-9871|Meridian Cinema Room Acoustics - Premium Series|2|2|7010.38|37|151|2022-03-27|20 days|No
+537|Smart Home Processors|Dynaudio|DYN-3690|Dynaudio Smart Home Processors - Premium Series|7|2|7557.38|27|1|2024-09-01|4 days|Yes
+538|Automated Door Systems|Dynaudio|DYN-1903|Dynaudio Automated Door Systems - Premium Series|1|4|12004.06|50|129|2020-05-08|27 days|No
+539|Premium Speakers|RTI|RTI-2084|RTI Premium Speakers - Premium Series|6|5|22414.05|46|15|2020-04-08|4 days|No
+540|Smart Home Processors|Bowers & Wilkins|BOW-8424|Bowers & Wilkins Smart Home Processors - Premium Series|6|2|8136.22|29|134|2020-04-21|23 days|No
+541|Smart Glass Solutions|NAD|NAD-7035|NAD Smart Glass Solutions - Premium Series|3|3|17696.39|34|70|2024-02-03|6 days|Yes
+542|Custom Lighting Controls|NAD|NAD-1953|NAD Custom Lighting Controls - Premium Series|7|2|12235.41|43|104|2020-11-28|28 days|No
+543|Premium Cables & Connectors|Sony Professional|SON-2508|Sony Professional Premium Cables & Connectors - Premium Series|7|4|16442.99|47|99|2023-02-11|4 days|No
+544|Luxury Control Interfaces|Sonos|SON-9584|Sonos Luxury Control Interfaces - Premium Series|8|3|21176.01|41|18|2022-03-24|4 days|No
+545|Motorized Shading|RTI|RTI-6147|RTI Motorized Shading - Premium Series|5|2|12541.4|30|52|2025-03-22|11 days|No
+546|Premium Cables & Connectors|McIntosh|MCI-4357|McIntosh Premium Cables & Connectors - Premium Series|2|1|12906.41|30|21|2020-01-22|32 days|No
+547|Ultra HD Projectors|Screen Innovations|SCR-9409|Screen Innovations Ultra HD Projectors - Premium Series|5|2|3194.66|52|120|2024-08-16|18 days|No
+548|Smart Glass Solutions|Axis|AXI-2217|Axis Smart Glass Solutions - Premium Series|8|3|10408.12|37|79|2022-07-05|16 days|No
+549|Ultra HD Projectors|Josh.ai|JOS-7481|Josh.ai Ultra HD Projectors - Premium Series|4|5|23790.24|45|12|2020-10-15|6 days|No
+550|Premium Speakers|Epson Pro Cinema|EPS-4356|Epson Pro Cinema Premium Speakers - Premium Series|4|1|7652.98|28|102|2022-07-14|18 days|No
+551|Premium Speakers|Kaleidescape|KAL-3790|Kaleidescape Premium Speakers - Premium Series|2|1|24899.12|56|4|2022-11-17|45 days|No
+552|Biometric Security|Bowers & Wilkins|BOW-4168|Bowers & Wilkins Biometric Security - Premium Series|4|5|24163.39|59|108|2020-07-28|14 days|No
+553|Distributed Audio Systems|Ubiquiti|UBI-4831|Ubiquiti Distributed Audio Systems - Premium Series|6|2|20229.27|56|139|2022-06-15|41 days|No
+554|Premium Speakers|Dynaudio|DYN-6545|Dynaudio Premium Speakers - Premium Series|3|5|4963.96|45|116|2020-02-29|29 days|No
+555|Ultra HD Projectors|Martin Logan|MAR-7599|Martin Logan Ultra HD Projectors - Premium Series|1|4|21627.79|59|123|2022-05-27|43 days|No
+556|Premium Cables & Connectors|Martin Logan|MAR-3400|Martin Logan Premium Cables & Connectors - Premium Series|0|3|6572.67|50|1|2024-05-16|36 days|No
+557|Luxury Control Interfaces|Bowers & Wilkins|BOW-6722|Bowers & Wilkins Luxury Control Interfaces - Premium Series|5|2|18157.56|35|23|2021-04-03|14 days|No
+558|Biometric Security|Somfy|SOM-2718|Somfy Biometric Security - Premium Series|4|4|516.25|46|146|2022-07-05|37 days|No
+559|Premium Speakers|Elan|ELA-7519|Elan Premium Speakers - Premium Series|7|5|2102.71|33|11|2023-03-08|23 days|No
+560|Distributed Audio Systems|Marantz|MAR-9957|Marantz Distributed Audio Systems - Premium Series|0|2|6552.65|59|33|2024-05-23|21 days|No
+561|Ultra HD Projectors|Ubiquiti|UBI-9884|Ubiquiti Ultra HD Projectors - Premium Series|6|5|21977.77|39|65|2024-09-19|45 days|No
+562|Smart Home Processors|Sony Professional|SON-2081|Sony Professional Smart Home Processors - Premium Series|1|3|8275.98|46|89|2022-11-14|42 days|No
+563|Distributed Audio Systems|Dynaudio|DYN-2501|Dynaudio Distributed Audio Systems - Premium Series|5|2|12651.48|27|61|2022-06-22|44 days|No
+564|Premium Cables & Connectors|NAD|NAD-4059|NAD Premium Cables & Connectors - Premium Series|0|5|10805.69|37|116|2024-04-24|37 days|No
+565|Enterprise-Grade WiFi|Sonos|SON-8559|Sonos Enterprise-Grade WiFi - Premium Series|7|5|26500.91|29|137|2023-09-21|43 days|No
+566|Distributed Audio Systems|Kaleidescape|KAL-3521|Kaleidescape Distributed Audio Systems - Premium Series|2|3|23583.88|52|133|2022-10-15|35 days|No
+567|Custom Lighting Controls|Control4|CON-9591|Control4 Custom Lighting Controls - Premium Series|0|4|21762.56|59|48|2023-10-27|23 days|No
+568|Enterprise-Grade WiFi|Triad|TRI-6904|Triad Enterprise-Grade WiFi - Premium Series|6|4|10208.17|42|159|2023-09-20|4 days|No
+569|Custom Lighting Controls|Control4|CON-9876|Control4 Custom Lighting Controls - Premium Series|2|3|949.07|32|96|2021-07-26|13 days|No
+570|Luxury Control Interfaces|Stewart Filmscreen|STE-6783|Stewart Filmscreen Luxury Control Interfaces - Premium Series|4|2|12728.18|50|64|2020-10-14|15 days|No
+571|Luxury Control Interfaces|Marantz|MAR-2689|Marantz Luxury Control Interfaces - Premium Series|5|4|21735.37|39|43|2023-01-23|15 days|No
+572|Biometric Security|Cisco Meraki|CIS-6625|Cisco Meraki Biometric Security - Premium Series|6|2|5221.02|46|148|2020-12-30|33 days|No
+573|Smart Glass Solutions|KEF|KEF-7062|KEF Smart Glass Solutions - Premium Series|1|2|23893.68|39|130|2022-12-20|24 days|No
+574|Voice Control Systems|Stewart Filmscreen|STE-9502|Stewart Filmscreen Voice Control Systems - Premium Series|4|4|10223.25|26|144|2022-09-29|44 days|No
+575|Smart Glass Solutions|Cisco Meraki|CIS-1124|Cisco Meraki Smart Glass Solutions - Premium Series|3|3|20816.51|43|160|2021-04-04|19 days|No
+576|Biometric Security|Dynaudio|DYN-8884|Dynaudio Biometric Security - Premium Series|7|2|22688.36|29|13|2025-02-14|10 days|No
+577|Automated Door Systems|Ubiquiti|UBI-6967|Ubiquiti Automated Door Systems - Premium Series|3|4|16050.35|42|79|2020-06-25|5 days|No
+578|Smart Home Processors|Anthem|ANT-4548|Anthem Smart Home Processors - Premium Series|2|3|3055.04|45|159|2020-08-07|15 days|No
+579|Automated Door Systems|Barco|BAR-7983|Barco Automated Door Systems - Premium Series|7|3|13143.69|58|12|2021-05-02|9 days|Yes
+580|Smart Glass Solutions|Marantz|MAR-2787|Marantz Smart Glass Solutions - Premium Series|4|1|26205.29|34|10|2024-07-01|44 days|No
+581|Luxury Control Interfaces|Anthem|ANT-9580|Anthem Luxury Control Interfaces - Premium Series|7|5|10598.52|58|16|2023-11-26|10 days|No
+582|Automated Door Systems|Sony Professional|SON-3126|Sony Professional Automated Door Systems - Premium Series|3|5|20865.18|25|135|2022-01-09|20 days|No
+583|Enterprise-Grade WiFi|Axis|AXI-8014|Axis Enterprise-Grade WiFi - Premium Series|6|1|11126.08|33|84|2023-02-15|24 days|No
+584|Smart Glass Solutions|Dynaudio|DYN-5579|Dynaudio Smart Glass Solutions - Premium Series|4|2|11490.89|53|36|2022-06-24|37 days|No
+585|High-End Networking Equipment|Dynaudio|DYN-6562|Dynaudio High-End Networking Equipment - Premium Series|6|3|9348.25|42|82|2023-07-18|37 days|No
+586|Automated Door Systems|Integra|INT-2944|Integra Automated Door Systems - Premium Series|1|4|4979.26|33|86|2023-06-12|22 days|Yes
+587|Cinema Room Acoustics|Crestron|CRE-6027|Crestron Cinema Room Acoustics - Premium Series|5|2|24281.4|27|151|2024-06-29|12 days|No
+588|Motorized Shading|Sonos|SON-2896|Sonos Motorized Shading - Premium Series|5|3|26362.26|33|18|2024-12-01|44 days|No
+589|High-End Networking Equipment|Ubiquiti|UBI-7974|Ubiquiti High-End Networking Equipment - Premium Series|8|2|13271.69|58|26|2023-07-21|16 days|No
+590|Smart Home Processors|Screen Innovations|SCR-4638|Screen Innovations Smart Home Processors - Premium Series|6|4|10677.76|56|113|2022-10-20|12 days|No
+591|Smart Home Processors|Barco|BAR-9442|Barco Smart Home Processors - Premium Series|2|3|4210.41|25|74|2022-01-20|11 days|No
+592|Premium Speakers|Linn|LIN-2734|Linn Premium Speakers - Premium Series|2|2|22169.49|36|17|2024-07-12|37 days|No
+593|Smart Glass Solutions|Kaleidescape|KAL-2517|Kaleidescape Smart Glass Solutions - Premium Series|0|4|24176.61|25|3|2021-09-16|43 days|No
+594|Distributed Audio Systems|Triad|TRI-8588|Triad Distributed Audio Systems - Premium Series|5|1|11486.93|56|137|2021-02-21|13 days|No
+595|Custom Lighting Controls|Stewart Filmscreen|STE-3899|Stewart Filmscreen Custom Lighting Controls - Premium Series|2|3|14316.68|30|123|2022-07-22|45 days|No
+596|Smart Home Processors|Somfy|SOM-7208|Somfy Smart Home Processors - Premium Series|2|5|15504.31|42|9|2020-10-04|33 days|No
+597|Smart Glass Solutions|Bowers & Wilkins|BOW-4950|Bowers & Wilkins Smart Glass Solutions - Premium Series|1|4|14104.32|54|14|2025-01-16|27 days|No
+598|Luxury Control Interfaces|NAD|NAD-8490|NAD Luxury Control Interfaces - Premium Series|3|2|26414.0|55|114|2020-05-09|14 days|No
+599|Voice Control Systems|Linn|LIN-3978|Linn Voice Control Systems - Premium Series|2|2|25467.52|36|148|2021-10-29|4 days|No
+600|Cinema Room Acoustics|Linn|LIN-7997|Linn Cinema Room Acoustics - Premium Series|5|5|20405.84|35|20|2024-02-09|9 days|No

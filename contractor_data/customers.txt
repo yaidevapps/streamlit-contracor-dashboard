@@ -1,0 +1,801 @@
+CustomerID|Name|Address|City|Neighborhood|ZIP|Phone|Email|CustomerType|ReferralSource|DateAcquired|HomeValue|PreferredContactMethod|AnnualSpend|RepeatCustomerStatus
+1|Allison Hill|18196 Anthony Forge|Seattle|Medina|98039|989.608.3863|allisonhill@outlook.com|Luxury Residence|Interior Designer|2021-05-16|$14.3M|Email|31572.16|Yes
+2|Blake and Sons|4235 Christopher Court Suite 594|Seattle|Queen Anne|98119|7785161849|blakeandsons@icloud.com|Design Firm|Satisfied Client|2022-10-31|$11.0M|Client Portal|14919.83|No
+3|Amber Perez|31647 Martin Knoll Apt. 419|Seattle|Medina|98039|+1-228-732-7648x3503|amberperez@icloud.com|Luxury Residence|General Contractor|2023-11-30|$6.6M|Phone|48074.59|No
+4|Austin Gentry|76724 John Points Suite 969|Bellevue|Newport Shores|98006|(353)828-7101x2269|austingentry@gmail.com|Luxury Residence|Architect|2022-01-05|$34.1M|Client Portal|29130.26|No
+5|Zachary Rice|184 Rodriguez Mews|Bellevue|Bridle Trails|98004|(570)448-2814|zacharyrice@protonmail.com|Luxury Residence|Interior Designer|2024-12-18|$29.7M|Email|34756.85|No
+6|Christopher Ashley|570 Sarah Wells|Seattle|Magnolia|98199|430-639-1171x8227|christopherashley@gmail.com|Luxury Residence|Luxury Home Show|2022-02-17|$13.2M|Phone|21658.14|Yes
+7|Lisa Brandt|465 Lam Mission|Mercer Island|South End|98040|533-215-0983|lisabrandt@gmail.com|Luxury Residence|Satisfied Client|2023-06-01|$11.0M|Phone|25801.71|No
+8|Mark Perez|1834 Lewis Curve|Sammamish|Trossachs|98074|001-899-973-7631x1656|markperez@protonmail.com|Luxury Residence|Architect|2021-03-25|$16.5M|Phone|41981.12|No
+9|Amy Valdez|65133 Amanda Dam|Seattle|Hunts Point|98004|(424)873-1781x08013|amyvaldez@icloud.com|Luxury Residence|Satisfied Client|2025-02-13|$38.5M|Client Portal|22803.44|No
+10|Mr. James Brown|64746 Moore Hill Apt. 098|Seattle|Broadmoor|98112|2503097882|mrjamesbrown@icloud.com|Luxury Residence|Industry Partner|2024-03-05|$6.6M|Client Portal|45402.03|No
+11|Andrea Jones|1939 Christine Manor|Seattle|Broadmoor|98112|+1-799-385-4353x46247|andreajones@protonmail.com|Luxury Residence|Interior Designer|2022-10-07|$2.2M|Phone|33235.07|No
+12|Marc Hart|83842 Ibarra Gardens|Bellevue|Newport Shores|98006|(442)678-4980x841|marchart@me.com|Luxury Residence|Houzz|2023-05-05|$52.8M|Email|35612.75|Yes
+13|Brian Tran|9353 Wagner Glen Apt. 164|Issaquah|Issaquah Highlands|98029|2053242786|briantran@outlook.com|Luxury Residence|Houzz|2024-04-23|$3.3M|Client Portal|12117.1|Yes
+14|Stephen Mckee|9826 Bobby Lakes|Woodinville|Hollywood Hill|98072|4535315869|stephenmckee@outlook.com|Luxury Residence|Interior Designer|2022-10-22|$51.7M|Text|42875.12|Yes
+15|Vanessa Cochran|25634 Kristin Coves Suite 073|Woodinville|Bear Creek|98077|775.643.3036|vanessacochran@icloud.com|Luxury Residence|Architect|2023-01-09|$52.8M|Text|26987.26|Yes
+16|Tracy Ramirez|850 Natalie Green Apt. 940|Bellevue|Bridle Trails|98004|896-555-6981|tracyramirez@icloud.com|Luxury Residence|Interior Designer|2020-04-28|$12.1M|Email|37935.84|Yes
+17|Michael Smith|6159 Alvarado Crossing|Issaquah|Issaquah Highlands|98029|001-448-646-5648x2366|michaelsmith@icloud.com|Luxury Residence|General Contractor|2020-09-19|$11.0M|Text|28745.32|No
+18|Roy Torres|9957 Ramos Forest|Issaquah|Issaquah Highlands|98029|272.214.8951x34332|roytorres@icloud.com|Luxury Residence|Luxury Home Show|2023-12-31|$13.2M|Client Portal|45482.63|No
+19|John Atkinson|6936 Ross Drive|Seattle|Magnolia|98199|+1-401-963-2870x8317|johnatkinson@gmail.com|Luxury Residence|Satisfied Client|2021-11-23|$11.0M|Phone|5323.59|Yes
+20|Victoria Larson|868 Merritt Summit Suite 743|Seattle|Clyde Hill|98004|+1-348-473-4714x3455|victorialarson@outlook.com|Luxury Residence|Social Media|2020-05-25|$6.6M|Phone|29265.53|No
+21|James Hernandez|66587 Brown Village|Redmond|Sammamish Valley|98052|(569)909-6705x46688|jameshernandez@me.com|Luxury Residence|Real Estate Agent|2021-01-24|$13.2M|Text|24061.04|No
+22|Jeffrey Johnson|627 Tina Place Apt. 699|Seattle|Clyde Hill|98004|+1-701-862-7204x65375|jeffreyjohnson@gmail.com|Luxury Residence|Interior Designer|2020-05-04|$7.7M|Phone|13621.55|No
+23|Trevor Fisher|0805 Debra Tunnel|Seattle|Laurelhurst|98105|+1-500-933-0923x2719|trevorfisher@outlook.com|Luxury Residence|Social Media|2022-08-05|$3.3M|Email|7276.47|Yes
+24|Pamela Jackson|41904 Sanders Stravenue|Woodinville|Bear Creek|98077|219.731.4919|pamelajackson@icloud.com|Luxury Residence|Satisfied Client|2020-12-06|$9.9M|Client Portal|45609.93|Yes
+25|Mary Jones|67165 Zimmerman Mews Apt. 849|Bellevue|Newport Shores|98006|+1-677-969-4531|maryjones@outlook.com|Luxury Residence|Houzz|2025-03-12|$48.4M|Client Portal|36346.62|No
+26|John Bishop|0752 Lewis Union Suite 549|Bellevue|Bridle Trails|98004|001-948-908-3136x783|johnbishop@icloud.com|Luxury Residence|Architect|2020-04-29|$11.0M|Text|7572.44|No
+27|Alan Phillips|349 Kennedy Pines Suite 685|Redmond|Education Hill|98052|(574)544-3135x182|alanphillips@icloud.com|Luxury Residence|General Contractor|2020-04-26|$22.0M|Email|31776.58|Yes
+28|Destiny Lawrence|34352 Smith Place Apt. 400|Issaquah|Squak Mountain|98027|+1-942-971-0947|destinylawrence@icloud.com|Luxury Residence|Interior Designer|2023-03-31|$12.1M|Client Portal|34581.79|No
+29|Vincent King|16719 Edward Valleys Suite 131|Seattle|Queen Anne|98119|+1-969-699-3867|vincentking@outlook.com|Luxury Residence|Houzz|2021-05-03|$4.4M|Client Portal|19227.97|Yes
+30|Branch, Torres and Oliver|34123 Andrea Estate|Sammamish|Sahalee|98074|6679974034|branchtorresandolive@protonmail.com|Design Firm|Website Inquiry|2020-07-23|$5.5M|Text|10960.55|No
+31|David Baker|1832 Serrano Cliffs|Seattle|Magnolia|98199|6248994717|davidbaker@outlook.com|Luxury Residence|Website Inquiry|2021-08-06|$16.5M|Text|32525.5|Yes
+32|Kathryn Snyder|065 Johnson Forks|Issaquah|Issaquah Highlands|98029|+1-899-904-9027x87429|kathrynsnyder@outlook.com|Luxury Residence|Houzz|2025-03-23|$4.4M|Email|45037.07|Yes
+33|Julie Ortiz|125 Steele Heights Suite 807|Sammamish|Sahalee|98074|954-851-6808|julieortiz@icloud.com|Luxury Residence|Houzz|2024-01-09|$13.2M|Client Portal|16300.46|Yes
+34|Joseph Dean|703 Dunn Heights Suite 710|Kirkland|Juanita|98034|+1-393-424-8086x1317|josephdean@outlook.com|Luxury Residence|General Contractor|2020-03-31|$15.4M|Text|12271.19|No
+35|Dr. Jordan Hill PhD|78263 Michelle Harbor Suite 584|Kirkland|Juanita|98034|9447997278|drjordanhillphd@protonmail.com|Luxury Residence|General Contractor|2020-01-20|$14.3M|Email|42556.78|Yes
+36|Phillip Bennett|39636 Louis Mountains Suite 627|Seattle|Clyde Hill|98004|9282951718|phillipbennett@outlook.com|Luxury Residence|Luxury Home Show|2022-01-16|$18.7M|Phone|35693.0|Yes
+37|Jennifer Pena|74596 Melissa Walk|Issaquah|Issaquah Highlands|98029|+1-386-357-8091x34316|jenniferpena@me.com|Luxury Residence|General Contractor|2023-06-25|$33.0M|Phone|44663.73|Yes
+38|Michael Berger|0455 Thomas Pines|Bellevue|Beaux Arts|98004|(992)622-1969x37923|michaelberger@me.com|Luxury Residence|Satisfied Client|2024-06-30|$14.3M|Text|12163.9|Yes
+39|Michael Nolan|8217 Huerta Hills Suite 474|Seattle|Clyde Hill|98004|667.613.6959|michaelnolan@me.com|Luxury Residence|Luxury Home Show|2021-03-31|$9.9M|Text|41924.14|Yes
+40|Ronald Foster|097 Parsons Forks|Mercer Island|North End|98040|+1-753-439-4210x470|ronaldfoster@icloud.com|Luxury Residence|Interior Designer|2022-03-27|$16.5M|Text|20801.58|No
+41|Edward Burgess|28588 Rivas Glens|Issaquah|Issaquah Highlands|98029|245.617.1236x8516|edwardburgess@outlook.com|Luxury Residence|General Contractor|2025-04-07|$6.6M|Text|6721.57|No
+42|Jordan Chambers|651 Thomas River Suite 931|Bellevue|Beaux Arts|98004|+1-474-861-2004x7113|jordanchambers@me.com|Luxury Residence|Real Estate Agent|2023-05-26|$24.2M|Phone|16462.51|No
+43|Watson-Avery|261 Gilbert Harbors Apt. 537|Issaquah|Issaquah Highlands|98029|935.315.8506x431|watsonavery@icloud.com|Design Firm|Luxury Home Show|2022-01-15|$13.2M|Text|34852.44|Yes
+44|Maria Harper|53293 Maria Plaza|Bellevue|Bridle Trails|98004|493.435.2904|mariaharper@protonmail.com|Luxury Residence|Real Estate Agent|2021-09-25|$7.7M|Text|29948.56|Yes
+45|Rebecca Rodriguez|05395 Grant Center|Bellevue|Newport Shores|98006|(368)911-7758|rebeccarodriguez@icloud.com|Luxury Residence|Website Inquiry|2023-06-14|$8.8M|Email|18674.37|Yes
+46|Theresa Williams|0076 Parks Overpass Suite 115|Issaquah|Squak Mountain|98027|+1-621-924-9985x698|theresawilliams@protonmail.com|Luxury Residence|Social Media|2023-09-02|$9.9M|Phone|28002.83|Yes
+47|Jessica Mcguire|836 Beasley Loop|Bellevue|Bridle Trails|98004|376-361-5654x52711|jessicamcguire@protonmail.com|Luxury Residence|Interior Designer|2023-09-21|$7.7M|Phone|35275.81|Yes
+48|Patrick Watson|098 Santiago Loop|Seattle|Broadmoor|98112|(960)549-4519x832|patrickwatson@gmail.com|Luxury Residence|Industry Partner|2020-04-04|$9.9M|Email|25493.73|Yes
+49|Hayley Hawkins|9368 Chelsea Shoals|Bellevue|Newport Shores|98006|001-840-324-4550x229|hayleyhawkins@me.com|Luxury Residence|Architect|2022-03-29|$13.2M|Email|40028.92|Yes
+50|Mark Johnson|6752 Collins Islands|Mercer Island|South End|98040|001-999-810-2290x14767|markjohnson@protonmail.com|Luxury Residence|Interior Designer|2022-08-09|$5.5M|Client Portal|11000.26|No
+51|Paul Wilson|49784 Jeffrey Rapid Apt. 034|Issaquah|Issaquah Highlands|98029|424.445.1076|paulwilson@protonmail.com|Luxury Residence|Industry Partner|2021-10-11|$47.3M|Client Portal|42375.61|No
+52|Michael Mason|60607 Michelle Ports Suite 966|Woodinville|Hollywood Hill|98072|816-805-2975x1613|michaelmason@me.com|Luxury Residence|Houzz|2022-07-10|$5.5M|Client Portal|33203.68|No
+53|Jennifer Collins|52181 Rebecca Keys Suite 231|Mercer Island|South End|98040|(943)929-2127|jennifercollins@outlook.com|Luxury Residence|Website Inquiry|2021-04-25|$7.7M|Email|11226.83|Yes
+54|Sonia Day|527 Taylor Roads Suite 490|Seattle|Broadmoor|98112|(881)947-7005x411|soniaday@icloud.com|Luxury Residence|Website Inquiry|2020-05-11|$7.7M|Client Portal|23709.84|Yes
+55|Tiffany Stevenson|9359 Mason Circle|Bellevue|Newport Shores|98006|415.718.2037x788|tiffanystevenson@protonmail.com|Luxury Residence|Industry Partner|2023-11-25|$15.4M|Client Portal|26464.09|No
+56|Douglas Ortiz|905 Mark Point Suite 449|Bellevue|Newport Shores|98006|(351)692-5462|douglasortiz@me.com|Luxury Residence|Industry Partner|2023-01-07|$53.9M|Phone|26970.33|No
+57|Maria Murphy|816 Smith Inlet|Seattle|Medina|98039|(635)373-3221|mariamurphy@me.com|Luxury Residence|Real Estate Agent|2021-11-19|$15.4M|Phone|42822.75|Yes
+58|Kimberly Rodgers|592 Moore Falls|Issaquah|Issaquah Highlands|98029|001-592-570-6537x947|kimberlyrodgers@gmail.com|Luxury Residence|Architect|2025-01-31|$12.1M|Email|33923.73|Yes
+59|Robert Harrison|9774 Shaw Manor|Seattle|Laurelhurst|98105|(339)324-0758|robertharrison@gmail.com|Luxury Residence|Social Media|2021-06-16|$5.5M|Text|20187.52|No
+60|Phillip Nelson|1375 Robert Locks|Kirkland|Juanita|98034|653.961.5305x15220|phillipnelson@outlook.com|Luxury Residence|Website Inquiry|2024-09-05|$2.2M|Email|49995.85|No
+61|Brenda Thornton|010 Lewis Drive Suite 143|Seattle|Hunts Point|98004|510-436-9711x7980|brendathornton@gmail.com|Luxury Residence|Satisfied Client|2024-03-24|$5.5M|Email|32960.1|Yes
+62|Aaron Gomez|18518 Peter Mountains Apt. 654|Mercer Island|North End|98040|001-705-415-3195x2058|aarongomez@gmail.com|Luxury Residence|Houzz|2023-03-01|$48.4M|Text|12550.51|Yes
+63|Melinda Pollard|221 Johnson Flats Apt. 305|Seattle|Laurelhurst|98105|386-787-4034x5054|melindapollard@outlook.com|Luxury Residence|Industry Partner|2020-08-09|$6.6M|Client Portal|22849.45|Yes
+64|James Gonzales|2775 Owen Stream Suite 169|Mercer Island|South End|98040|(984)851-1544|jamesgonzales@icloud.com|Luxury Residence|Industry Partner|2020-07-27|$6.6M|Email|40830.22|Yes
+65|Jeremy West|640 Emily Lodge Suite 820|Kirkland|Juanita|98034|(897)202-1355|jeremywest@outlook.com|Luxury Residence|Architect|2020-05-21|$7.7M|Client Portal|42004.89|Yes
+66|Meghan Rush|1928 Sanders Run Suite 310|Bellevue|Somerset|98006|001-927-586-8144x7394|meghanrush@me.com|Luxury Residence|Website Inquiry|2023-12-19|$4.4M|Text|32716.06|No
+67|Samuel Hayes|55188 Vance Vista Apt. 258|Woodinville|Hollywood Hill|98072|713.923.7058|samuelhayes@protonmail.com|Luxury Residence|Interior Designer|2021-07-03|$5.5M|Text|44673.4|Yes
+68|Kristen Salazar|46786 Morrow Cliffs|Issaquah|Squak Mountain|98027|(451)477-8528|kristensalazar@protonmail.com|Luxury Residence|Social Media|2023-09-30|$2.2M|Text|13182.79|Yes
+69|Thomas Brown|242 Marcus Station|Bellevue|West Bellevue|98004|458.641.4384|thomasbrown@outlook.com|Luxury Residence|Website Inquiry|2021-07-26|$35.2M|Email|28248.23|Yes
+70|Anna Davidson|99590 Christopher Row|Woodinville|Hollywood Hill|98072|001-894-639-6907x84473|annadavidson@me.com|Luxury Residence|Social Media|2022-09-27|$5.5M|Client Portal|25167.85|Yes
+71|Michael Moore|7359 Larry Stravenue Suite 562|Seattle|Magnolia|98199|001-258-681-5371x47321|michaelmoore@me.com|Luxury Residence|Industry Partner|2023-11-17|$13.2M|Text|26296.72|No
+72|Sharon Barnes|9532 Ferrell Mountain|Woodinville|Hollywood Hill|98072|247.601.6873x3950|sharonbarnes@protonmail.com|Luxury Residence|Houzz|2021-11-08|$9.9M|Text|16313.17|Yes
+73|Stephen Pena MD|62456 Williams Center|Bellevue|Beaux Arts|98004|001-983-658-4168|stephenpenamd@gmail.com|Luxury Residence|General Contractor|2024-03-01|$15.4M|Phone|14737.31|No
+74|Lisa Carr|65585 James Pass|Issaquah|Squak Mountain|98027|(480)700-2578x7298|lisacarr@protonmail.com|Luxury Residence|Satisfied Client|2023-05-07|$3.3M|Text|15236.74|Yes
+75|Emily Long|588 Erickson Hills Suite 055|Mercer Island|South End|98040|+1-916-494-0974x99309|emilylong@protonmail.com|Luxury Residence|Website Inquiry|2020-09-16|$2.2M|Text|36383.78|Yes
+76|Michelle Hampton|30913 Scott Manor Apt. 636|Woodinville|Bear Creek|98077|997.702.8385x78652|michellehampton@me.com|Luxury Residence|Social Media|2020-07-29|$36.3M|Client Portal|24821.1|Yes
+77|Megan Dillon|733 Grant Fork Suite 437|Bellevue|West Bellevue|98004|275-684-4198x66524|megandillon@me.com|Luxury Residence|Social Media|2020-08-21|$44.0M|Email|30965.95|Yes
+78|Angela Bradshaw|733 Fitzpatrick Square Suite 219|Issaquah|Squak Mountain|98027|001-393-430-8330x1657|angelabradshaw@outlook.com|Luxury Residence|Website Inquiry|2020-06-23|$24.2M|Client Portal|32284.29|Yes
+79|Joshua Hickman|773 Morris Rue Apt. 193|Bellevue|Newport Shores|98006|+1-602-262-0672|joshuahickman@me.com|Luxury Residence|Industry Partner|2025-02-03|$16.5M|Client Portal|18742.11|Yes
+80|Keith Rodriguez|7887 Melissa Mountain Suite 315|Woodinville|Hollywood Hill|98072|(474)820-5493|keithrodriguez@gmail.com|Luxury Residence|Houzz|2024-04-11|$5.5M|Email|12067.57|Yes
+81|Kaylee Miller|27530 Reyes Mission|Seattle|Laurelhurst|98105|001-445-849-9045x30174|kayleemiller@gmail.com|Luxury Residence|Social Media|2022-04-16|$12.1M|Text|6468.79|No
+82|Tammy Barron|145 Jeffrey Dale Suite 279|Mercer Island|South End|98040|(768)378-3391x878|tammybarron@me.com|Luxury Residence|Industry Partner|2020-05-25|$6.6M|Phone|24131.25|Yes
+83|Ashley Poole|822 Bond Mills|Bellevue|West Bellevue|98004|439-871-8707|ashleypoole@icloud.com|Luxury Residence|Houzz|2020-05-26|$15.4M|Text|24761.91|No
+84|Anthony Ford|064 Julie Prairie Apt. 065|Mercer Island|South End|98040|001-718-801-7046x226|anthonyford@me.com|Luxury Residence|Social Media|2021-07-11|$9.9M|Email|31911.65|No
+85|Thomas Bennett|825 Gregory Plain|Sammamish|Sahalee|98074|(582)930-0478x6863|thomasbennett@outlook.com|Luxury Residence|Industry Partner|2020-02-22|$13.2M|Email|49980.76|No
+86|Donald Pineda|69033 Craig Bypass|Woodinville|Bear Creek|98077|690.530.6738x302|donaldpineda@icloud.com|Luxury Residence|Houzz|2022-08-21|$9.9M|Phone|49862.55|No
+87|Monique Flores|42836 Hill Point Apt. 687|Redmond|Sammamish Valley|98052|8564856624|moniqueflores@gmail.com|Luxury Residence|Luxury Home Show|2022-08-20|$7.7M|Email|43597.99|No
+88|Kara Atkinson|270 Faulkner Point Apt. 634|Redmond|Sammamish Valley|98052|651.875.1830|karaatkinson@outlook.com|Luxury Residence|Architect|2023-09-18|$55.0M|Client Portal|8962.69|No
+89|Lindsey Russo|837 Molly Isle|Woodinville|Bear Creek|98077|603-831-7393x6385|lindseyrusso@me.com|Luxury Residence|Website Inquiry|2024-11-06|$2.2M|Client Portal|23596.14|Yes
+90|Matthew Parker|771 Gill Island Apt. 556|Sammamish|Sahalee|98074|8936204899|matthewparker@me.com|Luxury Residence|Satisfied Client|2023-07-04|$2.2M|Text|29714.88|No
+91|Gary James|8547 Murray Street|Mercer Island|South End|98040|(222)887-2808x010|garyjames@me.com|Luxury Residence|Industry Partner|2020-09-05|$13.2M|Phone|36940.23|No
+92|Mark Jones|38750 Hopkins Brook|Issaquah|Issaquah Highlands|98029|6882600848|markjones@me.com|Luxury Residence|Interior Designer|2020-07-09|$16.5M|Client Portal|47617.73|Yes
+93|Melissa Jordan|18233 Ochoa Grove|Mercer Island|South End|98040|(815)867-9334x1016|melissajordan@outlook.com|Luxury Residence|Social Media|2022-11-08|$45.1M|Client Portal|15967.89|Yes
+94|Amy Smith|76591 Jerry Ways|Sammamish|Sahalee|98074|001-297-540-1489x025|amysmith@protonmail.com|Luxury Residence|Houzz|2024-03-08|$20.9M|Client Portal|20294.39|No
+95|Nicole Marquez|42939 Rhodes Plains Suite 621|Bellevue|Bridle Trails|98004|650.916.3159x99650|nicolemarquez@outlook.com|Luxury Residence|Social Media|2024-09-11|$13.2M|Phone|25094.63|No
+96|Henry Pugh MD|94311 Moore Station Apt. 655|Issaquah|Issaquah Highlands|98029|310-447-5412|henrypughmd@protonmail.com|Luxury Residence|Satisfied Client|2022-02-11|$7.7M|Phone|30730.89|Yes
+97|Justin Hunt|15819 Shields Bridge|Kirkland|Juanita|98034|666-618-3982x6224|justinhunt@gmail.com|Luxury Residence|Real Estate Agent|2021-10-13|$42.9M|Phone|27289.79|Yes
+98|Arthur Hamilton MD|54379 Stephen Dale Suite 065|Issaquah|Squak Mountain|98027|+1-965-775-6924x593|arthurhamiltonmd@outlook.com|Luxury Residence|Social Media|2024-11-16|$16.5M|Email|28667.8|No
+99|Oconnell LLC|793 Bennett Viaduct Suite 519|Seattle|Broadmoor|98112|698.328.0737|oconnellllc@me.com|Design Firm|Interior Designer|2024-11-18|$4.4M|Client Portal|40168.64|No
+100|Rebecca Ortiz|43426 Jones Rapid Suite 968|Mercer Island|South End|98040|868.705.8911x35290|rebeccaortiz@me.com|Luxury Residence|Website Inquiry|2023-08-23|$7.7M|Client Portal|47936.28|No
+101|Jessica Smith|88899 Sean Lock Suite 982|Seattle|Clyde Hill|98004|(907)514-6112x545|jessicasmith@protonmail.com|Luxury Residence|Houzz|2020-05-20|$13.2M|Phone|38604.49|No
+102|Hannah Davis|1401 Melinda Rue Apt. 238|Woodinville|Bear Creek|98077|(482)458-6736|hannahdavis@gmail.com|Luxury Residence|Architect|2022-06-27|$6.6M|Email|19596.86|Yes
+103|Jessica Johnson|9660 Jamie Terrace|Bellevue|Somerset|98006|001-919-718-2553x714|jessicajohnson@me.com|Luxury Residence|Industry Partner|2020-10-25|$8.8M|Phone|12649.26|Yes
+104|Lisa Matthews|7924 Emily Island Apt. 341|Bellevue|Newport Shores|98006|(852)886-6929|lisamatthews@protonmail.com|Luxury Residence|General Contractor|2023-10-31|$12.1M|Phone|25751.75|No
+105|Mark Steele|274 Jacob Ville|Mercer Island|North End|98040|890.950.7236x887|marksteele@gmail.com|Luxury Residence|Website Inquiry|2025-01-14|$36.3M|Phone|8323.79|No
+106|Ryan Burns|034 Joshua Plain|Bellevue|Bridle Trails|98004|227-997-8819x1485|ryanburns@me.com|Luxury Residence|Houzz|2023-11-14|$16.5M|Phone|49971.81|No
+107|Wanda Garcia|0745 Scott Crest|Bellevue|Newport Shores|98006|001-733-695-9629x23309|wandagarcia@protonmail.com|Luxury Residence|Houzz|2022-01-05|$14.3M|Email|49007.5|No
+108|Caroline Werner|9481 Sydney Turnpike Suite 042|Issaquah|Squak Mountain|98027|001-823-925-3672x946|carolinewerner@gmail.com|Luxury Residence|Houzz|2025-02-07|$9.9M|Phone|32317.92|No
+109|Robert Mack|457 Murphy Alley Apt. 751|Seattle|Queen Anne|98119|+1-763-463-7454|robertmack@protonmail.com|Luxury Residence|General Contractor|2021-05-28|$14.3M|Email|45653.17|Yes
+110|Karina Cooper|17012 Bryant Meadow|Kirkland|Houghton|98033|724.424.1541|karinacooper@gmail.com|Luxury Residence|Interior Designer|2023-04-01|$4.4M|Text|19702.36|No
+111|Mario Barber|1103 Miller Ramp|Seattle|Broadmoor|98112|987.300.5162|mariobarber@protonmail.com|Luxury Residence|Website Inquiry|2024-11-29|$52.8M|Text|42371.27|No
+112|Brandon Shaffer|5426 Darlene Springs|Redmond|Sammamish Valley|98052|(518)490-9275|brandonshaffer@outlook.com|Luxury Residence|Social Media|2024-03-08|$24.2M|Email|11334.07|Yes
+113|Lisa Ramos|12196 Richmond Island|Woodinville|Hollywood Hill|98072|(634)213-8999|lisaramos@me.com|Luxury Residence|Interior Designer|2024-09-28|$41.8M|Client Portal|5626.34|Yes
+114|Mary Turner|640 Troy Creek|Mercer Island|North End|98040|879.818.0552|maryturner@outlook.com|Luxury Residence|Luxury Home Show|2023-04-12|$13.2M|Email|35367.64|No
+115|Payne-Thompson|09104 Bill Circle Suite 848|Issaquah|Issaquah Highlands|98029|001-566-461-8892x41418|paynethompson@outlook.com|Design Firm|Interior Designer|2025-02-17|$13.2M|Client Portal|45922.44|No
+116|Jeanette Walters|6303 Sandy Crescent|Seattle|Madison Park|98112|799.604.2102x027|jeanettewalters@icloud.com|Luxury Residence|Social Media|2020-04-02|$37.4M|Email|9373.64|Yes
+117|Cameron Norman|105 Nelson Circles Suite 917|Bellevue|Somerset|98006|385.507.9252x419|cameronnorman@protonmail.com|Luxury Residence|General Contractor|2022-05-08|$14.3M|Client Portal|34471.49|No
+118|April Trevino|07562 Sarah Walks|Bellevue|West Bellevue|98004|3867353654|apriltrevino@gmail.com|Luxury Residence|Social Media|2023-11-14|$9.9M|Phone|43495.26|Yes
+119|Michael Williams|061 Cline Trail|Bellevue|Somerset|98006|951-787-0534x9493|michaelwilliams@protonmail.com|Luxury Residence|Architect|2025-01-20|$40.7M|Client Portal|17414.66|Yes
+120|Katherine Barton|832 Sarah Burg|Kirkland|Houghton|98033|585.505.0641|katherinebarton@gmail.com|Luxury Residence|Industry Partner|2023-09-19|$13.2M|Email|7276.03|No
+121|Tyrone Kaufman|410 Phyllis Pike|Seattle|Broadmoor|98112|(457)519-1826x19906|tyronekaufman@protonmail.com|Luxury Residence|Website Inquiry|2021-02-24|$15.4M|Phone|31387.24|Yes
+122|Samuel Howe|557 Hall Flats Apt. 912|Seattle|Broadmoor|98112|527-975-6185|samuelhowe@protonmail.com|Luxury Residence|General Contractor|2020-01-06|$4.4M|Text|40933.12|Yes
+123|Derek Wilson|490 Mary Islands|Seattle|Medina|98039|(413)256-8044|derekwilson@icloud.com|Luxury Residence|Satisfied Client|2020-01-31|$15.4M|Text|5710.15|No
+124|Sarah Hawkins|71210 Maria Forges|Woodinville|Hollywood Hill|98072|(236)351-9941|sarahhawkins@me.com|Luxury Residence|Social Media|2022-12-13|$3.3M|Client Portal|40010.77|Yes
+125|Matthew Lamb|1070 Sandra Meadows|Seattle|Magnolia|98199|001-467-206-6253x2447|matthewlamb@protonmail.com|Luxury Residence|Houzz|2020-03-29|$52.8M|Client Portal|33950.33|Yes
+126|Lisa Holland|8701 Reyes Manor Apt. 838|Redmond|Sammamish Valley|98052|7658787598|lisaholland@me.com|Luxury Residence|Social Media|2022-05-23|$9.9M|Email|45467.0|No
+127|Alexander Harper|0785 Terri Courts|Seattle|Hunts Point|98004|434.480.3965|alexanderharper@icloud.com|Luxury Residence|Website Inquiry|2021-07-17|$12.1M|Text|22140.7|No
+128|Evan Rojas|059 Anna Field Suite 842|Sammamish|Sahalee|98074|501.403.9308x7059|evanrojas@me.com|Luxury Residence|Website Inquiry|2020-07-22|$24.2M|Phone|24353.15|Yes
+129|Christopher Lang|02921 Yu Landing Suite 915|Kirkland|Houghton|98033|452-826-7528x9539|christopherlang@me.com|Luxury Residence|Real Estate Agent|2022-05-01|$38.5M|Text|34929.85|No
+130|Michael Anderson|969 Ian Island|Mercer Island|North End|98040|+1-339-717-2513x552|michaelanderson@me.com|Luxury Residence|Interior Designer|2020-05-17|$3.3M|Client Portal|9345.4|No
+131|Derek Wright|4100 Kim Manor|Issaquah|Issaquah Highlands|98029|(567)465-8617|derekwright@gmail.com|Luxury Residence|Luxury Home Show|2023-04-16|$55.0M|Email|23486.39|No
+132|Robert Johnson|4115 Pamela Estates|Woodinville|Hollywood Hill|98072|001-418-215-9970x6296|robertjohnson@gmail.com|Luxury Residence|Interior Designer|2021-08-12|$7.7M|Phone|11962.86|No
+133|Daniel Lee|443 Brandon Ports Suite 205|Seattle|Madison Park|98112|5614497310|daniellee@outlook.com|Luxury Residence|Houzz|2024-09-27|$3.3M|Phone|41324.96|Yes
+134|Vanessa Wells|6774 Darlene Loaf|Mercer Island|North End|98040|(956)652-7047|vanessawells@outlook.com|Luxury Residence|Houzz|2020-02-29|$14.3M|Text|20796.05|Yes
+135|Derrick Brown|58693 Mary Viaduct|Issaquah|Squak Mountain|98027|468.379.3741x60898|derrickbrown@me.com|Luxury Residence|Architect|2020-05-22|$13.2M|Email|38575.03|Yes
+136|Joann Rush|32061 Harris View|Kirkland|Houghton|98033|+1-929-245-1168x6854|joannrush@outlook.com|Luxury Residence|Luxury Home Show|2020-11-18|$14.3M|Email|44750.4|Yes
+137|Lisa Mills|62299 Sara Port Apt. 485|Sammamish|Sahalee|98074|(846)279-9702x46299|lisamills@gmail.com|Luxury Residence|Real Estate Agent|2023-10-12|$9.9M|Client Portal|32318.42|No
+138|Shawn Vaughn|745 Matthew Underpass|Woodinville|Bear Creek|98077|344-571-3247x5469|shawnvaughn@protonmail.com|Luxury Residence|Houzz|2020-08-21|$3.3M|Client Portal|28712.03|No
+139|Lewis-Holloway|508 Cameron Station Suite 289|Bellevue|Newport Shores|98006|7235303070|lewisholloway@protonmail.com|Design Firm|Satisfied Client|2020-04-22|$6.6M|Phone|39387.24|No
+140|Rodney Wagner|035 Wheeler Fall|Seattle|Medina|98039|598.555.2414x0602|rodneywagner@me.com|Luxury Residence|Real Estate Agent|2024-03-09|$4.4M|Phone|27511.81|No
+141|Megan Adams|007 Deborah Rapid Apt. 349|Woodinville|Hollywood Hill|98072|346-265-7437x4896|meganadams@gmail.com|Luxury Residence|Luxury Home Show|2022-06-12|$3.3M|Client Portal|30802.99|No
+142|Mary Bridges|994 Cohen Orchard Apt. 545|Bellevue|Newport Shores|98006|244-932-8309x652|marybridges@gmail.com|Luxury Residence|Social Media|2021-10-27|$12.1M|Text|8965.84|Yes
+143|Deanna Barnes MD|935 Gina Route|Issaquah|Squak Mountain|98027|458.742.8241x7248|deannabarnesmd@me.com|Luxury Residence|Houzz|2022-12-09|$16.5M|Text|14970.74|Yes
+144|Courtney Walker|5549 Ford Crest Suite 099|Sammamish|Trossachs|98074|+1-417-538-1684x602|courtneywalker@gmail.com|Luxury Residence|Luxury Home Show|2022-12-22|$15.4M|Text|37732.06|Yes
+145|William Orozco|52175 Lawrence Centers Apt. 743|Seattle|Broadmoor|98112|001-229-227-1296x66676|williamorozco@outlook.com|Luxury Residence|Interior Designer|2021-02-08|$4.4M|Phone|47808.15|No
+146|Monica Dodson|300 Jeremy Wells Suite 421|Issaquah|Squak Mountain|98027|(789)842-1044x7898|monicadodson@protonmail.com|Luxury Residence|Industry Partner|2022-07-08|$12.1M|Text|43891.11|No
+147|Whitney Cooper|3260 Jeffrey Curve Apt. 098|Seattle|Hunts Point|98004|(215)306-4890|whitneycooper@me.com|Luxury Residence|Houzz|2022-06-24|$15.4M|Email|20837.4|Yes
+148|Alicia Norris|6184 Miles Ford Apt. 461|Kirkland|Houghton|98033|+1-984-599-2618x91411|alicianorris@gmail.com|Luxury Residence|Interior Designer|2020-04-26|$6.6M|Email|32675.38|No
+149|Paula Decker|6420 Lozano Spurs|Issaquah|Issaquah Highlands|98029|353.600.1197x2181|pauladecker@gmail.com|Luxury Residence|Luxury Home Show|2022-07-10|$29.7M|Client Portal|27561.53|Yes
+150|Joyce Madden|0120 Ward Springs Suite 611|Bellevue|Beaux Arts|98004|001-300-822-5579x41552|joycemadden@gmail.com|Luxury Residence|Satisfied Client|2022-10-30|$2.2M|Client Portal|49594.37|Yes
+151|Jesus Houston|2120 Dale Ramp Suite 972|Bellevue|Bridle Trails|98004|+1-365-690-2771x670|jesushouston@me.com|Luxury Residence|Luxury Home Show|2022-04-17|$19.8M|Email|19836.08|No
+152|Alexandria Oneill|588 Ryan Stream|Woodinville|Hollywood Hill|98072|475.962.8900|alexandriaoneill@protonmail.com|Luxury Residence|Industry Partner|2024-11-23|$3.3M|Phone|46253.59|No
+153|Sheila Jones|3540 Andrea Lane Suite 317|Mercer Island|South End|98040|897.217.7517x016|sheilajones@me.com|Luxury Residence|Houzz|2020-09-21|$3.3M|Client Portal|33957.2|No
+154|April Davis|837 Cox Center Apt. 758|Mercer Island|North End|98040|001-799-375-7113x05548|aprildavis@protonmail.com|Luxury Residence|Website Inquiry|2020-07-10|$8.8M|Text|5820.37|No
+155|Christopher Taylor|49331 Lewis Views Apt. 516|Seattle|Queen Anne|98119|2912779827|christophertaylor@outlook.com|Luxury Residence|General Contractor|2024-04-18|$5.5M|Phone|8472.43|Yes
+156|Jessica Richards|922 Paul Rapid|Issaquah|Issaquah Highlands|98029|+1-458-466-9346x547|jessicarichards@protonmail.com|Luxury Residence|Industry Partner|2020-03-18|$15.4M|Phone|31876.09|Yes
+157|Michael Goodman|858 James Road Suite 522|Mercer Island|South End|98040|385.215.8799x68460|michaelgoodman@protonmail.com|Luxury Residence|Architect|2024-07-14|$47.3M|Client Portal|21393.47|Yes
+158|Anthony Brown|44204 Karen Bypass Suite 719|Sammamish|Sahalee|98074|+1-283-286-3840x66658|anthonybrown@outlook.com|Luxury Residence|Satisfied Client|2024-03-20|$47.3M|Phone|18926.06|No
+159|Christina Melton|59893 Kelly Fall Apt. 228|Seattle|Queen Anne|98119|660-264-8422|christinamelton@outlook.com|Luxury Residence|Social Media|2023-10-21|$47.3M|Text|40015.58|No
+160|Michael Moore|9094 Tyler Plaza|Seattle|Queen Anne|98119|(815)383-2818x268|michaelmoore@protonmail.com|Luxury Residence|Social Media|2020-10-10|$19.8M|Text|29954.33|Yes
+161|Stephen Alvarado|4398 Barajas View Apt. 157|Redmond|Education Hill|98052|699.630.5616|stephenalvarado@gmail.com|Luxury Residence|Houzz|2021-08-06|$4.4M|Client Portal|45738.78|Yes
+162|Jose Townsend|0435 Stacy Expressway Apt. 133|Seattle|Hunts Point|98004|+1-261-438-6120x75011|josetownsend@icloud.com|Luxury Residence|Architect|2024-07-30|$7.7M|Client Portal|7396.56|No
+163|Kristin Andrews|6676 Stewart Loaf|Seattle|Hunts Point|98004|+1-318-609-1901x58144|kristinandrews@outlook.com|Luxury Residence|Luxury Home Show|2021-04-04|$3.3M|Phone|11191.98|No
+164|Jessica Foster|2832 Robles Vista|Redmond|Sammamish Valley|98052|+1-342-245-0882|jessicafoster@icloud.com|Luxury Residence|Industry Partner|2024-04-03|$47.3M|Email|45763.59|Yes
+165|Kyle Medina|3536 Eugene Forges|Seattle|Broadmoor|98112|+1-343-612-9087x814|kylemedina@protonmail.com|Luxury Residence|Real Estate Agent|2025-04-09|$52.8M|Email|39927.77|Yes
+166|Nicholas Freeman|2314 Rachel Island Suite 759|Seattle|Clyde Hill|98004|+1-849-629-9556x20533|nicholasfreeman@icloud.com|Luxury Residence|Social Media|2022-05-09|$12.1M|Email|9988.61|No
+167|Brandy Quinn|7547 Gregory Rest Apt. 428|Seattle|Medina|98039|841.510.8099|brandyquinn@protonmail.com|Luxury Residence|Houzz|2023-03-23|$4.4M|Client Portal|5070.4|No
+168|Kristen Stephens|256 Patricia Radial Suite 278|Kirkland|Juanita|98034|416.958.0392x82722|kristenstephens@icloud.com|Luxury Residence|Luxury Home Show|2023-09-22|$11.0M|Email|47903.17|Yes
+169|Amanda Juarez|45303 Hughes Motorway|Redmond|Sammamish Valley|98052|4058184498|amandajuarez@gmail.com|Luxury Residence|Houzz|2023-07-25|$7.7M|Email|21069.22|Yes
+170|Holly Valdez|463 Gomez Ways|Woodinville|Hollywood Hill|98072|(677)590-8272x318|hollyvaldez@gmail.com|Luxury Residence|Luxury Home Show|2024-04-29|$15.4M|Phone|6995.11|No
+171|Christopher Guzman|365 Timothy Neck|Seattle|Laurelhurst|98105|239.426.0302x9922|christopherguzman@me.com|Luxury Residence|General Contractor|2023-11-25|$4.4M|Email|37222.03|No
+172|Jackson and Sons|904 Jay Rest Suite 723|Seattle|Queen Anne|98119|(592)892-9842x57991|jacksonandsons@gmail.com|Design Firm|Luxury Home Show|2024-06-08|$2.2M|Text|28192.26|No
+173|Brian Harris|91279 Natalie Place Apt. 172|Woodinville|Bear Creek|98077|+1-880-768-6508x637|brianharris@icloud.com|Luxury Residence|Architect|2021-08-08|$15.4M|Text|17294.75|No
+174|Natalie Juarez|2473 Justin Wells|Bellevue|Newport Shores|98006|+1-264-830-0981|nataliejuarez@me.com|Luxury Residence|General Contractor|2025-01-06|$39.6M|Client Portal|36143.08|No
+175|Melissa Stewart|26944 Cunningham Ridge Suite 636|Redmond|Education Hill|98052|+1-687-725-8874|melissastewart@outlook.com|Luxury Residence|Interior Designer|2024-06-28|$8.8M|Client Portal|32110.4|Yes
+176|Jennifer Taylor|372 Jason Locks|Bellevue|Beaux Arts|98004|689-502-6012x79611|jennifertaylor@gmail.com|Luxury Residence|Houzz|2020-06-12|$6.6M|Client Portal|32117.97|No
+177|Lee Ramsey|849 Sonya Viaduct Apt. 770|Kirkland|Houghton|98033|484.230.9883|leeramsey@outlook.com|Luxury Residence|Luxury Home Show|2022-07-04|$16.5M|Client Portal|17354.99|Yes
+178|Matthew Cantrell|6566 April Street|Sammamish|Trossachs|98074|001-511-984-8955x439|matthewcantrell@me.com|Luxury Residence|General Contractor|2022-01-14|$14.3M|Email|11425.08|No
+179|Andrews-Green|181 Morgan Crescent Suite 894|Seattle|Hunts Point|98004|001-376-697-3577x907|andrewsgreen@icloud.com|Design Firm|Real Estate Agent|2024-05-13|$7.7M|Email|32229.27|No
+180|Mark Gamble|6588 Jaclyn Greens|Bellevue|Somerset|98006|741.765.1827|markgamble@me.com|Luxury Residence|Website Inquiry|2024-04-11|$4.4M|Text|22911.53|No
+181|Kenneth White|3334 Jermaine Village|Seattle|Madison Park|98112|295.221.1179|kennethwhite@gmail.com|Luxury Residence|Real Estate Agent|2024-02-15|$11.0M|Email|16779.95|No
+182|Jacqueline Stewart|2846 Karen Crossroad Apt. 867|Seattle|Queen Anne|98119|+1-908-756-2718|jacquelinestewart@protonmail.com|Luxury Residence|Satisfied Client|2021-08-07|$9.9M|Email|11107.78|Yes
+183|Alexandra Clark|5942 Young Mountains|Mercer Island|South End|98040|+1-955-427-6365x564|alexandraclark@me.com|Luxury Residence|Luxury Home Show|2020-06-28|$38.5M|Email|29749.87|No
+184|Veronica Parks|438 Chase Flat|Seattle|Laurelhurst|98105|(727)902-6728|veronicaparks@icloud.com|Luxury Residence|Interior Designer|2024-06-13|$5.5M|Phone|40642.96|Yes
+185|Justin Bradley|20347 Shannon Isle Suite 558|Seattle|Medina|98039|+1-445-606-1593|justinbradley@outlook.com|Luxury Residence|Website Inquiry|2023-02-08|$9.9M|Phone|32537.68|Yes
+186|Michael Freeman|69472 Danielle Junction Suite 996|Bellevue|Newport Shores|98006|812-653-5544|michaelfreeman@me.com|Luxury Residence|Industry Partner|2022-12-12|$8.8M|Email|10639.71|No
+187|Priscilla Mcmillan|2202 Ebony Summit Apt. 326|Kirkland|Houghton|98033|311-378-0068|priscillamcmillan@me.com|Luxury Residence|Website Inquiry|2023-10-24|$4.4M|Phone|39550.17|Yes
+188|Christopher Pena|3347 David Villages Apt. 005|Seattle|Clyde Hill|98004|877-684-8728x29979|christopherpena@gmail.com|Luxury Residence|General Contractor|2022-11-27|$4.4M|Text|47063.2|Yes
+189|Karen Perez|4564 Kevin Alley|Redmond|Education Hill|98052|525.247.8077x40649|karenperez@outlook.com|Luxury Residence|Website Inquiry|2024-09-28|$5.5M|Text|10632.66|No
+190|Chelsea Khan|3266 Jose Manors Apt. 894|Seattle|Hunts Point|98004|684-963-1224x1797|chelseakhan@protonmail.com|Luxury Residence|General Contractor|2023-08-05|$12.1M|Phone|34642.98|No
+191|Alec Williams|14427 Jesse Drive|Issaquah|Squak Mountain|98027|2737564757|alecwilliams@gmail.com|Luxury Residence|Architect|2024-08-17|$22.0M|Text|34300.85|No
+192|Paul Thomas|1872 Paula Glen Suite 013|Seattle|Medina|98039|(473)203-7183x7645|paulthomas@me.com|Luxury Residence|Houzz|2024-12-25|$6.6M|Client Portal|16019.51|No
+193|Krista Martinez|435 Michelle Forge Apt. 365|Seattle|Hunts Point|98004|9244916300|kristamartinez@gmail.com|Luxury Residence|Social Media|2020-11-19|$9.9M|Phone|20308.67|Yes
+194|Brandon Moore|950 Michael Drives|Mercer Island|South End|98040|001-881-727-3585x730|brandonmoore@outlook.com|Luxury Residence|Real Estate Agent|2024-02-12|$40.7M|Phone|39229.92|Yes
+195|Danielle Williams|487 Ashley Plains Suite 574|Kirkland|Houghton|98033|+1-282-818-2744x857|daniellewilliams@gmail.com|Luxury Residence|Interior Designer|2021-07-01|$4.4M|Email|18059.54|No
+196|Sonya Harvey|351 Lee Springs Suite 829|Kirkland|Juanita|98034|356-951-1810x2203|sonyaharvey@icloud.com|Luxury Residence|Industry Partner|2024-11-07|$38.5M|Text|13542.53|Yes
+197|Andres May|789 Williams Forges Apt. 037|Redmond|Education Hill|98052|670-258-6509|andresmay@me.com|Luxury Residence|Architect|2022-10-18|$50.6M|Email|47535.48|No
+198|Sandra Miller|113 Lopez Pine|Seattle|Queen Anne|98119|+1-439-828-8619x57612|sandramiller@protonmail.com|Luxury Residence|Social Media|2021-12-23|$6.6M|Client Portal|17858.68|Yes
+199|Mary Ferguson|5855 Duran Meadows Suite 939|Kirkland|Juanita|98034|+1-236-284-5776|maryferguson@icloud.com|Luxury Residence|Real Estate Agent|2024-12-12|$7.7M|Text|7035.91|Yes
+200|Ms. Kelly Holder|43350 Ellison Pass Apt. 107|Seattle|Queen Anne|98119|(822)545-9334x419|mskellyholder@outlook.com|Luxury Residence|Website Inquiry|2023-02-07|$8.8M|Client Portal|39398.19|No
+201|Misty Mcguire|9194 Jessica Ports|Sammamish|Sahalee|98074|(610)255-6613x9060|mistymcguire@protonmail.com|Luxury Residence|Real Estate Agent|2020-08-31|$3.3M|Text|40770.38|No
+202|Karl Murphy|06799 Jeffrey Highway|Bellevue|Somerset|98006|(822)451-7908x6416|karlmurphy@icloud.com|Luxury Residence|Website Inquiry|2021-02-11|$8.8M|Email|7038.65|Yes
+203|Karen Gonzalez|938 John Grove Suite 591|Redmond|Sammamish Valley|98052|266-655-3559|karengonzalez@protonmail.com|Luxury Residence|General Contractor|2022-07-24|$11.0M|Text|46911.59|No
+204|Gregory Underwood|270 James Landing Apt. 110|Sammamish|Sahalee|98074|992.240.5147|gregoryunderwood@outlook.com|Luxury Residence|Website Inquiry|2023-04-30|$16.5M|Client Portal|36893.29|No
+205|Patrick Lewis|792 Nicholas Shore Apt. 420|Seattle|Medina|98039|639-840-7016x4510|patricklewis@outlook.com|Luxury Residence|Industry Partner|2021-11-09|$8.8M|Text|40853.97|Yes
+206|James Bray|7981 James Mount|Bellevue|West Bellevue|98004|+1-400-238-4576|jamesbray@protonmail.com|Luxury Residence|Industry Partner|2023-03-28|$2.2M|Client Portal|12673.04|No
+207|Harold Garrett|404 Zamora Via|Mercer Island|North End|98040|8845325621|haroldgarrett@icloud.com|Luxury Residence|Interior Designer|2020-03-05|$14.3M|Phone|5852.18|No
+208|Kenneth Simmons|578 Jamie Dam Apt. 248|Kirkland|Juanita|98034|(362)492-5188|kennethsimmons@icloud.com|Luxury Residence|Social Media|2022-04-20|$12.1M|Email|36759.89|Yes
+209|Shawn Acosta|6474 Kimberly Coves Apt. 209|Mercer Island|North End|98040|+1-949-499-3933x051|shawnacosta@me.com|Luxury Residence|Social Media|2022-12-12|$4.4M|Text|29582.29|No
+210|Lisa Joseph|67722 Jeremy Lodge Apt. 463|Seattle|Queen Anne|98119|001-233-812-7975x7366|lisajoseph@icloud.com|Luxury Residence|Houzz|2021-07-25|$5.5M|Text|36720.54|No
+211|Jennifer Crosby|177 Natalie Gardens|Bellevue|Somerset|98006|986.408.6803x47644|jennifercrosby@protonmail.com|Luxury Residence|Houzz|2025-03-27|$35.2M|Email|30806.46|No
+212|Louis Brown|7181 Kimberly Square|Bellevue|Newport Shores|98006|+1-526-965-7027|louisbrown@outlook.com|Luxury Residence|Architect|2024-05-02|$36.3M|Text|47989.12|Yes
+213|Fred Wong|111 Walters Corner|Kirkland|Houghton|98033|468.492.6860x25922|fredwong@outlook.com|Luxury Residence|Website Inquiry|2024-03-10|$5.5M|Text|46986.08|No
+214|Amber Parker|2123 Cindy Glen Apt. 777|Sammamish|Sahalee|98074|+1-809-973-3977|amberparker@protonmail.com|Luxury Residence|Website Inquiry|2021-05-05|$13.2M|Phone|33707.51|Yes
+215|Kyle Sanchez|830 Eddie Shoal Suite 020|Bellevue|Beaux Arts|98004|+1-499-945-1016x22499|kylesanchez@me.com|Luxury Residence|Architect|2020-07-24|$4.4M|Phone|23310.84|No
+216|Heather Johnson|5616 Kelly Dale Apt. 458|Seattle|Queen Anne|98119|(783)639-0198x17946|heatherjohnson@outlook.com|Luxury Residence|Interior Designer|2021-10-19|$2.2M|Phone|29081.85|Yes
+217|Whitney Gomez|978 Vasquez Falls|Seattle|Laurelhurst|98105|+1-834-230-1071x396|whitneygomez@me.com|Luxury Residence|Real Estate Agent|2024-12-11|$18.7M|Client Portal|13384.02|No
+218|Justin Walsh|344 Kyle Parkways|Seattle|Medina|98039|+1-250-415-5699|justinwalsh@outlook.com|Luxury Residence|Houzz|2023-03-09|$7.7M|Client Portal|49509.48|No
+219|Roy Nielsen|0272 Mcclain Plain Suite 760|Seattle|Broadmoor|98112|249.758.8039x55124|roynielsen@protonmail.com|Luxury Residence|Interior Designer|2022-08-16|$15.4M|Text|12312.24|No
+220|Miss Sarah Duncan|91450 Gutierrez Parks Apt. 574|Mercer Island|South End|98040|984.221.5031|misssarahduncan@icloud.com|Luxury Residence|Industry Partner|2020-01-29|$36.3M|Phone|12897.27|No
+221|Susan Moore|8452 Lynn Path Apt. 307|Redmond|Education Hill|98052|(681)204-0915x7018|susanmoore@outlook.com|Luxury Residence|General Contractor|2020-06-26|$3.3M|Phone|26485.43|Yes
+222|Blake, Fowler and Clark|44857 Joseph Estate|Bellevue|Newport Shores|98006|610-498-8138x585|blakefowlerandclark@icloud.com|Design Firm|Houzz|2022-07-03|$39.6M|Email|16769.89|No
+223|Regina Andrews|49587 David Mountains|Seattle|Clyde Hill|98004|+1-601-760-1662x99795|reginaandrews@gmail.com|Luxury Residence|Website Inquiry|2022-08-11|$8.8M|Text|36063.07|No
+224|Michelle Lambert|9217 Stanley Spur|Seattle|Magnolia|98199|+1-977-933-2945x6255|michellelambert@icloud.com|Luxury Residence|Industry Partner|2020-09-30|$9.9M|Text|23713.05|No
+225|John Bell|45992 Richard Station Apt. 581|Mercer Island|North End|98040|387-769-6393x8276|johnbell@icloud.com|Luxury Residence|Industry Partner|2024-04-09|$15.4M|Email|28647.8|No
+226|Michael Reynolds|583 Elaine Club Suite 199|Issaquah|Squak Mountain|98027|858.717.2461x919|michaelreynolds@gmail.com|Luxury Residence|Satisfied Client|2020-05-06|$51.7M|Phone|12404.17|No
+227|Matthew Davis PhD|27846 Gonzalez Springs|Seattle|Queen Anne|98119|249-746-5190x98624|matthewdavisphd@protonmail.com|Luxury Residence|Social Media|2022-09-28|$11.0M|Email|25404.45|No
+228|Tracy Smith|40369 Garrett Station Suite 666|Seattle|Clyde Hill|98004|+1-832-472-3865|tracysmith@protonmail.com|Luxury Residence|Architect|2022-08-04|$6.6M|Client Portal|16450.57|Yes
+229|Shane Martinez|02762 Derrick Valley|Issaquah|Squak Mountain|98027|(479)869-2786x87653|shanemartinez@gmail.com|Luxury Residence|Interior Designer|2020-04-02|$14.3M|Email|47056.23|Yes
+230|Laura Bradford|846 Johnson Camp|Redmond|Sammamish Valley|98052|001-675-919-7128|laurabradford@gmail.com|Luxury Residence|General Contractor|2021-08-10|$15.4M|Client Portal|21850.74|No
+231|Kelly Bishop|1894 Rebecca Place|Bellevue|Newport Shores|98006|001-607-678-7956x54420|kellybishop@me.com|Luxury Residence|Website Inquiry|2020-06-13|$13.2M|Phone|34409.03|No
+232|John Jackson|490 Washington Crossroad|Issaquah|Issaquah Highlands|98029|414.942.9444x01929|johnjackson@me.com|Luxury Residence|Architect|2022-12-19|$5.5M|Email|49032.08|No
+233|Christopher Patton|2805 Tammy Ranch|Issaquah|Issaquah Highlands|98029|(776)263-7239|christopherpatton@me.com|Luxury Residence|Satisfied Client|2022-12-25|$5.5M|Client Portal|20577.19|No
+234|Nicole Wilson|6747 Noah Squares|Woodinville|Hollywood Hill|98072|(374)728-6047x6580|nicolewilson@gmail.com|Luxury Residence|Industry Partner|2020-03-06|$45.1M|Email|15829.98|Yes
+235|Jessica Hull|4414 Murray Spring Apt. 938|Seattle|Clyde Hill|98004|525-680-0106x18175|jessicahull@me.com|Luxury Residence|Architect|2023-05-09|$16.5M|Phone|38324.35|No
+236|Andrew Harvey|391 Christopher Rapids|Issaquah|Issaquah Highlands|98029|(369)921-2447|andrewharvey@icloud.com|Luxury Residence|General Contractor|2024-03-24|$19.8M|Text|15537.27|No
+237|Destiny Simmons|2140 Price Circle Suite 427|Woodinville|Bear Creek|98077|873-596-2712|destinysimmons@outlook.com|Luxury Residence|Website Inquiry|2021-04-30|$4.4M|Phone|23610.21|No
+238|Ashley Alexander|01194 Smith Parks Apt. 006|Issaquah|Squak Mountain|98027|525-269-0877x661|ashleyalexander@icloud.com|Luxury Residence|Social Media|2023-07-06|$11.0M|Email|48753.06|No
+239|Michael Chan|855 Morales Roads|Bellevue|Beaux Arts|98004|+1-515-685-1743x2806|michaelchan@me.com|Luxury Residence|General Contractor|2022-04-16|$8.8M|Client Portal|15843.57|Yes
+240|Stephanie Mccoy|1732 James Stravenue Apt. 761|Mercer Island|South End|98040|+1-747-287-0050|stephaniemccoy@icloud.com|Luxury Residence|Website Inquiry|2024-07-08|$2.2M|Client Portal|48550.38|Yes
+241|Daniel Valdez|829 Sandy Camp Apt. 707|Bellevue|West Bellevue|98004|+1-303-320-2041x792|danielvaldez@icloud.com|Luxury Residence|Luxury Home Show|2021-11-07|$9.9M|Email|29103.6|Yes
+242|Kurt Gilbert|65651 Marc Underpass|Bellevue|Newport Shores|98006|809.425.1142|kurtgilbert@protonmail.com|Luxury Residence|Satisfied Client|2023-05-19|$3.3M|Phone|26572.74|No
+243|Kristen Gonzales|19620 Miller Avenue|Seattle|Medina|98039|(619)946-7232|kristengonzales@icloud.com|Luxury Residence|Interior Designer|2025-04-03|$14.3M|Client Portal|46149.86|Yes
+244|Todd Bishop|279 Courtney Tunnel|Seattle|Magnolia|98199|556-908-3318x1958|toddbishop@protonmail.com|Luxury Residence|Social Media|2021-10-20|$42.9M|Text|18879.0|No
+245|Mary Hill|27722 Brian Lakes|Redmond|Sammamish Valley|98052|236-945-9701x0822|maryhill@me.com|Luxury Residence|Luxury Home Show|2020-07-20|$49.5M|Phone|21681.72|No
+246|Wilson, Jacobson and Griffith|3531 Perez Freeway Suite 363|Seattle|Magnolia|98199|979-470-6239|wilsonjacobsonandgri@icloud.com|Design Firm|Industry Partner|2020-02-03|$12.1M|Client Portal|18283.65|Yes
+247|Chad Cortez|3520 Juan Creek Suite 762|Bellevue|Newport Shores|98006|001-953-549-2929x83168|chadcortez@protonmail.com|Luxury Residence|Luxury Home Show|2024-09-02|$11.0M|Text|39351.23|No
+248|Sara Ramirez|335 Riley Ramp Apt. 906|Sammamish|Trossachs|98074|3079806867|sararamirez@me.com|Luxury Residence|Luxury Home Show|2022-08-01|$15.4M|Phone|11298.13|No
+249|Bradley Mullins DDS|25431 Timothy Inlet Apt. 799|Issaquah|Issaquah Highlands|98029|3778262570|bradleymullinsdds@gmail.com|Luxury Residence|Interior Designer|2022-12-09|$16.5M|Email|39395.25|No
+250|Faith Johnson|9893 Christine Isle Apt. 850|Sammamish|Trossachs|98074|365-579-0552|faithjohnson@icloud.com|Luxury Residence|Satisfied Client|2020-05-19|$16.5M|Client Portal|21794.03|No
+251|George Fernandez|933 Gomez Grove Suite 401|Seattle|Medina|98039|(757)378-8178x847|georgefernandez@gmail.com|Luxury Residence|Architect|2022-12-25|$2.2M|Text|29108.21|No
+252|Mcclain Group|62411 Joshua Square|Mercer Island|South End|98040|(472)938-0468|mcclaingroup@me.com|Design Firm|Interior Designer|2024-07-09|$28.6M|Email|28597.34|Yes
+253|Jeremy Newman|10385 Lane Shoal Suite 798|Redmond|Education Hill|98052|+1-577-949-2424|jeremynewman@outlook.com|Luxury Residence|Real Estate Agent|2024-07-27|$15.4M|Email|21787.32|No
+254|Dwayne Bruce|4729 Jennifer Heights|Seattle|Magnolia|98199|(422)923-1059|dwaynebruce@icloud.com|Luxury Residence|Interior Designer|2021-09-06|$16.5M|Email|9207.52|No
+255|Cody Hart|552 West Estates|Redmond|Sammamish Valley|98052|+1-441-206-7275|codyhart@gmail.com|Luxury Residence|Interior Designer|2023-07-28|$4.4M|Client Portal|43039.84|No
+256|Kimberly Romero|4929 Morgan Creek Suite 028|Seattle|Madison Park|98112|740-269-3751|kimberlyromero@protonmail.com|Luxury Residence|Industry Partner|2025-02-25|$5.5M|Client Portal|17199.28|Yes
+257|Christie Fox|01871 Lee Island Apt. 562|Bellevue|West Bellevue|98004|001-365-565-0455x478|christiefox@protonmail.com|Luxury Residence|Luxury Home Show|2023-02-28|$4.4M|Email|48266.11|Yes
+258|Jill Riddle|2662 Douglas Hollow Suite 851|Mercer Island|South End|98040|001-961-406-4628|jillriddle@me.com|Luxury Residence|Industry Partner|2025-03-17|$4.4M|Phone|30501.32|No
+259|Ronnie Roberts|49478 Walker Turnpike Apt. 244|Issaquah|Issaquah Highlands|98029|+1-771-946-2730x1471|ronnieroberts@outlook.com|Luxury Residence|Interior Designer|2022-02-25|$25.3M|Text|7416.34|No
+260|Sheena Burton|158 Megan Estates Apt. 257|Seattle|Hunts Point|98004|001-325-520-4565x044|sheenaburton@outlook.com|Luxury Residence|Luxury Home Show|2023-05-24|$44.0M|Email|33535.53|No
+261|Catherine Davis|554 Jennings Spurs|Bellevue|Somerset|98006|(818)795-2028x457|catherinedavis@protonmail.com|Luxury Residence|Industry Partner|2022-02-07|$13.2M|Client Portal|8856.24|No
+262|Carla Robinson|89888 Robert Club|Mercer Island|South End|98040|720-475-4527|carlarobinson@gmail.com|Luxury Residence|General Contractor|2020-06-17|$8.8M|Client Portal|19250.52|Yes
+263|Alyssa Olsen|23423 Tina Manors|Bellevue|Bridle Trails|98004|001-211-907-6031x089|alyssaolsen@me.com|Luxury Residence|General Contractor|2022-01-07|$23.1M|Email|13432.63|No
+264|David Jones|19393 Ellen Burgs|Redmond|Education Hill|98052|524-395-5289|davidjones@me.com|Luxury Residence|Website Inquiry|2020-07-30|$7.7M|Email|31861.6|No
+265|Kenneth Smith|342 Teresa Courts|Seattle|Medina|98039|787.859.2712|kennethsmith@outlook.com|Luxury Residence|Website Inquiry|2022-04-27|$3.3M|Phone|30738.22|Yes
+266|Jose Russell|71827 Bush Point Apt. 157|Seattle|Laurelhurst|98105|864-679-4738|joserussell@icloud.com|Luxury Residence|General Contractor|2021-07-04|$9.9M|Email|12524.33|No
+267|Mrs. Shannon Jacobson|520 Powers Locks Suite 811|Redmond|Sammamish Valley|98052|(766)591-2153|mrsshannonjacobson@gmail.com|Luxury Residence|Social Media|2022-01-09|$5.5M|Phone|25603.77|Yes
+268|Wanda Martinez|749 Avila Unions Suite 579|Bellevue|Newport Shores|98006|(278)342-7114x7732|wandamartinez@outlook.com|Luxury Residence|Luxury Home Show|2024-09-19|$15.4M|Client Portal|20063.13|Yes
+269|Sandra Jimenez|69524 Kathleen Shore|Sammamish|Sahalee|98074|001-287-273-4778x48588|sandrajimenez@icloud.com|Luxury Residence|Luxury Home Show|2022-09-08|$8.8M|Text|38069.35|No
+270|Sheryl Wilson MD|7002 Dyer Expressway Suite 624|Seattle|Magnolia|98199|001-467-219-7889x778|sherylwilsonmd@outlook.com|Luxury Residence|Real Estate Agent|2022-02-09|$15.4M|Text|10124.95|Yes
+271|Johnny Arellano|5009 David Lakes Suite 905|Issaquah|Issaquah Highlands|98029|(316)355-6503x3349|johnnyarellano@icloud.com|Luxury Residence|Social Media|2023-10-28|$17.6M|Phone|24730.47|No
+272|Ashley Jackson|76986 Smith Mountains Apt. 569|Seattle|Hunts Point|98004|(659)717-1357x8529|ashleyjackson@me.com|Luxury Residence|Houzz|2023-10-10|$13.2M|Phone|16370.68|Yes
+273|Christina Reid|344 Kenneth Ports|Bellevue|Newport Shores|98006|(839)519-1954x1987|christinareid@gmail.com|Luxury Residence|Industry Partner|2022-07-08|$49.5M|Client Portal|29046.53|No
+274|Billy Colon|8536 King Passage Suite 820|Bellevue|Somerset|98006|+1-582-797-3748x9690|billycolon@protonmail.com|Luxury Residence|Interior Designer|2023-05-01|$3.3M|Phone|34592.07|No
+275|David Francis|6513 Adams Heights Apt. 493|Sammamish|Sahalee|98074|(231)523-0347x7866|davidfrancis@gmail.com|Luxury Residence|Luxury Home Show|2023-02-27|$44.0M|Client Portal|9767.5|Yes
+276|Chad Green|820 Casey Centers Apt. 594|Redmond|Education Hill|98052|365-616-2319|chadgreen@protonmail.com|Luxury Residence|Satisfied Client|2023-02-16|$12.1M|Client Portal|21835.38|No
+277|Brandon Greene DDS|9636 Drew Extensions Apt. 476|Issaquah|Squak Mountain|98027|690-478-5158x673|brandongreenedds@protonmail.com|Luxury Residence|Social Media|2020-11-04|$2.2M|Email|18294.45|Yes
+278|Mike Underwood|900 Johnny Lights|Woodinville|Hollywood Hill|98072|651-583-7606x4413|mikeunderwood@icloud.com|Luxury Residence|Satisfied Client|2021-12-14|$9.9M|Client Portal|20673.51|Yes
+279|Caitlin Gonzales|604 Madeline Overpass Suite 656|Mercer Island|South End|98040|724-981-5698|caitlingonzales@me.com|Luxury Residence|Interior Designer|2021-10-15|$2.2M|Email|43213.1|Yes
+280|Pamela Davidson|720 Gonzalez Inlet|Seattle|Laurelhurst|98105|691-412-3829x65772|pameladavidson@icloud.com|Luxury Residence|Luxury Home Show|2022-11-22|$4.4M|Client Portal|48130.82|Yes
+281|Samantha Marsh|65266 Andrew Brooks|Sammamish|Trossachs|98074|+1-893-817-3420|samanthamarsh@icloud.com|Luxury Residence|Real Estate Agent|2021-01-16|$8.8M|Email|38182.48|Yes
+282|Brittany Rubio|108 Ayala Motorway|Kirkland|Juanita|98034|+1-571-633-3447x62639|brittanyrubio@me.com|Luxury Residence|Houzz|2020-01-10|$30.8M|Email|30980.66|Yes
+283|Chelsey White|44397 Mike Spur|Seattle|Queen Anne|98119|+1-371-307-2563x6694|chelseywhite@me.com|Luxury Residence|Social Media|2020-08-21|$16.5M|Text|31863.69|No
+284|Amy Galvan|9900 Wagner Light Suite 652|Bellevue|Somerset|98006|+1-909-424-2875|amygalvan@outlook.com|Luxury Residence|Houzz|2024-09-27|$4.4M|Email|35244.95|No
+285|Michael Hamilton|50274 Howe Haven Suite 948|Bellevue|Bridle Trails|98004|262-957-2870x32032|michaelhamilton@gmail.com|Luxury Residence|Website Inquiry|2021-01-09|$4.4M|Client Portal|23820.76|Yes
+286|Michael Graham|75877 Rodriguez Stravenue Apt. 151|Kirkland|Juanita|98034|242.428.4993|michaelgraham@icloud.com|Luxury Residence|General Contractor|2022-09-23|$14.3M|Phone|27033.89|Yes
+287|Billy Tate|0416 Garza Coves|Kirkland|Houghton|98033|720-417-7749x05097|billytate@protonmail.com|Luxury Residence|Social Media|2020-04-19|$16.5M|Phone|13780.78|No
+288|Anthony Schneider|18961 Scott Garden Suite 103|Redmond|Education Hill|98052|(666)442-1476|anthonyschneider@me.com|Luxury Residence|Social Media|2022-04-17|$8.8M|Client Portal|12526.41|Yes
+289|Brendan Richardson|7674 Davis Manors|Seattle|Magnolia|98199|(992)366-1085x732|brendanrichardson@outlook.com|Luxury Residence|Houzz|2020-03-07|$11.0M|Phone|40133.31|No
+290|Jeffrey Solomon|2243 Phillips Causeway Apt. 081|Seattle|Madison Park|98112|966.417.9454x91801|jeffreysolomon@protonmail.com|Luxury Residence|Luxury Home Show|2020-08-21|$11.0M|Email|39200.19|No
+291|Sarah Williams|459 Todd Mission Suite 523|Kirkland|Juanita|98034|(819)341-6800|sarahwilliams@gmail.com|Luxury Residence|Houzz|2024-02-16|$33.0M|Email|25237.96|No
+292|Matthew Stevens|974 Vazquez Spurs Suite 412|Seattle|Hunts Point|98004|(403)510-3037|matthewstevens@me.com|Luxury Residence|Satisfied Client|2024-11-07|$33.0M|Text|43747.19|No
+293|Mark Tyler|47276 Darren Drives|Seattle|Broadmoor|98112|001-777-270-7933x4960|marktyler@icloud.com|Luxury Residence|Industry Partner|2024-07-24|$2.2M|Text|28952.64|Yes
+294|Ryan Reynolds|9984 Tony Oval Suite 308|Mercer Island|South End|98040|3699581467|ryanreynolds@outlook.com|Luxury Residence|Website Inquiry|2021-08-15|$16.5M|Email|11101.5|No
+295|Maria West|24375 Hall Forges Suite 972|Bellevue|West Bellevue|98004|566-457-2934x1722|mariawest@icloud.com|Luxury Residence|General Contractor|2023-12-07|$33.0M|Text|42281.68|No
+296|Ashlee Perry|3380 Michael Green Suite 228|Issaquah|Squak Mountain|98027|5159619318|ashleeperry@outlook.com|Luxury Residence|Interior Designer|2023-07-09|$9.9M|Email|23128.28|No
+297|Gerald Kelly|428 Jasmine Mill|Bellevue|Somerset|98006|511.799.1808x121|geraldkelly@me.com|Luxury Residence|Interior Designer|2022-09-26|$2.2M|Client Portal|33567.82|No
+298|Edgar Alexander|125 Fuentes Crossing Apt. 760|Issaquah|Issaquah Highlands|98029|875.748.2145|edgaralexander@me.com|Luxury Residence|Social Media|2021-03-22|$30.8M|Text|19528.93|No
+299|Danielle Mullins|26667 Acevedo Mills Apt. 081|Issaquah|Squak Mountain|98027|455-262-6060|daniellemullins@icloud.com|Luxury Residence|Architect|2023-03-05|$39.6M|Email|9480.86|No
+300|Whitney, Lloyd and Liu|6845 Smith Harbors Apt. 673|Seattle|Laurelhurst|98105|+1-299-775-6341|whitneylloydandliu@me.com|Design Firm|Satisfied Client|2022-07-23|$8.8M|Phone|44696.65|No
+301|Nathan Hobbs|18848 Sherman Estate Apt. 089|Bellevue|West Bellevue|98004|234-368-1054x851|nathanhobbs@gmail.com|Luxury Residence|Luxury Home Show|2023-09-02|$3.3M|Phone|7330.43|No
+302|Kenneth Smith|99893 Evans Shores Apt. 683|Woodinville|Bear Creek|98077|858-893-5712|kennethsmith@icloud.com|Luxury Residence|Interior Designer|2022-05-29|$14.3M|Email|14603.95|Yes
+303|Antonio Beasley|71586 Wiggins Prairie Suite 677|Seattle|Magnolia|98199|001-962-928-2772x8813|antoniobeasley@protonmail.com|Luxury Residence|Luxury Home Show|2023-10-24|$2.2M|Email|49466.97|No
+304|Christopher Hansen|611 Armstrong Canyon|Redmond|Sammamish Valley|98052|221.654.5447x02296|christopherhansen@gmail.com|Luxury Residence|Interior Designer|2021-04-13|$14.3M|Email|19100.82|No
+305|Cindy Fuentes|18510 Olson Inlet Suite 567|Woodinville|Bear Creek|98077|001-892-828-7772x5199|cindyfuentes@icloud.com|Luxury Residence|Interior Designer|2023-08-06|$26.4M|Email|32464.37|Yes
+306|James Weaver|412 Ashley Underpass Suite 818|Woodinville|Hollywood Hill|98072|939-289-0983|jamesweaver@icloud.com|Luxury Residence|Industry Partner|2023-07-10|$45.1M|Client Portal|43698.31|Yes
+307|Timothy White|3397 Lindsay Rest|Seattle|Broadmoor|98112|669-307-0562x60856|timothywhite@gmail.com|Luxury Residence|Real Estate Agent|2023-04-22|$40.7M|Text|40598.45|Yes
+308|Brett Jackson|41246 Brian Islands|Seattle|Hunts Point|98004|(700)646-1526|brettjackson@icloud.com|Luxury Residence|Industry Partner|2023-02-07|$14.3M|Text|40053.63|Yes
+309|Ronald Martinez|99378 Avery Grove|Mercer Island|North End|98040|5572861706|ronaldmartinez@outlook.com|Luxury Residence|Satisfied Client|2021-02-24|$11.0M|Client Portal|18299.39|Yes
+310|Victor Leonard|249 Griffin Vista|Seattle|Magnolia|98199|+1-283-925-8238x6870|victorleonard@me.com|Luxury Residence|Industry Partner|2022-03-01|$9.9M|Email|28772.89|Yes
+311|Lisa Delgado|07494 Kidd Ville|Bellevue|Beaux Arts|98004|+1-339-484-0289x1416|lisadelgado@icloud.com|Luxury Residence|Luxury Home Show|2022-03-03|$45.1M|Phone|39322.67|Yes
+312|Hawkins, Ramirez and Reynolds|547 Sanchez Islands Suite 379|Seattle|Hunts Point|98004|302-309-7002x68768|hawkinsramirezandrey@gmail.com|Design Firm|Real Estate Agent|2021-06-20|$2.2M|Text|33285.68|No
+313|Stephanie Cabrera|156 Hughes Villages Apt. 175|Bellevue|Newport Shores|98006|670.530.4531|stephaniecabrera@gmail.com|Luxury Residence|General Contractor|2023-08-04|$12.1M|Text|8761.87|Yes
+314|Johnny Cox|9303 Rodriguez Harbors Suite 283|Seattle|Queen Anne|98119|+1-699-592-1921x24938|johnnycox@icloud.com|Luxury Residence|Interior Designer|2023-01-03|$12.1M|Text|36440.41|Yes
+315|Allison Booker|870 Davidson Run Apt. 566|Seattle|Hunts Point|98004|918-777-5803x046|allisonbooker@me.com|Luxury Residence|Architect|2020-08-25|$12.1M|Text|34973.58|Yes
+316|Cory Miller|361 James Isle|Mercer Island|South End|98040|511-707-6095x4317|corymiller@icloud.com|Luxury Residence|Luxury Home Show|2023-12-07|$9.9M|Text|12513.33|Yes
+317|Samantha Stone|99717 Christopher Circle|Bellevue|West Bellevue|98004|8653120704|samanthastone@gmail.com|Luxury Residence|Real Estate Agent|2024-04-28|$39.6M|Text|28573.44|No
+318|Anthony Williams|1963 Shawn Mountain Suite 991|Issaquah|Squak Mountain|98027|407-685-9311x09193|anthonywilliams@gmail.com|Luxury Residence|Architect|2022-10-13|$7.7M|Client Portal|43671.19|Yes
+319|John Oliver|20024 Palmer Run|Bellevue|West Bellevue|98004|001-454-298-2274x95450|johnoliver@gmail.com|Luxury Residence|Interior Designer|2025-01-05|$14.3M|Phone|38335.1|Yes
+320|Hunter PLC|5333 Matthew Shores|Seattle|Medina|98039|979.259.9594x6521|hunterplc@icloud.com|Design Firm|General Contractor|2020-04-04|$8.8M|Phone|46902.2|Yes
+321|Thomas Fowler DDS|337 Aguirre Lane Apt. 620|Mercer Island|South End|98040|(701)250-8124x739|thomasfowlerdds@me.com|Luxury Residence|Luxury Home Show|2021-04-04|$8.8M|Text|42169.86|No
+322|Christina Mitchell|2583 James Fall|Mercer Island|North End|98040|710-426-1534x735|christinamitchell@gmail.com|Luxury Residence|Architect|2021-01-02|$11.0M|Client Portal|8101.69|No
+323|Vanessa Cuevas|112 Laura Fields Suite 559|Woodinville|Bear Creek|98077|(930)599-3842x53042|vanessacuevas@outlook.com|Luxury Residence|Architect|2021-11-01|$9.9M|Text|14030.2|No
+324|Rachel Gibbs|86857 White Station|Seattle|Magnolia|98199|(587)977-4969x033|rachelgibbs@me.com|Luxury Residence|Satisfied Client|2022-01-24|$9.9M|Phone|11775.49|No
+325|Foster LLC|9254 Dennis Corner Suite 785|Issaquah|Issaquah Highlands|98029|990.878.9567|fosterllc@outlook.com|Design Firm|Luxury Home Show|2023-07-26|$16.5M|Email|39151.81|No
+326|Robert Stewart|27341 Valenzuela Hill Apt. 431|Woodinville|Hollywood Hill|98072|615-608-3535|robertstewart@outlook.com|Luxury Residence|Real Estate Agent|2020-07-31|$5.5M|Client Portal|48253.33|Yes
+327|Patricia Bruce|928 Smith Hills|Seattle|Hunts Point|98004|956-569-0782x6333|patriciabruce@gmail.com|Luxury Residence|Website Inquiry|2025-03-01|$16.5M|Client Portal|36538.11|No
+328|Rachel Todd|1536 Clark Mission Apt. 529|Woodinville|Hollywood Hill|98072|(840)675-5366|racheltodd@gmail.com|Luxury Residence|Real Estate Agent|2023-04-04|$4.4M|Email|31635.31|Yes
+329|Alexander Floyd|59999 Baird Ford|Seattle|Broadmoor|98112|(318)463-7159x7412|alexanderfloyd@icloud.com|Luxury Residence|Real Estate Agent|2021-08-20|$7.7M|Text|19312.6|No
+330|Michael Burns|16433 Keller Cliff|Seattle|Queen Anne|98119|805.980.2566x212|michaelburns@icloud.com|Luxury Residence|General Contractor|2024-05-16|$23.1M|Email|12396.87|No
+331|Jasmine Berger|34672 Matthews Parkway|Seattle|Madison Park|98112|001-774-930-2716x938|jasmineberger@protonmail.com|Luxury Residence|Social Media|2022-01-03|$30.8M|Text|25850.6|Yes
+332|Kenneth Mclaughlin|754 Austin Valleys Apt. 632|Mercer Island|North End|98040|+1-667-362-9160x324|kennethmclaughlin@outlook.com|Luxury Residence|Satisfied Client|2024-08-19|$18.7M|Text|11674.57|Yes
+333|Miranda Robinson|8151 William Tunnel Suite 672|Bellevue|Newport Shores|98006|838-207-0176x563|mirandarobinson@protonmail.com|Luxury Residence|General Contractor|2020-04-10|$6.6M|Email|47844.35|No
+334|Brian Stark|777 Christopher Shoals Apt. 727|Issaquah|Issaquah Highlands|98029|322-209-1241x862|brianstark@icloud.com|Luxury Residence|General Contractor|2020-07-12|$15.4M|Email|5538.06|Yes
+335|Brittany Howard|083 Horton Villages|Bellevue|Newport Shores|98006|+1-781-564-7090x0633|brittanyhoward@outlook.com|Luxury Residence|Interior Designer|2023-11-06|$13.2M|Text|46284.29|Yes
+336|Davis Group|53131 Jennifer Cape|Seattle|Hunts Point|98004|(581)355-8393x86613|davisgroup@icloud.com|Design Firm|General Contractor|2025-01-22|$15.4M|Email|45728.51|No
+337|Christopher Morales|63731 Santos Land Apt. 136|Kirkland|Houghton|98033|797-418-9241x9562|christophermorales@gmail.com|Luxury Residence|Real Estate Agent|2020-12-10|$46.2M|Client Portal|6326.7|No
+338|Stacey Stewart|50997 Dixon Streets Apt. 890|Seattle|Queen Anne|98119|309.214.3639|staceystewart@icloud.com|Luxury Residence|Architect|2021-07-17|$4.4M|Phone|34127.53|No
+339|Jonathan Harris|03975 Joshua Row Apt. 864|Issaquah|Issaquah Highlands|98029|001-703-455-3380x33968|jonathanharris@me.com|Luxury Residence|General Contractor|2020-05-04|$8.8M|Client Portal|13975.6|Yes
+340|Aaron Kane|02321 Brittany Village|Issaquah|Issaquah Highlands|98029|538.816.7423|aaronkane@gmail.com|Luxury Residence|Social Media|2022-02-22|$40.7M|Client Portal|20481.54|No
+341|David Mitchell|347 Stephanie Lake Suite 627|Seattle|Laurelhurst|98105|468.496.2706x614|davidmitchell@gmail.com|Luxury Residence|Houzz|2021-10-15|$2.2M|Email|41389.42|No
+342|John Chavez|971 Taylor Mountains Apt. 230|Woodinville|Bear Creek|98077|9856766656|johnchavez@protonmail.com|Luxury Residence|Satisfied Client|2021-04-21|$23.1M|Phone|16993.72|Yes
+343|Leah Ortiz|69236 Wise Terrace|Seattle|Magnolia|98199|001-258-475-0663x3705|leahortiz@protonmail.com|Luxury Residence|Luxury Home Show|2024-09-29|$42.9M|Phone|12924.52|No
+344|Jesus Becker|99201 Dawn Lights Suite 918|Mercer Island|South End|98040|662.864.4886|jesusbecker@outlook.com|Luxury Residence|Luxury Home Show|2025-02-14|$14.3M|Phone|30339.9|Yes
+345|Tammy Booth|952 Goodman Summit|Redmond|Sammamish Valley|98052|(440)427-0116x8646|tammybooth@protonmail.com|Luxury Residence|Interior Designer|2021-09-24|$2.2M|Email|15468.05|Yes
+346|Lopez-Taylor|81793 James Summit Apt. 346|Redmond|Sammamish Valley|98052|291.521.4161x415|lopeztaylor@gmail.com|Design Firm|General Contractor|2021-11-10|$29.7M|Text|37262.19|No
+347|Michael Garcia|0901 Alexa Avenue|Seattle|Broadmoor|98112|(598)747-7596x5555|michaelgarcia@protonmail.com|Luxury Residence|Website Inquiry|2023-12-14|$24.2M|Text|48225.14|No
+348|Jamie Brown|1076 Anthony Crossing Suite 357|Mercer Island|North End|98040|+1-578-963-0505x057|jamiebrown@me.com|Luxury Residence|Luxury Home Show|2023-04-15|$6.6M|Phone|48913.73|No
+349|Lonnie Miller|1649 Jennifer Ways Apt. 271|Redmond|Sammamish Valley|98052|387-827-1783x3321|lonniemiller@outlook.com|Luxury Residence|Industry Partner|2020-12-22|$55.0M|Text|15045.67|Yes
+350|Alyssa Hickman MD|3471 Sandra Roads Suite 153|Woodinville|Hollywood Hill|98072|001-591-656-6863|alyssahickmanmd@outlook.com|Luxury Residence|Industry Partner|2020-09-17|$2.2M|Client Portal|43284.06|Yes
+351|Brandon Davis|195 Melissa Light|Bellevue|Beaux Arts|98004|001-704-709-8366|brandondavis@protonmail.com|Luxury Residence|Social Media|2021-03-28|$3.3M|Phone|19902.58|Yes
+352|Taylor Martinez|60875 Lisa Hill|Bellevue|Beaux Arts|98004|777.629.4209|taylormartinez@icloud.com|Luxury Residence|Luxury Home Show|2023-07-26|$22.0M|Client Portal|5512.8|Yes
+353|Melissa Hill|374 Brown Valleys Suite 233|Seattle|Hunts Point|98004|001-902-776-4208x656|melissahill@outlook.com|Luxury Residence|Architect|2021-06-09|$16.5M|Client Portal|24719.91|No
+354|Jeanne Rose|3861 Marcus Turnpike Apt. 472|Kirkland|Juanita|98034|001-227-774-2333|jeannerose@me.com|Luxury Residence|Real Estate Agent|2024-12-10|$11.0M|Email|42296.31|Yes
+355|Laura Gregory|6201 Mccann Fall|Seattle|Hunts Point|98004|2183596263|lauragregory@gmail.com|Luxury Residence|Interior Designer|2021-08-26|$6.6M|Email|20381.37|No
+356|John Watts|617 Hill Shoal|Seattle|Hunts Point|98004|950.611.1178x309|johnwatts@protonmail.com|Luxury Residence|Industry Partner|2025-01-13|$39.6M|Client Portal|36702.71|No
+357|Anna Watkins|6492 Mark Station Apt. 606|Seattle|Laurelhurst|98105|+1-588-371-8981|annawatkins@protonmail.com|Luxury Residence|Interior Designer|2024-12-27|$2.2M|Text|14249.77|Yes
+358|Kyle White|1029 Denise Corners Suite 011|Issaquah|Issaquah Highlands|98029|445.982.6034x08487|kylewhite@protonmail.com|Luxury Residence|Satisfied Client|2021-06-27|$6.6M|Email|7233.59|No
+359|Kelly Andersen|883 Elaine Cape Apt. 032|Bellevue|Somerset|98006|632-698-3954x2961|kellyandersen@gmail.com|Luxury Residence|Industry Partner|2022-05-25|$16.5M|Client Portal|13985.37|Yes
+360|Steven Ross|6283 Crystal Grove|Sammamish|Trossachs|98074|+1-535-398-9262x5660|stevenross@outlook.com|Luxury Residence|Houzz|2020-06-16|$3.3M|Client Portal|26192.5|No
+361|Joseph Sutton|51554 Misty Fork Suite 016|Issaquah|Issaquah Highlands|98029|361.712.8497|josephsutton@me.com|Luxury Residence|Luxury Home Show|2021-01-13|$8.8M|Phone|25059.89|No
+362|Sharon Arnold|25625 Woods Crossroad|Bellevue|West Bellevue|98004|808-922-2694x053|sharonarnold@icloud.com|Luxury Residence|General Contractor|2024-09-10|$2.2M|Email|8856.83|No
+363|William Lindsey|6834 Stacey Lodge Suite 111|Kirkland|Juanita|98034|001-431-929-0148x7068|williamlindsey@protonmail.com|Luxury Residence|Real Estate Agent|2021-04-10|$16.5M|Client Portal|48453.25|No
+364|Mr. Michael Patel Jr.|306 Sanchez Streets|Seattle|Magnolia|98199|+1-789-209-7283x21528|mrmichaelpateljr@me.com|Luxury Residence|Architect|2021-09-04|$16.5M|Phone|10412.68|No
+365|James Brooks|3814 Webb Greens|Seattle|Laurelhurst|98105|909.263.4807|jamesbrooks@icloud.com|Luxury Residence|Real Estate Agent|2024-07-13|$2.2M|Email|49472.6|No
+366|Luis Murphy|05265 Craig Overpass Apt. 188|Sammamish|Trossachs|98074|(861)770-2437|luismurphy@icloud.com|Luxury Residence|Interior Designer|2024-09-04|$7.7M|Email|22464.46|No
+367|Jeffrey White|77225 Smith Ways Apt. 134|Bellevue|West Bellevue|98004|6263650237|jeffreywhite@protonmail.com|Luxury Residence|Industry Partner|2022-07-27|$16.5M|Client Portal|10063.35|Yes
+368|Joshua Marsh|6862 Susan Turnpike|Issaquah|Squak Mountain|98027|8222580305|joshuamarsh@protonmail.com|Luxury Residence|Interior Designer|2024-04-02|$23.1M|Email|40358.55|No
+369|Dylan Tucker|92823 Wang Way Suite 363|Bellevue|West Bellevue|98004|618.592.3923x1260|dylantucker@me.com|Luxury Residence|Social Media|2023-09-03|$12.1M|Email|12748.99|No
+370|Jessica Jensen|66843 Matthew Neck|Sammamish|Sahalee|98074|7868041454|jessicajensen@me.com|Luxury Residence|Satisfied Client|2020-03-20|$7.7M|Email|38558.74|No
+371|Steven White|53474 Ryan Glen|Seattle|Medina|98039|755.541.1082x5559|stevenwhite@outlook.com|Luxury Residence|Houzz|2024-08-01|$37.4M|Client Portal|43620.57|Yes
+372|Christine Cruz|91093 Janet Courts|Seattle|Magnolia|98199|289-454-7382|christinecruz@icloud.com|Luxury Residence|Luxury Home Show|2021-09-07|$47.3M|Text|37795.97|Yes
+373|Joshua King|7161 Barnes Parkway Apt. 294|Seattle|Queen Anne|98119|001-424-909-0367x881|joshuaking@me.com|Luxury Residence|Luxury Home Show|2024-02-26|$11.0M|Email|28187.14|Yes
+374|Janet Chan|432 Ernest Forge Apt. 878|Mercer Island|South End|98040|001-584-643-4481x230|janetchan@protonmail.com|Luxury Residence|Website Inquiry|2022-04-06|$16.5M|Email|12818.18|Yes
+375|Charles Stephenson|0338 Aaron Key|Seattle|Magnolia|98199|+1-295-751-8426x9450|charlesstephenson@gmail.com|Luxury Residence|Satisfied Client|2022-07-23|$7.7M|Text|21575.84|No
+376|Vincent Thompson|916 Berg Roads|Sammamish|Trossachs|98074|+1-583-873-5439x627|vincentthompson@gmail.com|Luxury Residence|Social Media|2023-10-27|$7.7M|Client Portal|12991.27|No
+377|Steven Davis|2239 Harding Falls|Bellevue|Somerset|98006|+1-540-942-2693x1216|stevendavis@outlook.com|Luxury Residence|Interior Designer|2020-11-30|$34.1M|Text|6235.27|Yes
+378|Tracy Garcia|091 Cruz Creek|Issaquah|Squak Mountain|98027|2023314290|tracygarcia@icloud.com|Luxury Residence|Satisfied Client|2024-10-21|$5.5M|Text|34321.43|Yes
+379|Sabrina Farrell|27972 Rivera Drives|Woodinville|Bear Creek|98077|608.348.1001|sabrinafarrell@gmail.com|Luxury Residence|Industry Partner|2022-08-28|$28.6M|Email|15069.65|No
+380|Sara Thomas|36625 Perez Spur|Mercer Island|South End|98040|(717)321-3145x1951|sarathomas@outlook.com|Luxury Residence|Social Media|2022-05-17|$40.7M|Text|14819.41|No
+381|Lindsey Thompson|262 Weber Heights Suite 147|Sammamish|Sahalee|98074|+1-854-610-2252x67711|lindseythompson@me.com|Luxury Residence|Luxury Home Show|2023-04-12|$11.0M|Text|18431.42|Yes
+382|Frank Anderson|5767 Guzman Roads Suite 236|Bellevue|Beaux Arts|98004|(587)388-7883x61968|frankanderson@outlook.com|Luxury Residence|Houzz|2023-08-04|$6.6M|Text|13476.2|Yes
+383|Aaron Mcknight|8721 Rhonda Lake|Sammamish|Sahalee|98074|001-824-272-8633x30212|aaronmcknight@me.com|Luxury Residence|Architect|2023-09-14|$4.4M|Client Portal|49886.11|No
+384|Jessica Brown|917 Anthony Lakes|Bellevue|Newport Shores|98006|(913)410-9622|jessicabrown@me.com|Luxury Residence|Industry Partner|2024-02-17|$14.3M|Phone|20442.52|Yes
+385|Melissa Evans|570 Rodriguez Circle Apt. 928|Sammamish|Trossachs|98074|(606)567-8498|melissaevans@me.com|Luxury Residence|Website Inquiry|2025-01-30|$40.7M|Text|43043.87|Yes
+386|Christopher Dudley|36903 White Summit Apt. 775|Redmond|Sammamish Valley|98052|+1-766-220-5634x1115|christopherdudley@icloud.com|Luxury Residence|Website Inquiry|2024-02-26|$15.4M|Phone|47611.55|No
+387|Christopher Rodriguez|043 Danielle Bypass|Seattle|Magnolia|98199|241.799.0970|christopherrodriguez@outlook.com|Luxury Residence|Real Estate Agent|2021-04-02|$37.4M|Text|21725.71|No
+388|Eric Hooper|8356 Dickson Squares Apt. 568|Seattle|Madison Park|98112|682-409-6790|erichooper@me.com|Luxury Residence|Social Media|2020-04-19|$20.9M|Phone|27521.48|No
+389|Joel Mcclure|332 Victoria Parkway|Kirkland|Juanita|98034|598.357.2545x96063|joelmcclure@gmail.com|Luxury Residence|Satisfied Client|2024-11-18|$25.3M|Text|23413.63|No
+390|Latasha Gamble|24817 Shawn Extension|Mercer Island|South End|98040|621-949-5511x2747|latashagamble@icloud.com|Luxury Residence|General Contractor|2024-05-14|$7.7M|Text|33552.45|Yes
+391|Brenda Martinez|54669 Scott Passage Suite 516|Seattle|Queen Anne|98119|874.309.0380x21462|brendamartinez@icloud.com|Luxury Residence|Interior Designer|2023-03-26|$50.6M|Phone|32651.59|No
+392|Shane Caldwell|7871 Henry Coves Suite 636|Redmond|Sammamish Valley|98052|915-459-7371x47082|shanecaldwell@me.com|Luxury Residence|Luxury Home Show|2020-01-10|$5.5M|Email|45140.29|Yes
+393|Lewis, Carroll and Huerta|56730 Miranda Trace Suite 442|Seattle|Medina|98039|521-646-1476|lewiscarrollandhuert@icloud.com|Design Firm|Houzz|2021-04-08|$7.7M|Phone|9621.87|No
+394|Anthony Jacobson|4235 Olson Plain Apt. 659|Seattle|Clyde Hill|98004|(908)493-1992x5502|anthonyjacobson@outlook.com|Luxury Residence|Industry Partner|2021-08-18|$11.0M|Text|24514.94|Yes
+395|Mr. Ricky Craig III|2791 Jeffery Field|Redmond|Sammamish Valley|98052|(682)696-3533x90550|mrrickycraigiii@outlook.com|Luxury Residence|Real Estate Agent|2024-03-16|$15.4M|Email|15278.82|Yes
+396|Sharon Lyons|6558 Mills Track Suite 127|Seattle|Medina|98039|(352)389-2866x46491|sharonlyons@protonmail.com|Luxury Residence|Architect|2022-10-30|$7.7M|Client Portal|44444.49|No
+397|Alan Randolph|9817 Elizabeth Walk|Sammamish|Sahalee|98074|(233)778-6137x15766|alanrandolph@gmail.com|Luxury Residence|Architect|2023-05-01|$23.1M|Email|36038.74|No
+398|Katie Adams|6306 Alexis Drives Suite 895|Seattle|Madison Park|98112|829-463-8639x60962|katieadams@protonmail.com|Luxury Residence|Satisfied Client|2021-06-01|$4.4M|Email|18550.24|Yes
+399|Evan Moore|28196 Hood Estate|Bellevue|West Bellevue|98004|831-210-6092x09819|evanmoore@protonmail.com|Luxury Residence|Interior Designer|2023-05-25|$45.1M|Email|17721.8|Yes
+400|Bianca Chavez|33438 Jessica Valley Suite 404|Sammamish|Sahalee|98074|320-491-1791|biancachavez@icloud.com|Luxury Residence|Satisfied Client|2024-05-12|$11.0M|Text|36654.65|No
+401|Steven Davis|3617 Robert Oval Apt. 366|Issaquah|Issaquah Highlands|98029|272-424-0299x01557|stevendavis@me.com|Luxury Residence|Luxury Home Show|2025-02-07|$9.9M|Phone|5123.21|Yes
+402|Dawn Martinez|088 Javier Lakes|Issaquah|Squak Mountain|98027|630-952-3124|dawnmartinez@me.com|Luxury Residence|Interior Designer|2020-11-01|$51.7M|Email|45715.07|Yes
+403|Brandon Erickson|7686 John Flat Suite 619|Bellevue|Bridle Trails|98004|001-894-823-7676x94591|brandonerickson@outlook.com|Luxury Residence|General Contractor|2022-08-08|$16.5M|Email|43351.19|No
+404|Harry Hurst|2084 Carter Views|Bellevue|Beaux Arts|98004|+1-585-760-1256x2531|harryhurst@me.com|Luxury Residence|Architect|2024-02-21|$16.5M|Email|43339.94|Yes
+405|Richard Martinez|053 Bradley Islands Apt. 816|Kirkland|Houghton|98033|793-783-1849x1966|richardmartinez@protonmail.com|Luxury Residence|Luxury Home Show|2021-07-03|$22.0M|Text|13229.12|No
+406|Anthony Snyder|6117 Carolyn Ramp|Kirkland|Houghton|98033|(239)704-0907x4260|anthonysnyder@outlook.com|Luxury Residence|Social Media|2024-09-07|$16.5M|Client Portal|34198.09|Yes
+407|Andrea Davis|445 Ross Point Suite 790|Mercer Island|South End|98040|(347)771-5910x3002|andreadavis@gmail.com|Luxury Residence|Industry Partner|2024-09-25|$8.8M|Client Portal|41101.92|No
+408|Misty Perez|58004 Daniel Hollow|Bellevue|Newport Shores|98006|945-396-4229|mistyperez@outlook.com|Luxury Residence|General Contractor|2023-06-06|$13.2M|Client Portal|46417.91|Yes
+409|Scott Mullins|718 Becky Shore Suite 457|Kirkland|Houghton|98033|314.341.5833|scottmullins@gmail.com|Luxury Residence|Architect|2020-05-09|$7.7M|Phone|49005.3|No
+410|Amy Smith|6371 Clark Ramp|Mercer Island|South End|98040|001-588-854-7281x23567|amysmith@protonmail.com|Luxury Residence|Satisfied Client|2020-07-14|$14.3M|Client Portal|20558.73|No
+411|Donald Martin|127 Julie Garden Apt. 724|Issaquah|Issaquah Highlands|98029|7788754181|donaldmartin@protonmail.com|Luxury Residence|Website Inquiry|2020-04-21|$4.4M|Client Portal|43334.2|Yes
+412|James Jordan|74510 Dennis Manors Apt. 436|Redmond|Sammamish Valley|98052|(294)589-7861|jamesjordan@outlook.com|Luxury Residence|Architect|2021-05-08|$6.6M|Phone|29772.3|No
+413|Colleen Brown|431 Joshua River|Seattle|Magnolia|98199|001-666-661-3473x235|colleenbrown@gmail.com|Luxury Residence|Social Media|2022-07-29|$12.1M|Email|43546.52|No
+414|Anna Gordon|432 Maldonado Expressway Apt. 572|Redmond|Sammamish Valley|98052|2767502412|annagordon@gmail.com|Luxury Residence|Website Inquiry|2020-07-29|$2.2M|Email|42165.89|No
+415|Lauren Freeman|1009 Conley Pine|Issaquah|Issaquah Highlands|98029|722.911.4577x58474|laurenfreeman@icloud.com|Luxury Residence|Luxury Home Show|2023-09-02|$7.7M|Email|41746.49|No
+416|Harold Mckinney|48026 Donna Divide Suite 703|Woodinville|Bear Creek|98077|001-965-431-3614|haroldmckinney@protonmail.com|Luxury Residence|Luxury Home Show|2023-05-13|$13.2M|Client Portal|10131.05|Yes
+417|Lozano-Bailey|9644 Blake Pike Suite 916|Bellevue|Somerset|98006|495.641.0727x284|lozanobailey@outlook.com|Design Firm|Interior Designer|2023-01-26|$14.3M|Email|45359.47|No
+418|Mr. Edward Chavez|9107 Smith Knoll|Mercer Island|South End|98040|+1-800-342-5488x21423|mredwardchavez@me.com|Luxury Residence|Satisfied Client|2020-08-07|$5.5M|Email|46859.73|No
+419|Andrew Fitzpatrick|666 Patricia Hollow|Seattle|Queen Anne|98119|+1-542-696-5923x426|andrewfitzpatrick@outlook.com|Luxury Residence|Industry Partner|2020-08-08|$18.7M|Email|39746.53|No
+420|Edward Ho|266 Dillon Mills Suite 857|Issaquah|Squak Mountain|98027|(667)566-7080x612|edwardho@protonmail.com|Luxury Residence|Website Inquiry|2020-10-02|$16.5M|Email|29895.18|No
+421|Jacqueline Oliver|62607 Combs Corner Apt. 415|Redmond|Sammamish Valley|98052|+1-414-997-5019x803|jacquelineoliver@protonmail.com|Luxury Residence|Industry Partner|2024-05-18|$28.6M|Phone|37872.26|Yes
+422|Steven Bowman|4079 Danny Alley|Mercer Island|North End|98040|(291)981-3317|stevenbowman@protonmail.com|Luxury Residence|Real Estate Agent|2023-05-26|$51.7M|Client Portal|49077.53|Yes
+423|Timothy Evans|38497 Ryan Roads Apt. 223|Bellevue|Beaux Arts|98004|(988)737-7441|timothyevans@outlook.com|Luxury Residence|Real Estate Agent|2022-07-16|$25.3M|Text|42938.35|No
+424|Jeanne Wolfe|6620 Bryant Port|Issaquah|Issaquah Highlands|98029|(209)440-9705x2774|jeannewolfe@icloud.com|Luxury Residence|Houzz|2021-02-15|$14.3M|Text|46453.63|Yes
+425|Scott Gordon|868 Greg Drive Suite 957|Sammamish|Trossachs|98074|001-624-446-1767x929|scottgordon@icloud.com|Luxury Residence|Luxury Home Show|2022-10-28|$13.2M|Email|39234.88|No
+426|Leah Carpenter|00231 Victor Springs Suite 533|Mercer Island|North End|98040|226-361-0941|leahcarpenter@me.com|Luxury Residence|Houzz|2023-10-12|$53.9M|Client Portal|41373.72|Yes
+427|Hines-Obrien|51762 James Overpass|Seattle|Broadmoor|98112|543.232.6831x901|hinesobrien@gmail.com|Design Firm|General Contractor|2023-10-04|$6.6M|Text|35752.56|Yes
+428|Stephanie Ward|815 Faith Stream Suite 339|Mercer Island|South End|98040|385.459.8217x6619|stephanieward@outlook.com|Luxury Residence|Luxury Home Show|2021-02-21|$18.7M|Client Portal|9611.6|Yes
+429|Elizabeth Wilson|98503 Nielsen Glen|Issaquah|Issaquah Highlands|98029|(851)224-1893x8984|elizabethwilson@me.com|Luxury Residence|Houzz|2021-05-01|$15.4M|Email|46691.82|No
+430|Stephanie Aguilar|005 Green Isle Apt. 238|Mercer Island|North End|98040|001-350-937-1990x5169|stephanieaguilar@outlook.com|Luxury Residence|Houzz|2023-02-04|$14.3M|Phone|32925.28|No
+431|Debra Williams|8356 Turner Vista|Sammamish|Trossachs|98074|900.203.8960|debrawilliams@outlook.com|Luxury Residence|Industry Partner|2024-03-26|$14.3M|Phone|39926.6|Yes
+432|James Martinez|217 Penny Land Suite 356|Seattle|Laurelhurst|98105|2332190368|jamesmartinez@gmail.com|Luxury Residence|Interior Designer|2021-01-17|$51.7M|Client Portal|6828.54|No
+433|Danielle Brown|72405 Morrison Gardens|Seattle|Broadmoor|98112|529-967-1114x8375|daniellebrown@icloud.com|Luxury Residence|Luxury Home Show|2023-04-11|$16.5M|Client Portal|36936.02|Yes
+434|Turner, Richardson and Arnold|458 Brian Loop|Bellevue|Beaux Arts|98004|001-397-741-3283x483|turnerrichardsonanda@protonmail.com|Design Firm|Social Media|2020-04-14|$37.4M|Text|8279.64|No
+435|Rachel Johnson|771 Victor Bypass|Seattle|Laurelhurst|98105|849-864-1049x670|racheljohnson@protonmail.com|Luxury Residence|Real Estate Agent|2020-05-19|$27.5M|Client Portal|9137.55|Yes
+436|Danny Gray|040 Pineda Rest Suite 493|Mercer Island|North End|98040|001-605-496-6018x64876|dannygray@outlook.com|Luxury Residence|Industry Partner|2021-11-09|$5.5M|Client Portal|49848.4|Yes
+437|Julie Riddle|04413 Morgan Locks|Bellevue|Somerset|98006|6947544901|julieriddle@me.com|Luxury Residence|Architect|2021-05-07|$33.0M|Text|22161.77|Yes
+438|Sarah Wallace|0705 Little Point|Issaquah|Issaquah Highlands|98029|360.991.4985|sarahwallace@outlook.com|Luxury Residence|Website Inquiry|2020-02-20|$41.8M|Client Portal|26906.21|No
+439|Ralph Hill|32290 Danny Camp Apt. 879|Seattle|Queen Anne|98119|308-330-4405x80935|ralphhill@outlook.com|Luxury Residence|General Contractor|2022-11-18|$3.3M|Email|33211.99|Yes
+440|Ashley Jones|9561 Liu Divide|Woodinville|Bear Creek|98077|2594556574|ashleyjones@icloud.com|Luxury Residence|Interior Designer|2024-11-06|$16.5M|Phone|29198.94|No
+441|Earl Hernandez|93588 Case Lane|Seattle|Hunts Point|98004|001-802-361-1398|earlhernandez@icloud.com|Luxury Residence|Architect|2020-02-18|$7.7M|Email|8296.16|Yes
+442|Kelsey Williams|887 Adams Villages Suite 353|Issaquah|Issaquah Highlands|98029|001-353-775-1376x51588|kelseywilliams@gmail.com|Luxury Residence|Real Estate Agent|2023-03-23|$34.1M|Client Portal|25300.65|No
+443|Lisa Cole|92836 Catherine Underpass Suite 551|Seattle|Medina|98039|966-282-9732|lisacole@me.com|Luxury Residence|Industry Partner|2023-10-10|$2.2M|Email|39018.23|Yes
+444|Jason Cannon|120 Johnson Expressway Apt. 288|Seattle|Hunts Point|98004|(365)226-8341x5599|jasoncannon@outlook.com|Luxury Residence|Houzz|2025-03-15|$6.6M|Email|17668.28|No
+445|Thomas Dodson|764 Graves Street Apt. 981|Mercer Island|North End|98040|(409)695-7657|thomasdodson@gmail.com|Luxury Residence|General Contractor|2022-08-28|$5.5M|Client Portal|40854.67|No
+446|Anne Evans|98898 Mitchell Lights Suite 220|Seattle|Broadmoor|98112|001-636-684-9951x5421|anneevans@outlook.com|Luxury Residence|Architect|2023-10-19|$41.8M|Phone|10545.58|Yes
+447|Mr. Christopher Crosby|134 Cody Plaza Apt. 090|Bellevue|Newport Shores|98006|+1-883-907-0534|mrchristophercrosby@protonmail.com|Luxury Residence|Satisfied Client|2023-01-26|$37.4M|Text|14528.16|Yes
+448|Sandra Phillips|176 Baker Way|Seattle|Magnolia|98199|(741)651-3152|sandraphillips@protonmail.com|Luxury Residence|General Contractor|2024-09-05|$3.3M|Email|43312.45|No
+449|Nicolas Powers|506 Sarah Underpass|Seattle|Hunts Point|98004|453.980.0329x63347|nicolaspowers@outlook.com|Luxury Residence|Satisfied Client|2023-10-07|$3.3M|Client Portal|47819.3|No
+450|Morgan Campbell|183 Ryan Overpass|Sammamish|Trossachs|98074|+1-593-720-6496|morgancampbell@icloud.com|Luxury Residence|Satisfied Client|2020-07-23|$3.3M|Text|26863.76|No
+451|Mr. Christopher Evans|7769 Daniels Hill|Bellevue|Bridle Trails|98004|331-446-7536|mrchristopherevans@protonmail.com|Luxury Residence|Luxury Home Show|2020-11-08|$7.7M|Client Portal|12588.78|No
+452|Francis Wilson|277 Mcdaniel Burgs Suite 483|Seattle|Magnolia|98199|(908)554-5667x66404|franciswilson@me.com|Luxury Residence|Luxury Home Show|2021-07-20|$25.3M|Client Portal|25828.18|No
+453|Robert Parker|92831 Anderson Plains Apt. 061|Redmond|Sammamish Valley|98052|001-555-681-0835x83286|robertparker@protonmail.com|Luxury Residence|Interior Designer|2020-08-10|$12.1M|Text|43642.11|Yes
+454|Susan Rivera|300 Kari Pine|Seattle|Queen Anne|98119|586-570-2440|susanrivera@outlook.com|Luxury Residence|Interior Designer|2024-02-11|$20.9M|Email|43231.43|Yes
+455|Paul Hess|624 Charles Parkways Suite 008|Issaquah|Squak Mountain|98027|+1-621-696-3945x680|paulhess@me.com|Luxury Residence|Website Inquiry|2024-04-24|$2.2M|Text|29456.12|No
+456|Brett Costa|4613 Hoffman Orchard Suite 883|Seattle|Broadmoor|98112|(907)765-8173x9063|brettcosta@outlook.com|Luxury Residence|Industry Partner|2022-03-14|$15.4M|Text|11024.66|Yes
+457|Brian Collins|118 Jared Overpass|Redmond|Education Hill|98052|001-531-226-9789|briancollins@gmail.com|Luxury Residence|Industry Partner|2023-09-19|$15.4M|Phone|39074.27|Yes
+458|Darlene Collins|05996 Joseph Fords Suite 875|Seattle|Laurelhurst|98105|+1-235-477-8811x6162|darlenecollins@protonmail.com|Luxury Residence|Social Media|2023-03-04|$4.4M|Text|6818.89|No
+459|Barbara Gonzalez|67287 Kaitlyn Plaza|Bellevue|West Bellevue|98004|(460)641-6448x59592|barbaragonzalez@outlook.com|Luxury Residence|Website Inquiry|2021-04-24|$5.5M|Text|22464.19|No
+460|Christine Mendez|947 Clark Isle Apt. 287|Seattle|Clyde Hill|98004|5565227104|christinemendez@outlook.com|Luxury Residence|Houzz|2020-07-30|$52.8M|Text|31038.41|Yes
+461|Kimberly Rivera|792 Michael Points|Bellevue|Newport Shores|98006|750.834.4694|kimberlyrivera@outlook.com|Luxury Residence|Interior Designer|2023-04-18|$16.5M|Text|21934.8|Yes
+462|Kristina May|92134 Jose Cove|Bellevue|Somerset|98006|(989)565-9994|kristinamay@outlook.com|Luxury Residence|Website Inquiry|2022-09-24|$16.5M|Phone|24795.44|Yes
+463|Richard Hays|222 Baxter Islands|Sammamish|Trossachs|98074|302-587-6754|richardhays@outlook.com|Luxury Residence|Luxury Home Show|2021-03-09|$4.4M|Email|34749.93|No
+464|Jamie Cruz|4858 Nicole Ville Apt. 242|Woodinville|Hollywood Hill|98072|(887)574-1865x20575|jamiecruz@gmail.com|Luxury Residence|Satisfied Client|2022-09-13|$9.9M|Phone|34126.67|No
+465|Castro, Cuevas and Ayers|2037 Fox Avenue Suite 515|Seattle|Clyde Hill|98004|280-294-0476x044|castrocuevasandayers@icloud.com|Design Firm|Website Inquiry|2023-03-20|$4.4M|Email|45085.9|Yes
+466|Tanya Osborn|2781 Mike Ridge Apt. 221|Bellevue|West Bellevue|98004|(410)770-5184x39055|tanyaosborn@icloud.com|Luxury Residence|Houzz|2022-11-24|$17.6M|Email|14746.7|No
+467|Teresa Powell|38241 Scott Harbor|Seattle|Laurelhurst|98105|+1-938-362-0448x515|teresapowell@icloud.com|Luxury Residence|Industry Partner|2024-08-27|$4.4M|Phone|33044.53|No
+468|Julie Wilson|12590 Kristina Forge|Mercer Island|North End|98040|+1-657-413-4324x0642|juliewilson@outlook.com|Luxury Residence|Interior Designer|2025-03-03|$12.1M|Phone|22019.51|Yes
+469|Jennifer Conley|24474 Tracy Prairie Suite 587|Seattle|Queen Anne|98119|+1-720-696-2893x6543|jenniferconley@protonmail.com|Luxury Residence|General Contractor|2024-10-26|$45.1M|Email|12984.0|Yes
+470|Raymond Scott|0182 Taylor Radial Suite 596|Issaquah|Issaquah Highlands|98029|+1-790-651-5026x75512|raymondscott@protonmail.com|Luxury Residence|General Contractor|2024-03-20|$9.9M|Email|45363.6|No
+471|Joshua Walton|799 Simon Mountains Apt. 459|Bellevue|Somerset|98006|276-440-3816x64969|joshuawalton@gmail.com|Luxury Residence|Social Media|2023-11-29|$5.5M|Client Portal|20773.3|Yes
+472|Tammy Tanner|225 Tara Inlet|Bellevue|West Bellevue|98004|001-425-576-2702x32441|tammytanner@me.com|Luxury Residence|Interior Designer|2024-04-17|$16.5M|Text|31923.16|No
+473|Jessica Ramsey|850 Moore Courts|Seattle|Medina|98039|886.737.6731x6252|jessicaramsey@gmail.com|Luxury Residence|Architect|2023-03-29|$11.0M|Client Portal|34454.58|No
+474|Sally Cross|681 Freeman Streets Apt. 392|Seattle|Madison Park|98112|001-535-255-8099x61327|sallycross@icloud.com|Luxury Residence|Houzz|2022-05-22|$6.6M|Client Portal|30410.16|No
+475|Jeffrey Morgan|2446 Johnson Manor|Bellevue|Newport Shores|98006|(826)281-7151|jeffreymorgan@icloud.com|Luxury Residence|Social Media|2022-04-26|$11.0M|Phone|21659.58|No
+476|Carl Hunter|76604 Green Roads Apt. 978|Bellevue|Bridle Trails|98004|(275)785-1268x612|carlhunter@protonmail.com|Luxury Residence|General Contractor|2021-12-06|$44.0M|Email|38651.64|No
+477|Michelle Scott|0740 Miranda Mount Suite 095|Seattle|Laurelhurst|98105|965-740-8424x560|michellescott@gmail.com|Luxury Residence|Luxury Home Show|2021-03-15|$15.4M|Email|12233.21|Yes
+478|Andrew Rodriguez|632 Amanda Crossroad|Seattle|Broadmoor|98112|001-327-764-5793x8970|andrewrodriguez@me.com|Luxury Residence|Interior Designer|2025-03-11|$3.3M|Text|14979.66|Yes
+479|Charles Davila|8154 Morales Ferry|Woodinville|Hollywood Hill|98072|001-241-761-3944x9883|charlesdavila@me.com|Luxury Residence|Houzz|2025-03-21|$52.8M|Email|47557.21|Yes
+480|Cindy Walls|248 Cassandra Falls Suite 406|Kirkland|Houghton|98033|306.524.4795|cindywalls@gmail.com|Luxury Residence|Houzz|2021-02-17|$52.8M|Phone|6512.42|Yes
+481|Michael Walker|979 Walters Isle Suite 780|Mercer Island|North End|98040|255-357-2773x82646|michaelwalker@gmail.com|Luxury Residence|General Contractor|2022-01-06|$2.2M|Email|49856.77|No
+482|Kristina Reed|854 Potter Mission|Bellevue|Newport Shores|98006|+1-970-529-9295x96604|kristinareed@me.com|Luxury Residence|Interior Designer|2023-04-15|$2.2M|Email|29731.67|No
+483|Joshua Gray|63319 White Estate|Bellevue|West Bellevue|98004|001-868-565-3694x55158|joshuagray@icloud.com|Luxury Residence|Real Estate Agent|2023-05-26|$48.4M|Email|16749.84|No
+484|Kathleen Marshall|26408 Hines Shoal Apt. 169|Issaquah|Issaquah Highlands|98029|+1-866-263-0932x9981|kathleenmarshall@gmail.com|Luxury Residence|Website Inquiry|2022-10-27|$3.3M|Text|44425.09|No
+485|David Hudson|150 Arnold Way Apt. 275|Bellevue|Newport Shores|98006|001-932-573-5241x0397|davidhudson@protonmail.com|Luxury Residence|Social Media|2022-09-17|$39.6M|Client Portal|45343.57|Yes
+486|Jill Allen|8195 John Stravenue|Bellevue|West Bellevue|98004|600-368-7616|jillallen@gmail.com|Luxury Residence|Satisfied Client|2022-02-22|$5.5M|Text|23559.17|No
+487|Lisa Hays|7046 Michael Stravenue|Seattle|Medina|98039|576.911.2491x25652|lisahays@outlook.com|Luxury Residence|Luxury Home Show|2021-05-23|$8.8M|Email|29954.82|Yes
+488|Brent May|7345 Norris Isle|Bellevue|Somerset|98006|749.749.0228x403|brentmay@icloud.com|Luxury Residence|Satisfied Client|2025-01-05|$4.4M|Client Portal|38170.05|Yes
+489|Elizabeth Baldwin|7422 Catherine Walks Suite 430|Bellevue|West Bellevue|98004|894.929.0458|elizabethbaldwin@icloud.com|Luxury Residence|Industry Partner|2021-04-14|$5.5M|Text|12019.8|Yes
+490|Carolyn Cooper|858 Gray Oval|Seattle|Hunts Point|98004|+1-528-472-7601x5343|carolyncooper@me.com|Luxury Residence|Website Inquiry|2023-06-11|$16.5M|Email|43160.48|No
+491|Richard Mccormick|7790 Judith Lakes|Redmond|Sammamish Valley|98052|+1-506-515-8148x88107|richardmccormick@protonmail.com|Luxury Residence|Website Inquiry|2024-11-14|$4.4M|Text|22904.58|Yes
+492|Patrick Norris|72094 Davis Field|Kirkland|Juanita|98034|001-312-284-0333x9977|patricknorris@me.com|Luxury Residence|Luxury Home Show|2025-04-08|$11.0M|Client Portal|43718.01|Yes
+493|Mark Gonzalez|1731 Carmen Hills|Seattle|Madison Park|98112|001-909-261-7399|markgonzalez@protonmail.com|Luxury Residence|Architect|2022-07-31|$2.2M|Phone|22074.26|Yes
+494|Jason Nelson|8784 Baker Place|Sammamish|Sahalee|98074|954.288.4712|jasonnelson@outlook.com|Luxury Residence|Houzz|2021-01-18|$5.5M|Client Portal|48133.71|No
+495|William Ruiz|16417 Little Plain|Redmond|Sammamish Valley|98052|(931)333-4845|williamruiz@me.com|Luxury Residence|Luxury Home Show|2021-03-07|$15.4M|Text|43444.67|No
+496|Tanya Clark|2362 Chelsea Estate|Issaquah|Squak Mountain|98027|787-796-4347x45245|tanyaclark@icloud.com|Luxury Residence|Interior Designer|2023-03-25|$16.5M|Text|41183.94|No
+497|Jeffery Long|60652 Wang Brook Apt. 344|Seattle|Queen Anne|98119|(905)666-5883x398|jefferylong@icloud.com|Luxury Residence|Social Media|2024-06-26|$26.4M|Email|12947.33|No
+498|David Nguyen|970 Watts Squares Suite 349|Sammamish|Trossachs|98074|001-960-610-5485|davidnguyen@protonmail.com|Luxury Residence|Houzz|2022-12-29|$50.6M|Text|30296.23|Yes
+499|Chad Brady|622 Andrews Points Apt. 735|Mercer Island|South End|98040|001-784-788-4021|chadbrady@icloud.com|Luxury Residence|Social Media|2020-05-02|$6.6M|Email|25243.47|No
+500|Jill Wilkerson|7375 Gonzalez Squares|Bellevue|Somerset|98006|249-702-1666x708|jillwilkerson@protonmail.com|Luxury Residence|Luxury Home Show|2023-02-15|$34.1M|Email|23529.24|No
+501|Jeffrey Johnson|749 Walters Street Apt. 918|Sammamish|Sahalee|98074|001-918-428-1979x31647|jeffreyjohnson@icloud.com|Luxury Residence|Website Inquiry|2023-03-27|$13.2M|Phone|49071.79|No
+502|Angel Holland|8606 Smith Village Suite 003|Mercer Island|North End|98040|562-443-9587x39592|angelholland@protonmail.com|Luxury Residence|Interior Designer|2022-09-25|$47.3M|Client Portal|32614.87|No
+503|Christopher Johnson|85155 Dominique Flats|Seattle|Broadmoor|98112|926-543-3502x7160|christopherjohnson@icloud.com|Luxury Residence|Real Estate Agent|2023-08-04|$39.6M|Client Portal|43200.53|Yes
+504|Jeremy Ross|9112 Frank Fords|Bellevue|Beaux Arts|98004|779-955-6331|jeremyross@icloud.com|Luxury Residence|Houzz|2021-10-04|$6.6M|Client Portal|17206.16|No
+505|Brian Bryant|6615 Bautista Villages|Bellevue|Somerset|98006|764-231-6704|brianbryant@protonmail.com|Luxury Residence|General Contractor|2022-12-02|$45.1M|Phone|43439.53|Yes
+506|David Cunningham|227 Bruce Unions|Mercer Island|North End|98040|445.496.2622|davidcunningham@outlook.com|Luxury Residence|Satisfied Client|2024-03-03|$22.0M|Phone|22867.05|Yes
+507|Tim Buchanan|3465 Howell Burgs|Redmond|Sammamish Valley|98052|8504702608|timbuchanan@protonmail.com|Luxury Residence|Website Inquiry|2020-04-20|$8.8M|Email|9676.78|Yes
+508|Adrian Prince|1177 Chase Plain|Bellevue|Newport Shores|98006|329.904.7742x585|adrianprince@outlook.com|Luxury Residence|Social Media|2021-04-14|$6.6M|Phone|10907.47|Yes
+509|Goodman-Christian|38223 Julia Stravenue|Mercer Island|North End|98040|(649)413-3424x5798|goodmanchristian@outlook.com|Design Firm|Social Media|2024-10-28|$49.5M|Text|29684.54|Yes
+510|James Thomas|603 Alexis Roads|Mercer Island|South End|98040|7325650977|jamesthomas@protonmail.com|Luxury Residence|Industry Partner|2020-12-28|$9.9M|Client Portal|28555.69|No
+511|Ruth Ray|79487 Julie Shoal Suite 524|Redmond|Sammamish Valley|98052|378-571-5841x56082|ruthray@protonmail.com|Luxury Residence|Houzz|2021-04-10|$47.3M|Text|23549.17|Yes
+512|Sandra Martinez|54768 Tammy Parkways Apt. 683|Seattle|Medina|98039|(230)735-8929|sandramartinez@protonmail.com|Luxury Residence|Luxury Home Show|2024-07-27|$25.3M|Text|26113.91|Yes
+513|Melissa Osborn|2129 Megan Terrace|Redmond|Sammamish Valley|98052|001-828-996-3406x468|melissaosborn@me.com|Luxury Residence|Houzz|2021-09-05|$8.8M|Phone|40854.53|No
+514|Chad Hurley|48439 Brian Loop|Issaquah|Issaquah Highlands|98029|(527)523-6266|chadhurley@me.com|Luxury Residence|Real Estate Agent|2022-03-19|$14.3M|Client Portal|14926.66|Yes
+515|Andrea Richmond|61923 Thomas Harbor Suite 018|Seattle|Magnolia|98199|381-797-3741x8972|andrearichmond@protonmail.com|Luxury Residence|Houzz|2024-04-14|$35.2M|Text|23580.67|Yes
+516|Tiffany Williams|76927 Walker Cove Apt. 995|Bellevue|Bridle Trails|98004|776.860.1444|tiffanywilliams@gmail.com|Luxury Residence|Houzz|2023-07-28|$9.9M|Client Portal|13450.52|Yes
+517|Danielle Kelly|73973 Wade Cove|Issaquah|Issaquah Highlands|98029|001-378-399-6986x09191|daniellekelly@gmail.com|Luxury Residence|Houzz|2021-01-15|$36.3M|Phone|37183.82|Yes
+518|Cynthia Carpenter|0577 Shelby Via Suite 039|Seattle|Broadmoor|98112|(705)714-6074|cynthiacarpenter@gmail.com|Luxury Residence|Houzz|2022-10-07|$8.8M|Client Portal|49908.36|No
+519|Vincent Hill|7423 Yang Terrace|Seattle|Clyde Hill|98004|(327)815-5983x541|vincenthill@outlook.com|Luxury Residence|Architect|2020-06-13|$26.4M|Text|39904.38|Yes
+520|Jonathan Lopez|47557 Fischer Extension Suite 013|Seattle|Laurelhurst|98105|001-348-584-8826|jonathanlopez@icloud.com|Luxury Residence|Architect|2025-01-08|$42.9M|Email|48856.93|Yes
+521|Michael Melendez|2585 Anderson Lights Apt. 499|Kirkland|Houghton|98033|253-970-3824|michaelmelendez@icloud.com|Luxury Residence|Social Media|2024-02-19|$29.7M|Email|28451.26|Yes
+522|Michael Robinson|3204 Tamara Walks|Mercer Island|North End|98040|+1-877-868-8936x289|michaelrobinson@outlook.com|Luxury Residence|Architect|2025-04-01|$13.2M|Email|16399.07|No
+523|Michelle Holden|5535 Jones Square Apt. 538|Seattle|Clyde Hill|98004|001-521-787-8519|michelleholden@icloud.com|Luxury Residence|Luxury Home Show|2020-08-19|$8.8M|Email|12531.22|No
+524|Maria Spencer|4907 Crawford Mews|Bellevue|Newport Shores|98006|420-387-8057|mariaspencer@icloud.com|Luxury Residence|Industry Partner|2020-01-19|$49.5M|Phone|21712.94|Yes
+525|Ana Higgins|097 Padilla Dale Suite 374|Redmond|Sammamish Valley|98052|+1-745-239-8628|anahiggins@gmail.com|Luxury Residence|Architect|2023-11-05|$15.4M|Email|20998.3|Yes
+526|Amy Webster|91862 John Rapid|Seattle|Madison Park|98112|001-922-407-1511x69666|amywebster@icloud.com|Luxury Residence|Luxury Home Show|2022-09-26|$11.0M|Client Portal|37993.5|Yes
+527|Catherine Collins|647 Jack Locks|Bellevue|Somerset|98006|235.215.7184|catherinecollins@icloud.com|Luxury Residence|Social Media|2021-05-28|$50.6M|Text|29423.03|No
+528|Mrs. Jacqueline Jackson|56409 Villarreal Extensions|Seattle|Laurelhurst|98105|797.428.3512|mrsjacquelinejackson@protonmail.com|Luxury Residence|Houzz|2021-12-13|$9.9M|Phone|8099.45|Yes
+529|Michelle Hobbs|270 Savannah Underpass|Bellevue|West Bellevue|98004|344-915-2982|michellehobbs@protonmail.com|Luxury Residence|Website Inquiry|2022-01-21|$15.4M|Client Portal|38014.6|Yes
+530|Christopher Austin|8671 Matthew Lakes Apt. 373|Bellevue|Somerset|98006|(805)507-9181x5899|christopheraustin@protonmail.com|Luxury Residence|Website Inquiry|2021-05-04|$3.3M|Client Portal|13544.13|No
+531|Chad Gallagher|666 Miller Burg Suite 158|Seattle|Broadmoor|98112|496.747.4080x3149|chadgallagher@protonmail.com|Luxury Residence|Luxury Home Show|2021-08-02|$13.2M|Email|9331.53|Yes
+532|Williams, Johnson and Rasmussen|58068 William Springs Apt. 317|Seattle|Broadmoor|98112|(235)213-7399|williamsjohnsonandra@icloud.com|Design Firm|Social Media|2024-11-23|$3.3M|Phone|9443.91|No
+533|Christine Norris|35263 Lowery Locks Apt. 229|Redmond|Education Hill|98052|294.869.4346|christinenorris@protonmail.com|Luxury Residence|Luxury Home Show|2023-12-07|$2.2M|Phone|32267.91|Yes
+534|Bennett-Kirby|4906 Heather Mission|Seattle|Queen Anne|98119|(731)411-2712|bennettkirby@me.com|Design Firm|Social Media|2025-03-16|$22.0M|Email|21241.67|No
+535|Dawn Becker|8449 Rodriguez Crest Suite 318|Mercer Island|South End|98040|332.380.7711x3062|dawnbecker@gmail.com|Luxury Residence|Architect|2024-08-13|$11.0M|Email|42550.54|Yes
+536|Luis Kim|9083 Jenny Cape|Redmond|Education Hill|98052|001-202-854-2573|luiskim@gmail.com|Luxury Residence|Real Estate Agent|2020-07-26|$53.9M|Phone|13690.38|Yes
+537|Travis Wagner|35707 Megan Rapids|Seattle|Laurelhurst|98105|448.722.8501x16880|traviswagner@protonmail.com|Luxury Residence|Interior Designer|2024-03-14|$14.3M|Text|35352.17|No
+538|Charles Garcia|60906 Melody Track|Seattle|Laurelhurst|98105|+1-509-981-0796x4967|charlesgarcia@icloud.com|Luxury Residence|General Contractor|2023-01-31|$7.7M|Client Portal|47008.4|No
+539|Haley Travis|2785 Drew Route Apt. 642|Bellevue|Beaux Arts|98004|(706)542-0768x362|haleytravis@outlook.com|Luxury Residence|Luxury Home Show|2022-04-24|$46.2M|Phone|30341.51|Yes
+540|Jennifer Butler|6755 Ortega Dale Apt. 333|Issaquah|Issaquah Highlands|98029|001-539-857-8654|jenniferbutler@outlook.com|Luxury Residence|Real Estate Agent|2022-01-07|$47.3M|Email|37684.1|No
+541|Brian Pearson|603 Matthew Estate Suite 862|Redmond|Education Hill|98052|403.869.2492x693|brianpearson@icloud.com|Luxury Residence|Satisfied Client|2024-12-28|$6.6M|Phone|43507.42|Yes
+542|David Rodgers|9980 Kristin Corner Apt. 005|Mercer Island|South End|98040|755-932-3415|davidrodgers@outlook.com|Luxury Residence|Industry Partner|2025-02-25|$11.0M|Phone|9242.92|No
+543|Michael Roberts|222 Wilson River|Seattle|Broadmoor|98112|(928)887-4312x71026|michaelroberts@outlook.com|Luxury Residence|Satisfied Client|2022-01-21|$33.0M|Text|41498.34|Yes
+544|Randall Willis|9927 Tara Skyway Suite 515|Issaquah|Squak Mountain|98027|722-694-6213|randallwillis@icloud.com|Luxury Residence|Social Media|2024-02-12|$7.7M|Phone|26972.44|Yes
+545|Tiffany Miller|99625 Lee Harbors Apt. 752|Bellevue|Bridle Trails|98004|9343476504|tiffanymiller@gmail.com|Luxury Residence|Interior Designer|2024-02-05|$42.9M|Email|46484.22|No
+546|Andre Wiggins|904 Gonzalez Mountains|Kirkland|Juanita|98034|(660)546-5586x6525|andrewiggins@me.com|Luxury Residence|Industry Partner|2025-03-20|$31.9M|Email|33524.92|No
+547|Derek Gentry DVM|581 Lisa Valley|Redmond|Education Hill|98052|001-713-312-5129x31100|derekgentrydvm@gmail.com|Luxury Residence|Luxury Home Show|2021-10-15|$4.4M|Phone|11893.89|No
+548|Mark Savage|519 Brian Dam Apt. 121|Woodinville|Bear Creek|98077|001-910-563-3016x583|marksavage@protonmail.com|Luxury Residence|Real Estate Agent|2023-03-24|$5.5M|Text|40386.57|Yes
+549|Kathleen Mccarthy|9072 Christopher Flat Suite 289|Seattle|Hunts Point|98004|611.832.5326|kathleenmccarthy@me.com|Luxury Residence|Real Estate Agent|2023-03-16|$55.0M|Text|8828.55|No
+550|Donna Simmons|380 Campbell Estates Apt. 017|Seattle|Broadmoor|98112|(309)661-7015x959|donnasimmons@icloud.com|Luxury Residence|Real Estate Agent|2022-09-11|$9.9M|Phone|30252.54|Yes
+551|Emma Howard|7475 Jeremy Extension Apt. 567|Bellevue|West Bellevue|98004|756.877.7226x602|emmahoward@me.com|Luxury Residence|Interior Designer|2021-10-24|$12.1M|Email|35228.64|No
+552|Lynn Ross MD|92310 Kennedy Groves|Seattle|Queen Anne|98119|830-876-2484x33797|lynnrossmd@outlook.com|Luxury Residence|Houzz|2021-12-06|$2.2M|Phone|49444.34|No
+553|Caitlin Costa|1157 Thomas Path|Kirkland|Houghton|98033|436.670.4254x9691|caitlincosta@gmail.com|Luxury Residence|Luxury Home Show|2025-03-07|$29.7M|Phone|39098.02|Yes
+554|James Barker|9710 Wood Gateway|Seattle|Clyde Hill|98004|753.557.4859|jamesbarker@icloud.com|Luxury Residence|Architect|2023-06-25|$36.3M|Text|36220.79|Yes
+555|Tracie Harrington|993 Tracy Mountains|Redmond|Sammamish Valley|98052|9589162951|tracieharrington@gmail.com|Luxury Residence|Satisfied Client|2021-11-10|$11.0M|Phone|29589.09|No
+556|Stephanie Mullen|76342 Abbott Circle Suite 330|Sammamish|Sahalee|98074|359-678-2457x59833|stephaniemullen@icloud.com|Luxury Residence|Real Estate Agent|2023-11-24|$2.2M|Email|16495.54|Yes
+557|Nancy Lee|66044 Douglas Burg Apt. 615|Mercer Island|South End|98040|627.568.2975x147|nancylee@protonmail.com|Luxury Residence|Architect|2021-07-09|$13.2M|Email|22489.03|No
+558|Jody Martin|0105 Wood Island|Mercer Island|North End|98040|001-268-206-5625x9045|jodymartin@outlook.com|Luxury Residence|Real Estate Agent|2024-11-05|$6.6M|Phone|49090.68|Yes
+559|Michelle Crawford|21823 Karen Knolls|Redmond|Sammamish Valley|98052|316-551-7680x86628|michellecrawford@protonmail.com|Luxury Residence|Website Inquiry|2022-12-24|$5.5M|Client Portal|30230.94|Yes
+560|Moore-Farmer|30800 Timothy Canyon Apt. 322|Redmond|Education Hill|98052|555.266.0847x06810|moorefarmer@outlook.com|Design Firm|General Contractor|2021-11-14|$14.3M|Email|20605.1|No
+561|Kevin Smith|582 Lewis Plain|Bellevue|Bridle Trails|98004|5946485862|kevinsmith@icloud.com|Luxury Residence|Houzz|2022-10-23|$2.2M|Client Portal|45068.09|Yes
+562|Gabriel Green|470 Morrison Run|Bellevue|West Bellevue|98004|+1-686-732-1061x33943|gabrielgreen@icloud.com|Luxury Residence|General Contractor|2020-11-06|$8.8M|Email|37845.03|Yes
+563|Matthew Hall|80403 Michelle Ford Suite 657|Issaquah|Squak Mountain|98027|(292)277-8943x1910|matthewhall@icloud.com|Luxury Residence|Social Media|2022-05-23|$39.6M|Phone|14304.08|Yes
+564|Theresa Conrad|6921 Micheal Rue Apt. 651|Mercer Island|North End|98040|260-940-1424x731|theresaconrad@icloud.com|Luxury Residence|Website Inquiry|2024-11-01|$14.3M|Phone|24352.89|Yes
+565|Brian Hardy|844 Jacqueline Neck Apt. 231|Issaquah|Squak Mountain|98027|(660)607-6762x0901|brianhardy@icloud.com|Luxury Residence|Interior Designer|2021-10-12|$11.0M|Phone|19291.89|Yes
+566|Christina Adams|37009 Hansen Squares Suite 304|Woodinville|Bear Creek|98077|(419)757-7825x588|christinaadams@outlook.com|Luxury Residence|Houzz|2024-12-07|$45.1M|Client Portal|38552.44|No
+567|Hannah Thompson|7542 Lowe Lodge Suite 619|Seattle|Queen Anne|98119|725-457-7820x582|hannahthompson@gmail.com|Luxury Residence|Industry Partner|2020-09-26|$15.4M|Text|32252.2|Yes
+568|Laura Rowland|616 Veronica Plains|Seattle|Magnolia|98199|7819904823|laurarowland@gmail.com|Luxury Residence|Social Media|2022-01-05|$15.4M|Phone|27604.61|No
+569|Nicholas Robles|639 Brady Spurs Apt. 372|Bellevue|Somerset|98006|001-530-381-7214x364|nicholasrobles@icloud.com|Luxury Residence|General Contractor|2024-10-11|$9.9M|Phone|13696.69|Yes
+570|Cheryl Smith|32114 Tapia Manors Suite 609|Seattle|Medina|98039|956-253-4699x7990|cherylsmith@outlook.com|Luxury Residence|Satisfied Client|2022-04-25|$13.2M|Phone|7976.13|No
+571|Mr. David Wells DDS|9957 Norman Oval|Redmond|Sammamish Valley|98052|001-917-248-1131x76539|mrdavidwellsdds@outlook.com|Luxury Residence|Real Estate Agent|2024-11-10|$5.5M|Client Portal|39929.66|No
+572|Juan Padilla|96102 Selena Mills Apt. 827|Bellevue|Newport Shores|98006|696-480-4918x727|juanpadilla@protonmail.com|Luxury Residence|Website Inquiry|2025-04-07|$53.9M|Email|28429.21|No
+573|Kyle Simmons|37730 Parsons Valley|Seattle|Clyde Hill|98004|+1-326-404-2359x7371|kylesimmons@icloud.com|Luxury Residence|Architect|2022-11-28|$14.3M|Client Portal|28225.7|Yes
+574|Patrick Potts|7560 Reid Coves|Kirkland|Houghton|98033|(570)446-8611x14576|patrickpotts@me.com|Luxury Residence|Houzz|2024-12-16|$16.5M|Client Portal|12491.9|No
+575|Christopher Hudson|8584 Jones Turnpike|Seattle|Clyde Hill|98004|+1-729-261-8033x24260|christopherhudson@protonmail.com|Luxury Residence|Social Media|2025-01-24|$16.5M|Email|37519.11|Yes
+576|Alexandria Warren|804 Luis Gardens Suite 337|Issaquah|Squak Mountain|98027|373.912.6881x2282|alexandriawarren@protonmail.com|Luxury Residence|Social Media|2020-10-04|$7.7M|Email|13049.54|Yes
+577|Victoria Knight|653 Russell Terrace|Seattle|Hunts Point|98004|(805)460-3567x93279|victoriaknight@outlook.com|Luxury Residence|General Contractor|2021-10-25|$14.3M|Email|9103.61|No
+578|Joseph Crawford|9061 Janet Trail|Seattle|Hunts Point|98004|(705)646-4754|josephcrawford@protonmail.com|Luxury Residence|Website Inquiry|2023-12-19|$15.4M|Phone|22040.54|No
+579|Dixon-Hughes|5175 John Grove|Seattle|Laurelhurst|98105|549-783-5539x354|dixonhughes@outlook.com|Design Firm|General Contractor|2023-03-04|$26.4M|Phone|13049.0|Yes
+580|Jennifer Baker|392 Lee Spur Suite 885|Bellevue|Bridle Trails|98004|779.482.1433|jenniferbaker@me.com|Luxury Residence|General Contractor|2021-08-14|$3.3M|Phone|5158.98|No
+581|Pacheco, Brooks and Myers|785 Jonathan Cliffs Suite 168|Redmond|Sammamish Valley|98052|(501)634-7789x4896|pachecobrooksandmyer@me.com|Design Firm|Satisfied Client|2023-01-18|$50.6M|Phone|31498.8|No
+582|Jeffrey Holden|6651 Herbert Lake|Kirkland|Houghton|98033|001-200-214-1884x21630|jeffreyholden@gmail.com|Luxury Residence|Website Inquiry|2023-05-16|$5.5M|Text|32889.47|Yes
+583|Morgan PLC|6333 Reilly Knoll Apt. 208|Seattle|Broadmoor|98112|001-453-326-3890|morganplc@gmail.com|Design Firm|Architect|2023-08-30|$4.4M|Text|19900.0|Yes
+584|Yang, Irwin and Nelson|13633 Lynch Extensions Apt. 410|Kirkland|Juanita|98034|346.399.6733|yangirwinandnelson@icloud.com|Design Firm|Industry Partner|2020-11-26|$12.1M|Phone|48483.2|No
+585|Jeremy Hernandez|608 Harris Spring Suite 685|Seattle|Hunts Point|98004|407-889-6793x52196|jeremyhernandez@outlook.com|Luxury Residence|Interior Designer|2021-10-23|$8.8M|Client Portal|42948.93|Yes
+586|Ernest Sullivan|436 Yu Spur|Seattle|Broadmoor|98112|001-831-270-6955|ernestsullivan@gmail.com|Luxury Residence|Website Inquiry|2023-11-23|$39.6M|Client Portal|28609.08|Yes
+587|Nathaniel Blankenship Jr.|3454 Moore Forges Apt. 065|Seattle|Madison Park|98112|3316219804|nathanielblankenship@protonmail.com|Luxury Residence|Interior Designer|2024-02-03|$52.8M|Client Portal|37583.34|No
+588|Edward Garrison|36428 Jesse Course Apt. 924|Bellevue|Beaux Arts|98004|+1-376-323-0391|edwardgarrison@outlook.com|Luxury Residence|Luxury Home Show|2022-12-12|$12.1M|Phone|32643.05|No
+589|Richard Ferguson|522 John Branch Suite 248|Sammamish|Trossachs|98074|4884062207|richardferguson@me.com|Luxury Residence|Houzz|2022-10-05|$31.9M|Phone|5071.14|Yes
+590|Lee Richardson|3721 Fernando Rest Apt. 162|Seattle|Madison Park|98112|9477876886|leerichardson@icloud.com|Luxury Residence|Real Estate Agent|2024-06-25|$8.8M|Email|20020.65|Yes
+591|Ray, Monroe and Sullivan|628 Martinez Camp Apt. 195|Seattle|Queen Anne|98119|519-866-6450x5730|raymonroeandsullivan@outlook.com|Design Firm|Houzz|2021-06-05|$37.4M|Text|39516.47|Yes
+592|Nicole Cole|463 Allen Forks|Bellevue|Beaux Arts|98004|547.467.7537x260|nicolecole@me.com|Luxury Residence|General Contractor|2024-01-23|$2.2M|Phone|19873.17|No
+593|Tammy Phillips|7661 Kelly Passage|Redmond|Sammamish Valley|98052|+1-470-271-5534|tammyphillips@me.com|Luxury Residence|Social Media|2024-06-20|$4.4M|Phone|33224.02|No
+594|Brianna Dawson MD|385 Shane Isle|Kirkland|Juanita|98034|+1-975-895-4508x917|briannadawsonmd@gmail.com|Luxury Residence|Luxury Home Show|2024-09-06|$12.1M|Email|14371.81|No
+595|Amanda Maxwell|65742 Kathleen Flat|Bellevue|Somerset|98006|296-446-3004|amandamaxwell@gmail.com|Luxury Residence|Luxury Home Show|2020-11-01|$2.2M|Client Portal|33192.99|Yes
+596|Keith Butler|8943 Vickie Estates|Bellevue|Newport Shores|98006|3479137271|keithbutler@icloud.com|Luxury Residence|Houzz|2023-05-03|$15.4M|Text|36942.8|No
+597|Grace Luna|4988 Welch Islands Apt. 984|Redmond|Sammamish Valley|98052|+1-233-606-7458x476|graceluna@icloud.com|Luxury Residence|Satisfied Client|2022-01-31|$6.6M|Text|12875.57|No
+598|Deanna Holloway|37218 Gutierrez Locks|Woodinville|Bear Creek|98077|(895)441-3297x15066|deannaholloway@icloud.com|Luxury Residence|Architect|2025-02-13|$11.0M|Client Portal|45723.01|Yes
+599|William Cook|43776 Richard Vista Apt. 439|Redmond|Sammamish Valley|98052|(352)395-9611|williamcook@protonmail.com|Luxury Residence|Interior Designer|2021-09-27|$26.4M|Phone|14233.42|Yes
+600|Alejandra Fernandez|20072 Dennis Ville Suite 591|Mercer Island|South End|98040|2245510910|alejandrafernandez@protonmail.com|Luxury Residence|Industry Partner|2020-08-25|$2.2M|Email|19998.04|Yes
+601|Stephanie Holloway|49498 Marie Haven Apt. 179|Woodinville|Bear Creek|98077|928-917-9340x652|stephanieholloway@outlook.com|Luxury Residence|Satisfied Client|2020-02-16|$6.6M|Text|14025.0|No
+602|Jordan Carter|3453 Steven Squares Apt. 010|Bellevue|Beaux Arts|98004|001-712-717-2214|jordancarter@me.com|Luxury Residence|General Contractor|2023-10-06|$4.4M|Text|10150.72|Yes
+603|Michelle Graham|894 Paula Shoal|Bellevue|Somerset|98006|6528635100|michellegraham@protonmail.com|Luxury Residence|Houzz|2021-10-14|$14.3M|Phone|12707.37|No
+604|Jonathan Barrett|572 Mcgee Station Suite 592|Bellevue|Beaux Arts|98004|4245617520|jonathanbarrett@protonmail.com|Luxury Residence|Social Media|2022-06-27|$2.2M|Email|9766.71|Yes
+605|Kathleen Ramirez|260 Crystal Station|Bellevue|Newport Shores|98006|895-550-1783x32584|kathleenramirez@icloud.com|Luxury Residence|Social Media|2023-12-14|$12.1M|Text|19059.83|Yes
+606|Travis Mcbride|984 Williams Isle Apt. 691|Mercer Island|North End|98040|567.699.3593x7440|travismcbride@protonmail.com|Luxury Residence|Industry Partner|2020-06-09|$48.4M|Phone|9181.23|No
+607|Aaron Perez|3606 Susan Unions|Bellevue|Bridle Trails|98004|688-360-8490x793|aaronperez@me.com|Luxury Residence|General Contractor|2022-08-21|$5.5M|Text|46078.77|No
+608|Tammy Price|83061 Lucas Neck Apt. 124|Mercer Island|North End|98040|(344)662-6325|tammyprice@outlook.com|Luxury Residence|Social Media|2024-06-03|$38.5M|Client Portal|6361.89|No
+609|Joshua Dunn|21031 Sanford Crescent|Redmond|Sammamish Valley|98052|001-375-718-8781x79415|joshuadunn@me.com|Luxury Residence|Luxury Home Show|2024-09-28|$15.4M|Phone|27857.73|No
+610|Robert Gardner|091 Francis Junctions Apt. 883|Seattle|Madison Park|98112|950.356.6186x3239|robertgardner@outlook.com|Luxury Residence|Houzz|2023-02-12|$15.4M|Client Portal|23036.74|No
+611|Natasha Davenport|765 Gonzalez Canyon Apt. 730|Seattle|Magnolia|98199|001-350-455-6057|natashadavenport@protonmail.com|Luxury Residence|Interior Designer|2020-11-21|$42.9M|Text|14370.72|No
+612|Linda Hoffman|277 Wilson Valleys|Kirkland|Juanita|98034|2536486401|lindahoffman@protonmail.com|Luxury Residence|Satisfied Client|2024-05-31|$14.3M|Phone|34817.55|Yes
+613|Yvette Dominguez|45618 Jones Inlet Suite 600|Mercer Island|South End|98040|752-712-8991x5114|yvettedominguez@protonmail.com|Luxury Residence|Industry Partner|2024-09-09|$12.1M|Client Portal|19642.01|Yes
+614|Catherine Lewis|04488 Lisa Plaza|Seattle|Laurelhurst|98105|001-884-384-1604|catherinelewis@outlook.com|Luxury Residence|Industry Partner|2022-04-11|$3.3M|Client Portal|19733.37|Yes
+615|Debra Williams|90170 Pacheco Lodge|Seattle|Broadmoor|98112|+1-414-429-8315|debrawilliams@protonmail.com|Luxury Residence|General Contractor|2025-01-23|$16.5M|Phone|25383.85|No
+616|Laura Delacruz|3228 Veronica Avenue|Issaquah|Squak Mountain|98027|+1-684-793-7830x63963|lauradelacruz@me.com|Luxury Residence|Houzz|2021-02-04|$7.7M|Text|46332.57|No
+617|William Jenkins|3916 Wong Parks Apt. 169|Bellevue|Somerset|98006|242.592.9132|williamjenkins@gmail.com|Luxury Residence|Real Estate Agent|2023-04-08|$11.0M|Phone|43362.73|Yes
+618|Dr. Monique Sutton MD|1903 Maria Bridge|Issaquah|Issaquah Highlands|98029|(915)537-2215x56684|drmoniquesuttonmd@gmail.com|Luxury Residence|Interior Designer|2020-01-02|$40.7M|Text|43955.58|Yes
+619|Brianna Price|377 Kim Glen|Issaquah|Squak Mountain|98027|5678200784|briannaprice@me.com|Luxury Residence|Real Estate Agent|2023-07-04|$8.8M|Client Portal|24583.55|Yes
+620|Dustin Campbell|0781 Bailey Row|Redmond|Sammamish Valley|98052|573.947.6427|dustincampbell@icloud.com|Luxury Residence|Luxury Home Show|2021-01-20|$16.5M|Client Portal|11942.03|Yes
+621|Alicia Young|3882 Joseph Land Suite 148|Seattle|Hunts Point|98004|460-919-1344x3899|aliciayoung@gmail.com|Luxury Residence|Real Estate Agent|2020-10-21|$50.6M|Phone|8809.85|No
+622|April Benjamin|869 Smith Fields Apt. 146|Mercer Island|South End|98040|549-536-9995x167|aprilbenjamin@protonmail.com|Luxury Residence|Social Media|2025-03-20|$4.4M|Client Portal|29842.25|No
+623|Scott Kelly|573 Bernard Brook|Seattle|Magnolia|98199|001-311-392-3603x768|scottkelly@icloud.com|Luxury Residence|Social Media|2022-05-19|$12.1M|Phone|37045.85|No
+624|Vanessa Alexander|33510 Smith Radial|Issaquah|Issaquah Highlands|98029|(514)297-3153x91149|vanessaalexander@protonmail.com|Luxury Residence|Industry Partner|2022-01-21|$2.2M|Client Portal|36719.71|Yes
+625|Donald Jackson|3651 William Forks|Mercer Island|South End|98040|001-240-365-5782|donaldjackson@gmail.com|Luxury Residence|Houzz|2020-10-17|$52.8M|Client Portal|28262.73|Yes
+626|Ms. Mary Lee|02333 Kenneth Circle|Sammamish|Trossachs|98074|+1-973-892-0135x46212|msmarylee@gmail.com|Luxury Residence|Industry Partner|2023-11-01|$15.4M|Text|32586.76|No
+627|James Patel|12312 Rodriguez Forks Apt. 488|Seattle|Medina|98039|+1-989-695-7298x93762|jamespatel@me.com|Luxury Residence|Industry Partner|2022-07-18|$9.9M|Text|23945.72|No
+628|Larry Howe|64687 Nancy Crescent|Seattle|Clyde Hill|98004|001-420-538-1876x920|larryhowe@protonmail.com|Luxury Residence|Industry Partner|2024-03-14|$15.4M|Text|7763.8|No
+629|Cynthia Williams|88158 Jordan Isle|Issaquah|Squak Mountain|98027|+1-322-406-7323|cynthiawilliams@gmail.com|Luxury Residence|Houzz|2023-09-06|$17.6M|Client Portal|8712.96|Yes
+630|Andrea Le|572 Haney Junction|Bellevue|West Bellevue|98004|3003000152|andreale@outlook.com|Luxury Residence|Houzz|2020-09-28|$6.6M|Email|38364.31|Yes
+631|Karen Trujillo|509 Jennifer Knoll Suite 618|Woodinville|Hollywood Hill|98072|+1-944-342-1829x9874|karentrujillo@icloud.com|Luxury Residence|General Contractor|2023-09-11|$15.4M|Text|40213.75|Yes
+632|Roger Roberts|6708 Mcdonald Cape|Redmond|Education Hill|98052|+1-400-843-6551x584|rogerroberts@gmail.com|Luxury Residence|Industry Partner|2021-12-03|$26.4M|Phone|42692.64|No
+633|Bryce Gutierrez|355 Michael View Apt. 960|Seattle|Magnolia|98199|+1-907-706-3369|brycegutierrez@me.com|Luxury Residence|Industry Partner|2024-01-26|$5.5M|Text|7444.66|No
+634|Alice Weber|10401 King Pines|Seattle|Madison Park|98112|988-504-4287|aliceweber@gmail.com|Luxury Residence|Houzz|2020-12-09|$9.9M|Client Portal|38576.77|Yes
+635|Jamie Gallagher|4321 Heather River|Mercer Island|South End|98040|+1-842-589-4642x03625|jamiegallagher@me.com|Luxury Residence|Real Estate Agent|2022-08-29|$11.0M|Email|17995.65|No
+636|Tyler King|64625 Todd Way Apt. 263|Bellevue|Beaux Arts|98004|001-655-682-4301x7646|tylerking@protonmail.com|Luxury Residence|Website Inquiry|2023-10-30|$23.1M|Text|48028.26|No
+637|Toni Moreno|15388 Maria Harbor|Sammamish|Trossachs|98074|727-590-5040x43333|tonimoreno@outlook.com|Luxury Residence|Interior Designer|2021-11-17|$15.4M|Text|34445.45|No
+638|Deanna Edwards|3211 Jennifer Motorway|Mercer Island|North End|98040|871.780.9339x13732|deannaedwards@icloud.com|Luxury Residence|Satisfied Client|2024-02-12|$15.4M|Text|35497.32|Yes
+639|Mrs. Jennifer Johnson MD|875 Davis Parkway|Seattle|Medina|98039|(488)200-2300x91561|mrsjenniferjohnsonmd@gmail.com|Luxury Residence|Interior Designer|2024-08-30|$8.8M|Email|35847.48|No
+640|James Kennedy|4916 Nicole Springs Apt. 659|Bellevue|Bridle Trails|98004|(620)514-9118x941|jameskennedy@outlook.com|Luxury Residence|Interior Designer|2021-01-30|$12.1M|Email|47232.75|Yes
+641|Joseph Cooper|263 Lisa Estate|Sammamish|Trossachs|98074|799.782.1374|josephcooper@gmail.com|Luxury Residence|Industry Partner|2023-12-21|$22.0M|Phone|21918.13|Yes
+642|Brandon Peck|88605 Kimberly Junction Apt. 766|Mercer Island|South End|98040|(808)811-2600x30835|brandonpeck@icloud.com|Luxury Residence|Interior Designer|2021-06-02|$13.2M|Client Portal|46521.29|No
+643|Anita Pitts|2715 Cory Extensions|Mercer Island|South End|98040|001-934-855-0688x26917|anitapitts@outlook.com|Luxury Residence|Houzz|2021-06-11|$3.3M|Email|22225.96|No
+644|Maria Thomas|440 John Plaza|Bellevue|West Bellevue|98004|4878354378|mariathomas@outlook.com|Luxury Residence|Satisfied Client|2020-12-30|$9.9M|Client Portal|13029.9|No
+645|David Brooks|15709 William Port|Issaquah|Issaquah Highlands|98029|001-414-849-2074|davidbrooks@me.com|Luxury Residence|Social Media|2021-03-23|$3.3M|Text|9647.92|Yes
+646|Michelle Hanson|964 Davis Pike Suite 285|Woodinville|Hollywood Hill|98072|001-269-632-5914|michellehanson@outlook.com|Luxury Residence|General Contractor|2024-05-10|$9.9M|Email|46980.22|No
+647|Rebecca Vincent|12342 Powell Points|Mercer Island|South End|98040|9698087261|rebeccavincent@outlook.com|Luxury Residence|Website Inquiry|2025-01-26|$2.2M|Client Portal|26516.27|No
+648|Amanda Ramos|8389 Mark Shore|Woodinville|Bear Creek|98077|+1-453-882-8040x561|amandaramos@gmail.com|Luxury Residence|Social Media|2023-01-11|$8.8M|Email|30525.97|No
+649|Joshua Sweeney|9582 Guerrero Course|Bellevue|Bridle Trails|98004|+1-969-865-6130|joshuasweeney@me.com|Luxury Residence|Interior Designer|2020-04-23|$13.2M|Text|29058.18|No
+650|Ronald Khan|595 Johnathan Fields|Kirkland|Houghton|98033|001-546-282-3948x40027|ronaldkhan@outlook.com|Luxury Residence|Architect|2023-08-19|$11.0M|Client Portal|34733.03|No
+651|Samuel Hamilton|1016 Charles Skyway Apt. 950|Seattle|Madison Park|98112|3167809414|samuelhamilton@outlook.com|Luxury Residence|Social Media|2022-09-23|$13.2M|Phone|11297.43|Yes
+652|Chavez and Sons|762 Jessica Forges|Issaquah|Squak Mountain|98027|+1-444-807-7794x6207|chavezandsons@icloud.com|Design Firm|Website Inquiry|2022-09-28|$15.4M|Text|27485.79|No
+653|Jennifer Anderson|0817 Livingston Causeway|Seattle|Medina|98039|(699)314-0688|jenniferanderson@gmail.com|Luxury Residence|Architect|2021-11-25|$15.4M|Client Portal|10318.42|No
+654|Christina Chavez|55235 Rodriguez Plains|Issaquah|Issaquah Highlands|98029|270-832-1192|christinachavez@icloud.com|Luxury Residence|Architect|2024-02-26|$3.3M|Phone|27000.26|Yes
+655|Paul Young|77895 Martinez Forge Suite 184|Sammamish|Sahalee|98074|349-802-9502x6480|paulyoung@gmail.com|Luxury Residence|Architect|2021-05-12|$25.3M|Phone|33469.77|No
+656|Zachary Young|416 Ferguson Divide|Seattle|Madison Park|98112|478.322.1021x798|zacharyyoung@me.com|Luxury Residence|Interior Designer|2023-06-05|$12.1M|Email|10138.09|Yes
+657|Debbie Arias|98579 Hall Meadow Apt. 831|Seattle|Queen Anne|98119|828.856.0539x70798|debbiearias@me.com|Luxury Residence|Luxury Home Show|2021-11-21|$44.0M|Email|48913.4|Yes
+658|Wendy Chavez|7368 Michelle Bridge|Seattle|Queen Anne|98119|(306)882-1223x552|wendychavez@gmail.com|Luxury Residence|Interior Designer|2023-04-29|$3.3M|Text|11355.66|No
+659|Mary Smith|714 Hudson Street Apt. 821|Bellevue|Somerset|98006|001-625-596-7908|marysmith@protonmail.com|Luxury Residence|Architect|2020-12-03|$12.1M|Phone|9498.55|No
+660|Lee Roberts|20509 Eileen Plains|Seattle|Medina|98039|(694)784-2495x98811|leeroberts@me.com|Luxury Residence|Interior Designer|2020-06-14|$4.4M|Text|23730.0|No
+661|Joshua Ellis|715 Joe Plains|Seattle|Queen Anne|98119|(376)973-8209x7461|joshuaellis@icloud.com|Luxury Residence|Real Estate Agent|2023-08-03|$9.9M|Phone|47214.03|Yes
+662|Joseph Cruz Jr.|722 Black Flat Suite 085|Mercer Island|South End|98040|+1-780-962-3504x05669|josephcruzjr@me.com|Luxury Residence|Luxury Home Show|2023-06-07|$37.4M|Client Portal|5205.65|Yes
+663|Amanda Martinez|255 King Pine Suite 796|Redmond|Education Hill|98052|625.894.2328|amandamartinez@gmail.com|Luxury Residence|Website Inquiry|2023-06-21|$15.4M|Phone|25889.72|Yes
+664|Courtney Shepard|6241 Lopez Trace|Seattle|Queen Anne|98119|772-356-2926x93358|courtneyshepard@gmail.com|Luxury Residence|Social Media|2024-06-19|$16.5M|Client Portal|12934.57|Yes
+665|William Wagner|5078 Huber Vista Suite 095|Bellevue|Somerset|98006|001-974-943-0349x18911|williamwagner@outlook.com|Luxury Residence|Industry Partner|2021-03-05|$7.7M|Client Portal|6949.29|Yes
+666|Curtis Whitaker|340 Mary Fords Suite 415|Seattle|Laurelhurst|98105|971-355-3132x5936|curtiswhitaker@icloud.com|Luxury Residence|Interior Designer|2024-05-27|$11.0M|Email|45278.56|No
+667|Jeffery York|94214 Austin Knoll|Bellevue|Beaux Arts|98004|(276)498-1987|jefferyyork@me.com|Luxury Residence|Satisfied Client|2021-02-11|$38.5M|Email|19675.95|Yes
+668|Adriana Ward|885 Martin Dam|Kirkland|Juanita|98034|486-460-5986x78744|adrianaward@icloud.com|Luxury Residence|Social Media|2022-02-08|$20.9M|Client Portal|7445.27|No
+669|George Rogers DDS|596 Hogan Island Suite 282|Sammamish|Sahalee|98074|791-516-5020x0024|georgerogersdds@me.com|Luxury Residence|Social Media|2020-12-30|$4.4M|Phone|33440.95|No
+670|Sherry Jones|15513 Mario Orchard|Seattle|Broadmoor|98112|6838682144|sherryjones@gmail.com|Luxury Residence|General Contractor|2023-11-18|$6.6M|Email|43324.31|No
+671|Manuel Moran|3677 Day Drive|Woodinville|Bear Creek|98077|001-302-458-2543x1832|manuelmoran@outlook.com|Luxury Residence|Industry Partner|2021-03-26|$27.5M|Phone|31015.47|Yes
+672|Arthur Gonzalez|049 Brian Streets|Redmond|Education Hill|98052|9187364723|arthurgonzalez@me.com|Luxury Residence|Social Media|2024-10-31|$49.5M|Text|5652.67|No
+673|Christopher Ruiz|722 Castillo Islands|Seattle|Magnolia|98199|358-947-2629x052|christopherruiz@icloud.com|Luxury Residence|Industry Partner|2021-11-01|$5.5M|Phone|46118.96|Yes
+674|Matthew Allen|0827 Deanna Extensions|Seattle|Clyde Hill|98004|273-737-3992|matthewallen@gmail.com|Luxury Residence|Architect|2022-08-21|$51.7M|Client Portal|28900.48|No
+675|Christopher Moses|621 Lloyd Shoals|Mercer Island|South End|98040|001-714-738-8232|christophermoses@gmail.com|Luxury Residence|Website Inquiry|2022-07-15|$3.3M|Email|36192.19|No
+676|Dana Lane|8446 Tracy Rue|Seattle|Broadmoor|98112|973.326.4309x544|danalane@outlook.com|Luxury Residence|Architect|2021-08-28|$3.3M|Client Portal|35106.6|Yes
+677|Jeremy Summers|29271 Brian Gateway Suite 871|Issaquah|Squak Mountain|98027|475.229.8832|jeremysummers@protonmail.com|Luxury Residence|General Contractor|2020-02-19|$48.4M|Client Portal|13322.56|No
+678|Nicole Garcia|0832 Nicole Greens Suite 978|Mercer Island|South End|98040|289.575.3585x23860|nicolegarcia@gmail.com|Luxury Residence|Luxury Home Show|2024-10-28|$8.8M|Email|18346.55|No
+679|William Young|199 Rodriguez Cliff Suite 239|Sammamish|Sahalee|98074|602-592-9501|williamyoung@protonmail.com|Luxury Residence|Industry Partner|2023-03-24|$22.0M|Text|38109.24|Yes
+680|Matthew Moss|93096 Miller Spur|Mercer Island|North End|98040|001-471-391-2602|matthewmoss@outlook.com|Luxury Residence|Luxury Home Show|2024-12-23|$8.8M|Client Portal|32861.01|No
+681|Bruce Mcdaniel|7201 Darren Light Suite 122|Sammamish|Trossachs|98074|5195072587|brucemcdaniel@protonmail.com|Luxury Residence|Satisfied Client|2023-12-14|$14.3M|Phone|49156.32|Yes
+682|Nicole Lewis|366 Clark Bridge Apt. 748|Sammamish|Trossachs|98074|824-421-1408|nicolelewis@me.com|Luxury Residence|Satisfied Client|2024-02-19|$30.8M|Text|20872.03|No
+683|Shannon Ray|29462 Mary Ramp Apt. 556|Kirkland|Juanita|98034|203-399-5297|shannonray@outlook.com|Luxury Residence|Social Media|2020-04-21|$7.7M|Client Portal|27565.25|Yes
+684|Jesse Thomas|5858 Hughes Track|Issaquah|Issaquah Highlands|98029|(230)841-2027|jessethomas@protonmail.com|Luxury Residence|Luxury Home Show|2025-01-16|$12.1M|Email|13475.91|No
+685|Lucas Mendoza|0299 Scott Stravenue Apt. 669|Bellevue|Newport Shores|98006|7636224815|lucasmendoza@icloud.com|Luxury Residence|Interior Designer|2021-08-13|$20.9M|Phone|17417.42|Yes
+686|Caitlin Johns|40301 Christina Lodge|Seattle|Queen Anne|98119|697.856.4915x7955|caitlinjohns@protonmail.com|Luxury Residence|Website Inquiry|2023-07-08|$8.8M|Phone|26325.72|No
+687|Theresa King|47601 Angela Trafficway|Sammamish|Trossachs|98074|381-903-0683|theresaking@gmail.com|Luxury Residence|Satisfied Client|2021-08-20|$2.2M|Text|23526.13|No
+688|Phillip Davis|8080 Lisa Skyway|Bellevue|Beaux Arts|98004|(271)829-0150x713|phillipdavis@me.com|Luxury Residence|Website Inquiry|2023-04-30|$11.0M|Client Portal|25610.32|Yes
+689|David Murray|1045 Vasquez Flats|Bellevue|Bridle Trails|98004|(921)830-0962x5885|davidmurray@icloud.com|Luxury Residence|Luxury Home Show|2024-06-04|$9.9M|Text|39638.74|Yes
+690|Linda Crawford|80533 Moore Valleys|Bellevue|Bridle Trails|98004|446.966.2159x183|lindacrawford@me.com|Luxury Residence|Website Inquiry|2020-12-06|$4.4M|Text|13202.62|Yes
+691|Anthony Adams|1459 Kari Underpass Apt. 079|Mercer Island|South End|98040|671.240.0493x8819|anthonyadams@icloud.com|Luxury Residence|Luxury Home Show|2020-11-26|$2.2M|Phone|24839.99|No
+692|Michael Zimmerman|04998 Lindsey Hills Suite 698|Issaquah|Issaquah Highlands|98029|331.837.9716x6984|michaelzimmerman@gmail.com|Luxury Residence|General Contractor|2023-09-25|$7.7M|Text|25179.31|Yes
+693|Tina Hernandez|0779 Wright Village Apt. 562|Seattle|Madison Park|98112|989.294.9919|tinahernandez@gmail.com|Luxury Residence|Social Media|2022-04-08|$26.4M|Text|12022.4|No
+694|Rodney Baker|203 Williams Mount Apt. 116|Bellevue|Bridle Trails|98004|9204418135|rodneybaker@me.com|Luxury Residence|Industry Partner|2025-01-08|$15.4M|Phone|40980.93|No
+695|Angela Wallace|889 Reilly Pass|Seattle|Madison Park|98112|3189644822|angelawallace@me.com|Luxury Residence|Website Inquiry|2025-01-17|$13.2M|Email|18863.7|No
+696|Sophia Boyd|785 Randolph Plains|Seattle|Magnolia|98199|(900)348-0675|sophiaboyd@me.com|Luxury Residence|Industry Partner|2022-01-01|$2.2M|Phone|31254.41|Yes
+697|Catherine Lopez|9611 William Parks|Woodinville|Bear Creek|98077|+1-694-229-6882x76970|catherinelopez@outlook.com|Luxury Residence|Social Media|2021-02-04|$11.0M|Email|48912.78|No
+698|Crystal Wilson|615 Williams Plaza|Bellevue|Beaux Arts|98004|+1-832-474-8835x6517|crystalwilson@protonmail.com|Luxury Residence|Luxury Home Show|2023-05-24|$2.2M|Client Portal|11657.57|No
+699|Andrew Jacobs|496 Payne Stravenue Suite 960|Bellevue|Somerset|98006|878-442-1702x851|andrewjacobs@gmail.com|Luxury Residence|Social Media|2021-08-05|$6.6M|Email|14706.28|No
+700|Timothy Carpenter|648 Aaron Ports|Kirkland|Juanita|98034|001-934-486-8839x06246|timothycarpenter@me.com|Luxury Residence|Real Estate Agent|2021-08-14|$14.3M|Client Portal|11280.55|Yes
+701|Nicole Wallace DDS|91141 Yolanda Creek Apt. 592|Bellevue|Bridle Trails|98004|461.533.7605|nicolewallacedds@me.com|Luxury Residence|Interior Designer|2024-11-11|$7.7M|Client Portal|8980.17|No
+702|David Hawkins|5025 Christensen Park|Bellevue|West Bellevue|98004|(641)691-6503|davidhawkins@me.com|Luxury Residence|Industry Partner|2020-12-24|$14.3M|Phone|13966.59|No
+703|Keith Morales|7182 Wheeler Ports|Redmond|Sammamish Valley|98052|001-680-888-0678x21417|keithmorales@gmail.com|Luxury Residence|Social Media|2024-08-12|$37.4M|Client Portal|15103.41|Yes
+704|Whitney Cobb|266 Gardner Ridges Apt. 969|Bellevue|Bridle Trails|98004|+1-774-686-9415|whitneycobb@me.com|Luxury Residence|Real Estate Agent|2020-09-11|$6.6M|Phone|27134.89|Yes
+705|Lara-Williams|292 Megan Tunnel|Woodinville|Bear Creek|98077|853.560.5117x1603|larawilliams@outlook.com|Design Firm|Industry Partner|2022-10-06|$20.9M|Text|31147.96|No
+706|David Daugherty|89455 Nicholas Avenue|Sammamish|Trossachs|98074|6094942489|daviddaugherty@me.com|Luxury Residence|Website Inquiry|2023-11-22|$41.8M|Email|43037.6|Yes
+707|Thomas Lutz|896 Jimenez Causeway Suite 642|Seattle|Broadmoor|98112|2459657758|thomaslutz@outlook.com|Luxury Residence|Luxury Home Show|2022-08-02|$25.3M|Phone|7379.97|No
+708|Elizabeth Flores|89062 Melody Land|Bellevue|Somerset|98006|766-522-6540x165|elizabethflores@gmail.com|Luxury Residence|Interior Designer|2021-08-16|$13.2M|Phone|39489.91|Yes
+709|Alexa Frederick|21224 Sylvia Union Suite 677|Sammamish|Sahalee|98074|362-759-1601x1241|alexafrederick@icloud.com|Luxury Residence|Houzz|2023-01-18|$7.7M|Text|35844.97|No
+710|Sarah Ochoa|860 Kathleen Plain Apt. 179|Issaquah|Squak Mountain|98027|667.978.2312x99570|sarahochoa@outlook.com|Luxury Residence|Website Inquiry|2024-08-13|$4.4M|Text|21785.64|No
+711|Nathan Sparks|612 Samantha Center|Seattle|Laurelhurst|98105|884.237.5365|nathansparks@gmail.com|Luxury Residence|Satisfied Client|2021-03-22|$5.5M|Email|23780.58|Yes
+712|Gregory Fuentes|4824 David Point|Seattle|Broadmoor|98112|001-738-654-5400x644|gregoryfuentes@gmail.com|Luxury Residence|Luxury Home Show|2022-09-09|$14.3M|Phone|41766.74|No
+713|Gina Thomas|12327 Carrillo Ridges|Bellevue|Bridle Trails|98004|001-579-817-7633x42720|ginathomas@gmail.com|Luxury Residence|General Contractor|2024-03-04|$31.9M|Phone|35962.12|No
+714|Sally Hurst|080 Catherine Loaf Apt. 045|Seattle|Broadmoor|98112|001-530-769-3588x249|sallyhurst@gmail.com|Luxury Residence|Interior Designer|2022-05-20|$15.4M|Email|5846.29|No
+715|Sierra Smith|167 Wagner Passage|Seattle|Clyde Hill|98004|665-824-4454|sierrasmith@icloud.com|Luxury Residence|Website Inquiry|2020-08-08|$13.2M|Email|26108.71|No
+716|Petersen and Sons|179 Shannon Tunnel Apt. 053|Bellevue|Bridle Trails|98004|+1-891-428-7884x8699|petersenandsons@gmail.com|Design Firm|Industry Partner|2024-03-25|$3.3M|Phone|31442.14|Yes
+717|Pamela George|7927 Joshua Mission Apt. 463|Bellevue|Somerset|98006|5195864242|pamelageorge@gmail.com|Luxury Residence|Houzz|2020-07-04|$14.3M|Text|20849.15|Yes
+718|Carla Young|18706 Sherry Port|Seattle|Hunts Point|98004|428.380.9832|carlayoung@gmail.com|Luxury Residence|Website Inquiry|2024-08-05|$2.2M|Phone|37211.52|No
+719|Bruce Lopez|01867 Gray Cape|Woodinville|Bear Creek|98077|3896876108|brucelopez@protonmail.com|Luxury Residence|Satisfied Client|2020-01-09|$23.1M|Client Portal|21490.84|Yes
+720|James Davis|384 Santos Row|Seattle|Madison Park|98112|598-707-4682|jamesdavis@icloud.com|Luxury Residence|Real Estate Agent|2024-09-05|$8.8M|Phone|28141.3|No
+721|Sean Chapman|03076 Adam Viaduct|Bellevue|Beaux Arts|98004|859-667-1500x666|seanchapman@gmail.com|Luxury Residence|Social Media|2022-08-12|$4.4M|Text|36712.89|Yes
+722|Adam Holland|1134 Lindsey Plains Suite 169|Redmond|Sammamish Valley|98052|001-549-870-8905|adamholland@gmail.com|Luxury Residence|Houzz|2022-02-27|$12.1M|Client Portal|15164.3|No
+723|Dale Spencer|999 Moore Rest Suite 083|Kirkland|Juanita|98034|+1-968-388-9178|dalespencer@icloud.com|Luxury Residence|Social Media|2024-10-20|$16.5M|Text|13068.38|No
+724|Jacob Garza|7197 Johnson Ranch|Bellevue|Newport Shores|98006|420.812.6578|jacobgarza@me.com|Luxury Residence|Interior Designer|2022-12-06|$3.3M|Phone|22766.52|Yes
+725|William Tran|521 Ward Pass|Seattle|Laurelhurst|98105|317-477-4127x46921|williamtran@gmail.com|Luxury Residence|Satisfied Client|2022-01-14|$39.6M|Client Portal|10524.3|No
+726|Lee Vargas|4222 Cook Radial|Bellevue|West Bellevue|98004|770-645-4218|leevargas@protonmail.com|Luxury Residence|Real Estate Agent|2023-04-30|$15.4M|Text|26412.18|No
+727|Roy Williams|209 David Ways Suite 709|Redmond|Education Hill|98052|9014635640|roywilliams@outlook.com|Luxury Residence|Interior Designer|2020-10-28|$23.1M|Text|27020.36|Yes
+728|Chad Abbott|82895 Smith Corners Suite 882|Seattle|Broadmoor|98112|(747)231-2616|chadabbott@gmail.com|Luxury Residence|Social Media|2020-07-22|$20.9M|Email|48743.26|No
+729|Mr. Gregory Hart|19509 Megan Valley|Bellevue|Beaux Arts|98004|915-226-1053|mrgregoryhart@icloud.com|Luxury Residence|Interior Designer|2021-09-12|$3.3M|Client Portal|40672.91|Yes
+730|Brandy Williams|69500 Scott Squares Apt. 894|Redmond|Sammamish Valley|98052|+1-554-832-9876|brandywilliams@me.com|Luxury Residence|Website Inquiry|2022-10-30|$7.7M|Email|47866.12|Yes
+731|Kurt Ramirez|61982 Harris Inlet Apt. 310|Seattle|Madison Park|98112|650-525-8963x217|kurtramirez@me.com|Luxury Residence|Social Media|2022-07-10|$8.8M|Client Portal|6619.15|Yes
+732|Rachel Chandler|8352 Moreno Lodge Suite 860|Woodinville|Bear Creek|98077|001-667-439-8344x8838|rachelchandler@outlook.com|Luxury Residence|Real Estate Agent|2024-12-16|$50.6M|Phone|19060.69|No
+733|Darren Morse|2805 Brown Via Suite 406|Seattle|Madison Park|98112|(279)255-1562x392|darrenmorse@protonmail.com|Luxury Residence|Website Inquiry|2023-10-14|$11.0M|Client Portal|26416.0|Yes
+734|Felicia Cannon|74091 Cory Corner|Bellevue|Newport Shores|98006|678-961-9025|feliciacannon@outlook.com|Luxury Residence|Industry Partner|2022-10-10|$8.8M|Text|39491.18|No
+735|Amy Park|069 Calhoun Island|Seattle|Medina|98039|212-401-2275x950|amypark@protonmail.com|Luxury Residence|Luxury Home Show|2020-04-02|$7.7M|Email|39433.73|No
+736|Olivia Lyons|51532 Levy Shoal|Kirkland|Juanita|98034|+1-494-979-5074x07173|olivialyons@outlook.com|Luxury Residence|Satisfied Client|2022-01-01|$2.2M|Phone|15557.99|No
+737|Amber Gomez|031 Alec Lock Suite 934|Mercer Island|South End|98040|001-603-391-0452x03608|ambergomez@gmail.com|Luxury Residence|General Contractor|2024-11-14|$7.7M|Email|29228.76|Yes
+738|Elijah Austin|59928 Reed Terrace|Kirkland|Juanita|98034|259.252.0561|elijahaustin@protonmail.com|Luxury Residence|Architect|2022-11-20|$35.2M|Client Portal|31459.52|No
+739|John Shepard|069 Hahn Views|Bellevue|Newport Shores|98006|+1-501-986-7740|johnshepard@outlook.com|Luxury Residence|Interior Designer|2023-03-18|$9.9M|Phone|20118.54|No
+740|Melissa Martinez|394 Carpenter Landing|Bellevue|Bridle Trails|98004|700.267.7625|melissamartinez@outlook.com|Luxury Residence|Interior Designer|2022-06-11|$13.2M|Phone|17931.0|Yes
+741|Mark Poole|3654 Rachel Ferry|Issaquah|Squak Mountain|98027|617-784-2902x9233|markpoole@me.com|Luxury Residence|Interior Designer|2024-07-05|$14.3M|Email|31633.91|No
+742|Andrea Mclaughlin|060 Sanchez Route|Redmond|Education Hill|98052|001-588-468-4302x11667|andreamclaughlin@me.com|Luxury Residence|Interior Designer|2022-05-24|$15.4M|Text|27708.78|No
+743|Abigail Kemp|5988 Morris Port Apt. 129|Issaquah|Issaquah Highlands|98029|001-996-742-6033x6202|abigailkemp@outlook.com|Luxury Residence|Industry Partner|2021-02-13|$6.6M|Client Portal|35220.21|Yes
+744|Cody Scott|92071 Laurie Ville Apt. 380|Sammamish|Trossachs|98074|(336)921-9215|codyscott@protonmail.com|Luxury Residence|Satisfied Client|2024-11-01|$9.9M|Client Portal|17057.12|No
+745|Melissa Cunningham|18638 Cook Plaza Apt. 959|Woodinville|Hollywood Hill|98072|001-577-321-6880x0537|melissacunningham@gmail.com|Luxury Residence|General Contractor|2022-12-05|$9.9M|Phone|11771.27|No
+746|Jaime Bender|84540 Wendy Dam Apt. 720|Kirkland|Juanita|98034|4284394823|jaimebender@outlook.com|Luxury Residence|Satisfied Client|2024-10-27|$20.9M|Client Portal|17012.06|No
+747|Brandon Ramirez|328 Carl Lake Apt. 020|Bellevue|West Bellevue|98004|(903)904-2322|brandonramirez@protonmail.com|Luxury Residence|General Contractor|2021-04-28|$3.3M|Phone|6246.69|No
+748|Timothy Dominguez|53028 Robert Causeway|Issaquah|Issaquah Highlands|98029|(346)530-0593x77756|timothydominguez@me.com|Luxury Residence|Satisfied Client|2022-05-14|$2.2M|Phone|17272.04|Yes
+749|Benjamin Johnson|161 Evans Way|Bellevue|West Bellevue|98004|+1-302-898-3104x384|benjaminjohnson@protonmail.com|Luxury Residence|Social Media|2020-12-26|$2.2M|Email|7489.73|Yes
+750|Chris Miller|67080 Sullivan Land|Bellevue|Bridle Trails|98004|(267)606-3621x98655|chrismiller@gmail.com|Luxury Residence|Interior Designer|2025-01-18|$41.8M|Client Portal|47442.3|Yes
+751|Peggy Logan|076 Petty Spur Suite 933|Issaquah|Squak Mountain|98027|001-565-404-9627|peggylogan@protonmail.com|Luxury Residence|Industry Partner|2025-03-25|$13.2M|Text|27340.3|Yes
+752|Janice Hamilton|42436 Samantha Streets|Seattle|Madison Park|98112|885-442-1880x87991|janicehamilton@outlook.com|Luxury Residence|Satisfied Client|2021-11-05|$42.9M|Client Portal|14810.38|Yes
+753|Misty Solomon|996 Walker Points|Bellevue|West Bellevue|98004|532-247-2505x83334|mistysolomon@me.com|Luxury Residence|Architect|2022-04-16|$12.1M|Client Portal|29006.15|Yes
+754|Cynthia Miller|876 Nathaniel Stravenue Suite 576|Kirkland|Juanita|98034|001-594-875-7694x535|cynthiamiller@me.com|Luxury Residence|General Contractor|2023-10-30|$6.6M|Text|26384.98|No
+755|John Vincent|9861 Clark Harbors Apt. 125|Seattle|Medina|98039|850-480-9594x8152|johnvincent@protonmail.com|Luxury Residence|Satisfied Client|2020-03-12|$19.8M|Text|29872.76|No
+756|Todd Johnston|7213 Shawn Harbor Apt. 359|Mercer Island|South End|98040|542-561-4048|toddjohnston@outlook.com|Luxury Residence|Website Inquiry|2025-01-23|$24.2M|Phone|43594.12|No
+757|Everett Inc|4307 Robinson Trail Suite 310|Bellevue|Newport Shores|98006|3817785221|everettinc@outlook.com|Design Firm|Satisfied Client|2021-09-08|$16.5M|Text|14467.39|Yes
+758|Jillian Hendricks|2354 Ryan Parkways Suite 447|Sammamish|Trossachs|98074|4175320865|jillianhendricks@outlook.com|Luxury Residence|Architect|2024-12-06|$45.1M|Text|43990.01|No
+759|Julie Anderson|5633 Smith Harbors Apt. 052|Kirkland|Juanita|98034|481.405.5800x027|julieanderson@outlook.com|Luxury Residence|Interior Designer|2024-01-09|$16.5M|Phone|36431.7|Yes
+760|Cody Ford|60943 Kayla Forge|Sammamish|Sahalee|98074|001-468-817-2031x36955|codyford@protonmail.com|Luxury Residence|Architect|2024-02-19|$14.3M|Email|33861.78|Yes
+761|Nathan Burke|735 Jennifer Ridges|Sammamish|Trossachs|98074|(433)222-2739x389|nathanburke@icloud.com|Luxury Residence|Houzz|2020-01-07|$13.2M|Text|30911.42|Yes
+762|Samuel Vazquez|3236 Miller Keys|Redmond|Education Hill|98052|4768108708|samuelvazquez@icloud.com|Luxury Residence|Luxury Home Show|2024-09-30|$8.8M|Client Portal|26526.45|Yes
+763|Rachel Martinez|60107 Eric Courts|Mercer Island|North End|98040|(883)988-2176x484|rachelmartinez@protonmail.com|Luxury Residence|Satisfied Client|2024-08-20|$6.6M|Email|23652.34|Yes
+764|Jeremy Baker|32228 Cynthia Throughway|Bellevue|Newport Shores|98006|+1-244-825-8922x256|jeremybaker@protonmail.com|Luxury Residence|Website Inquiry|2021-04-04|$2.2M|Phone|45808.02|No
+765|Stephen Haney|50637 Carl Rue Apt. 804|Mercer Island|South End|98040|(774)413-0753x8418|stephenhaney@icloud.com|Luxury Residence|Industry Partner|2020-04-11|$8.8M|Text|11716.3|No
+766|Matthew Robinson|60846 Ashley Stravenue Suite 561|Issaquah|Squak Mountain|98027|647-305-5491x21516|matthewrobinson@gmail.com|Luxury Residence|Social Media|2020-01-29|$46.2M|Client Portal|10333.06|Yes
+767|Randall Nunez|4091 Vargas Forest Suite 787|Bellevue|West Bellevue|98004|(320)970-2042x620|randallnunez@outlook.com|Luxury Residence|Real Estate Agent|2024-03-08|$4.4M|Phone|32003.73|No
+768|Nicholas Davis|39369 Ford Port Suite 609|Seattle|Queen Anne|98119|873.212.6773x19227|nicholasdavis@me.com|Luxury Residence|Architect|2021-01-04|$4.4M|Text|48925.77|Yes
+769|Gerald Ray|865 Mary Fords Suite 319|Seattle|Magnolia|98199|465-543-0895|geraldray@outlook.com|Luxury Residence|Interior Designer|2023-04-08|$9.9M|Email|26099.67|No
+770|Angel Martinez|0576 Kaiser Port|Bellevue|Newport Shores|98006|+1-674-870-0026x8764|angelmartinez@icloud.com|Luxury Residence|Industry Partner|2023-12-31|$8.8M|Text|8287.5|Yes
+771|Edward West MD|63656 Jonathan Isle Apt. 063|Seattle|Magnolia|98199|(453)973-0964x969|edwardwestmd@me.com|Luxury Residence|Industry Partner|2025-02-03|$12.1M|Email|5241.24|No
+772|Brian Reid|96353 Heather Ramp Suite 025|Bellevue|Newport Shores|98006|(712)682-7636x431|brianreid@outlook.com|Luxury Residence|Architect|2020-09-27|$55.0M|Phone|16713.12|No
+773|Lisa Hansen|654 Sandoval Gateway Suite 544|Kirkland|Houghton|98033|001-534-641-4916x9993|lisahansen@icloud.com|Luxury Residence|Real Estate Agent|2020-07-02|$11.0M|Phone|16718.27|No
+774|Lane-Mitchell|4088 Dustin Causeway Suite 862|Seattle|Broadmoor|98112|+1-273-998-8941x321|lanemitchell@me.com|Design Firm|Luxury Home Show|2024-11-20|$35.2M|Client Portal|17731.65|No
+775|Michael Wilson|75485 Justin Station Suite 557|Woodinville|Bear Creek|98077|001-822-603-0044|michaelwilson@outlook.com|Luxury Residence|Luxury Home Show|2022-11-24|$4.4M|Client Portal|39365.39|Yes
+776|Austin Cummings|002 Rodriguez Tunnel|Mercer Island|North End|98040|537-756-5896|austincummings@me.com|Luxury Residence|Satisfied Client|2020-04-18|$2.2M|Phone|6613.8|No
+777|Lori Franco|619 Sheryl Green|Kirkland|Houghton|98033|001-558-743-4566x311|lorifranco@me.com|Luxury Residence|Architect|2020-08-25|$50.6M|Client Portal|21043.41|No
+778|Daniel Zamora|2203 Kyle Highway|Seattle|Madison Park|98112|(846)831-0437|danielzamora@icloud.com|Luxury Residence|Houzz|2020-09-10|$5.5M|Phone|42572.91|No
+779|Kimberly Johnson|294 Mullins Causeway Apt. 177|Mercer Island|North End|98040|717-243-0435x0238|kimberlyjohnson@protonmail.com|Luxury Residence|Website Inquiry|2021-03-10|$2.2M|Phone|23738.85|Yes
+780|Robert Lynch|6527 Blair Terrace Apt. 332|Redmond|Sammamish Valley|98052|229.530.2025x69133|robertlynch@gmail.com|Luxury Residence|Interior Designer|2024-12-22|$6.6M|Client Portal|21810.12|Yes
+781|Craig Ortiz|16750 Chase Divide Suite 995|Seattle|Broadmoor|98112|001-653-902-4530x12398|craigortiz@gmail.com|Luxury Residence|Social Media|2020-06-15|$14.3M|Client Portal|33276.05|No
+782|Allen Nelson|28471 Christopher Stravenue|Seattle|Medina|98039|(622)940-5076|allennelson@outlook.com|Luxury Residence|Luxury Home Show|2020-03-30|$9.9M|Phone|14511.51|Yes
+783|Tina Decker|754 Rodriguez Turnpike Apt. 406|Bellevue|Bridle Trails|98004|(483)787-2725x812|tinadecker@outlook.com|Luxury Residence|Website Inquiry|2024-06-22|$3.3M|Client Portal|9164.8|No
+784|Rebekah Richards|6844 Stacey Oval Apt. 379|Woodinville|Bear Creek|98077|001-712-812-1101x87803|rebekahrichards@me.com|Luxury Residence|General Contractor|2020-07-01|$5.5M|Client Portal|40077.16|No
+785|Natalie Williams|0740 Carmen Knoll|Sammamish|Trossachs|98074|399-994-5295|nataliewilliams@icloud.com|Luxury Residence|Real Estate Agent|2020-09-03|$15.4M|Text|45668.04|Yes
+786|Christopher Whitehead|433 White Brooks Suite 422|Seattle|Madison Park|98112|562-265-4963|christopherwhitehead@outlook.com|Luxury Residence|Real Estate Agent|2022-11-15|$9.9M|Client Portal|17081.57|No
+787|Rose Harris|4704 Romero Prairie Suite 047|Kirkland|Juanita|98034|7205596851|roseharris@outlook.com|Luxury Residence|Real Estate Agent|2023-06-11|$13.2M|Email|6819.71|No
+788|Joan Scott|6329 Gutierrez Grove|Mercer Island|North End|98040|(477)275-2259|joanscott@icloud.com|Luxury Residence|Social Media|2023-08-19|$4.4M|Email|18081.64|No
+789|Stephen Bailey|92059 Edward Heights|Redmond|Sammamish Valley|98052|715-863-0295|stephenbailey@outlook.com|Luxury Residence|Satisfied Client|2020-10-31|$37.4M|Client Portal|18296.67|Yes
+790|David Barnett|629 Beck Falls|Seattle|Clyde Hill|98004|7663154980|davidbarnett@protonmail.com|Luxury Residence|Interior Designer|2020-08-08|$8.8M|Client Portal|34738.49|No
+791|Nathaniel Walker|49832 Lori Corner|Issaquah|Squak Mountain|98027|(721)421-5481|nathanielwalker@gmail.com|Luxury Residence|Social Media|2024-04-23|$3.3M|Phone|40377.97|No
+792|Stephens-Nichols|0191 Baker Plain Apt. 644|Kirkland|Juanita|98034|001-720-806-2987x78735|stephensnichols@outlook.com|Design Firm|Social Media|2021-10-04|$9.9M|Text|20360.05|Yes
+793|Diane Berg|196 Jeff Shoals Apt. 192|Seattle|Hunts Point|98004|001-462-621-3204x104|dianeberg@protonmail.com|Luxury Residence|Real Estate Agent|2021-06-15|$23.1M|Email|5263.12|Yes
+794|Robinson, Kaufman and Campbell|911 Huffman Mission Apt. 699|Sammamish|Trossachs|98074|+1-294-598-1283x180|robinsonkaufmanandca@me.com|Design Firm|Industry Partner|2022-07-31|$16.5M|Client Portal|18626.0|No
+795|Jennifer Smith|000 Mayer Summit|Mercer Island|South End|98040|(785)238-6310|jennifersmith@me.com|Luxury Residence|General Contractor|2024-07-05|$4.4M|Email|13586.09|Yes
+796|Christopher Sanchez|058 Sara Ville|Seattle|Queen Anne|98119|+1-829-590-0768x627|christophersanchez@gmail.com|Luxury Residence|Satisfied Client|2021-03-04|$4.4M|Client Portal|42894.04|Yes
+797|Cassandra Peters|963 Lisa Lodge|Woodinville|Bear Creek|98077|001-618-351-8626x7136|cassandrapeters@me.com|Luxury Residence|Interior Designer|2020-10-30|$2.2M|Phone|45608.69|No
+798|Benjamin Moore|39218 Michael Ferry|Redmond|Sammamish Valley|98052|291.887.5067x761|benjaminmoore@gmail.com|Luxury Residence|Satisfied Client|2024-10-26|$5.5M|Text|30624.37|No
+799|Miranda Petersen|88143 Christine Mountain|Seattle|Medina|98039|+1-576-617-8159x698|mirandapetersen@gmail.com|Luxury Residence|Real Estate Agent|2023-07-15|$46.2M|Client Portal|38168.52|No
+800|Guerrero-Thompson|266 Dominguez View|Bellevue|Newport Shores|98006|(486)729-5912x5734|guerrerothompson@me.com|Design Firm|Social Media|2022-11-17|$12.1M|Phone|37143.06|Yes

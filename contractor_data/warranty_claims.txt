@@ -1,0 +1,359 @@
+ClaimID|ProjectID|CustomerID|ClaimDate|IssueType|Description|ResolutionDate|ResolutionTimeDays|CostToFix|CoveredByWarranty|CustomerCost|TechnicianID|PreventativeMeasures
+3|477|674|2023-04-27|System Failure|System Failure requiring service under warranty period.|2023-05-03|6|788.67|Yes|0|161|Component Replacement
+4|286|209|2024-06-08|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-06-20|12|230.89|Yes|0|88|Firmware Patch
+5|516|492|2025-01-11|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-01-18|7|2113.58|Yes|0|26|Component Replacement
+8|1179|641|2023-03-26|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-04-07|12|2427.37|Yes|0|178|Software Update
+10|1098|772|2024-12-01|Network Problem|Network Problem requiring service under warranty period.|2024-12-16|15|0.66|Yes|0|174|None
+11|861|269|2022-12-21|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-01-01|11|240.68|Yes|0|1|None
+12|844|76|2022-09-18|User Error|User Error requiring service under warranty period.|2022-10-03|15|389.76|Yes|0|144|Firmware Patch
+14|650|690|2024-11-21|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-11-27|6|122.03|Yes|0|94|None
+15|343|655|2023-05-05|Network Problem|Network Problem requiring service under warranty period.|2023-05-10|5|110.79|Yes|0|87|Client Training
+16|523|27|2025-01-09|User Error|User Error requiring service under warranty period.|2025-01-24|15|196.38|Yes|0|161|System Reconfiguration
+17|573|296|2024-12-02|Software Bug|Software Bug requiring service under warranty period.|2024-12-13|11|154.42|Yes|0|156|None
+18|353|252|2023-11-25|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-12-02|7|1636.44|Yes|0|50|Component Replacement
+20|25|6|2025-01-13|User Error|User Error requiring service under warranty period.|2025-01-26|13|7.18|Yes|0|200|Component Replacement
+21|633|14|2022-02-26|Software Bug|Software Bug requiring service under warranty period.|2022-03-12|14|400.47|Yes|0|192|Component Replacement
+22|288|103|2024-04-18|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-04-23|5|2287.82|Yes|0|92|Software Update
+23|744|753|2022-07-17|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-07-20|3|458.05|Yes|0|27|System Reconfiguration
+24|930|116|2024-07-06|User Error|User Error requiring service under warranty period.|2024-07-18|12|53.4|Yes|0|10|None
+25|649|611|2023-03-26|Software Bug|Software Bug requiring service under warranty period.|2023-04-09|14|194.16|Yes|0|143|None
+26|355|47|2024-12-19|System Failure|System Failure requiring service under warranty period.|2024-12-30|11|2437.75|Yes|0|92|None
+27|653|769|2024-05-19|User Error|User Error requiring service under warranty period.|2024-05-31|12|460.44|Yes|0|153|System Reconfiguration
+28|650|690|2023-11-27|Software Bug|Software Bug requiring service under warranty period.|2023-12-11|14|100.97|Yes|0|4|Software Update
+29|799|134|2024-05-28|Software Bug|Software Bug requiring service under warranty period.|2024-05-30|2|453.45|Yes|0|48|Software Update
+30|172|5|2023-11-05|Network Problem|Network Problem requiring service under warranty period.|2023-11-06|1|254.43|Yes|0|182|None
+31|511|63|2024-02-21|Software Bug|Software Bug requiring service under warranty period.|2024-03-06|14|241.61|Yes|0|78|Firmware Patch
+32|113|98|2024-09-22|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-09-27|5|13.7|Yes|0|199|System Reconfiguration
+34|862|734|2025-03-08|Software Bug|Software Bug requiring service under warranty period.|2025-03-20|12|58.89|Yes|0|166|System Reconfiguration
+35|256|756|2021-10-10|Network Problem|Network Problem requiring service under warranty period.|2021-10-25|15|190.25|Yes|0|102|None
+36|1121|285|2024-10-05|System Failure|System Failure requiring service under warranty period.|2024-10-16|11|1676.53|Yes|0|132|Software Update
+37|1028|255|2024-12-29|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-01-05|7|210.8|No|210.8|200|Firmware Patch
+38|1033|714|2024-03-29|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-04-03|5|2184.45|Yes|0|113|None
+39|27|9|2024-11-03|User Error|User Error requiring service under warranty period.|2024-11-07|4|336.61|Yes|0|114|Client Training
+40|407|707|2023-07-25|Software Bug|Software Bug requiring service under warranty period.|2023-08-03|9|439.79|Yes|0|26|None
+41|1028|255|2022-08-28|Network Problem|Network Problem requiring service under warranty period.|2022-09-06|9|516.25|Yes|0|42|Software Update
+42|175|711|2025-01-25|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-02-02|8|94.36|Yes|0|173|Firmware Patch
+43|406|673|2025-02-23|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-03-01|6|133.22|Yes|0|159|None
+44|8|766|2024-10-15|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-10-21|6|577.44|Yes|0|181|Component Replacement
+45|960|512|2024-04-27|System Failure|System Failure requiring service under warranty period.|2024-05-11|14|2150.18|Yes|0|126|Software Update
+46|456|584|2024-07-11|User Error|User Error requiring service under warranty period.|2024-07-21|10|456.91|Yes|0|96|Software Update
+48|930|116|2024-07-01|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-07-09|8|350.96|Yes|0|127|Client Training
+49|67|140|2024-06-19|System Failure|System Failure requiring service under warranty period.|2024-06-30|11|1012.76|Yes|0|157|Client Training
+50|288|103|2024-06-11|Network Problem|Network Problem requiring service under warranty period.|2024-06-14|3|124.68|Yes|0|43|Client Training
+51|1167|36|2024-12-05|User Error|User Error requiring service under warranty period.|2024-12-15|10|419.95|Yes|0|127|Component Replacement
+52|1070|189|2024-08-20|User Error|User Error requiring service under warranty period.|2024-08-21|1|187.06|Yes|0|192|Software Update
+53|558|10|2024-12-30|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-01-07|8|225.18|Yes|0|85|Firmware Patch
+54|433|550|2024-10-19|Network Problem|Network Problem requiring service under warranty period.|2024-10-27|8|386.61|Yes|0|102|Software Update
+55|256|756|2023-02-07|Software Bug|Software Bug requiring service under warranty period.|2023-02-13|6|252.28|Yes|0|159|Firmware Patch
+56|1031|297|2024-11-29|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-12-04|5|49.54|Yes|0|66|Firmware Patch
+57|752|420|2023-06-06|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-06-16|10|257.44|Yes|0|65|Component Replacement
+58|117|573|2024-12-28|Software Bug|Software Bug requiring service under warranty period.|2024-12-30|2|349.83|Yes|0|26|None
+59|1017|419|2024-07-16|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-07-21|5|419.09|Yes|0|96|System Reconfiguration
+61|336|342|2024-02-25|System Failure|System Failure requiring service under warranty period.|2024-03-01|5|1723.22|Yes|0|24|Firmware Patch
+62|1168|216|2025-02-04|User Error|User Error requiring service under warranty period.|2025-02-05|1|293.29|Yes|0|176|Client Training
+63|203|684|2023-08-09|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-08-18|9|320.7|Yes|0|73|Software Update
+64|538|751|2024-09-13|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-09-16|3|278.08|Yes|0|73|None
+65|314|721|2024-10-24|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-11-01|8|414.48|Yes|0|37|Component Replacement
+66|204|566|2024-12-03|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-16|13|1316.65|Yes|0|132|Component Replacement
+67|96|146|2024-11-19|Network Problem|Network Problem requiring service under warranty period.|2024-11-22|3|378.17|Yes|0|31|Client Training
+68|810|731|2025-01-26|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-01-31|5|2150.24|Yes|0|94|System Reconfiguration
+69|136|140|2024-03-22|Network Problem|Network Problem requiring service under warranty period.|2024-03-29|7|423.3|Yes|0|1|Firmware Patch
+71|230|364|2025-01-14|User Error|User Error requiring service under warranty period.|2025-01-20|6|244.87|Yes|0|4|None
+72|726|447|2022-06-13|User Error|User Error requiring service under warranty period.|2022-06-20|7|208.06|Yes|0|34|System Reconfiguration
+73|1108|658|2023-05-14|Software Bug|Software Bug requiring service under warranty period.|2023-05-25|11|409.89|Yes|0|43|Software Update
+74|909|473|2024-10-04|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-10-17|13|496.85|Yes|0|45|Client Training
+75|964|1|2023-02-01|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-02-05|4|2139.71|Yes|0|178|Component Replacement
+76|72|317|2023-03-22|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-03-24|2|1558.28|Yes|0|127|None
+78|974|460|2024-03-08|System Failure|System Failure requiring service under warranty period.|2024-03-15|7|888.72|Yes|0|93|System Reconfiguration
+79|976|664|2024-06-21|Network Problem|Network Problem requiring service under warranty period.|2024-07-04|13|458.03|Yes|0|154|Firmware Patch
+80|583|443|2023-12-26|System Failure|System Failure requiring service under warranty period.|2023-12-28|2|76.85|Yes|0|163|System Reconfiguration
+81|1082|405|2022-03-12|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-03-15|3|33.13|Yes|0|48|Software Update
+83|616|678|2025-04-09|User Error|User Error requiring service under warranty period.|2025-04-09|4|370.33|Yes|0|135|None
+84|1002|787|2025-03-23|Software Bug|Software Bug requiring service under warranty period.|2025-03-27|4|124.38|Yes|0|166|Firmware Patch
+85|1006|205|2024-03-08|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-03-22|14|380.21|Yes|0|59|None
+86|271|221|2023-08-12|Network Problem|Network Problem requiring service under warranty period.|2023-08-23|11|123.87|Yes|0|103|System Reconfiguration
+87|592|250|2023-03-25|System Failure|System Failure requiring service under warranty period.|2023-04-02|8|2425.68|Yes|0|98|System Reconfiguration
+88|1000|293|2023-08-26|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-09-02|7|1932.89|Yes|0|154|None
+89|254|412|2024-05-02|Network Problem|Network Problem requiring service under warranty period.|2024-05-17|15|124.4|Yes|0|167|System Reconfiguration
+90|432|96|2023-02-12|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-02-14|2|1785.34|No|1785.34|145|None
+91|248|689|2024-11-24|Network Problem|Network Problem requiring service under warranty period.|2024-11-30|6|162.27|Yes|0|132|Client Training
+92|498|463|2023-11-06|Software Bug|Software Bug requiring service under warranty period.|2023-11-19|13|194.24|Yes|0|126|Software Update
+93|211|27|2025-02-12|Network Problem|Network Problem requiring service under warranty period.|2025-02-17|5|521.05|Yes|0|111|Client Training
+95|494|210|2022-11-23|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-12-08|15|288.04|Yes|0|154|Firmware Patch
+96|1062|35|2025-03-06|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-03-09|3|376.26|Yes|0|34|Component Replacement
+97|132|473|2024-05-22|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-05-30|8|378.48|Yes|0|104|System Reconfiguration
+99|1031|297|2024-12-27|Network Problem|Network Problem requiring service under warranty period.|2025-01-09|13|168.25|Yes|0|99|Component Replacement
+100|600|419|2023-08-22|System Failure|System Failure requiring service under warranty period.|2023-08-29|7|442.39|Yes|0|104|Software Update
+101|626|478|2024-08-11|System Failure|System Failure requiring service under warranty period.|2024-08-21|10|2240.26|Yes|0|31|Client Training
+102|494|210|2023-06-28|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-07-08|10|256.9|Yes|0|25|None
+103|55|309|2024-11-29|System Failure|System Failure requiring service under warranty period.|2024-12-13|14|1062.48|Yes|0|38|System Reconfiguration
+104|1124|336|2024-07-15|Software Bug|Software Bug requiring service under warranty period.|2024-07-24|9|413.79|Yes|0|168|Client Training
+105|1089|480|2024-06-26|User Error|User Error requiring service under warranty period.|2024-07-03|7|214.84|Yes|0|60|System Reconfiguration
+107|643|358|2023-05-17|User Error|User Error requiring service under warranty period.|2023-05-21|4|501.59|Yes|0|138|None
+110|27|9|2025-03-04|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-03-07|3|43.22|Yes|0|154|Component Replacement
+111|278|776|2024-12-24|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-12-31|7|34.42|Yes|0|78|Firmware Patch
+112|1051|126|2024-12-16|User Error|User Error requiring service under warranty period.|2024-12-22|6|161.28|Yes|0|45|Component Replacement
+113|699|727|2024-11-26|System Failure|System Failure requiring service under warranty period.|2024-12-09|13|1775.96|Yes|0|148|Firmware Patch
+115|529|222|2025-03-31|User Error|User Error requiring service under warranty period.|2025-04-09|10|88.9|Yes|0|175|Software Update
+116|716|477|2023-12-07|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-12-18|11|213.73|Yes|0|46|None
+117|154|454|2024-07-19|Network Problem|Network Problem requiring service under warranty period.|2024-07-20|1|225.54|Yes|0|50|Component Replacement
+118|452|4|2023-08-22|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-08-31|9|72.31|Yes|0|118|System Reconfiguration
+119|1013|774|2025-04-01|Software Bug|Software Bug requiring service under warranty period.|2025-04-07|6|399.72|Yes|0|96|Firmware Patch
+120|545|561|2023-06-09|User Error|User Error requiring service under warranty period.|2023-06-11|2|410.2|Yes|0|50|Software Update
+121|172|5|2023-10-04|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-10-16|12|199.52|Yes|0|118|Component Replacement
+122|553|133|2025-02-19|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-02-28|9|175.25|Yes|0|6|Client Training
+123|719|600|2024-02-15|System Failure|System Failure requiring service under warranty period.|2024-03-01|15|2717.4|No|2717.4|156|Software Update
+124|1028|255|2021-12-29|System Failure|System Failure requiring service under warranty period.|2022-01-07|9|471.35|Yes|0|180|System Reconfiguration
+125|900|168|2024-12-21|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-31|10|1073.78|Yes|0|66|System Reconfiguration
+126|465|671|2024-02-07|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-02-19|12|393.11|Yes|0|7|Client Training
+127|1087|272|2024-12-20|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-12-23|3|18.0|Yes|0|160|Component Replacement
+128|1045|709|2023-05-22|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-05-29|7|409.08|Yes|0|117|Firmware Patch
+129|1062|35|2025-03-02|User Error|User Error requiring service under warranty period.|2025-03-06|4|470.21|Yes|0|160|Component Replacement
+130|726|447|2022-02-06|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-02-10|4|61.43|Yes|0|42|Software Update
+131|192|14|2022-12-19|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-01-03|15|134.33|Yes|0|23|Client Training
+132|1062|35|2025-03-22|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-05|14|508.59|Yes|0|80|System Reconfiguration
+133|459|668|2024-07-18|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-08-02|15|549.05|Yes|0|178|Firmware Patch
+134|349|295|2025-03-30|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-04-07|8|369.67|Yes|0|8|System Reconfiguration
+135|364|78|2024-12-04|Software Bug|Software Bug requiring service under warranty period.|2024-12-10|6|250.47|No|250.47|171|Component Replacement
+136|1016|505|2024-04-05|User Error|User Error requiring service under warranty period.|2024-04-19|14|230.39|Yes|0|134|Component Replacement
+137|261|540|2025-02-11|User Error|User Error requiring service under warranty period.|2025-02-13|2|82.75|Yes|0|127|Client Training
+138|617|308|2024-12-05|Network Problem|Network Problem requiring service under warranty period.|2024-12-16|11|264.04|Yes|0|100|None
+140|378|420|2024-12-10|System Failure|System Failure requiring service under warranty period.|2024-12-18|8|2700.61|Yes|0|165|Component Replacement
+142|952|592|2024-01-20|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-02-03|14|163.14|Yes|0|101|Firmware Patch
+143|1051|126|2024-12-10|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-15|5|2126.75|Yes|0|49|System Reconfiguration
+144|504|432|2025-04-08|User Error|User Error requiring service under warranty period.|2025-04-09|8|17.28|Yes|0|31|None
+145|1130|595|2024-07-16|Software Bug|Software Bug requiring service under warranty period.|2024-07-18|2|363.08|Yes|0|100|Component Replacement
+146|729|82|2023-09-06|Software Bug|Software Bug requiring service under warranty period.|2023-09-14|8|53.18|Yes|0|137|Client Training
+147|945|114|2024-02-07|User Error|User Error requiring service under warranty period.|2024-02-09|2|411.3|Yes|0|194|Software Update
+148|140|401|2023-05-30|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-06-11|12|369.31|Yes|0|94|Firmware Patch
+149|1002|787|2025-01-06|User Error|User Error requiring service under warranty period.|2025-01-21|15|38.9|Yes|0|40|Component Replacement
+150|653|769|2025-01-02|Network Problem|Network Problem requiring service under warranty period.|2025-01-14|12|458.96|Yes|0|27|System Reconfiguration
+151|336|342|2025-01-14|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-01-25|11|522.03|Yes|0|53|None
+152|102|229|2023-12-09|Network Problem|Network Problem requiring service under warranty period.|2023-12-12|3|260.3|Yes|0|59|Firmware Patch
+153|1182|424|2024-10-02|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-10-11|9|2359.75|Yes|0|62|Firmware Patch
+154|754|550|2023-10-27|Software Bug|Software Bug requiring service under warranty period.|2023-10-29|2|404.1|Yes|0|84|Client Training
+155|167|776|2023-10-19|Network Problem|Network Problem requiring service under warranty period.|2023-10-31|12|417.05|Yes|0|50|Component Replacement
+158|937|193|2025-03-16|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-03-21|5|333.54|Yes|0|41|System Reconfiguration
+159|633|14|2022-04-15|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-04-28|13|432.07|Yes|0|47|System Reconfiguration
+161|729|82|2022-06-04|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-06-05|1|543.26|Yes|0|18|Software Update
+162|975|297|2022-11-15|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2022-11-17|2|462.38|Yes|0|90|Client Training
+163|828|11|2025-04-03|User Error|User Error requiring service under warranty period.|2025-04-09|15|12.29|Yes|0|107|Firmware Patch
+165|523|27|2024-10-17|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-10-27|10|81.93|Yes|0|17|Firmware Patch
+166|1176|489|2025-04-02|Network Problem|Network Problem requiring service under warranty period.|2025-04-09|13|495.28|Yes|0|134|Firmware Patch
+167|712|659|2024-09-02|System Failure|System Failure requiring service under warranty period.|2024-09-09|7|2459.72|Yes|0|200|Client Training
+168|350|725|2022-07-12|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-07-17|5|342.77|Yes|0|10|System Reconfiguration
+169|1116|723|2024-05-20|Software Bug|Software Bug requiring service under warranty period.|2024-06-04|15|203.23|Yes|0|120|Client Training
+170|532|628|2025-01-25|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-02-09|15|2109.49|Yes|0|32|System Reconfiguration
+171|471|271|2025-03-10|User Error|User Error requiring service under warranty period.|2025-03-22|12|420.28|Yes|0|25|System Reconfiguration
+172|63|57|2025-04-05|User Error|User Error requiring service under warranty period.|2025-04-09|4|242.98|Yes|0|88|Software Update
+173|253|210|2024-05-01|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-05-05|4|108.83|Yes|0|42|System Reconfiguration
+174|945|114|2024-07-10|Software Bug|Software Bug requiring service under warranty period.|2024-07-23|13|222.8|Yes|0|94|Software Update
+175|477|674|2024-03-14|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-03-18|4|1624.93|No|1624.93|92|System Reconfiguration
+176|222|559|2024-10-29|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-11-11|13|325.33|Yes|0|99|None
+177|160|609|2024-07-19|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-07-28|9|439.24|Yes|0|154|Firmware Patch
+178|775|333|2024-07-28|Software Bug|Software Bug requiring service under warranty period.|2024-08-06|9|83.2|Yes|0|1|Firmware Patch
+179|287|738|2024-11-23|Software Bug|Software Bug requiring service under warranty period.|2024-12-01|8|380.88|Yes|0|73|Firmware Patch
+180|1166|279|2025-02-19|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-02-27|8|270.97|Yes|0|38|Client Training
+181|77|150|2024-01-24|System Failure|System Failure requiring service under warranty period.|2024-01-25|1|476.17|Yes|0|122|Firmware Patch
+182|787|761|2024-12-03|Network Problem|Network Problem requiring service under warranty period.|2024-12-11|8|539.72|Yes|0|114|Client Training
+183|584|690|2024-03-12|Network Problem|Network Problem requiring service under warranty period.|2024-03-25|13|37.4|Yes|0|145|Software Update
+184|914|537|2025-03-29|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-04-09|12|340.31|Yes|0|36|Firmware Patch
+185|895|452|2025-03-21|User Error|User Error requiring service under warranty period.|2025-03-31|10|279.42|Yes|0|46|Firmware Patch
+186|86|157|2024-01-16|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-01-25|9|250.83|Yes|0|145|Firmware Patch
+187|539|736|2024-07-28|System Failure|System Failure requiring service under warranty period.|2024-08-07|10|1467.84|Yes|0|100|System Reconfiguration
+188|115|713|2025-01-11|Software Bug|Software Bug requiring service under warranty period.|2025-01-22|11|164.37|Yes|0|7|None
+189|67|140|2024-02-09|Software Bug|Software Bug requiring service under warranty period.|2024-02-13|4|344.55|Yes|0|153|Firmware Patch
+190|142|213|2025-04-03|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-08|5|467.52|Yes|0|50|Software Update
+191|290|769|2023-12-12|User Error|User Error requiring service under warranty period.|2023-12-17|5|159.97|Yes|0|31|Software Update
+192|303|749|2022-07-04|Network Problem|Network Problem requiring service under warranty period.|2022-07-12|8|79.2|Yes|0|38|Component Replacement
+193|665|269|2024-09-06|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-09-07|1|361.26|Yes|0|14|Software Update
+194|21|73|2024-12-10|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-12-24|14|361.94|Yes|0|107|Client Training
+195|901|130|2022-11-05|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-11-07|2|256.77|Yes|0|74|System Reconfiguration
+196|523|27|2025-02-12|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-02-21|9|343.85|Yes|0|153|None
+197|215|192|2024-12-03|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-07|4|1244.2|Yes|0|66|Firmware Patch
+198|539|736|2023-09-25|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-10-01|6|373.99|Yes|0|85|Firmware Patch
+199|1114|524|2023-01-15|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-01-18|3|452.54|No|452.54|59|None
+200|42|682|2024-12-25|System Failure|System Failure requiring service under warranty period.|2025-01-01|7|1043.45|Yes|0|144|Firmware Patch
+201|802|154|2024-08-30|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-09-06|7|56.51|Yes|0|160|Client Training
+202|651|106|2023-03-21|System Failure|System Failure requiring service under warranty period.|2023-03-29|8|2311.66|Yes|0|181|Firmware Patch
+203|533|26|2023-08-01|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-08-08|7|701.64|Yes|0|194|None
+204|494|210|2024-09-06|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-09-11|5|2547.1|No|2547.1|5|Firmware Patch
+205|572|329|2024-12-01|User Error|User Error requiring service under warranty period.|2024-12-04|3|124.77|Yes|0|8|Client Training
+206|1098|772|2024-12-11|System Failure|System Failure requiring service under warranty period.|2024-12-16|5|309.93|Yes|0|94|Component Replacement
+207|510|440|2023-10-02|Network Problem|Network Problem requiring service under warranty period.|2023-10-07|5|211.52|No|211.52|165|Component Replacement
+208|1033|714|2024-10-10|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-10-17|7|1152.25|Yes|0|89|Firmware Patch
+209|378|420|2025-01-16|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-01-19|3|288.28|Yes|0|182|Software Update
+210|919|96|2024-09-04|Software Bug|Software Bug requiring service under warranty period.|2024-09-13|9|546.02|Yes|0|83|None
+211|1171|397|2023-09-21|User Error|User Error requiring service under warranty period.|2023-09-28|7|522.54|Yes|0|99|Firmware Patch
+212|418|700|2025-01-17|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-01-25|8|45.0|Yes|0|18|System Reconfiguration
+213|222|559|2025-01-25|Network Problem|Network Problem requiring service under warranty period.|2025-02-03|9|276.99|Yes|0|165|System Reconfiguration
+214|975|297|2023-01-05|User Error|User Error requiring service under warranty period.|2023-01-12|7|348.58|Yes|0|115|Firmware Patch
+215|794|424|2025-02-07|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-02-22|15|2116.16|Yes|0|39|Software Update
+216|1146|230|2025-01-26|Software Bug|Software Bug requiring service under warranty period.|2025-01-30|4|241.34|Yes|0|67|Client Training
+217|673|498|2025-03-13|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-03-19|6|232.85|Yes|0|99|Software Update
+219|956|209|2025-01-15|System Failure|System Failure requiring service under warranty period.|2025-01-30|15|1980.45|No|1980.45|72|Software Update
+220|117|573|2023-05-19|System Failure|System Failure requiring service under warranty period.|2023-05-26|7|1115.45|Yes|0|71|System Reconfiguration
+221|745|93|2024-01-30|Software Bug|Software Bug requiring service under warranty period.|2024-02-10|11|170.9|Yes|0|145|Client Training
+222|1034|800|2023-05-31|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-06-06|6|190.29|Yes|0|138|Component Replacement
+223|489|486|2024-05-29|System Failure|System Failure requiring service under warranty period.|2024-06-09|11|1547.98|Yes|0|62|None
+224|428|669|2024-09-15|Network Problem|Network Problem requiring service under warranty period.|2024-09-28|13|41.43|Yes|0|163|None
+225|277|75|2024-07-04|Network Problem|Network Problem requiring service under warranty period.|2024-07-05|1|424.63|Yes|0|83|None
+226|696|340|2022-08-11|Software Bug|Software Bug requiring service under warranty period.|2022-08-13|2|299.79|Yes|0|168|Client Training
+227|855|641|2023-09-28|Software Bug|Software Bug requiring service under warranty period.|2023-10-09|11|492.4|Yes|0|200|Firmware Patch
+228|248|689|2024-01-24|System Failure|System Failure requiring service under warranty period.|2024-01-29|5|847.68|Yes|0|115|None
+229|281|571|2024-03-09|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-03-13|4|1814.21|Yes|0|113|Component Replacement
+230|669|191|2022-12-25|User Error|User Error requiring service under warranty period.|2022-12-28|3|219.7|Yes|0|107|Software Update
+231|283|49|2025-01-31|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-02-12|12|1094.94|Yes|0|132|Client Training
+232|175|711|2025-02-25|Network Problem|Network Problem requiring service under warranty period.|2025-03-03|6|252.24|Yes|0|183|Component Replacement
+233|1004|390|2022-05-30|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-06-07|8|138.75|Yes|0|81|Firmware Patch
+234|197|16|2023-03-26|User Error|User Error requiring service under warranty period.|2023-04-09|14|315.99|Yes|0|84|None
+235|230|364|2024-12-08|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-09|1|173.58|Yes|0|10|Client Training
+236|138|449|2024-06-12|Software Bug|Software Bug requiring service under warranty period.|2024-06-26|14|28.89|Yes|0|83|Client Training
+237|695|66|2024-08-12|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-08-20|8|537.19|Yes|0|97|Component Replacement
+238|181|31|2025-02-23|System Failure|System Failure requiring service under warranty period.|2025-02-28|5|752.59|Yes|0|43|Software Update
+239|102|229|2023-09-07|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-09-15|8|395.05|Yes|0|134|Software Update
+240|832|758|2024-08-03|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-08-05|2|340.43|Yes|0|78|System Reconfiguration
+241|602|354|2024-03-06|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-03-11|5|689.6|Yes|0|1|Component Replacement
+242|540|57|2023-08-20|Software Bug|Software Bug requiring service under warranty period.|2023-08-29|9|398.02|No|398.02|29|None
+243|1153|528|2024-08-09|System Failure|System Failure requiring service under warranty period.|2024-08-11|2|1900.36|Yes|0|178|None
+245|58|434|2025-04-02|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-09|8|107.51|Yes|0|30|System Reconfiguration
+246|421|612|2023-12-22|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-01-04|13|283.6|Yes|0|62|System Reconfiguration
+247|402|409|2023-06-26|Software Bug|Software Bug requiring service under warranty period.|2023-07-10|14|24.95|No|24.95|153|Component Replacement
+248|308|189|2024-02-24|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-03-02|7|379.26|Yes|0|87|Software Update
+249|462|21|2024-01-22|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-01-29|7|503.29|Yes|0|171|Component Replacement
+250|214|799|2023-07-24|System Failure|System Failure requiring service under warranty period.|2023-07-25|1|84.02|Yes|0|85|None
+251|770|118|2025-03-18|User Error|User Error requiring service under warranty period.|2025-03-22|4|40.24|Yes|0|145|Firmware Patch
+252|400|246|2024-09-28|User Error|User Error requiring service under warranty period.|2024-10-06|8|300.26|Yes|0|105|Client Training
+253|700|595|2023-05-12|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-05-14|2|453.36|Yes|0|98|Firmware Patch
+254|921|678|2023-11-24|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-12-08|14|98.38|Yes|0|84|System Reconfiguration
+255|1161|723|2025-02-11|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-02-15|4|2145.0|Yes|0|49|Software Update
+256|917|792|2024-10-26|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-11-07|12|678.54|Yes|0|26|Client Training
+257|50|547|2024-04-20|Software Bug|Software Bug requiring service under warranty period.|2024-05-05|15|446.98|Yes|0|192|Software Update
+258|871|593|2024-04-11|User Error|User Error requiring service under warranty period.|2024-04-17|6|24.57|Yes|0|50|Client Training
+259|1195|472|2024-08-12|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-08-20|8|132.85|Yes|0|183|None
+260|287|738|2023-11-07|Network Problem|Network Problem requiring service under warranty period.|2023-11-10|3|152.31|Yes|0|74|None
+261|418|700|2024-06-13|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-06-24|11|61.62|Yes|0|93|Firmware Patch
+262|713|509|2025-02-03|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-02-09|6|484.06|Yes|0|187|Firmware Patch
+263|26|343|2024-12-23|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-28|5|1584.79|Yes|0|160|Software Update
+265|77|150|2024-11-01|User Error|User Error requiring service under warranty period.|2024-11-12|11|399.24|Yes|0|186|Client Training
+267|908|223|2023-05-02|Network Problem|Network Problem requiring service under warranty period.|2023-05-05|3|365.67|Yes|0|178|System Reconfiguration
+268|1198|441|2023-03-02|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-03-07|5|102.81|Yes|0|24|System Reconfiguration
+269|97|197|2024-11-25|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-11-30|5|771.62|Yes|0|160|Firmware Patch
+270|620|697|2024-10-09|User Error|User Error requiring service under warranty period.|2024-10-21|12|66.44|Yes|0|154|None
+271|966|745|2024-08-28|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-09-07|10|275.51|Yes|0|96|Component Replacement
+273|172|5|2023-02-28|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-03-05|5|69.71|Yes|0|2|Firmware Patch
+274|827|473|2022-08-05|User Error|User Error requiring service under warranty period.|2022-08-17|12|158.15|No|158.15|14|Firmware Patch
+275|154|454|2024-11-23|System Failure|System Failure requiring service under warranty period.|2024-11-26|3|854.75|No|854.75|113|Firmware Patch
+276|860|303|2025-02-03|System Failure|System Failure requiring service under warranty period.|2025-02-14|11|758.6|Yes|0|114|Component Replacement
+277|1197|161|2024-09-28|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-10-04|6|1565.89|Yes|0|103|Software Update
+279|216|476|2024-09-08|Software Bug|Software Bug requiring service under warranty period.|2024-09-13|5|315.95|No|315.95|34|None
+280|1182|424|2024-07-20|Software Bug|Software Bug requiring service under warranty period.|2024-07-29|9|305.17|Yes|0|90|Component Replacement
+281|817|477|2024-10-19|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-10-28|9|382.04|Yes|0|178|None
+282|955|85|2023-10-23|Network Problem|Network Problem requiring service under warranty period.|2023-10-28|5|132.93|Yes|0|187|Component Replacement
+283|750|140|2024-08-07|User Error|User Error requiring service under warranty period.|2024-08-12|5|30.62|Yes|0|160|None
+284|913|380|2024-05-09|User Error|User Error requiring service under warranty period.|2024-05-18|9|516.08|Yes|0|165|Firmware Patch
+285|508|399|2022-08-25|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-08-28|3|307.43|Yes|0|49|Component Replacement
+288|842|139|2022-08-27|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-09-07|11|547.89|Yes|0|25|Client Training
+289|86|157|2024-03-28|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-04-09|12|34.79|Yes|0|192|System Reconfiguration
+290|1006|205|2023-12-02|User Error|User Error requiring service under warranty period.|2023-12-14|12|436.22|Yes|0|73|System Reconfiguration
+291|759|454|2022-09-05|User Error|User Error requiring service under warranty period.|2022-09-19|14|511.63|Yes|0|49|Client Training
+292|132|473|2022-04-23|Integration Glitch|Integration Glitch requiring service under warranty period.|2022-04-27|4|428.92|Yes|0|154|Client Training
+293|425|116|2024-09-14|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-09-19|5|11.59|Yes|0|70|Client Training
+294|678|281|2024-03-18|System Failure|System Failure requiring service under warranty period.|2024-03-22|4|2380.27|Yes|0|156|Client Training
+295|855|641|2024-03-21|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-03-25|4|222.87|Yes|0|92|Client Training
+296|418|700|2024-08-14|Network Problem|Network Problem requiring service under warranty period.|2024-08-29|15|50.16|Yes|0|155|Software Update
+297|139|307|2024-01-13|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-01-21|8|317.97|Yes|0|98|Firmware Patch
+298|535|763|2023-02-22|Network Problem|Network Problem requiring service under warranty period.|2023-03-08|14|194.75|Yes|0|155|System Reconfiguration
+299|903|695|2024-06-23|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-06-29|6|1496.45|Yes|0|155|Component Replacement
+300|1053|738|2024-07-19|Network Problem|Network Problem requiring service under warranty period.|2024-07-21|2|172.27|Yes|0|1|Firmware Patch
+301|237|609|2023-09-13|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-09-16|3|1319.27|Yes|0|103|Component Replacement
+302|311|164|2025-01-17|System Failure|System Failure requiring service under warranty period.|2025-01-30|13|2596.61|Yes|0|199|Software Update
+303|896|190|2023-04-11|Software Bug|Software Bug requiring service under warranty period.|2023-04-22|11|395.91|Yes|0|26|Client Training
+304|919|96|2023-01-22|System Failure|System Failure requiring service under warranty period.|2023-02-01|10|799.82|Yes|0|39|None
+305|372|106|2024-12-18|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-12-31|13|239.41|Yes|0|155|System Reconfiguration
+306|313|15|2024-09-27|Network Problem|Network Problem requiring service under warranty period.|2024-10-03|6|136.97|Yes|0|30|Client Training
+307|353|252|2025-03-19|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-03-31|12|510.78|Yes|0|120|Firmware Patch
+308|844|76|2023-02-14|Network Problem|Network Problem requiring service under warranty period.|2023-02-25|11|345.22|No|345.22|194|Client Training
+309|355|47|2024-03-25|User Error|User Error requiring service under warranty period.|2024-03-28|3|545.54|Yes|0|81|None
+310|1182|424|2024-01-30|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-02-04|5|334.06|Yes|0|186|None
+311|25|6|2025-02-08|Network Problem|Network Problem requiring service under warranty period.|2025-02-19|11|343.91|Yes|0|4|Firmware Patch
+312|349|295|2024-11-30|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-12-10|10|4.89|Yes|0|114|Client Training
+313|416|226|2024-02-18|System Failure|System Failure requiring service under warranty period.|2024-03-02|13|1594.55|Yes|0|91|System Reconfiguration
+314|1086|10|2023-04-21|Software Bug|Software Bug requiring service under warranty period.|2023-04-24|3|158.49|Yes|0|98|Component Replacement
+315|288|103|2025-01-29|System Failure|System Failure requiring service under warranty period.|2025-02-10|12|529.74|Yes|0|59|Firmware Patch
+316|276|644|2024-04-05|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-04-14|9|128.85|Yes|0|111|Firmware Patch
+317|64|179|2025-03-20|User Error|User Error requiring service under warranty period.|2025-03-28|8|47.43|Yes|0|85|Firmware Patch
+318|292|406|2023-01-11|User Error|User Error requiring service under warranty period.|2023-01-25|14|473.31|Yes|0|23|Client Training
+319|1051|126|2025-02-25|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-03-03|6|273.24|Yes|0|53|None
+321|1106|298|2023-06-01|Network Problem|Network Problem requiring service under warranty period.|2023-06-02|1|145.08|Yes|0|50|System Reconfiguration
+322|351|247|2023-10-27|Software Bug|Software Bug requiring service under warranty period.|2023-11-07|11|69.91|Yes|0|91|System Reconfiguration
+323|313|15|2024-10-11|System Failure|System Failure requiring service under warranty period.|2024-10-22|11|67.01|Yes|0|38|Component Replacement
+325|801|700|2024-06-18|Software Bug|Software Bug requiring service under warranty period.|2024-07-02|14|491.6|Yes|0|5|Firmware Patch
+326|841|658|2024-02-08|User Error|User Error requiring service under warranty period.|2024-02-22|14|108.06|Yes|0|182|Component Replacement
+327|675|351|2024-05-21|System Failure|System Failure requiring service under warranty period.|2024-06-03|13|1596.71|Yes|0|8|Component Replacement
+328|11|361|2024-06-18|Network Problem|Network Problem requiring service under warranty period.|2024-06-19|1|479.41|Yes|0|113|Component Replacement
+329|951|550|2023-08-13|Software Bug|Software Bug requiring service under warranty period.|2023-08-20|7|380.39|Yes|0|92|Firmware Patch
+332|586|23|2025-03-31|System Failure|System Failure requiring service under warranty period.|2025-04-09|11|1166.22|Yes|0|72|Client Training
+333|565|396|2022-08-20|Software Bug|Software Bug requiring service under warranty period.|2022-08-24|4|549.71|Yes|0|1|Firmware Patch
+334|1045|709|2024-09-10|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-09-13|3|310.48|Yes|0|4|Client Training
+335|420|124|2023-06-15|System Failure|System Failure requiring service under warranty period.|2023-06-22|7|2134.27|Yes|0|73|Software Update
+337|611|553|2024-04-28|Software Bug|Software Bug requiring service under warranty period.|2024-05-04|6|313.7|Yes|0|76|Component Replacement
+338|516|492|2025-02-08|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-02-20|12|1987.61|Yes|0|138|System Reconfiguration
+339|567|288|2025-04-05|User Error|User Error requiring service under warranty period.|2025-04-09|13|454.11|Yes|0|36|Software Update
+340|472|619|2024-07-14|User Error|User Error requiring service under warranty period.|2024-07-29|15|47.29|Yes|0|40|Client Training
+341|917|792|2024-04-11|User Error|User Error requiring service under warranty period.|2024-04-17|6|417.6|Yes|0|43|Firmware Patch
+342|1011|545|2024-10-14|Software Bug|Software Bug requiring service under warranty period.|2024-10-23|9|168.06|Yes|0|71|System Reconfiguration
+343|1020|2|2023-04-22|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-04-27|5|333.03|Yes|0|66|System Reconfiguration
+344|673|498|2025-03-29|System Failure|System Failure requiring service under warranty period.|2025-04-08|10|652.35|Yes|0|7|None
+345|572|329|2025-01-21|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-01-23|2|332.26|Yes|0|143|Software Update
+346|353|252|2023-09-13|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-09-25|12|683.6|Yes|0|120|None
+347|92|348|2023-05-24|User Error|User Error requiring service under warranty period.|2023-06-05|12|212.63|Yes|0|168|Component Replacement
+348|509|768|2023-04-10|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-04-12|2|735.79|Yes|0|135|Component Replacement
+349|784|612|2025-03-28|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-08|11|362.93|Yes|0|113|Component Replacement
+351|525|18|2024-11-26|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-12-04|8|279.19|Yes|0|76|Software Update
+352|92|348|2023-11-23|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2023-11-24|1|1962.13|Yes|0|120|System Reconfiguration
+353|925|454|2024-02-07|System Failure|System Failure requiring service under warranty period.|2024-02-12|5|466.43|Yes|0|30|Component Replacement
+354|771|69|2023-11-14|System Failure|System Failure requiring service under warranty period.|2023-11-18|4|216.71|Yes|0|107|Client Training
+355|189|601|2023-10-08|Network Problem|Network Problem requiring service under warranty period.|2023-10-23|15|195.13|Yes|0|173|System Reconfiguration
+356|446|246|2024-01-18|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-01-19|1|2325.22|Yes|0|74|Client Training
+358|1084|596|2022-09-08|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2022-09-13|5|922.36|Yes|0|186|Client Training
+359|638|706|2024-12-27|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-01-05|9|50.42|Yes|0|14|Client Training
+360|345|450|2023-08-29|Software Bug|Software Bug requiring service under warranty period.|2023-09-12|14|408.66|No|408.66|107|System Reconfiguration
+361|705|121|2024-06-13|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-06-17|4|2620.05|Yes|0|24|None
+362|127|315|2025-03-20|Software Bug|Software Bug requiring service under warranty period.|2025-04-02|13|290.46|Yes|0|155|Software Update
+363|99|239|2024-05-05|Configuration Issue|Configuration Issue requiring service under warranty period.|2024-05-20|15|349.66|Yes|0|14|Client Training
+364|759|454|2023-09-22|Software Bug|Software Bug requiring service under warranty period.|2023-10-02|10|97.27|Yes|0|134|Firmware Patch
+365|542|310|2025-01-11|Network Problem|Network Problem requiring service under warranty period.|2025-01-18|7|45.17|Yes|0|80|Software Update
+366|759|454|2023-02-04|Network Problem|Network Problem requiring service under warranty period.|2023-02-10|6|435.37|Yes|0|96|Firmware Patch
+367|355|47|2024-07-17|Software Bug|Software Bug requiring service under warranty period.|2024-07-29|12|526.67|Yes|0|65|Component Replacement
+368|799|134|2023-09-30|Network Problem|Network Problem requiring service under warranty period.|2023-10-07|7|147.44|Yes|0|166|Software Update
+369|682|49|2022-12-18|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-12-25|7|543.48|Yes|0|181|None
+370|580|760|2024-02-05|System Failure|System Failure requiring service under warranty period.|2024-02-16|11|138.18|Yes|0|38|System Reconfiguration
+371|508|399|2023-03-17|User Error|User Error requiring service under warranty period.|2023-03-26|9|145.56|Yes|0|78|Firmware Patch
+372|1060|213|2023-12-29|System Failure|System Failure requiring service under warranty period.|2024-01-05|7|1243.22|Yes|0|46|Firmware Patch
+373|152|328|2025-04-08|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-09|1|14.32|Yes|0|157|None
+375|1195|472|2024-10-02|User Error|User Error requiring service under warranty period.|2024-10-07|5|150.23|Yes|0|97|Client Training
+376|1018|725|2024-02-07|Integration Glitch|Integration Glitch requiring service under warranty period.|2024-02-09|2|324.9|Yes|0|103|None
+377|272|336|2025-02-28|Integration Glitch|Integration Glitch requiring service under warranty period.|2025-03-12|12|81.21|Yes|0|165|Client Training
+378|452|4|2022-12-14|User Error|User Error requiring service under warranty period.|2022-12-20|6|493.18|Yes|0|115|Software Update
+379|573|296|2025-03-26|User Error|User Error requiring service under warranty period.|2025-04-01|6|414.71|Yes|0|17|Software Update
+380|402|409|2023-05-09|System Failure|System Failure requiring service under warranty period.|2023-05-24|15|1485.24|No|1485.24|42|None
+381|582|126|2025-02-09|System Failure|System Failure requiring service under warranty period.|2025-02-12|3|1955.51|Yes|0|136|Software Update
+382|990|739|2021-08-23|Software Bug|Software Bug requiring service under warranty period.|2021-08-27|4|256.5|Yes|0|102|Component Replacement
+383|381|76|2023-01-27|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-02-05|9|85.32|Yes|0|27|System Reconfiguration
+384|992|40|2025-02-05|System Failure|System Failure requiring service under warranty period.|2025-02-17|12|80.17|Yes|0|1|Component Replacement
+385|510|440|2023-04-08|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-04-13|5|445.5|Yes|0|72|Client Training
+387|801|700|2023-12-08|Software Bug|Software Bug requiring service under warranty period.|2023-12-17|9|326.42|Yes|0|67|System Reconfiguration
+388|7|360|2025-04-01|Configuration Issue|Configuration Issue requiring service under warranty period.|2025-04-09|12|250.64|Yes|0|32|System Reconfiguration
+389|277|75|2024-07-14|Network Problem|Network Problem requiring service under warranty period.|2024-07-26|12|123.03|Yes|0|1|Software Update
+390|402|409|2023-02-02|Configuration Issue|Configuration Issue requiring service under warranty period.|2023-02-12|10|169.68|Yes|0|18|Firmware Patch
+391|1158|582|2025-03-01|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-03-15|14|680.81|Yes|0|181|Component Replacement
+392|1140|718|2022-12-04|Configuration Issue|Configuration Issue requiring service under warranty period.|2022-12-10|6|79.93|Yes|0|152|Component Replacement
+393|538|751|2023-09-12|Software Bug|Software Bug requiring service under warranty period.|2023-09-19|7|258.66|Yes|0|50|Component Replacement
+394|966|745|2023-12-12|Integration Glitch|Integration Glitch requiring service under warranty period.|2023-12-19|7|418.69|Yes|0|40|Component Replacement
+395|331|480|2024-12-30|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2025-01-13|14|1812.83|Yes|0|122|Component Replacement
+396|450|660|2022-09-09|System Failure|System Failure requiring service under warranty period.|2022-09-12|3|1024.76|Yes|0|94|System Reconfiguration
+397|287|738|2024-05-01|Equipment Malfunction|Equipment Malfunction requiring service under warranty period.|2024-05-13|12|2684.25|Yes|0|200|Client Training
+398|226|616|2022-11-15|Network Problem|Network Problem requiring service under warranty period.|2022-11-24|9|328.02|Yes|0|126|Firmware Patch
+399|70|187|2025-03-16|Software Bug|Software Bug requiring service under warranty period.|2025-03-31|15|373.01|Yes|0|38|Component Replacement
+400|960|512|2024-04-06|User Error|User Error requiring service under warranty period.|2024-04-14|8|483.74|Yes|0|120|None

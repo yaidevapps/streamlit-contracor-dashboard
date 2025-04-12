@@ -1,0 +1,579 @@
+ServiceID|CustomerID|ServiceType|RelatedProjectID|TechnicianID|DateStr|StartTime|EndTime|MaterialsCost|LaborHours|LaborCost|TotalCost|BilledAmount|SatisfactionScore|Priority|Resolution|ScheduledDate|ScheduledTime|ActualArrivalTime|ResponseTime|IssueCategory|FirstTimeFixStatus
+817|398|System Integration|None|163|2022-12-16|09:00|15:47|0.0|6.8|585.89|585.89|1147.76|5|Standard|Complete|2022-12-14|16:00|17:00 (Late)|N/A|Maintenance|Yes
+170|379|System Upgrade|370|42|2024-10-09|14:15|14:48|992.29|0.8|49.09|1041.3799999999999|2035.03|5|Standard|Complete|2024-10-06|12:00|12:30 (Late)|N/A|Maintenance|Yes
+948|210|Custom Installation|None|192|2024-08-23|13:00|14:42|873.38|1.7|116.01|989.39|1880.26|4|Standard|Complete|2024-08-22|15:00|15:15 (Late)|N/A|User Training|Yes
+117|579|Design Consultation|180|62|2024-06-14|14:00|18:42|0.0|4.7|344.32|344.32|575.53|3|Standard|Complete|2024-06-11|14:00|14:00 (Late)|N/A|Network|Yes
+1364|445|Remote Support|None|128|2022-02-24|10:45|15:42|0.0|5.7|346.79|346.79|581.25|5|Standard|Complete|2022-02-23|15:00|15:45 (Late)|N/A|Configuration|Yes
+1792|662|Custom Installation|None|36|2022-12-21|11:15|14:12|1579.58|3.2|317.34|1896.9199999999998|2786.14|4|Standard|Complete|2022-12-18|10:00|10:00 (Late)|N/A|Configuration|Yes
+1728|30|Troubleshooting|892|127|2024-10-30|08:00|14:54|472.51|6.9|561.38|1033.8899999999999|2081.78|3|Standard|Complete|2024-10-29|10:00|10:00 (Late)|N/A|Network|Yes
+1241|374|Premium Maintenance|None|29|2025-01-29|11:45|14:12|86.82|3.2|420.51|507.33|965.46|3|Standard|Complete|2025-01-27|10:00|10:30 (Late)|N/A|Hardware|Yes
+1015|107|Premium Maintenance|490|155|2024-02-02|13:15|20:17|0.76|7.3|717.74|718.5|1387.56|3|Standard|Complete|2024-01-31|13:00|13:15 (Late)|N/A|Maintenance|Yes
+79|603|System Upgrade|None|50|2024-03-25|11:45|12:30|1580.62|1.5|193.94|1774.56|3684.51|3|Standard|Complete|2024-03-22|09:00|09:15 (Late)|N/A|Hardware|Yes
+1282|170|System Integration|None|74|2023-10-03|14:00|16:23|0.0|2.4|131.26|131.26|275.14|3|Standard|Complete|2023-10-01|13:00|13:00 (Late)|N/A|User Training|Yes
+899|44|Troubleshooting|693|144|2025-02-26|11:45|11:42|1301.57|0.7|78.16|1379.73|1947.92|5|Standard|Complete|2025-02-23|14:00|14:15 (Late)|N/A|Integration|No
+688|174|System Integration|379|111|2024-12-27|14:15|14:54|0.0|0.9|60.98|60.98|133.21|5|Standard|Complete|2024-12-24|11:00|12:15 (Late)|N/A|Configuration|Yes
+1461|419|System Upgrade|717|96|2022-02-20|11:45|11:36|396.92|0.6|33.83|430.75|929.31|5|Standard|Followup Required|2022-02-19|09:00|09:15 (Late)|N/A|Software|Yes
+112|232|Premium Maintenance|1029|23|2024-09-14|12:15|13:11|69.94|1.2|77.17|147.11|262.68|5|Standard|Complete|2024-09-12|08:00|08:00 (Late)|N/A|Hardware|No
+1534|777|Troubleshooting|506|25|2025-04-08|16:45|18:00|1243.46|2.0|142.3|1385.76|2953.24|N/A|Standard|Complete|2025-04-08|13:00|13:15|1|Integration|Yes
+1967|336|Design Consultation|272|67|2024-05-20|16:00|17:18|0.0|1.3|106.24|106.24|177.43|3|Standard|Complete|2024-05-20|08:00|09:00 (Late)|N/A|Hardware|Yes
+890|9|Custom Installation|None|67|2021-12-13|15:45|16:36|1546.13|1.6|130.75|1676.88|3647.66|4|Standard|Complete|2021-12-13|12:00|12:45 (Late)|N/A|Software|Yes
+528|8|Remote Support|None|101|2024-08-28|15:45|16:30|0.0|1.5|164.3|164.3|270.47|4|Standard|Complete|2024-08-27|14:00|15:00 (Late)|N/A|Integration|Yes
+518|39|Remote Support|790|132|2025-02-28|16:00|18:12|0.0|2.2|169.03|169.03|335.75|3|Standard|Complete|2025-02-26|16:00|16:00 (Late)|N/A|User Training|Yes
+875|744|Custom Installation|None|5|2022-06-19|12:30|13:23|58.3|1.4|81.31|139.61|225.29|5|Standard|Complete|2022-06-18|13:00|13:30 (Late)|N/A|Integration|No
+1398|570|System Upgrade|None|10|2021-06-14|08:15|09:11|1251.02|1.2|96.82|1347.84|2950.94|3|Standard|Complete|2021-06-14|15:00|15:30 (Late)|N/A|Hardware|Yes
+1200|86|Custom Installation|None|1|2022-11-23|12:00|12:36|1109.6|0.6|62.42|1172.02|2373.29|4|Emergency|Complete|2022-11-22|10:00|10:30 (Late)|N/A|User Training|Yes
+1988|174|System Integration|379|120|2024-12-09|09:30|10:18|0.0|1.3|141.91|141.91|299.57|3|Standard|Complete|2024-12-07|16:00|17:15 (Late)|N/A|Integration|Yes
+855|768|Remote Support|579|183|2025-02-26|15:45|18:42|0.0|3.7|482.81|482.81|907.05|5|Priority|Complete|2025-02-23|08:00|09:45 (Late)|N/A|Integration|Yes
+18|482|Design Consultation|None|2|2021-10-31|13:00|20:54|0.0|7.9|454.17|454.17|826.05|4|Standard|Complete|2021-10-30|11:00|12:00 (Late)|N/A|Network|No
+63|592|System Upgrade|None|25|2024-04-07|08:45|08:48|793.64|0.8|56.92|850.56|1342.46|5|Standard|Complete|2024-04-07|16:00|16:00|1|User Training|Yes
+257|510|Troubleshooting|1093|148|2023-11-25|11:00|12:48|414.06|1.8|155.92|569.98|1133.31|5|Standard|Complete|2023-11-22|16:00|16:45 (Late)|N/A|Hardware|Yes
+786|669|System Upgrade|428|183|2024-10-01|15:45|16:00|29.83|1.0|130.49|160.32|227.7|3|Standard|Complete|2024-10-01|16:00|16:45 (Late)|N/A|Integration|Yes
+1421|254|System Integration|None|14|2023-07-09|15:00|18:06|0.0|3.1|392.43|392.43|573.4|5|Standard|Complete|2023-07-08|13:00|14:00 (Late)|N/A|User Training|Yes
+788|489|Remote Support|None|98|2021-08-16|16:45|23:18|0.0|9.3|721.96|721.96|1075.8|3|Standard|Complete|2021-08-16|13:00|14:15 (Late)|N/A|Network|Yes
+1363|713|System Upgrade|None|2|2024-02-04|10:15|14:30|1119.98|4.5|258.7|1378.68|2759.21|4|Standard|Complete|2024-02-02|12:00|13:15 (Late)|N/A|User Training|Yes
+267|787|Premium Maintenance|706|194|2024-08-10|15:45|17:00|4.65|2.0|133.18|137.83|237.63|5|Standard|Complete|2024-08-07|13:00|14:45 (Late)|N/A|Configuration|Yes
+1226|13|Remote Support|None|167|2021-03-15|15:00|20:42|0.0|5.7|492.94|492.94|793.98|5|Standard|Complete|2021-03-12|12:00|13:15 (Late)|N/A|Network|Yes
+110|680|System Integration|None|25|2023-03-16|08:45|15:47|0.0|7.8|554.97|554.97|827.49|5|Standard|Complete|2023-03-13|09:00|10:30 (Late)|N/A|Integration|Yes
+696|504|Remote Support|803|200|2024-07-07|15:00|18:42|0.0|3.7|308.62|308.62|563.48|4|Standard|Complete|2024-07-05|08:00|08:30 (Late)|N/A|Network|Yes
+762|521|System Upgrade|None|32|2021-05-18|12:45|12:42|211.47|0.7|61.73|273.2|470.06|4|Standard|Complete|2021-05-18|16:00|16:30 (Late)|N/A|Network|Yes
+345|269|Custom Installation|861|166|2022-01-30|10:15|19:41|660.15|9.7|738.65|1398.8|2092.06|4|Standard|Complete|2022-01-30|08:00|08:30 (Late)|N/A|User Training|Yes
+844|162|Design Consultation|None|49|2024-06-18|09:15|09:54|0.0|0.9|71.93|71.93|128.38|3|Standard|Complete|2024-06-16|15:00|16:00 (Late)|N/A|Network|Yes
+225|134|System Upgrade|None|50|2021-04-22|10:00|13:36|991.88|3.6|465.44|1457.32|2052.63|5|Standard|Complete|2021-04-22|08:00|08:45 (Late)|N/A|Network|Yes
+867|489|System Integration|457|175|2022-06-17|09:30|14:05|0.0|5.1|416.57|416.57|706.35|4|Standard|Complete|2022-06-15|16:00|17:45 (Late)|N/A|Network|Yes
+735|397|System Upgrade|None|27|2021-02-09|10:30|14:47|1379.21|4.8|467.62|1846.83|3129.04|5|Standard|Complete|2021-02-07|09:00|10:30 (Late)|N/A|Software|Yes
+645|775|System Upgrade|None|161|2021-09-10|11:15|12:30|1607.1|1.5|121.29|1728.3899999999999|3023.36|5|Standard|Complete|2021-09-09|10:00|10:45 (Late)|N/A|Network|Yes
+1666|447|Custom Installation|568|200|2024-01-17|16:30|16:42|1072.63|0.7|58.39|1131.0200000000002|1928.04|3|Standard|Complete|2024-01-15|11:00|11:30 (Late)|N/A|Integration|Yes
+1742|486|Remote Support|489|152|2022-08-08|15:30|20:12|0.0|5.2|412.98|412.98|785.8|3|Standard|Complete|2022-08-06|10:00|11:00 (Late)|N/A|User Training|Yes
+1702|696|System Upgrade|None|182|2022-11-28|14:30|18:00|714.67|4.0|214.76|929.43|1817.77|3|Standard|Complete|2022-11-26|13:00|14:45 (Late)|N/A|Hardware|Yes
+484|458|Custom Installation|None|167|2023-05-30|08:00|15:05|726.44|7.1|614.01|1340.45|2264.43|4|Standard|Complete|2023-05-29|15:00|15:30 (Late)|N/A|Configuration|Yes
+1338|338|System Upgrade|None|200|2023-02-09|16:15|23:05|909.46|7.1|592.21|1501.67|2303.97|4|Standard|Complete|2023-02-07|10:00|11:15 (Late)|N/A|User Training|Yes
+695|60|Troubleshooting|None|100|2021-10-07|12:30|16:00|532.57|4.0|361.64|894.21|1594.1|4|Standard|Complete|2021-10-06|16:00|16:30 (Late)|N/A|Configuration|No
+825|689|Design Consultation|248|42|2024-06-19|16:00|17:06|0.0|1.1|67.5|67.5|131.96|3|Standard|Complete|2024-06-16|13:00|14:00 (Late)|N/A|Integration|Yes
+194|138|Custom Installation|None|32|2021-02-06|16:00|22:17|1115.39|6.3|555.53|1670.92|2773.38|4|Standard|Complete|2021-02-04|10:00|10:15 (Late)|N/A|Network|Yes
+389|788|Remote Support|None|8|2024-11-30|08:00|13:35|0.0|5.6|464.91|464.91|707.26|5|Standard|Complete|2024-11-27|15:00|16:30 (Late)|N/A|User Training|Yes
+463|455|System Upgrade|None|118|2023-03-15|09:00|11:42|294.04|2.7|189.22|483.26|917.06|3|Standard|Complete|2023-03-15|14:00|14:00|1|Maintenance|Yes
+468|446|Remote Support|None|132|2022-01-25|16:15|16:36|0.0|0.6|46.1|46.1|67.51|4|Standard|Complete|2022-01-25|11:00|12:30 (Late)|N/A|Hardware|Yes
+1352|92|System Integration|6|127|2022-04-14|11:00|19:41|0.0|8.7|707.83|707.83|1125.31|3|Standard|Complete|2022-04-13|10:00|10:15 (Late)|N/A|Maintenance|Yes
+1333|508|System Integration|None|85|2022-03-12|08:15|10:23|0.0|2.4|157.03|157.03|322.4|5|Standard|Complete|2022-03-12|09:00|09:00|1|User Training|Yes
+879|278|Custom Installation|None|17|2024-01-17|08:30|10:00|1373.03|2.0|250.82|1623.85|2706.2|5|Standard|Complete|2024-01-14|11:00|12:00 (Late)|N/A|Network|Yes
+1627|331|Troubleshooting|1177|107|2025-04-01|14:30|14:42|618.43|0.7|74.52|692.9499999999999|1054.37|5|Standard|Complete|2025-04-01|10:00|11:15 (Late)|N/A|Configuration|No
+235|90|Troubleshooting|None|81|2023-08-02|15:45|17:23|1412.93|2.4|213.24|1626.17|3066.59|5|Standard|Followup Required|2023-07-30|15:00|15:15 (Late)|N/A|Software|Yes
+1993|375|System Upgrade|None|46|2024-05-22|13:00|16:42|909.9|3.7|265.88|1175.78|1806.03|5|Standard|Complete|2024-05-22|08:00|08:15|1|User Training|Yes
+151|9|System Integration|None|6|2023-12-04|10:45|10:30|0.0|0.5|29.93|29.93|53.4|5|Standard|Followup Required|2023-12-01|09:00|09:00 (Late)|N/A|Integration|Yes
+1411|59|Custom Installation|None|96|2021-08-27|16:00|18:06|121.7|2.1|118.4|240.10000000000002|344.0|5|Standard|Complete|2021-08-26|16:00|16:15 (Late)|N/A|Configuration|Yes
+1229|200|System Upgrade|None|145|2022-03-19|13:30|14:42|254.91|1.7|106.79|361.7|688.78|4|Standard|Complete|2022-03-17|10:00|11:00 (Late)|N/A|Hardware|Yes
+816|622|System Upgrade|None|37|2021-03-15|14:00|14:30|752.05|0.5|30.82|782.87|1308.54|4|Standard|Complete|2021-03-14|11:00|12:15 (Late)|N/A|Integration|Yes
+1851|539|System Upgrade|778|59|2024-12-23|08:30|20:24|986.85|12.4|1042.72|2029.5700000000002|3054.07|3|Standard|Complete|2024-12-22|14:00|15:00 (Late)|N/A|Integration|No
+1581|387|Custom Installation|None|41|2024-01-25|16:15|16:36|178.69|0.6|55.04|233.73|402.85|4|Standard|Complete|2024-01-24|11:00|12:30 (Late)|N/A|Integration|Yes
+70|262|Troubleshooting|None|98|2021-07-15|10:00|11:23|106.98|1.4|108.68|215.66000000000003|339.84|4|Standard|Complete|2021-07-13|11:00|11:45 (Late)|N/A|Integration|Yes
+1468|598|Remote Support|None|59|2021-01-16|16:30|18:42|0.0|2.7|227.04|227.04|475.85|5|Standard|Complete|2021-01-16|10:00|10:45 (Late)|N/A|Network|No
+1799|129|Remote Support|None|6|2024-10-31|09:45|10:18|0.0|1.3|77.83|77.83|131.35|4|Standard|Complete|2024-10-28|13:00|14:45 (Late)|N/A|User Training|Yes
+995|377|Premium Maintenance|54|104|2023-07-20|13:30|14:18|38.94|1.3|103.19|142.13|308.63|4|Standard|Complete|2023-07-17|16:00|17:30 (Late)|N/A|Hardware|Yes
+1704|619|Troubleshooting|410|27|2024-04-19|16:30|17:53|1291.52|1.9|185.1|1476.62|3125.36|4|Standard|Complete|2024-04-19|11:00|11:00|1|Software|Yes
+802|134|Premium Maintenance|597|148|2023-11-14|08:00|12:35|6.47|4.6|398.45|404.92|768.45|4|Standard|Complete|2023-11-11|08:00|09:30 (Late)|N/A|Software|Yes
+909|120|Troubleshooting|114|144|2024-08-13|13:45|14:23|1161.17|1.4|156.32|1317.49|2466.05|5|Standard|Complete|2024-08-10|10:00|10:30 (Late)|N/A|Configuration|Yes
+1997|375|Troubleshooting|None|90|2023-04-03|11:30|12:42|611.99|1.7|106.5|718.49|1411.38|4|Emergency|Complete|2023-04-01|11:00|11:45 (Late)|N/A|Maintenance|Yes
+1916|657|Design Consultation|207|5|2024-06-28|16:45|16:54|0.0|0.9|52.27|52.27|101.04|5|Emergency|Complete|2024-06-28|08:00|08:15|1|User Training|Yes
+571|198|Remote Support|395|168|2024-04-19|14:00|17:53|0.0|3.9|513.98|513.98|814.05|5|Standard|Complete|2024-04-18|13:00|13:15 (Late)|N/A|Maintenance|Yes
+1890|282|Troubleshooting|1023|30|2024-05-27|08:45|09:11|150.05|1.2|115.04|265.09000000000003|563.4|3|Standard|Complete|2024-05-27|10:00|10:00|1|Integration|Yes
+260|726|Design Consultation|None|34|2023-06-16|08:15|08:42|0.0|0.7|36.24|36.24|69.2|4|Standard|Followup Required|2023-06-15|11:00|11:45 (Late)|N/A|Hardware|Yes
+1494|81|System Upgrade|45|34|2025-03-22|11:00|12:36|775.65|1.6|82.83|858.48|1226.81|5|Standard|Followup Required|2025-03-22|11:00|11:45 (Late)|N/A|Configuration|No
+320|769|Design Consultation|653|40|2024-08-24|12:30|13:11|0.0|1.2|132.95|132.95|256.84|5|Standard|Followup Required|2024-08-21|13:00|14:30 (Late)|N/A|Configuration|No
+351|341|System Integration|907|71|2023-02-21|16:00|17:42|0.0|1.7|153.58|153.58|291.33|4|Standard|Complete|2023-02-21|12:00|13:45 (Late)|N/A|Network|Yes
+1763|435|Premium Maintenance|None|126|2021-10-13|11:30|12:23|48.14|1.4|113.79|161.93|239.1|5|Standard|Followup Required|2021-10-12|10:00|10:45 (Late)|N/A|Software|Yes
+1697|354|Custom Installation|None|84|2023-06-26|12:45|13:00|888.25|1.0|85.5|973.75|2017.33|5|Standard|Complete|2023-06-26|08:00|08:15|1|Maintenance|Yes
+1957|329|Premium Maintenance|307|160|2021-11-15|14:30|16:23|60.88|2.4|279.79|340.67|550.87|4|Standard|Complete|2021-11-12|14:00|14:00 (Late)|N/A|Software|Yes
+374|678|Design Consultation|1151|154|2023-04-23|11:30|13:06|0.0|2.1|166.51|166.51|305.77|4|Standard|Complete|2023-04-20|15:00|15:00 (Late)|N/A|Software|No
+1633|213|Design Consultation|None|90|2021-09-02|16:00|17:48|0.0|1.8|112.77|112.77|206.6|5|Standard|Complete|2021-08-30|15:00|15:45 (Late)|N/A|Configuration|Yes
+1991|243|Premium Maintenance|183|41|2025-02-14|12:15|13:42|27.89|1.7|155.96|183.85000000000002|322.56|4|Standard|Complete|2025-02-12|14:00|15:15 (Late)|N/A|Configuration|Yes
+2|656|System Upgrade|1111|157|2025-01-20|08:15|09:11|202.2|1.2|127.28|329.48|484.99|5|Standard|Complete|2025-01-20|14:00|14:00|1|Hardware|Yes
+21|365|Design Consultation|None|101|2021-09-29|14:15|18:54|0.0|4.9|536.7|536.7|930.6|5|Emergency|Complete|2021-09-29|12:00|12:30 (Late)|N/A|Software|Yes
+50|33|Design Consultation|536|60|2025-01-12|15:00|16:36|0.0|1.6|161.82|161.82|324.3|3|Standard|Complete|2025-01-09|09:00|10:15 (Late)|N/A|Integration|Yes
+1250|656|Design Consultation|1111|111|2025-01-21|11:15|14:36|0.0|3.6|243.94|243.94|416.71|3|Standard|Complete|2025-01-20|11:00|12:15 (Late)|N/A|Configuration|No
+1140|438|Design Consultation|None|1|2021-11-10|11:45|11:48|0.0|0.8|83.23|83.23|128.85|5|Standard|Followup Required|2021-11-07|09:00|10:30 (Late)|N/A|Maintenance|Yes
+1729|188|System Upgrade|419|46|2023-12-13|11:30|17:35|284.05|6.6|474.28|758.3299999999999|1162.89|3|Standard|Complete|2023-12-13|13:00|13:45 (Late)|N/A|Integration|Yes
+166|599|Troubleshooting|None|117|2025-01-23|10:00|11:00|434.1|1.0|98.47|532.57|768.9|4|Standard|Complete|2025-01-21|11:00|12:00 (Late)|N/A|Network|Yes
+1831|497|Custom Installation|1152|174|2024-05-17|12:45|13:53|873.03|1.9|244.59|1117.62|2438.64|3|Standard|Complete|2024-05-14|13:00|13:00 (Late)|N/A|Software|Yes
+1618|66|System Integration|695|174|2024-05-09|08:00|10:42|0.0|2.7|347.57|347.57|631.89|5|Standard|Followup Required|2024-05-08|09:00|09:15 (Late)|N/A|Integration|Yes
+535|790|System Upgrade|None|89|2022-08-21|14:15|15:36|1615.65|1.6|151.28|1766.93|3120.51|5|Standard|Complete|2022-08-18|13:00|13:30 (Late)|N/A|User Training|Yes
+382|209|System Upgrade|956|100|2024-01-16|08:30|11:30|1312.05|3.5|316.44|1628.49|3305.43|3|Standard|Complete|2024-01-14|12:00|12:15 (Late)|N/A|Network|Yes
+1705|575|System Upgrade|None|135|2023-06-05|08:30|15:42|122.39|7.7|942.25|1064.64|1901.39|4|Standard|Complete|2023-06-03|11:00|11:00 (Late)|N/A|Integration|Yes
+1442|347|Premium Maintenance|904|84|2024-07-29|08:30|13:05|28.57|5.1|436.05|464.62|993.17|5|Standard|Complete|2024-07-29|12:00|12:00|1|Maintenance|Yes
+1055|647|Custom Installation|440|105|2025-04-07|15:45|16:06|199.78|1.1|108.42|308.2|573.39|N/A|Standard|Complete|2025-04-06|08:00|09:45 (Late)|N/A|Software|Yes
+1061|234|Design Consultation|241|88|2025-04-04|16:45|21:17|0.0|5.3|505.3|505.3|1018.08|N/A|Standard|Complete|2025-04-02|09:00|09:30 (Late)|N/A|Network|Yes
+745|86|Design Consultation|None|17|2023-12-23|15:15|16:18|0.0|1.3|163.03|163.03|245.95|5|Standard|Complete|2023-12-22|16:00|17:15 (Late)|N/A|Software|Yes
+555|409|Custom Installation|None|88|2022-04-10|11:15|12:18|493.49|1.3|123.94|617.4300000000001|1263.51|4|Standard|Followup Required|2022-04-09|16:00|16:15 (Late)|N/A|Configuration|Yes
+472|91|Remote Support|None|43|2022-06-08|14:00|15:06|0.0|1.1|79.76|79.76|118.95|5|Standard|Complete|2022-06-06|10:00|11:30 (Late)|N/A|Configuration|Yes
+1640|295|Troubleshooting|349|176|2025-01-30|11:15|12:48|409.81|1.8|200.54|610.35|1115.87|5|Standard|Complete|2025-01-27|11:00|11:00 (Late)|N/A|Network|Yes
+603|130|System Integration|143|161|2024-11-25|08:30|11:47|0.0|3.8|307.27|307.27|648.35|4|Standard|Complete|2024-11-22|12:00|13:00 (Late)|N/A|User Training|Yes
+1855|712|System Upgrade|677|93|2024-06-11|12:45|13:11|976.28|1.2|105.14|1081.42|2190.22|4|Standard|Complete|2024-06-09|12:00|13:15 (Late)|N/A|Configuration|Yes
+428|312|System Upgrade|None|36|2023-11-11|10:00|10:54|1341.66|0.9|89.25|1430.91|3116.48|3|Standard|Complete|2023-11-08|15:00|15:15 (Late)|N/A|Network|No
+713|47|Design Consultation|355|70|2024-11-03|11:15|15:54|0.0|4.9|512.44|512.44|923.19|4|Standard|Followup Required|2024-11-01|16:00|16:00 (Late)|N/A|Maintenance|Yes
+1876|721|System Upgrade|None|183|2022-02-15|10:30|10:36|1641.27|0.6|78.29|1719.56|2924.19|4|Standard|Complete|2022-02-14|14:00|14:15 (Late)|N/A|User Training|Yes
+534|564|System Integration|None|186|2022-08-29|08:00|12:05|0.0|4.1|502.25|502.25|795.42|4|Standard|Complete|2022-08-27|16:00|17:00 (Late)|N/A|Configuration|Yes
+562|6|Troubleshooting|None|120|2025-03-31|11:30|14:42|273.55|3.7|403.89|677.44|1012.24|5|Standard|Followup Required|2025-03-30|14:00|14:45 (Late)|N/A|Hardware|Yes
+1785|177|Troubleshooting|807|186|2025-01-10|12:30|20:00|401.07|8.0|980.0|1381.07|2620.35|4|Standard|Complete|2025-01-09|15:00|16:15 (Late)|N/A|Hardware|Yes
+474|590|Remote Support|None|45|2022-07-14|08:15|09:00|0.0|1.0|71.54|71.54|142.3|3|Standard|Followup Required|2022-07-13|12:00|12:15 (Late)|N/A|Configuration|No
+460|225|System Upgrade|None|18|2023-08-07|10:30|17:30|1217.96|7.5|698.33|1916.29|4166.26|5|Standard|Complete|2023-08-04|10:00|10:45 (Late)|N/A|Maintenance|Yes
+601|299|Remote Support|None|48|2023-06-13|12:45|15:42|0.0|3.7|212.71|212.71|394.77|4|Standard|Complete|2023-06-12|13:00|14:15 (Late)|N/A|Software|Yes
+1124|210|Design Consultation|None|23|2022-07-18|14:30|16:36|0.0|2.6|167.21|167.21|284.64|3|Standard|Complete|2022-07-15|16:00|16:30 (Late)|N/A|Maintenance|Yes
+365|517|System Integration|None|49|2024-02-05|13:15|15:36|0.0|2.6|207.79|207.79|373.24|3|Standard|Complete|2024-02-05|16:00|17:45 (Late)|N/A|Hardware|Yes
+1980|214|Remote Support|None|153|2023-01-21|13:30|14:00|0.0|1.0|106.31|106.31|233.48|4|Standard|Complete|2023-01-21|11:00|12:30 (Late)|N/A|Integration|No
+777|130|Troubleshooting|None|170|2024-03-16|16:45|17:36|624.86|1.6|122.59|747.45|1317.86|3|Standard|Complete|2024-03-15|16:00|17:30 (Late)|N/A|Software|Yes
+1929|657|Custom Installation|207|102|2023-09-29|13:00|19:35|1532.48|6.6|433.49|1965.97|2929.69|4|Standard|Complete|2023-09-27|16:00|17:00 (Late)|N/A|Network|Yes
+1621|259|Premium Maintenance|577|170|2022-08-23|15:15|22:12|29.81|7.2|551.66|581.4699999999999|1140.31|4|Standard|Complete|2022-08-21|16:00|17:45 (Late)|N/A|User Training|Yes
+1386|61|Custom Installation|845|47|2023-10-23|12:30|19:54|860.96|7.9|414.59|1275.55|2129.2|4|Standard|Followup Required|2023-10-23|12:00|13:45 (Late)|N/A|Integration|Yes
+1661|378|Troubleshooting|None|94|2022-03-11|16:15|17:23|641.43|1.4|113.43|754.8599999999999|1151.4|5|Standard|Complete|2022-03-09|12:00|12:30 (Late)|N/A|Configuration|Yes
+977|26|Troubleshooting|533|103|2024-11-29|16:45|23:12|1474.84|7.2|929.09|2403.93|4047.15|3|Standard|Complete|2024-11-28|14:00|15:00 (Late)|N/A|Hardware|Yes
+1822|761|System Upgrade|787|126|2024-08-19|13:30|17:24|42.43|4.4|357.63|400.06|761.57|4|Standard|Complete|2024-08-19|13:00|13:45 (Late)|N/A|Integration|Yes
+1324|694|Custom Installation|None|200|2024-01-29|11:45|15:24|838.3|4.4|367.0|1205.3|1865.87|3|Standard|Complete|2024-01-26|16:00|17:30 (Late)|N/A|Software|Yes
+1965|596|Premium Maintenance|None|65|2021-08-12|12:45|12:42|106.91|0.7|48.73|155.64|310.02|4|Standard|Complete|2021-08-12|15:00|15:45 (Late)|N/A|Network|Yes
+71|768|Premium Maintenance|33|98|2022-08-13|13:00|14:06|81.11|1.1|85.39|166.5|262.92|3|Standard|Complete|2022-08-11|09:00|10:00 (Late)|N/A|Software|Yes
+1541|351|Remote Support|675|187|2024-07-24|16:00|17:30|0.0|1.5|111.72|111.72|237.19|3|Standard|Complete|2024-07-23|10:00|10:45 (Late)|N/A|Integration|Yes
+495|78|Premium Maintenance|1123|39|2024-02-14|08:00|09:06|70.55|1.1|63.6|134.15|249.51|5|Standard|Complete|2024-02-13|08:00|09:15 (Late)|N/A|Hardware|Yes
+691|666|Design Consultation|None|45|2023-11-29|11:45|12:23|0.0|1.4|100.16|100.16|188.7|4|Standard|Complete|2023-11-26|12:00|13:45 (Late)|N/A|Maintenance|Yes
+1667|633|Troubleshooting|None|41|2023-11-11|16:15|16:36|515.08|0.6|55.04|570.12|823.34|4|Standard|Complete|2023-11-10|13:00|13:30 (Late)|N/A|Hardware|No
+871|219|Premium Maintenance|None|182|2022-04-29|14:30|15:42|42.46|1.7|91.27|133.73|214.55|4|Standard|Complete|2022-04-27|11:00|11:45 (Late)|N/A|Integration|Yes
+1142|262|System Upgrade|None|182|2021-03-24|09:00|11:53|849.83|2.9|155.7|1005.53|1957.79|4|Standard|Complete|2021-03-22|08:00|09:30 (Late)|N/A|User Training|No
+1156|198|System Integration|None|170|2021-05-25|10:15|11:30|0.0|1.5|114.93|114.93|200.2|5|Standard|Complete|2021-05-24|08:00|09:30 (Late)|N/A|Configuration|Yes
+631|495|System Integration|None|194|2021-11-10|09:30|15:30|0.0|6.5|432.84|432.84|801.12|5|Standard|Complete|2021-11-10|16:00|17:30 (Late)|N/A|User Training|No
+168|593|Design Consultation|871|30|2023-04-23|09:00|12:17|0.0|3.3|316.37|316.37|590.06|5|Standard|Complete|2023-04-21|10:00|11:30 (Late)|N/A|Network|Yes
+189|470|Troubleshooting|23|90|2022-01-10|11:00|12:36|981.3|1.6|100.24|1081.54|2127.75|4|Standard|Complete|2022-01-08|14:00|15:00 (Late)|N/A|Hardware|Yes
+897|378|Troubleshooting|None|29|2021-02-13|16:30|18:42|1520.81|2.7|354.81|1875.62|3526.07|5|Standard|Complete|2021-02-10|14:00|15:45 (Late)|N/A|Integration|Yes
+1350|224|System Upgrade|1154|144|2021-09-16|13:00|14:23|1502.37|1.4|156.32|1658.6899999999998|2753.43|4|Standard|Complete|2021-09-13|10:00|11:30 (Late)|N/A|Integration|Yes
+863|31|System Integration|161|80|2024-05-26|08:00|09:00|0.0|1.0|67.8|67.8|146.33|4|Standard|Complete|2024-05-25|10:00|11:30 (Late)|N/A|Maintenance|Yes
+1897|571|Remote Support|None|134|2021-02-16|14:00|15:23|0.0|1.4|101.92|101.92|201.97|5|Standard|Complete|2021-02-15|11:00|12:45 (Late)|N/A|Software|No
+1959|64|Design Consultation|None|107|2024-07-10|14:30|19:54|0.0|5.9|628.11|628.11|1098.56|5|Standard|Complete|2024-07-10|16:00|17:15 (Late)|N/A|Maintenance|Yes
+485|299|System Upgrade|1129|197|2024-11-27|15:30|18:00|1074.13|3.0|323.85|1397.98|2290.4|4|Standard|Complete|2024-11-26|16:00|16:45 (Late)|N/A|Integration|Yes
+1035|328|Troubleshooting|None|180|2024-05-25|08:00|10:47|1154.67|2.8|272.44|1427.1100000000001|2983.05|5|Standard|Complete|2024-05-25|14:00|14:15|1|Hardware|Yes
+1429|292|Remote Support|1085|143|2025-04-04|09:00|11:23|0.0|2.4|270.24|270.24|483.16|N/A|Standard|Complete|2025-04-03|09:00|10:15 (Late)|N/A|Integration|Yes
+1339|734|System Integration|None|42|2021-12-28|14:00|14:36|0.0|0.6|36.82|36.82|58.01|3|Standard|Complete|2021-12-27|15:00|16:45 (Late)|N/A|Software|Yes
+983|459|System Integration|None|76|2023-08-12|11:15|12:18|0.0|1.3|64.99|64.99|105.6|5|Standard|Followup Required|2023-08-11|16:00|16:45 (Late)|N/A|Software|Yes
+895|511|Troubleshooting|None|41|2021-08-12|13:15|15:42|423.66|2.7|247.7|671.36|1217.52|5|Standard|Complete|2021-08-09|13:00|13:45 (Late)|N/A|Hardware|Yes
+157|606|System Upgrade|None|71|2024-07-23|14:30|15:11|1441.94|1.2|108.41|1550.3500000000001|2283.39|3|Standard|Complete|2024-07-22|14:00|14:45 (Late)|N/A|Configuration|Yes
+1536|437|Design Consultation|1083|29|2025-01-18|13:15|17:30|0.0|4.5|591.35|591.35|1235.6|4|Standard|Complete|2025-01-15|13:00|13:00 (Late)|N/A|Configuration|Yes
+1743|63|System Upgrade|511|173|2025-01-22|14:30|15:23|1406.84|1.4|84.42|1491.26|2628.01|4|Standard|Complete|2025-01-21|11:00|11:15 (Late)|N/A|Software|Yes
+1243|451|System Upgrade|811|111|2024-08-25|16:45|16:48|1474.26|0.8|54.21|1528.47|2852.95|5|Standard|Complete|2024-08-24|12:00|13:15 (Late)|N/A|Configuration|No
+66|377|Remote Support|54|100|2023-06-02|16:00|17:36|0.0|1.6|144.66|144.66|222.3|4|Standard|Complete|2023-05-30|15:00|15:15 (Late)|N/A|Integration|Yes
+1958|21|System Integration|846|105|2024-05-17|15:30|16:30|0.0|1.5|147.84|147.84|288.41|4|Standard|Followup Required|2024-05-14|13:00|13:30 (Late)|N/A|User Training|Yes
+1063|208|Troubleshooting|None|148|2024-09-26|08:00|13:42|1148.14|5.7|493.73|1641.8700000000001|2563.18|4|Standard|Followup Required|2024-09-25|08:00|09:15 (Late)|N/A|Software|Yes
+1523|443|Custom Installation|None|59|2024-10-08|13:00|14:36|1301.29|1.6|134.54|1435.83|2991.6|3|Standard|Complete|2024-10-06|15:00|16:00 (Late)|N/A|Network|Yes
+1127|73|Remote Support|None|119|2022-05-06|09:15|10:00|0.0|1.0|69.06|69.06|98.62|3|Standard|Complete|2022-05-03|12:00|12:15 (Late)|N/A|Maintenance|Yes
+669|183|System Integration|None|100|2023-04-10|14:15|20:05|0.0|6.1|551.5|551.5|1074.24|3|Emergency|Complete|2023-04-07|16:00|16:30 (Late)|N/A|Configuration|Yes
+400|573|Troubleshooting|117|43|2023-07-06|08:00|15:35|1077.23|7.6|551.08|1628.31|2734.05|5|Standard|Complete|2023-07-05|08:00|08:00 (Late)|N/A|Network|Yes
+1397|169|Custom Installation|None|94|2021-01-08|10:45|12:00|1149.98|2.0|162.04|1312.02|2579.1|3|Emergency|Complete|2021-01-07|16:00|16:00 (Late)|N/A|Network|Yes
+1708|462|Remote Support|None|160|2022-12-01|14:00|15:11|0.0|1.2|139.9|139.9|236.06|3|Standard|Complete|2022-11-28|13:00|14:30 (Late)|N/A|Network|Yes
+1889|630|System Integration|None|36|2024-11-13|16:30|22:05|0.0|6.1|604.94|604.94|1136.4|5|Standard|Complete|2024-11-13|16:00|16:00|1|User Training|Yes
+1519|251|System Upgrade|None|50|2023-05-14|10:45|11:36|1222.38|1.6|206.86|1429.2400000000002|2603.89|5|Standard|Complete|2023-05-14|08:00|08:00|1|Software|Yes
+756|718|Design Consultation|1140|178|2024-07-14|15:15|23:41|0.0|12.7|997.58|997.58|1918.77|3|Standard|Followup Required|2024-07-12|12:00|13:00 (Late)|N/A|Hardware|No
+1354|471|System Integration|None|117|2022-01-06|15:30|21:00|0.0|6.0|590.82|590.82|1172.36|4|Standard|Complete|2022-01-03|13:00|14:45 (Late)|N/A|Maintenance|Yes
+265|685|System Integration|101|174|2025-02-05|13:30|14:23|0.0|1.4|180.22|180.22|323.93|3|Standard|Complete|2025-02-02|15:00|15:45 (Late)|N/A|Software|Yes
+1641|390|System Upgrade|1004|67|2021-11-18|15:00|22:54|663.2|7.9|645.59|1308.79|2599.45|3|Standard|Complete|2021-11-18|10:00|10:00|1|Hardware|Yes
+1495|529|Custom Installation|None|46|2023-07-14|14:15|15:48|355.6|1.8|129.35|484.95000000000005|987.93|4|Standard|Complete|2023-07-11|15:00|15:00 (Late)|N/A|Integration|No
+823|777|Custom Installation|None|101|2024-06-30|13:00|14:00|541.1|1.0|109.53|650.63|1115.91|4|Standard|Complete|2024-06-29|11:00|11:30 (Late)|N/A|User Training|Yes
+301|777|System Integration|506|135|2024-06-23|15:00|15:48|0.0|0.8|97.9|97.9|201.2|3|Standard|Complete|2024-06-20|14:00|15:30 (Late)|N/A|Software|Yes
+556|120|Troubleshooting|606|53|2022-08-17|11:15|12:23|1170.53|1.4|134.18|1304.71|2031.46|5|Standard|Complete|2022-08-17|14:00|14:45 (Late)|N/A|Integration|Yes
+1558|4|Troubleshooting|None|194|2025-01-25|15:15|16:36|80.0|1.6|106.54|186.54000000000002|306.89|4|Standard|Complete|2025-01-24|13:00|13:15 (Late)|N/A|Hardware|Yes
+1905|131|Troubleshooting|None|53|2023-02-18|13:30|20:17|1060.13|7.3|699.63|1759.7600000000002|2760.79|4|Standard|Complete|2023-02-15|13:00|13:00 (Late)|N/A|Hardware|Yes
+147|45|Design Consultation|None|93|2024-02-12|08:15|13:30|0.0|5.5|481.91|481.91|994.09|5|Standard|Followup Required|2024-02-10|15:00|15:15 (Late)|N/A|Integration|Yes
+423|585|Custom Installation|None|145|2021-03-18|11:30|12:23|1525.84|1.4|87.95|1613.79|3056.86|4|Standard|Complete|2021-03-18|08:00|08:00|1|Hardware|Yes
+111|244|Troubleshooting|None|178|2024-12-07|11:45|12:11|650.39|1.2|94.26|744.65|1141.62|3|Standard|Complete|2024-12-05|13:00|13:30 (Late)|N/A|Software|No
+1637|284|Remote Support|None|10|2023-07-16|15:30|17:42|0.0|2.7|217.84|217.84|343.78|4|Standard|Complete|2023-07-14|10:00|10:30 (Late)|N/A|Configuration|No
+1109|154|Design Consultation|None|199|2025-02-21|11:00|14:00|0.0|3.0|286.53|286.53|571.04|4|Standard|Complete|2025-02-18|12:00|12:30 (Late)|N/A|Maintenance|Yes
+1418|191|Custom Installation|None|10|2024-01-24|11:00|17:12|275.07|6.2|500.22|775.29|1289.62|5|Standard|Complete|2024-01-23|15:00|15:00 (Late)|N/A|User Training|Yes
+433|267|System Upgrade|1073|159|2024-09-10|14:30|16:47|1213.44|2.8|243.01|1456.45|2894.78|4|Standard|Complete|2024-09-09|12:00|12:45 (Late)|N/A|Software|Yes
+553|704|System Upgrade|None|148|2021-06-08|12:00|14:06|1063.18|2.1|181.9|1245.0800000000002|1786.47|4|Standard|Complete|2021-06-08|16:00|16:45 (Late)|N/A|Network|Yes
+1334|795|Remote Support|None|29|2025-01-04|14:45|15:42|0.0|1.7|223.4|223.4|377.92|4|Standard|Followup Required|2025-01-04|08:00|08:45 (Late)|N/A|Network|Yes
+325|386|Design Consultation|527|104|2025-02-10|16:45|17:48|0.0|1.8|142.88|142.88|201.34|5|Standard|Complete|2025-02-09|11:00|12:45 (Late)|N/A|Network|Yes
+626|261|Custom Installation|None|81|2024-02-29|10:15|12:36|94.28|2.6|231.01|325.28999999999996|677.24|3|Standard|Complete|2024-02-29|12:00|13:00 (Late)|N/A|User Training|No
+291|784|Remote Support|None|152|2022-10-12|10:45|13:36|0.0|3.6|285.91|285.91|609.51|5|Standard|Followup Required|2022-10-11|16:00|17:00 (Late)|N/A|Network|No
+1237|680|Remote Support|None|39|2022-03-20|15:15|19:47|0.0|4.8|277.54|277.54|459.88|5|Priority|Complete|2022-03-18|10:00|11:00 (Late)|N/A|Software|Yes
+1191|413|System Upgrade|None|143|2024-11-06|15:45|15:42|1460.8|0.7|78.82|1539.62|3308.78|3|Standard|Complete|2024-11-03|16:00|17:00 (Late)|N/A|Software|Yes
+1953|537|Troubleshooting|None|103|2024-01-11|14:15|14:48|413.24|0.8|103.23|516.47|872.03|3|Standard|Complete|2024-01-11|09:00|09:00|1|Integration|Yes
+751|347|Premium Maintenance|None|27|2023-06-19|10:30|17:30|75.61|7.5|730.65|806.26|1168.03|5|Standard|Complete|2023-06-18|10:00|11:15 (Late)|N/A|Network|Yes
+842|590|Custom Installation|625|59|2024-09-18|11:45|17:54|830.57|6.9|580.22|1410.79|2068.25|5|Standard|Complete|2024-09-17|16:00|16:45 (Late)|N/A|Software|Yes
+299|132|Troubleshooting|541|96|2024-11-07|09:30|10:42|1485.72|1.7|95.85|1581.57|2520.65|5|Standard|Complete|2024-11-04|14:00|15:15 (Late)|N/A|Integration|Yes
+1225|260|Remote Support|None|88|2022-01-19|16:45|20:35|0.0|4.6|438.56|438.56|639.56|3|Standard|Complete|2022-01-18|14:00|15:45 (Late)|N/A|Maintenance|Yes
+1146|636|Premium Maintenance|None|73|2023-06-10|11:00|13:00|26.71|2.0|165.12|191.83|292.58|4|Standard|Complete|2023-06-09|09:00|09:45 (Late)|N/A|Integration|Yes
+1201|444|Premium Maintenance|None|7|2024-06-12|10:00|10:36|11.34|0.6|54.29|65.63|99.36|4|Standard|Complete|2024-06-12|10:00|10:00|1|User Training|Yes
+1360|631|Remote Support|1078|14|2024-04-18|12:15|13:53|0.0|1.9|240.52|240.52|345.35|4|Standard|Complete|2024-04-15|15:00|16:30 (Late)|N/A|Integration|Yes
+549|271|Design Consultation|150|113|2023-01-18|08:00|13:12|0.0|5.2|426.5|426.5|884.73|3|Standard|Complete|2023-01-18|15:00|15:45 (Late)|N/A|Integration|Yes
+1087|770|Remote Support|None|187|2021-08-30|10:00|11:42|0.0|1.7|126.62|126.62|264.93|3|Standard|Complete|2021-08-30|09:00|09:15|1|Configuration|Yes
+1596|663|System Upgrade|None|22|2021-08-12|14:00|15:53|101.74|1.9|162.77|264.51|381.88|4|Standard|Complete|2021-08-12|15:00|16:15 (Late)|N/A|Hardware|Yes
+1783|438|Custom Installation|None|73|2022-11-19|10:15|11:18|798.57|1.3|107.33|905.9000000000001|1286.0|4|Standard|Complete|2022-11-17|14:00|15:15 (Late)|N/A|Software|Yes
+804|162|Troubleshooting|None|163|2024-08-14|09:30|13:05|1078.46|4.1|353.26|1431.72|2147.01|4|Standard|Complete|2024-08-12|09:00|10:30 (Late)|N/A|Software|Yes
+547|3|Custom Installation|447|40|2022-06-15|08:00|09:00|154.66|1.0|110.79|265.45|540.03|3|Standard|Complete|2022-06-13|12:00|12:00 (Late)|N/A|Maintenance|Yes
+292|452|Design Consultation|973|120|2022-03-25|11:15|13:00|0.0|2.0|218.32|218.32|371.08|3|Standard|Complete|2022-03-24|13:00|14:00 (Late)|N/A|User Training|Yes
+1504|572|Remote Support|None|80|2022-12-09|12:00|13:48|0.0|1.8|122.04|122.04|246.56|5|Standard|Complete|2022-12-08|09:00|09:00 (Late)|N/A|Network|Yes
+1399|233|Troubleshooting|495|87|2022-11-28|13:00|16:23|1552.06|3.4|319.77|1871.83|3032.56|4|Standard|Complete|2022-11-28|14:00|14:45 (Late)|N/A|Configuration|Yes
+1794|145|Premium Maintenance|1115|186|2024-12-03|16:00|16:42|102.44|0.7|85.75|188.19|361.72|5|Standard|Followup Required|2024-12-03|12:00|12:00|1|Network|No
+999|132|System Integration|697|80|2025-01-11|10:15|12:00|0.0|2.0|135.6|135.6|208.74|3|Standard|Complete|2025-01-11|11:00|12:45 (Late)|N/A|Maintenance|No
+188|681|Design Consultation|None|48|2023-04-30|13:30|14:42|0.0|1.7|97.73|97.73|205.88|5|Standard|Complete|2023-04-29|10:00|11:00 (Late)|N/A|Configuration|Yes
+234|767|Custom Installation|199|22|2024-04-26|08:30|11:47|839.28|3.8|325.55|1164.83|1985.18|3|Standard|Complete|2024-04-24|11:00|12:45 (Late)|N/A|Hardware|No
+53|591|Remote Support|250|197|2023-07-14|11:00|18:17|0.0|7.3|788.03|788.03|1176.13|4|Standard|Complete|2023-07-12|13:00|13:15 (Late)|N/A|Hardware|Yes
+694|579|Remote Support|None|117|2022-04-21|10:00|13:00|0.0|3.0|295.41|295.41|631.58|3|Standard|Complete|2022-04-20|08:00|08:00 (Late)|N/A|User Training|Yes
+639|154|Design Consultation|None|174|2021-08-30|10:00|10:36|0.0|0.6|77.24|77.24|157.05|3|Standard|Complete|2021-08-30|16:00|17:45 (Late)|N/A|User Training|Yes
+521|429|Premium Maintenance|409|60|2024-09-15|09:30|12:17|41.2|3.3|333.76|374.96|680.79|4|Standard|Complete|2024-09-14|11:00|11:30 (Late)|N/A|Software|Yes
+37|261|System Integration|None|186|2024-05-18|12:00|15:23|0.0|3.4|416.5|416.5|771.14|4|Standard|Complete|2024-05-18|10:00|11:45 (Late)|N/A|Software|Yes
+1955|167|System Upgrade|None|170|2024-11-22|08:00|13:24|717.71|5.4|413.75|1131.46|1757.52|4|Standard|Complete|2024-11-22|13:00|13:45 (Late)|N/A|Integration|Yes
+1215|472|System Upgrade|None|178|2024-03-21|12:00|13:23|1212.45|1.4|109.97|1322.42|1906.8|4|Standard|Complete|2024-03-18|12:00|12:15 (Late)|N/A|Configuration|Yes
+544|750|Premium Maintenance|None|49|2023-06-28|11:45|18:12|57.19|7.2|575.42|632.6099999999999|1303.72|5|Standard|Complete|2023-06-28|10:00|11:45 (Late)|N/A|Configuration|Yes
+1664|226|System Upgrade|None|100|2024-01-15|15:15|16:30|1551.09|1.5|135.62|1686.71|2950.76|4|Standard|Complete|2024-01-13|16:00|16:30 (Late)|N/A|Network|Yes
+884|626|Premium Maintenance|None|156|2024-07-08|12:00|18:12|12.49|6.2|493.09|505.58|830.79|4|Standard|Complete|2024-07-07|14:00|14:15 (Late)|N/A|Integration|Yes
+833|697|Custom Installation|1190|53|2023-12-25|09:45|09:36|392.85|0.6|57.5|450.35|642.07|3|Standard|Complete|2023-12-25|14:00|14:00|1|User Training|Yes
+821|145|System Upgrade|1115|88|2024-10-16|10:30|11:00|118.54|1.0|95.34|213.88|318.97|5|Standard|Complete|2024-10-13|11:00|12:30 (Late)|N/A|Integration|Yes
+1357|221|Design Consultation|None|67|2021-03-07|11:30|12:06|0.0|1.1|89.89|89.89|155.29|5|Standard|Complete|2021-03-05|09:00|10:15 (Late)|N/A|Configuration|Yes
+1999|539|Premium Maintenance|None|95|2024-02-14|13:00|19:00|48.93|6.0|532.2|581.13|983.97|4|Standard|Followup Required|2024-02-11|15:00|15:15 (Late)|N/A|Integration|Yes
+206|303|Custom Installation|554|93|2024-10-20|13:30|21:00|152.64|8.0|700.96|853.6|1641.88|3|Standard|Followup Required|2024-10-20|08:00|08:00|1|Hardware|Yes
+1058|166|Premium Maintenance|382|98|2024-09-17|11:15|18:00|57.29|7.0|543.41|600.6999999999999|1262.24|4|Standard|Complete|2024-09-14|14:00|15:00 (Late)|N/A|User Training|Yes
+1623|424|System Upgrade|794|6|2024-05-23|16:45|18:36|561.56|2.6|155.66|717.2199999999999|1128.4|4|Standard|Complete|2024-05-21|15:00|15:15 (Late)|N/A|User Training|No
+1321|324|System Integration|None|145|2024-11-07|11:00|14:47|0.0|3.8|238.72|238.72|504.67|3|Standard|Complete|2024-11-07|11:00|11:15|1|Integration|Yes
+838|486|System Upgrade|None|111|2022-05-10|16:00|18:23|650.69|2.4|162.62|813.3100000000001|1663.46|5|Standard|Complete|2022-05-09|11:00|12:30 (Late)|N/A|User Training|Yes
+308|570|Premium Maintenance|30|73|2023-12-25|10:45|10:36|81.56|0.6|49.54|131.1|229.06|4|Standard|Complete|2023-12-24|08:00|08:00 (Late)|N/A|Hardware|Yes
+1062|571|Troubleshooting|296|46|2023-03-13|13:45|14:23|848.68|1.4|100.6|949.28|1558.41|4|Standard|Complete|2023-03-12|13:00|14:15 (Late)|N/A|User Training|Yes
+1525|511|Custom Installation|268|100|2025-03-19|11:15|12:36|1053.16|1.6|144.66|1197.8200000000002|2390.83|5|Standard|Complete|2025-03-17|08:00|08:00 (Late)|N/A|Integration|Yes
+701|427|Design Consultation|None|24|2023-10-08|16:15|19:00|0.0|3.0|217.41|217.41|368.36|3|Standard|Complete|2023-10-06|16:00|16:45 (Late)|N/A|Network|Yes
+886|416|Premium Maintenance|None|99|2022-01-26|14:30|15:06|16.2|1.1|80.3|96.5|163.96|4|Standard|Complete|2022-01-26|16:00|17:30 (Late)|N/A|Network|No
+1048|419|Design Consultation|455|113|2024-07-17|09:45|13:47|0.0|4.8|393.7|393.7|803.86|4|Standard|Complete|2024-07-15|13:00|13:45 (Late)|N/A|Configuration|Yes
+449|647|Remote Support|440|176|2024-11-19|11:00|15:24|0.0|4.4|490.2|490.2|705.62|4|Standard|Followup Required|2024-11-16|12:00|13:00 (Late)|N/A|Maintenance|Yes
+429|497|Remote Support|1152|128|2023-07-16|10:15|11:06|0.0|1.1|66.92|66.92|115.93|4|Standard|Complete|2023-07-13|08:00|08:00 (Late)|N/A|Maintenance|Yes
+253|118|Premium Maintenance|770|119|2024-11-07|10:15|10:48|87.73|0.8|55.25|142.98000000000002|216.09|4|Standard|Complete|2024-11-04|13:00|14:45 (Late)|N/A|Maintenance|Yes
+1405|51|Design Consultation|927|128|2024-12-26|11:45|12:18|0.0|1.3|79.09|79.09|152.4|5|Standard|Complete|2024-12-26|11:00|11:45 (Late)|N/A|Integration|Yes
+687|688|Remote Support|None|153|2022-06-30|13:15|18:47|0.0|5.8|616.6|616.6|1340.26|5|Standard|Complete|2022-06-29|16:00|17:00 (Late)|N/A|Hardware|No
+912|369|Remote Support|1109|176|2023-09-05|12:30|16:47|0.0|4.8|534.77|534.77|1079.21|4|Standard|Complete|2023-09-03|14:00|14:45 (Late)|N/A|Integration|No
+1013|512|Custom Installation|960|37|2023-06-06|09:30|12:47|41.57|3.8|234.23|275.8|559.29|5|Standard|Complete|2023-06-03|16:00|17:15 (Late)|N/A|Network|Yes
+1713|594|System Upgrade|116|45|2025-02-06|09:30|15:35|1636.89|6.6|472.16|2109.05|3890.12|3|Standard|Complete|2025-02-04|09:00|09:45 (Late)|N/A|Network|Yes
+793|470|Design Consultation|None|137|2021-09-28|12:15|13:48|0.0|1.8|102.89|102.89|179.4|4|Standard|Complete|2021-09-25|08:00|09:15 (Late)|N/A|Software|Yes
+693|684|Remote Support|203|67|2024-08-23|13:00|13:42|0.0|0.7|57.2|57.2|107.52|5|Standard|Complete|2024-08-21|13:00|14:00 (Late)|N/A|Software|Yes
+630|579|Design Consultation|180|128|2024-03-08|16:00|23:54|0.0|7.9|480.64|480.64|1047.0|5|Standard|Complete|2024-03-07|08:00|09:30 (Late)|N/A|Network|No
+781|616|System Upgrade|226|144|2022-11-01|10:00|14:12|327.34|4.2|468.97|796.31|1171.58|5|Standard|Complete|2022-10-29|08:00|09:00 (Late)|N/A|Maintenance|Yes
+944|526|Remote Support|None|24|2021-10-23|14:45|17:23|0.0|3.4|246.4|246.4|453.72|4|Standard|Complete|2021-10-21|15:00|16:30 (Late)|N/A|Maintenance|No
+3|672|Design Consultation|434|200|2022-04-29|12:15|15:23|0.0|3.4|283.59|283.59|458.53|5|Standard|Complete|2022-04-29|14:00|14:00|1|Network|Yes
+330|160|Design Consultation|None|165|2024-11-19|11:15|12:42|0.0|1.7|151.27|151.27|332.16|5|Standard|Complete|2024-11-16|12:00|13:30 (Late)|N/A|User Training|Yes
+438|119|System Integration|None|38|2023-04-13|14:00|16:47|0.0|2.8|199.16|199.16|434.77|4|Standard|Complete|2023-04-12|15:00|16:15 (Late)|N/A|Maintenance|Yes
+255|778|System Integration|None|88|2022-11-02|11:00|11:42|0.0|0.7|66.74|66.74|138.23|3|Standard|Complete|2022-10-30|10:00|11:15 (Late)|N/A|Hardware|Yes
+1591|622|Premium Maintenance|None|17|2021-03-04|09:45|10:18|20.77|1.3|163.03|183.8|395.85|4|Standard|Complete|2021-03-03|16:00|17:30 (Late)|N/A|Software|Yes
+1448|593|System Integration|935|104|2024-12-02|14:45|15:48|0.0|1.8|142.88|142.88|283.06|5|Standard|Complete|2024-11-30|12:00|12:15 (Late)|N/A|Software|No
+1473|77|Custom Installation|389|166|2021-12-16|16:45|16:42|1022.73|0.7|53.3|1076.03|2140.33|3|Standard|Complete|2021-12-15|13:00|13:30 (Late)|N/A|Network|Yes
+933|133|Premium Maintenance|553|36|2025-01-18|13:15|14:42|97.55|1.7|168.59|266.14|497.28|3|Standard|Complete|2025-01-18|10:00|10:15|1|Software|Yes
+406|493|System Integration|None|132|2021-09-25|12:00|15:42|0.0|3.7|284.27|284.27|506.96|5|Standard|Complete|2021-09-25|09:00|10:30 (Late)|N/A|Hardware|Yes
+550|416|Troubleshooting|1147|80|2023-01-11|09:00|11:06|654.63|2.1|142.38|797.01|1517.81|3|Standard|Followup Required|2023-01-08|09:00|09:45 (Late)|N/A|Configuration|Yes
+620|15|Custom Installation|1040|101|2023-11-14|15:30|16:18|1265.55|1.3|142.39|1407.94|2523.07|4|Emergency|Complete|2023-11-12|12:00|13:00 (Late)|N/A|Software|No
+183|531|Remote Support|None|100|2022-07-10|15:30|21:00|0.0|6.0|542.46|542.46|910.04|4|Standard|Complete|2022-07-08|15:00|15:00 (Late)|N/A|Hardware|Yes
+120|246|Custom Installation|None|11|2023-11-30|12:15|23:18|650.71|11.3|838.12|1488.83|2107.32|5|Standard|Complete|2023-11-29|16:00|16:45 (Late)|N/A|Software|Yes
+1034|766|Design Consultation|None|23|2022-09-02|13:30|18:24|0.0|5.4|347.27|347.27|516.53|3|Standard|Followup Required|2022-09-02|15:00|16:45 (Late)|N/A|Software|Yes
+1572|416|Premium Maintenance|1164|104|2023-03-05|14:15|14:48|43.04|0.8|63.5|106.53999999999999|209.76|4|Standard|Complete|2023-03-03|14:00|15:00 (Late)|N/A|Configuration|Yes
+1770|712|System Integration|677|194|2024-04-18|15:15|15:54|0.0|0.9|59.93|59.93|100.14|4|Standard|Complete|2024-04-17|13:00|14:30 (Late)|N/A|Integration|Yes
+1365|235|System Integration|394|8|2025-01-08|10:45|10:48|0.0|0.8|66.42|66.42|128.6|5|Standard|Complete|2025-01-07|14:00|15:30 (Late)|N/A|Software|No
+1165|652|System Upgrade|None|87|2022-10-29|14:15|19:35|597.27|5.6|526.68|1123.9499999999998|1944.72|4|Standard|Complete|2022-10-28|08:00|09:00 (Late)|N/A|User Training|Yes
+1242|727|System Integration|699|99|2024-09-07|14:15|16:23|0.0|2.4|175.2|175.2|268.12|3|Standard|Complete|2024-09-06|10:00|11:45 (Late)|N/A|Integration|Yes
+163|518|Premium Maintenance|335|72|2024-11-05|15:45|16:23|84.68|1.4|126.07|210.75|300.07|5|Standard|Complete|2024-11-02|15:00|16:45 (Late)|N/A|Configuration|Yes
+581|427|Premium Maintenance|None|78|2021-06-02|16:45|16:48|57.24|0.8|90.75|147.99|273.24|4|Standard|Complete|2021-06-02|12:00|12:45 (Late)|N/A|Network|Yes
+1467|363|Custom Installation|None|32|2024-07-08|09:45|11:36|186.21|2.6|229.27|415.48|697.81|5|Standard|Complete|2024-07-07|15:00|15:15 (Late)|N/A|Integration|Yes
+140|782|Custom Installation|691|143|2025-02-20|08:00|09:06|1050.3|1.1|123.86|1174.1599999999999|1769.02|4|Standard|Complete|2025-02-18|16:00|17:00 (Late)|N/A|Network|No
+1435|527|Premium Maintenance|None|48|2021-01-17|16:00|18:00|5.81|2.0|114.98|120.79|214.72|5|Standard|Complete|2021-01-16|10:00|11:45 (Late)|N/A|Network|Yes
+915|39|Troubleshooting|790|5|2024-07-28|12:15|13:23|1644.85|1.4|81.31|1726.1599999999999|3498.12|3|Standard|Complete|2024-07-28|12:00|13:00 (Late)|N/A|Software|Yes
+489|589|Design Consultation|831|27|2025-02-17|16:30|23:05|0.0|7.1|691.68|691.68|1439.37|5|Standard|Complete|2025-02-14|08:00|09:45 (Late)|N/A|Configuration|Yes
+1457|233|Troubleshooting|411|62|2022-07-21|13:45|19:17|187.11|6.3|461.54|648.6500000000001|1115.3|4|Standard|Complete|2022-07-20|15:00|15:45 (Late)|N/A|Hardware|No
+1449|778|Custom Installation|1125|166|2022-04-24|08:00|22:48|904.25|14.8|1127.02|2031.27|2980.8|4|Standard|Complete|2022-04-21|13:00|14:45 (Late)|N/A|Software|Yes
+1595|540|Custom Installation|None|27|2023-06-25|12:00|14:36|820.67|2.6|253.29|1073.96|2015.19|3|Standard|Complete|2023-06-22|10:00|11:45 (Late)|N/A|Configuration|Yes
+1920|468|Premium Maintenance|173|71|2024-09-13|15:45|15:42|73.6|0.7|63.24|136.84|246.7|3|Standard|Complete|2024-09-13|15:00|15:15|1|Integration|Yes
+1255|568|Design Consultation|352|181|2022-08-11|08:00|08:36|0.0|0.6|33.35|33.35|73.11|3|Standard|Complete|2022-08-09|11:00|12:15 (Late)|N/A|Integration|Yes
+619|571|System Integration|None|87|2023-12-16|15:30|15:54|0.0|0.9|84.64|84.64|171.3|5|Standard|Complete|2023-12-15|12:00|13:30 (Late)|N/A|Maintenance|Yes
+422|134|Troubleshooting|None|155|2021-02-17|11:00|11:48|420.07|0.8|78.66|498.73|724.38|3|Standard|Complete|2021-02-17|11:00|11:00|1|Hardware|Yes
+284|206|Custom Installation|None|42|2024-12-27|09:45|13:05|267.7|4.1|251.58|519.28|930.08|3|Standard|Complete|2024-12-27|08:00|08:00|1|User Training|Yes
+511|149|Design Consultation|None|38|2022-11-21|12:45|17:05|0.0|5.1|362.76|362.76|757.13|5|Priority|Complete|2022-11-21|11:00|11:45 (Late)|N/A|Integration|Yes
+1601|616|Remote Support|226|30|2024-07-16|10:30|10:42|0.0|0.7|67.11|67.11|126.56|5|Standard|Complete|2024-07-14|13:00|14:15 (Late)|N/A|Maintenance|Yes
+583|732|Premium Maintenance|None|1|2024-03-20|10:30|12:00|79.97|2.0|208.08|288.05|485.26|5|Standard|Complete|2024-03-18|13:00|13:15 (Late)|N/A|Configuration|Yes
+1968|379|Custom Installation|None|70|2021-04-25|11:15|12:36|526.23|1.6|167.33|693.5600000000001|1074.96|4|Priority|Complete|2021-04-23|08:00|08:15 (Late)|N/A|Maintenance|Yes
+1244|289|System Integration|404|25|2024-12-05|12:15|15:06|0.0|3.1|220.57|220.57|320.52|4|Standard|Complete|2024-12-02|14:00|15:15 (Late)|N/A|Hardware|Yes
+618|464|Remote Support|None|40|2021-04-20|10:30|13:12|0.0|3.2|354.53|354.53|632.86|4|Standard|Complete|2021-04-19|13:00|13:30 (Late)|N/A|Software|Yes
+127|576|Remote Support|1012|103|2023-04-04|09:30|10:36|0.0|1.6|206.46|206.46|303.05|3|Standard|Complete|2023-04-03|15:00|16:45 (Late)|N/A|Configuration|Yes
+1939|682|Premium Maintenance|1065|102|2024-02-17|14:45|15:23|97.35|1.4|91.95|189.3|398.35|3|Standard|Complete|2024-02-15|09:00|09:45 (Late)|N/A|Software|No
+1896|506|Remote Support|None|23|2021-02-13|16:45|17:06|0.0|1.1|70.74|70.74|136.23|5|Standard|Complete|2021-02-11|13:00|14:45 (Late)|N/A|Software|No
+1455|435|System Upgrade|None|175|2024-05-12|14:45|15:18|474.82|1.3|106.18|581.0|979.46|4|Standard|Complete|2024-05-10|15:00|16:30 (Late)|N/A|Software|Yes
+1597|292|Remote Support|1085|173|2025-04-04|16:30|17:42|0.0|1.7|102.51|102.51|148.95|N/A|Standard|Complete|2025-04-04|14:00|15:45 (Late)|N/A|User Training|No
+1868|725|Custom Installation|1018|152|2025-03-02|09:15|10:06|308.17|1.1|87.36|395.53000000000003|865.84|5|Standard|Complete|2025-02-28|16:00|17:15 (Late)|N/A|User Training|Yes
+1982|607|System Integration|None|187|2024-09-21|12:45|13:18|0.0|1.3|96.82|96.82|159.93|4|Standard|Complete|2024-09-19|13:00|14:00 (Late)|N/A|Network|Yes
+89|3|System Upgrade|None|180|2021-08-07|16:30|17:00|1464.56|1.0|97.3|1561.86|2584.93|5|Standard|Complete|2021-08-07|09:00|09:15|1|Hardware|Yes
+1424|217|System Upgrade|None|155|2024-06-05|11:00|14:12|956.57|3.2|314.62|1271.19|1917.76|5|Standard|Complete|2024-06-03|09:00|10:00 (Late)|N/A|Integration|Yes
+590|689|Remote Support|248|84|2024-03-31|08:30|09:23|0.0|1.4|119.7|119.7|242.44|5|Standard|Complete|2024-03-31|11:00|11:15|1|Maintenance|No
+1634|11|Remote Support|None|156|2021-10-19|13:45|16:42|0.0|3.7|294.26|294.26|583.02|4|Priority|Complete|2021-10-17|12:00|13:00 (Late)|N/A|User Training|Yes
+1281|590|Custom Installation|None|166|2022-10-30|11:00|13:47|239.71|2.8|213.22|452.93|780.5|3|Standard|Complete|2022-10-27|11:00|12:15 (Late)|N/A|User Training|Yes
+708|262|System Upgrade|None|183|2022-04-17|09:45|13:17|193.12|4.3|561.11|754.23|1249.8|3|Standard|Complete|2022-04-14|13:00|13:30 (Late)|N/A|User Training|Yes
+104|327|Design Consultation|170|182|2025-03-10|12:30|13:06|0.0|1.1|59.06|59.06|103.4|4|Standard|Complete|2025-03-07|09:00|09:15 (Late)|N/A|Network|Yes
+1217|107|Custom Installation|490|168|2024-09-19|16:45|22:47|1248.2|6.8|896.17|2144.37|3412.4|4|Standard|Complete|2024-09-18|10:00|10:45 (Late)|N/A|Network|Yes
+482|482|Troubleshooting|None|91|2022-05-22|14:30|14:48|958.2|0.8|101.73|1059.93|1539.51|4|Standard|Complete|2022-05-22|11:00|11:15|1|Integration|Yes
+75|788|Troubleshooting|None|59|2023-09-23|14:30|20:42|645.86|6.7|563.4|1209.26|2055.25|3|Standard|Complete|2023-09-23|11:00|11:00|1|User Training|Yes
+486|521|Remote Support|None|103|2024-04-04|09:30|14:24|0.0|5.4|696.82|696.82|1168.51|4|Standard|Complete|2024-04-01|13:00|14:45 (Late)|N/A|Network|Yes
+329|204|Troubleshooting|None|49|2024-03-28|15:30|18:06|769.06|3.1|247.75|1016.81|1945.97|4|Standard|Complete|2024-03-26|08:00|08:00 (Late)|N/A|Network|Yes
+1446|607|System Upgrade|707|43|2025-02-13|13:15|17:24|346.43|4.4|319.04|665.47|1361.52|4|Standard|Complete|2025-02-11|12:00|13:15 (Late)|N/A|Configuration|Yes
+1643|168|System Upgrade|900|60|2025-03-11|10:45|17:24|1579.66|7.4|748.44|2328.1000000000004|3663.56|3|Standard|Complete|2025-03-11|11:00|11:15|1|Network|Yes
+649|207|Troubleshooting|None|88|2023-10-05|12:45|13:06|1644.45|1.1|104.87|1749.3200000000002|3032.55|5|Standard|Complete|2023-10-05|15:00|15:45 (Late)|N/A|Hardware|Yes
+1744|542|System Integration|151|94|2023-07-23|14:00|15:42|0.0|1.7|137.73|137.73|255.61|3|Standard|Followup Required|2023-07-22|16:00|17:45 (Late)|N/A|User Training|Yes
+592|466|Custom Installation|1049|178|2024-09-07|08:45|08:42|1315.13|0.7|54.98|1370.1100000000001|2926.43|5|Emergency|Complete|2024-09-05|16:00|16:30 (Late)|N/A|Hardware|Yes
+1007|399|System Integration|508|114|2024-03-13|10:45|12:42|0.0|2.7|172.96|172.96|348.81|3|Standard|Followup Required|2024-03-10|14:00|14:30 (Late)|N/A|Network|Yes
+686|99|System Upgrade|804|24|2024-09-26|12:15|13:23|1377.57|1.4|101.46|1479.03|2298.4|5|Standard|Complete|2024-09-26|15:00|15:45 (Late)|N/A|Integration|Yes
+1738|564|System Upgrade|None|49|2022-08-31|13:00|15:12|1149.46|2.2|175.82|1325.28|2446.45|5|Standard|Complete|2022-08-29|14:00|14:45 (Late)|N/A|Hardware|Yes
+398|248|Custom Installation|1047|14|2022-11-11|12:00|13:42|1055.1|1.7|215.2|1270.3|2513.86|5|Standard|Complete|2022-11-09|12:00|12:30 (Late)|N/A|Maintenance|No
+937|753|Troubleshooting|None|90|2025-01-11|09:15|12:17|1407.8|3.3|206.74|1614.54|3330.85|3|Priority|Complete|2025-01-09|16:00|16:45 (Late)|N/A|Hardware|Yes
+1918|695|Premium Maintenance|903|114|2023-10-07|14:00|14:54|37.81|0.9|57.65|95.46000000000001|208.98|3|Standard|Complete|2023-10-06|14:00|14:00 (Late)|N/A|Maintenance|Yes
+609|435|Premium Maintenance|None|88|2022-01-21|13:15|14:00|61.83|1.0|95.34|157.17000000000002|299.91|3|Emergency|Complete|2022-01-21|16:00|16:00|1|User Training|Yes
+1845|289|Custom Installation|1135|37|2023-05-19|09:15|11:00|386.49|2.0|123.28|509.77|827.22|5|Standard|Complete|2023-05-18|13:00|13:45 (Late)|N/A|Integration|Yes
+145|277|Remote Support|578|168|2023-03-23|10:45|14:00|0.0|4.0|527.16|527.16|776.97|4|Standard|Complete|2023-03-21|12:00|12:45 (Late)|N/A|Integration|No
+1277|249|Design Consultation|758|115|2022-03-02|12:15|18:30|0.0|6.5|551.59|551.59|773.95|5|Standard|Followup Required|2022-02-28|11:00|12:15 (Late)|N/A|User Training|Yes
+1177|318|Premium Maintenance|None|93|2022-09-06|08:00|09:30|3.28|1.5|131.43|134.71|217.04|4|Standard|Complete|2022-09-06|16:00|17:00 (Late)|N/A|User Training|Yes
+1732|12|Premium Maintenance|None|145|2021-06-04|10:45|10:48|25.31|0.8|50.26|75.57|156.75|4|Standard|Complete|2021-06-02|16:00|16:45 (Late)|N/A|Network|Yes
+1445|756|System Upgrade|1200|154|2024-06-15|16:00|18:00|1385.28|2.0|158.58|1543.86|2595.96|4|Standard|Complete|2024-06-13|15:00|16:45 (Late)|N/A|Configuration|Yes
+848|781|System Upgrade|None|90|2024-04-21|15:00|19:30|1215.76|4.5|281.93|1497.69|2970.28|3|Standard|Complete|2024-04-21|08:00|09:15 (Late)|N/A|Integration|Yes
+971|75|Remote Support|277|41|2023-09-03|13:45|17:30|0.0|4.5|412.83|412.83|657.71|4|Standard|Complete|2023-09-02|16:00|16:45 (Late)|N/A|Network|Yes
+861|374|System Upgrade|None|103|2021-07-24|09:00|09:48|1212.23|0.8|103.23|1315.46|2887.45|3|Standard|Complete|2021-07-22|16:00|16:30 (Late)|N/A|Hardware|Yes
+1588|23|Troubleshooting|None|103|2024-11-09|11:00|17:17|737.22|6.3|812.95|1550.17|3073.85|5|Standard|Complete|2024-11-07|15:00|16:30 (Late)|N/A|Network|Yes
+1193|56|System Upgrade|None|98|2022-04-26|11:45|12:53|599.72|1.9|147.5|747.22|1573.84|4|Priority|Complete|2022-04-26|12:00|12:30 (Late)|N/A|Software|Yes
+492|419|System Integration|455|87|2023-06-08|16:15|17:23|0.0|1.4|131.67|131.67|285.48|4|Standard|Complete|2023-06-05|09:00|10:45 (Late)|N/A|Maintenance|Yes
+141|79|Remote Support|931|92|2024-02-02|16:30|23:24|0.0|7.4|438.3|438.3|622.15|5|Standard|Complete|2024-01-31|16:00|16:15 (Late)|N/A|User Training|Yes
+304|740|System Integration|478|180|2022-05-01|08:30|10:06|0.0|2.1|204.33|204.33|325.87|4|Standard|Complete|2022-04-28|10:00|11:30 (Late)|N/A|Software|Yes
+1777|342|Premium Maintenance|813|76|2024-10-01|10:15|11:48|47.66|1.8|89.98|137.64|238.77|4|Standard|Complete|2024-09-28|09:00|09:30 (Late)|N/A|Maintenance|Yes
+1727|679|Design Consultation|None|25|2023-09-18|13:45|13:54|0.0|0.9|64.04|64.04|127.4|5|Standard|Followup Required|2023-09-15|13:00|13:00 (Late)|N/A|Configuration|Yes
+1549|633|System Integration|None|27|2024-04-18|12:15|14:12|0.0|2.2|214.32|214.32|309.09|5|Standard|Complete|2024-04-18|11:00|11:30 (Late)|N/A|Configuration|Yes
+76|599|Premium Maintenance|1025|194|2024-08-27|08:30|10:00|29.34|2.0|133.18|162.52|241.32|4|Standard|Complete|2024-08-25|11:00|12:30 (Late)|N/A|Software|Yes
+918|6|Remote Support|None|93|2023-08-28|13:15|13:54|0.0|0.9|78.86|78.86|117.24|5|Priority|Complete|2023-08-25|11:00|11:00 (Late)|N/A|Configuration|Yes
+81|418|Premium Maintenance|None|99|2022-10-21|08:45|12:00|97.32|4.0|292.0|389.32|566.44|4|Standard|Complete|2022-10-19|09:00|09:45 (Late)|N/A|User Training|No
+56|451|Design Consultation|None|160|2025-01-02|14:45|16:36|0.0|2.6|303.11|303.11|624.13|3|Standard|Complete|2024-12-31|12:00|12:30 (Late)|N/A|Configuration|Yes
+1842|34|Custom Installation|None|175|2022-08-23|13:15|19:35|194.23|6.6|539.09|733.32|1496.7|3|Emergency|Complete|2022-08-23|09:00|10:15 (Late)|N/A|Configuration|Yes
+32|640|Custom Installation|None|90|2023-01-03|14:00|21:35|270.88|7.6|476.14|747.02|1459.47|5|Standard|Complete|2023-01-01|12:00|12:00 (Late)|N/A|Software|No
+96|106|Troubleshooting|514|4|2023-05-04|16:45|21:30|589.08|5.5|653.29|1242.37|2200.63|5|Standard|Complete|2023-05-03|16:00|17:15 (Late)|N/A|Integration|Yes
+119|564|Premium Maintenance|None|26|2023-01-19|16:30|17:42|66.55|1.7|189.52|256.07|489.78|3|Standard|Complete|2023-01-18|15:00|16:30 (Late)|N/A|Software|No
+1776|239|System Integration|None|31|2021-09-21|11:30|12:11|0.0|1.2|80.11|80.11|161.33|5|Standard|Complete|2021-09-18|09:00|09:15 (Late)|N/A|Maintenance|Yes
+1600|762|System Integration|None|98|2021-09-29|12:45|16:05|0.0|4.1|318.28|318.28|653.53|5|Standard|Complete|2021-09-26|10:00|11:00 (Late)|N/A|Maintenance|No
+1718|492|Premium Maintenance|None|62|2022-01-25|13:15|15:00|84.82|2.0|146.52|231.34|386.54|3|Emergency|Complete|2022-01-24|13:00|14:45 (Late)|N/A|Hardware|Yes
+1933|381|Design Consultation|None|145|2024-09-26|16:00|22:00|0.0|6.0|376.92|376.92|755.97|4|Standard|Complete|2024-09-25|11:00|11:15 (Late)|N/A|Maintenance|Yes
+508|362|Remote Support|984|48|2024-10-30|12:45|19:35|0.0|7.6|436.92|436.92|630.72|4|Standard|Followup Required|2024-10-28|08:00|09:45 (Late)|N/A|Integration|Yes
+1871|593|System Integration|None|170|2021-05-02|16:00|20:42|0.0|4.7|360.11|360.11|759.41|4|Standard|Followup Required|2021-05-02|09:00|10:00 (Late)|N/A|User Training|Yes
+1113|23|Custom Installation|586|103|2025-03-03|12:45|18:30|1057.45|6.5|838.76|1896.21|3428.98|3|Standard|Complete|2025-03-01|08:00|09:30 (Late)|N/A|Maintenance|Yes
+1292|377|Design Consultation|54|46|2025-02-20|12:30|13:53|0.0|1.9|136.53|136.53|279.05|3|Standard|Complete|2025-02-20|11:00|12:15 (Late)|N/A|Integration|Yes
+155|567|Remote Support|None|19|2021-08-19|16:30|17:00|0.0|1.0|98.6|98.6|212.74|5|Standard|Complete|2021-08-16|13:00|13:45 (Late)|N/A|Hardware|Yes
+910|676|Troubleshooting|188|18|2021-11-26|14:00|17:12|116.12|3.2|297.95|414.07|872.2|4|Standard|Complete|2021-11-26|12:00|12:00|1|Network|Yes
+629|660|Premium Maintenance|450|65|2024-02-20|10:00|14:47|54.2|4.8|334.18|388.38|806.21|4|Standard|Followup Required|2024-02-20|15:00|16:15 (Late)|N/A|Network|No
+526|27|Troubleshooting|None|152|2022-11-30|10:00|11:11|711.6|1.2|95.3|806.9|1757.35|4|Standard|Complete|2022-11-30|16:00|17:45 (Late)|N/A|Software|Yes
+177|232|Design Consultation|1029|186|2024-11-12|15:15|15:54|0.0|0.9|110.25|110.25|213.95|4|Standard|Complete|2024-11-12|13:00|13:15|1|Network|Yes
+837|163|Remote Support|718|91|2024-12-05|10:15|11:06|0.0|1.1|139.88|139.88|206.39|5|Standard|Complete|2024-12-02|16:00|16:30 (Late)|N/A|Software|Yes
+372|344|Custom Installation|None|23|2025-03-25|11:30|12:06|1632.58|1.1|70.74|1703.32|3297.82|3|Standard|Complete|2025-03-23|15:00|16:30 (Late)|N/A|Integration|Yes
+1701|544|Troubleshooting|None|5|2023-12-21|13:30|17:12|1166.11|4.2|243.94|1410.05|2569.44|4|Standard|Complete|2023-12-20|08:00|08:30 (Late)|N/A|Configuration|Yes
+651|104|Design Consultation|None|50|2022-09-26|13:15|14:06|0.0|1.1|142.22|142.22|274.8|3|Standard|Complete|2022-09-24|09:00|09:45 (Late)|N/A|User Training|Yes
+201|245|System Upgrade|None|165|2021-09-11|08:00|11:47|1045.99|3.8|338.12|1384.1100000000001|2043.64|4|Standard|Complete|2021-09-09|12:00|13:00 (Late)|N/A|User Training|Yes
+205|770|Premium Maintenance|182|24|2025-03-13|09:30|10:23|106.91|1.4|101.46|208.37|369.42|3|Standard|Complete|2025-03-10|12:00|12:45 (Late)|N/A|Maintenance|Yes
+175|148|Design Consultation|None|117|2024-12-17|14:00|15:53|0.0|1.9|187.09|187.09|339.07|4|Standard|Complete|2024-12-16|09:00|09:00 (Late)|N/A|Hardware|Yes
+410|155|System Integration|929|103|2024-12-26|08:15|11:47|0.0|3.8|490.35|490.35|942.54|4|Standard|Followup Required|2024-12-26|11:00|11:15|1|Software|Yes
+1814|25|Design Consultation|None|66|2024-07-31|16:45|19:42|0.0|3.7|267.58|267.58|445.19|3|Standard|Followup Required|2024-07-30|09:00|10:00 (Late)|N/A|Network|Yes
+1764|83|Remote Support|185|76|2024-07-30|09:45|10:48|0.0|1.8|89.98|89.98|168.76|4|Standard|Complete|2024-07-29|09:00|09:00 (Late)|N/A|Network|Yes
+236|507|Remote Support|1068|154|2023-07-05|11:15|14:12|0.0|3.2|253.73|253.73|550.39|4|Standard|Complete|2023-07-04|11:00|11:30 (Late)|N/A|Maintenance|Yes
+358|193|Design Consultation|None|23|2022-05-21|08:30|11:23|0.0|3.4|218.65|218.65|450.7|5|Standard|Complete|2022-05-18|12:00|12:30 (Late)|N/A|Maintenance|Yes
+443|379|Premium Maintenance|246|128|2022-12-06|10:30|12:36|29.79|2.6|158.18|187.97|280.06|4|Standard|Followup Required|2022-12-06|11:00|11:00|1|Configuration|Yes
+1228|341|Remote Support|907|41|2022-07-09|15:00|18:17|0.0|3.3|302.74|302.74|499.63|5|Standard|Complete|2022-07-09|11:00|12:00 (Late)|N/A|User Training|Yes
+1382|372|Design Consultation|176|94|2024-06-10|11:30|12:06|0.0|1.1|89.12|89.12|164.75|5|Standard|Followup Required|2024-06-08|15:00|15:30 (Late)|N/A|Software|Yes
+1383|787|System Upgrade|None|135|2023-01-29|10:00|17:00|892.07|7.0|856.59|1748.66|2705.4|3|Standard|Complete|2023-01-27|12:00|12:45 (Late)|N/A|Maintenance|Yes
+1772|327|Remote Support|None|182|2023-08-10|13:15|16:30|0.0|3.5|187.91|187.91|348.82|4|Standard|Followup Required|2023-08-10|13:00|13:00|1|Network|Yes
+456|699|Design Consultation|None|48|2025-02-24|13:15|14:30|0.0|1.5|86.23|86.23|170.69|4|Standard|Complete|2025-02-22|15:00|16:15 (Late)|N/A|Software|Yes
+342|662|Premium Maintenance|None|171|2022-12-18|15:15|23:18|25.49|8.3|709.4|734.89|1594.66|4|Standard|Complete|2022-12-15|14:00|15:00 (Late)|N/A|Hardware|Yes
+1256|497|Remote Support|None|117|2024-04-22|14:15|20:30|0.0|6.5|640.05|640.05|1315.25|5|Standard|Complete|2024-04-20|10:00|11:30 (Late)|N/A|Software|Yes
+733|230|Custom Installation|None|30|2024-07-09|16:45|17:42|135.48|1.7|162.98|298.46|538.29|4|Standard|Complete|2024-07-09|10:00|11:15 (Late)|N/A|User Training|Yes
+774|586|System Integration|906|18|2024-03-02|11:15|11:30|0.0|0.5|46.55|46.55|83.4|5|Standard|Complete|2024-03-02|10:00|11:30 (Late)|N/A|Hardware|Yes
+1232|784|Remote Support|None|99|2021-05-16|09:30|18:48|0.0|9.8|715.4|715.4|1341.71|5|Standard|Complete|2021-05-14|11:00|11:15 (Late)|N/A|Configuration|Yes
+1247|721|System Integration|None|60|2021-05-29|11:45|18:54|0.0|7.9|799.01|799.01|1134.49|3|Standard|Complete|2021-05-26|08:00|08:00 (Late)|N/A|Configuration|Yes
+1102|618|System Integration|None|100|2023-07-27|11:30|12:36|0.0|1.6|144.66|144.66|208.81|5|Standard|Complete|2023-07-25|12:00|12:45 (Late)|N/A|Network|Yes
+902|765|Design Consultation|833|155|2022-04-27|16:45|17:53|0.0|1.9|186.81|186.81|324.48|5|Emergency|Complete|2022-04-26|09:00|09:45 (Late)|N/A|Network|Yes
+1863|341|Design Consultation|None|53|2023-07-24|13:15|16:47|0.0|3.8|364.19|364.19|533.04|3|Standard|Complete|2023-07-21|11:00|11:15 (Late)|N/A|Software|Yes
+16|415|System Integration|None|168|2021-01-11|08:15|13:17|0.0|5.3|698.49|698.49|1172.89|3|Standard|Complete|2021-01-09|09:00|09:00 (Late)|N/A|Integration|No
+924|11|System Integration|None|50|2024-04-27|12:45|15:17|0.0|3.3|426.66|426.66|756.76|5|Standard|Complete|2024-04-25|08:00|09:45 (Late)|N/A|Maintenance|No
+239|696|Remote Support|796|53|2025-03-30|11:45|13:17|0.0|2.3|220.43|220.43|432.52|5|Standard|Complete|2025-03-27|09:00|10:15 (Late)|N/A|Software|Yes
+1659|15|Troubleshooting|1040|183|2022-08-31|16:00|17:36|771.86|1.6|208.78|980.64|2127.2|4|Standard|Complete|2022-08-28|13:00|13:45 (Late)|N/A|Configuration|Yes
+1778|670|Remote Support|100|171|2023-07-28|10:30|11:11|0.0|1.2|102.56|102.56|164.47|5|Standard|Complete|2023-07-26|09:00|10:00 (Late)|N/A|Software|Yes
+55|782|System Integration|691|119|2024-07-21|16:15|17:11|0.0|1.2|82.87|82.87|150.41|4|Emergency|Complete|2024-07-21|14:00|15:15 (Late)|N/A|Network|Yes
+1660|252|Remote Support|None|156|2024-07-31|09:00|11:42|0.0|2.7|214.73|214.73|319.5|4|Standard|Complete|2024-07-31|09:00|10:15 (Late)|N/A|Integration|Yes
+1692|650|Premium Maintenance|None|80|2024-07-19|15:15|16:11|98.63|1.2|81.36|179.99|356.77|4|Standard|Complete|2024-07-16|09:00|09:15 (Late)|N/A|Maintenance|No
+133|90|Custom Installation|887|29|2024-06-04|12:30|13:48|742.62|1.8|236.54|979.16|1985.41|4|Priority|Complete|2024-06-01|12:00|13:15 (Late)|N/A|Maintenance|Yes
+251|358|System Integration|None|105|2021-09-21|15:00|16:36|0.0|1.6|157.7|157.7|341.12|4|Standard|Complete|2021-09-18|11:00|12:00 (Late)|N/A|Hardware|Yes
+1768|767|Design Consultation|None|5|2024-02-08|13:45|14:11|0.0|1.2|69.7|69.7|98.27|5|Standard|Complete|2024-02-08|13:00|14:00 (Late)|N/A|Network|Yes
+697|498|Troubleshooting|None|175|2022-03-25|14:45|14:42|1222.33|0.7|57.18|1279.51|2710.13|5|Standard|Complete|2022-03-24|08:00|09:00 (Late)|N/A|Hardware|Yes
+943|56|Design Consultation|80|143|2023-09-26|15:45|15:30|0.0|0.5|56.3|56.3|92.64|5|Standard|Followup Required|2023-09-23|13:00|14:15 (Late)|N/A|Configuration|Yes
+1765|54|System Integration|674|60|2025-02-01|10:30|14:00|0.0|4.0|404.56|404.56|766.21|4|Standard|Complete|2025-02-01|14:00|15:00 (Late)|N/A|Integration|Yes
+680|633|Custom Installation|None|80|2024-05-05|16:45|17:36|1215.75|1.6|108.48|1324.23|2247.94|3|Priority|Complete|2024-05-02|12:00|12:00 (Late)|N/A|Integration|Yes
+908|147|System Upgrade|476|197|2025-03-04|11:15|14:06|216.94|3.1|334.65|551.5899999999999|985.77|3|Emergency|Complete|2025-03-01|15:00|16:15 (Late)|N/A|Software|Yes
+1291|742|Troubleshooting|None|24|2021-02-09|11:00|14:23|704.35|3.4|246.4|950.75|1967.69|3|Emergency|Complete|2021-02-09|12:00|13:15 (Late)|N/A|Maintenance|Yes
+244|332|Remote Support|126|17|2023-08-20|13:15|13:42|0.0|0.7|87.79|87.79|160.22|4|Standard|Complete|2023-08-19|11:00|12:45 (Late)|N/A|Hardware|Yes
+818|628|Design Consultation|532|199|2024-05-07|09:45|12:53|0.0|3.9|372.49|372.49|707.67|4|Standard|Complete|2024-05-04|08:00|08:45 (Late)|N/A|Integration|Yes
+452|285|Design Consultation|227|93|2022-10-20|10:45|11:00|0.0|1.0|87.62|87.62|171.48|5|Standard|Complete|2022-10-17|16:00|17:00 (Late)|N/A|Network|Yes
+1979|666|Troubleshooting|None|143|2025-03-11|15:45|18:12|245.07|3.2|360.32|605.39|937.41|5|Standard|Complete|2025-03-11|11:00|11:15|1|Network|Yes
+1295|66|System Integration|322|171|2022-11-22|11:45|12:18|0.0|1.3|111.11|111.11|234.88|5|Standard|Complete|2022-11-22|09:00|10:15 (Late)|N/A|Software|Yes
+896|308|System Integration|617|23|2024-09-19|13:00|15:30|0.0|2.5|160.78|160.78|292.46|5|Standard|Complete|2024-09-17|13:00|13:30 (Late)|N/A|Hardware|No
+318|744|System Upgrade|None|19|2023-12-14|10:15|11:48|507.37|1.8|177.48|684.85|1134.97|5|Standard|Complete|2023-12-13|10:00|11:00 (Late)|N/A|Integration|Yes
+1203|250|Custom Installation|592|71|2024-07-18|15:15|16:11|344.98|1.2|108.41|453.39|849.58|4|Standard|Complete|2024-07-15|16:00|16:00 (Late)|N/A|Software|No
+758|424|Premium Maintenance|1182|144|2023-12-19|16:00|21:24|39.53|5.4|602.96|642.49|926.61|3|Priority|Complete|2023-12-18|08:00|09:15 (Late)|N/A|Software|No
+1300|92|System Upgrade|37|178|2024-08-18|13:45|15:42|249.99|2.7|212.09|462.08000000000004|696.14|3|Standard|Complete|2024-08-18|09:00|09:15|1|Maintenance|Yes
+538|59|Troubleshooting|108|163|2024-04-05|16:45|20:30|730.3|4.5|387.72|1118.02|2087.64|3|Standard|Complete|2024-04-02|15:00|15:00 (Late)|N/A|Configuration|Yes
+766|800|System Integration|742|34|2024-03-16|10:30|12:00|0.0|2.0|103.54|103.54|164.9|3|Priority|Complete|2024-03-16|11:00|12:30 (Late)|N/A|Software|No
+4|327|Remote Support|None|23|2022-11-13|08:30|09:30|0.0|1.5|96.47|96.47|154.0|5|Standard|Complete|2022-11-13|11:00|11:00|1|Configuration|Yes
+1877|661|Premium Maintenance|None|117|2024-06-15|10:15|13:47|21.43|3.8|374.19|395.62|565.77|5|Standard|Complete|2024-06-13|11:00|11:45 (Late)|N/A|Software|Yes
+1726|85|Design Consultation|None|159|2023-03-15|14:45|14:48|0.0|0.8|69.43|69.43|133.91|4|Standard|Complete|2023-03-14|08:00|08:30 (Late)|N/A|Maintenance|Yes
+992|695|Remote Support|None|111|2021-06-22|16:00|16:48|0.0|0.8|54.21|54.21|94.77|3|Standard|Complete|2021-06-21|14:00|14:00 (Late)|N/A|Configuration|Yes
+1368|591|Troubleshooting|250|91|2024-06-16|15:00|20:00|49.46|5.0|635.8|685.26|1504.64|5|Standard|Complete|2024-06-14|08:00|09:00 (Late)|N/A|Software|Yes
+307|710|System Upgrade|None|117|2021-09-23|16:15|18:30|613.52|2.5|246.18|859.7|1396.5|3|Standard|Complete|2021-09-23|10:00|10:30 (Late)|N/A|Integration|No
+1812|134|System Integration|None|47|2022-02-16|13:15|18:30|0.0|5.5|288.64|288.64|474.37|3|Priority|Complete|2022-02-13|13:00|13:45 (Late)|N/A|Integration|Yes
+1594|657|Premium Maintenance|1107|170|2023-06-05|11:30|17:17|16.23|6.3|482.71|498.94|860.49|5|Standard|Complete|2023-06-04|09:00|09:30 (Late)|N/A|Configuration|Yes
+876|1|Remote Support|104|144|2024-11-28|12:45|13:30|0.0|1.5|167.49|167.49|274.92|5|Standard|Complete|2024-11-28|14:00|14:15|1|Configuration|Yes
+300|431|Design Consultation|252|166|2023-03-13|14:15|16:12|0.0|2.2|167.53|167.53|275.46|4|Standard|Followup Required|2023-03-11|11:00|12:45 (Late)|N/A|Integration|Yes
+1550|408|Custom Installation|None|1|2025-01-21|11:45|18:00|162.26|7.0|728.28|890.54|1517.89|3|Standard|Complete|2025-01-20|10:00|10:30 (Late)|N/A|Software|Yes
+1934|218|System Upgrade|None|17|2023-09-15|14:00|17:36|730.62|3.6|451.48|1182.1|1705.29|3|Standard|Complete|2023-09-15|11:00|12:45 (Late)|N/A|Network|Yes
+1168|508|Custom Installation|None|80|2023-02-24|10:15|10:36|584.19|0.6|40.68|624.87|1187.64|3|Standard|Complete|2023-02-23|08:00|08:00 (Late)|N/A|Configuration|Yes
+282|66|Remote Support|None|152|2022-11-21|09:45|10:30|0.0|1.5|119.13|119.13|199.43|4|Standard|Complete|2022-11-19|15:00|16:30 (Late)|N/A|Integration|No
+542|553|Troubleshooting|611|192|2023-10-28|09:00|14:47|492.12|5.8|395.79|887.9100000000001|1852.32|5|Emergency|Complete|2023-10-25|12:00|12:00 (Late)|N/A|Maintenance|Yes
+929|175|Custom Installation|None|127|2021-04-03|12:45|18:12|203.4|6.2|504.43|707.83|1152.49|5|Standard|Complete|2021-03-31|09:00|10:00 (Late)|N/A|User Training|Yes
+595|298|System Integration|None|23|2023-03-28|08:00|10:00|0.0|2.0|128.62|128.62|257.97|4|Standard|Complete|2023-03-25|14:00|15:45 (Late)|N/A|Hardware|Yes
+1313|747|Custom Installation|224|96|2024-06-06|12:15|23:00|1524.49|12.0|676.56|2201.05|3470.66|3|Standard|Complete|2024-06-04|11:00|11:15 (Late)|N/A|Network|Yes
+1469|698|Remote Support|857|90|2025-03-05|15:00|16:30|0.0|1.5|93.97|93.97|134.95|3|Standard|Complete|2025-03-05|12:00|12:45 (Late)|N/A|Maintenance|Yes
+1489|521|Custom Installation|None|45|2021-03-19|14:30|15:30|1411.53|1.5|107.31|1518.84|3161.12|3|Standard|Complete|2021-03-17|11:00|11:45 (Late)|N/A|Configuration|Yes
+517|668|Design Consultation|459|25|2025-03-05|14:45|17:17|0.0|3.3|234.8|234.8|450.81|4|Standard|Complete|2025-03-04|11:00|12:45 (Late)|N/A|Software|No
+1351|353|Troubleshooting|41|153|2023-05-14|14:30|15:42|1382.57|1.7|180.73|1563.3|2206.51|5|Standard|Complete|2023-05-13|16:00|17:30 (Late)|N/A|Integration|Yes
+1819|192|System Upgrade|44|176|2025-01-12|11:45|19:00|710.86|8.0|891.28|1602.1399999999999|2522.22|4|Standard|Complete|2025-01-12|09:00|10:30 (Late)|N/A|Maintenance|Yes
+1434|365|System Integration|319|65|2024-11-10|16:45|23:30|0.0|13.5|939.87|939.87|1664.2|3|Standard|Followup Required|2024-11-09|15:00|16:45 (Late)|N/A|Network|Yes
+1307|277|Troubleshooting|None|41|2022-11-12|12:45|16:17|290.38|4.3|394.48|684.86|1070.34|3|Standard|Complete|2022-11-12|08:00|09:45 (Late)|N/A|Software|Yes
+638|404|System Upgrade|184|43|2024-01-19|09:00|10:06|570.15|1.1|79.76|649.91|1089.89|4|Standard|Complete|2024-01-18|10:00|10:00 (Late)|N/A|User Training|Yes
+1811|633|Premium Maintenance|None|107|2023-10-21|10:30|16:30|13.02|6.5|691.99|705.01|1025.88|5|Standard|Followup Required|2023-10-19|11:00|11:45 (Late)|N/A|Network|Yes
+1248|445|Design Consultation|None|22|2024-01-01|09:00|12:06|0.0|3.1|265.58|265.58|572.76|3|Standard|Complete|2023-12-29|12:00|12:15 (Late)|N/A|Network|Yes
+1020|499|Troubleshooting|1072|60|2024-08-20|16:45|16:54|455.36|0.9|91.03|546.39|900.37|3|Standard|Followup Required|2024-08-18|12:00|13:30 (Late)|N/A|User Training|Yes
+1438|145|Troubleshooting|1115|156|2025-03-29|14:15|17:30|1520.07|3.5|278.36|1798.4299999999998|3634.99|4|Standard|Followup Required|2025-03-29|08:00|08:15|1|Maintenance|Yes
+1032|188|Troubleshooting|419|197|2024-10-19|11:30|12:42|169.06|1.7|183.51|352.57|523.69|3|Standard|Complete|2024-10-17|16:00|16:15 (Late)|N/A|Software|Yes
+1427|600|Premium Maintenance|1103|166|2024-10-24|11:15|12:36|95.42|1.6|121.84|217.26|375.32|5|Standard|Complete|2024-10-22|11:00|11:30 (Late)|N/A|Hardware|No
+993|757|Design Consultation|None|100|2024-11-20|08:15|09:36|0.0|1.6|144.66|144.66|203.85|4|Standard|Followup Required|2024-11-18|09:00|10:30 (Late)|N/A|User Training|Yes
+1304|675|Premium Maintenance|None|119|2023-03-11|12:00|12:36|2.66|0.6|41.44|44.099999999999994|61.84|5|Emergency|Complete|2023-03-11|13:00|14:00 (Late)|N/A|Integration|Yes
+1472|78|Design Consultation|366|102|2024-11-11|13:30|20:17|0.0|7.3|479.46|479.46|726.59|4|Standard|Complete|2024-11-10|08:00|09:15 (Late)|N/A|Integration|Yes
+394|496|Design Consultation|None|120|2023-12-03|12:00|15:36|0.0|3.6|392.98|392.98|738.16|5|Standard|Complete|2023-11-30|15:00|16:30 (Late)|N/A|Maintenance|Yes
+608|401|System Integration|140|102|2024-10-30|14:30|18:12|0.0|4.2|275.86|275.86|500.7|4|Standard|Complete|2024-10-30|12:00|13:30 (Late)|N/A|Integration|Yes
+921|47|System Upgrade|1071|34|2022-06-14|09:00|10:23|767.36|1.4|72.48|839.84|1414.87|5|Standard|Complete|2022-06-12|15:00|16:30 (Late)|N/A|Software|Yes
+976|544|Troubleshooting|None|200|2021-06-29|10:45|11:48|591.11|1.8|150.14|741.25|1104.93|4|Emergency|Complete|2021-06-29|09:00|10:45 (Late)|N/A|Maintenance|No
+938|469|System Upgrade|94|132|2024-12-27|08:30|13:00|905.89|5.0|384.15|1290.04|2332.75|4|Standard|Complete|2024-12-27|08:00|09:45 (Late)|N/A|Integration|Yes
+1085|793|Design Consultation|None|39|2024-03-12|12:00|16:24|0.0|4.4|254.41|254.41|408.65|5|Standard|Complete|2024-03-11|09:00|09:30 (Late)|N/A|Software|Yes
+1717|648|Design Consultation|None|93|2022-06-16|09:15|09:48|0.0|0.8|70.1|70.1|116.89|3|Standard|Complete|2022-06-13|16:00|17:45 (Late)|N/A|Maintenance|Yes
+1658|55|Troubleshooting|None|25|2022-07-31|15:00|17:17|323.56|2.3|163.65|487.21000000000004|948.66|3|Standard|Complete|2022-07-28|08:00|09:15 (Late)|N/A|User Training|Yes
+1251|83|System Integration|858|36|2024-09-13|12:30|20:00|0.0|8.0|793.36|793.36|1454.56|5|Priority|Complete|2024-09-11|11:00|12:15 (Late)|N/A|Software|Yes
+476|7|System Upgrade|723|99|2024-05-29|08:30|10:23|584.52|2.4|175.2|759.72|1625.9|5|Standard|Complete|2024-05-29|11:00|12:00 (Late)|N/A|Configuration|No
+470|350|System Integration|None|74|2024-02-15|13:00|17:00|0.0|4.0|218.76|218.76|346.26|3|Standard|Complete|2024-02-14|10:00|11:00 (Late)|N/A|Configuration|No
+475|644|System Upgrade|276|122|2024-04-09|10:30|11:11|1113.42|1.2|155.16|1268.5800000000002|1843.27|5|Standard|Followup Required|2024-04-08|08:00|08:45 (Late)|N/A|Network|Yes
+1098|61|Design Consultation|845|117|2024-09-18|13:15|17:12|0.0|4.2|413.57|413.57|786.26|3|Standard|Complete|2024-09-16|09:00|09:45 (Late)|N/A|Configuration|Yes
+1837|397|Custom Installation|None|72|2024-09-20|12:00|13:11|1188.88|1.2|108.06|1296.94|2078.82|4|Standard|Complete|2024-09-18|13:00|13:00 (Late)|N/A|Hardware|Yes
+1391|761|Design Consultation|787|175|2024-08-01|09:15|10:36|0.0|1.6|130.69|130.69|234.49|4|Priority|Complete|2024-08-01|09:00|10:00 (Late)|N/A|User Training|Yes
+882|311|Premium Maintenance|None|114|2021-06-19|13:30|17:05|64.61|4.1|262.65|327.26|533.38|3|Standard|Complete|2021-06-19|11:00|11:30 (Late)|N/A|User Training|No
+213|462|Remote Support|None|173|2023-07-23|16:45|16:54|0.0|0.9|54.27|54.27|118.24|3|Standard|Followup Required|2023-07-23|16:00|17:30 (Late)|N/A|Software|No
+361|322|Troubleshooting|None|7|2024-04-13|09:00|14:24|1218.96|5.4|488.59|1707.55|2832.91|3|Standard|Complete|2024-04-11|16:00|16:45 (Late)|N/A|Integration|No
+623|255|System Integration|1028|36|2021-06-16|10:15|11:36|0.0|1.6|158.67|158.67|316.81|3|Standard|Complete|2021-06-15|09:00|09:15 (Late)|N/A|Software|Yes
+386|784|Troubleshooting|882|136|2022-02-19|15:30|16:23|1107.2|1.4|120.67|1227.8700000000001|1770.36|5|Standard|Complete|2022-02-17|13:00|14:45 (Late)|N/A|Configuration|Yes
+1044|490|System Upgrade|None|47|2023-03-06|14:30|18:24|1276.2|4.4|230.91|1507.1100000000001|3175.35|5|Emergency|Complete|2023-03-03|10:00|10:30 (Late)|N/A|Configuration|Yes
+800|579|Premium Maintenance|None|4|2022-03-18|10:00|11:53|12.98|1.9|225.68|238.66|339.47|3|Standard|Complete|2022-03-15|12:00|13:15 (Late)|N/A|Network|Yes
+1611|531|Remote Support|None|30|2024-03-02|12:30|16:17|0.0|4.3|412.24|412.24|743.37|4|Standard|Complete|2024-03-01|11:00|12:45 (Late)|N/A|Maintenance|No
+1599|594|Custom Installation|None|76|2024-08-11|12:15|15:42|899.22|3.7|184.96|1084.18|1718.64|5|Standard|Complete|2024-08-11|09:00|09:30 (Late)|N/A|Integration|Yes
+67|220|Troubleshooting|None|78|2023-05-03|13:45|13:36|1108.22|0.6|68.06|1176.28|2456.63|4|Standard|Complete|2023-05-02|12:00|12:15 (Late)|N/A|Software|Yes
+1598|495|System Integration|None|135|2023-09-24|13:45|21:41|0.0|8.7|1064.62|1064.62|2204.06|3|Standard|Complete|2023-09-24|16:00|16:00|1|Software|No
+1690|249|System Upgrade|758|72|2025-01-25|16:45|20:00|308.31|4.0|360.2|668.51|1090.44|4|Standard|Complete|2025-01-23|16:00|16:15 (Late)|N/A|Configuration|Yes
+240|139|Custom Installation|842|10|2021-12-16|12:30|18:05|1027.63|6.1|492.15|1519.7800000000002|3197.55|5|Standard|Complete|2021-12-14|15:00|16:30 (Late)|N/A|Hardware|Yes
+256|443|Custom Installation|1133|182|2025-02-19|14:45|14:48|58.63|0.8|42.95|101.58000000000001|186.91|4|Standard|Complete|2025-02-19|09:00|10:45 (Late)|N/A|Hardware|Yes
+1088|96|Design Consultation|783|49|2021-11-12|08:45|10:53|0.0|2.9|231.77|231.77|355.23|5|Standard|Complete|2021-11-12|13:00|13:30 (Late)|N/A|Network|Yes
+1276|371|System Upgrade|487|187|2025-04-05|15:00|15:30|1320.03|0.5|37.24|1357.27|2044.01|N/A|Standard|Complete|2025-04-05|08:00|09:30 (Late)|N/A|Hardware|Yes
+1458|271|Premium Maintenance|None|17|2023-09-29|11:45|14:00|1.59|3.0|376.23|377.82|663.03|5|Standard|Complete|2023-09-27|15:00|15:15 (Late)|N/A|User Training|Yes
+85|193|Troubleshooting|None|48|2025-03-06|08:45|10:36|395.59|2.6|149.47|545.06|775.38|4|Standard|Complete|2025-03-04|13:00|14:15 (Late)|N/A|Integration|Yes
+1804|270|Premium Maintenance|None|78|2022-07-16|08:30|10:36|5.21|2.6|294.94|300.15|589.81|3|Standard|Complete|2022-07-13|08:00|09:30 (Late)|N/A|Maintenance|Yes
+776|577|Troubleshooting|71|161|2022-07-02|13:15|14:11|1582.45|1.2|97.03|1679.48|3176.62|3|Standard|Complete|2022-07-01|08:00|09:15 (Late)|N/A|Network|Yes
+1257|719|Custom Installation|229|11|2023-09-20|11:30|12:48|1316.71|1.8|133.51|1450.22|2230.1|3|Standard|Complete|2023-09-19|11:00|11:15 (Late)|N/A|User Training|Yes
+1409|39|Custom Installation|None|8|2024-06-03|11:30|11:30|1381.67|0.5|41.51|1423.18|2922.62|3|Standard|Complete|2024-06-01|11:00|11:00 (Late)|N/A|User Training|Yes
+864|65|Design Consultation|None|41|2021-03-04|13:45|15:00|0.0|2.0|183.48|183.48|378.69|4|Standard|Complete|2021-03-01|09:00|10:30 (Late)|N/A|Maintenance|Yes
+150|500|Custom Installation|None|92|2024-05-16|11:45|14:42|318.03|3.7|219.15|537.18|1140.73|3|Standard|Complete|2024-05-13|14:00|14:15 (Late)|N/A|Configuration|Yes
+319|553|Custom Installation|611|128|2024-08-27|16:00|17:53|240.35|1.9|115.6|355.95|691.64|5|Standard|Complete|2024-08-24|10:00|10:45 (Late)|N/A|Hardware|Yes
+1575|236|Premium Maintenance|None|171|2023-03-04|12:00|12:42|92.81|0.7|59.83|152.64|307.32|4|Standard|Complete|2023-03-04|15:00|16:15 (Late)|N/A|Configuration|Yes
+548|776|Premium Maintenance|236|160|2025-02-05|08:00|09:42|99.1|1.7|198.19|297.28999999999996|651.17|4|Standard|Followup Required|2025-02-03|16:00|17:00 (Late)|N/A|User Training|Yes
+1861|539|Troubleshooting|None|5|2023-11-14|16:00|21:42|349.06|5.7|331.06|680.12|1232.08|4|Standard|Complete|2023-11-13|15:00|15:15 (Late)|N/A|Configuration|Yes
+1289|785|Troubleshooting|None|59|2025-03-22|10:15|16:00|1325.79|6.0|504.54|1830.33|3392.17|4|Standard|Complete|2025-03-19|11:00|11:00 (Late)|N/A|Configuration|Yes
+1680|678|Premium Maintenance|None|39|2023-06-02|12:30|19:35|106.16|7.6|439.43|545.59|939.26|3|Emergency|Complete|2023-06-01|11:00|11:15 (Late)|N/A|Maintenance|No
+11|497|Remote Support|None|4|2025-01-02|10:45|13:30|0.0|3.5|415.73|415.73|807.52|3|Standard|Complete|2024-12-30|11:00|12:00 (Late)|N/A|Configuration|Yes
+161|165|Troubleshooting|None|165|2022-08-19|15:15|16:42|270.48|1.7|151.27|421.75|920.59|3|Standard|Followup Required|2022-08-16|08:00|08:15 (Late)|N/A|Integration|Yes
+986|376|Custom Installation|None|18|2023-04-23|11:30|12:23|1229.89|1.4|130.35|1360.24|2030.82|4|Standard|Complete|2023-04-22|10:00|10:15 (Late)|N/A|Integration|Yes
+1136|26|Troubleshooting|None|7|2024-08-14|13:30|14:42|96.2|1.7|153.82|250.01999999999998|392.28|5|Standard|Complete|2024-08-13|13:00|14:30 (Late)|N/A|Network|Yes
+1838|374|System Integration|None|39|2022-09-26|09:45|13:42|0.0|4.7|271.75|271.75|431.0|3|Standard|Complete|2022-09-24|14:00|15:15 (Late)|N/A|Software|No
+1286|43|Design Consultation|None|59|2024-10-22|10:00|11:11|0.0|1.2|100.91|100.91|187.09|5|Standard|Complete|2024-10-21|11:00|12:45 (Late)|N/A|Maintenance|Yes
+287|308|Troubleshooting|None|39|2023-10-24|14:15|15:36|619.55|1.6|92.51|712.06|1463.96|3|Standard|Followup Required|2023-10-23|16:00|16:00 (Late)|N/A|Configuration|Yes
+1709|162|System Upgrade|None|143|2024-10-22|11:00|14:00|1494.82|3.0|337.8|1832.62|3916.25|3|Standard|Complete|2024-10-21|12:00|13:45 (Late)|N/A|Configuration|Yes
+1004|252|System Upgrade|None|166|2024-01-24|14:30|18:00|213.72|4.0|304.6|518.32|804.6|3|Standard|Complete|2024-01-24|15:00|15:45 (Late)|N/A|Configuration|Yes
+1695|724|Troubleshooting|60|197|2022-05-20|16:15|23:30|442.16|10.5|1133.48|1575.64|3382.13|5|Standard|Followup Required|2022-05-17|08:00|09:00 (Late)|N/A|Network|Yes
+769|394|System Upgrade|None|94|2025-04-07|13:30|15:23|23.53|2.4|194.45|217.98|340.31|N/A|Standard|Complete|2025-04-05|14:00|15:15 (Late)|N/A|Network|Yes
+341|399|Troubleshooting|508|167|2025-01-14|10:00|13:23|1189.85|3.4|294.03|1483.8799999999999|2791.79|3|Standard|Complete|2025-01-12|10:00|11:15 (Late)|N/A|Hardware|No
+215|110|System Upgrade|None|127|2023-12-04|14:15|15:18|1607.25|1.3|105.77|1713.02|2848.41|3|Standard|Complete|2023-12-04|08:00|09:30 (Late)|N/A|Hardware|Yes
+1551|240|System Upgrade|None|80|2023-04-22|16:30|23:17|660.34|7.3|494.94|1155.28|1775.75|3|Standard|Complete|2023-04-21|11:00|12:15 (Late)|N/A|Network|No
+1624|574|Premium Maintenance|None|187|2023-02-02|13:00|15:36|94.53|2.6|193.65|288.18|576.96|3|Standard|Complete|2023-02-01|12:00|13:45 (Late)|N/A|Network|Yes
+31|775|Troubleshooting|None|80|2021-01-24|13:15|18:35|855.26|5.6|379.68|1234.94|2592.06|3|Emergency|Complete|2021-01-24|11:00|12:45 (Late)|N/A|Maintenance|Yes
+378|152|System Upgrade|57|103|2024-11-09|12:30|18:24|746.97|6.4|825.86|1572.83|2806.36|5|Standard|Complete|2024-11-08|11:00|12:15 (Late)|N/A|Network|No
+1308|163|Design Consultation|None|53|2023-02-25|09:15|12:23|0.0|3.4|325.86|325.86|546.43|5|Priority|Complete|2023-02-23|16:00|17:15 (Late)|N/A|Configuration|Yes
+1675|689|Custom Installation|248|115|2024-03-01|15:45|15:54|1269.16|0.9|76.37|1345.5300000000002|1992.44|4|Standard|Complete|2024-02-29|11:00|12:15 (Late)|N/A|User Training|Yes
+615|761|Custom Installation|None|38|2022-05-11|12:45|14:23|451.97|2.4|170.71|622.6800000000001|1247.86|5|Emergency|Complete|2022-05-08|08:00|08:30 (Late)|N/A|Integration|No
+1414|451|Design Consultation|811|163|2023-08-09|10:30|11:18|0.0|1.3|112.01|112.01|168.12|5|Standard|Complete|2023-08-08|12:00|13:45 (Late)|N/A|Configuration|Yes
+996|391|System Integration|None|39|2024-08-30|16:15|17:11|0.0|1.2|69.38|69.38|137.28|4|Standard|Complete|2024-08-27|08:00|09:45 (Late)|N/A|Software|Yes
+69|506|Design Consultation|280|94|2023-09-01|12:00|15:53|0.0|3.9|315.98|315.98|571.96|5|Standard|Complete|2023-08-29|14:00|14:00 (Late)|N/A|Maintenance|Yes
+135|224|Custom Installation|762|74|2025-03-16|10:00|10:48|311.61|0.8|43.75|355.36|660.34|5|Standard|Complete|2025-03-13|08:00|08:00 (Late)|N/A|Network|Yes
+849|752|Premium Maintenance|None|97|2024-09-25|08:30|08:48|102.42|0.8|75.28|177.7|365.65|4|Standard|Complete|2024-09-23|12:00|13:00 (Late)|N/A|Network|Yes
+1059|45|System Integration|None|37|2021-02-18|15:30|16:42|0.0|1.7|104.79|104.79|170.51|4|Standard|Followup Required|2021-02-18|11:00|11:15|1|Maintenance|Yes
+1994|485|Remote Support|None|62|2024-07-23|14:15|17:42|0.0|3.7|271.06|271.06|496.73|3|Standard|Complete|2024-07-20|12:00|12:00 (Late)|N/A|Hardware|Yes
+1839|499|Custom Installation|1072|156|2023-06-21|08:45|09:36|891.25|1.6|127.25|1018.5|1939.16|4|Standard|Complete|2023-06-19|12:00|13:15 (Late)|N/A|Network|No
+668|31|Premium Maintenance|161|18|2024-06-01|13:15|13:36|21.6|0.6|55.87|77.47|112.01|3|Standard|Complete|2024-05-31|11:00|11:30 (Late)|N/A|Maintenance|Yes
+1320|369|Troubleshooting|1109|67|2024-09-27|10:00|12:00|624.96|2.0|163.44|788.4000000000001|1293.71|3|Standard|Complete|2024-09-25|10:00|11:00 (Late)|N/A|Hardware|Yes
+1703|185|System Upgrade|None|91|2023-11-10|14:45|17:12|1605.92|3.2|406.91|2012.8300000000002|4369.73|3|Standard|Complete|2023-11-07|16:00|17:00 (Late)|N/A|User Training|Yes
+771|660|Remote Support|None|194|2024-02-22|12:30|13:42|0.0|1.7|113.2|113.2|178.92|5|Priority|Complete|2024-02-20|08:00|08:30 (Late)|N/A|Network|Yes
+1712|458|Design Consultation|910|22|2025-02-24|10:15|16:42|0.0|6.7|573.99|573.99|818.15|3|Standard|Complete|2025-02-22|09:00|10:45 (Late)|N/A|Configuration|Yes
+1605|168|Troubleshooting|900|78|2024-10-13|14:30|15:36|255.66|1.6|181.5|437.15999999999997|820.21|4|Priority|Complete|2024-10-13|08:00|09:15 (Late)|N/A|Software|Yes
+1631|749|System Integration|303|155|2022-01-31|08:30|15:35|0.0|7.6|747.23|747.23|1421.37|4|Standard|Complete|2022-01-30|09:00|09:45 (Late)|N/A|User Training|Yes
+881|571|System Upgrade|None|11|2021-03-05|16:30|17:18|1487.2|1.3|96.42|1583.6200000000001|2599.47|5|Standard|Complete|2021-03-04|12:00|12:00 (Late)|N/A|Configuration|No
+1294|419|System Upgrade|None|7|2023-02-04|13:45|14:53|744.9|1.9|171.91|916.81|1861.53|3|Standard|Followup Required|2023-02-01|12:00|13:15 (Late)|N/A|Software|Yes
+311|623|Custom Installation|None|134|2022-04-28|08:45|09:36|913.32|1.6|116.48|1029.8|1718.79|3|Standard|Complete|2022-04-27|16:00|16:15 (Late)|N/A|Maintenance|Yes
+97|421|Troubleshooting|None|104|2025-04-08|16:45|22:35|678.03|6.6|523.91|1201.94|2025.76|N/A|Standard|Complete|2025-04-05|12:00|13:00 (Late)|N/A|Software|Yes
+280|404|System Integration|None|85|2022-06-08|15:15|16:53|0.0|1.9|124.32|124.32|243.41|4|Standard|Complete|2022-06-05|15:00|15:30 (Late)|N/A|Maintenance|Yes
+1387|219|Remote Support|None|143|2021-07-14|15:00|18:23|0.0|3.4|382.84|382.84|683.63|4|Standard|Complete|2021-07-14|13:00|13:15|1|Software|Yes
+1038|720|Remote Support|228|120|2024-09-07|16:15|17:42|0.0|1.7|185.57|185.57|271.6|3|Standard|Complete|2024-09-04|08:00|08:30 (Late)|N/A|Software|Yes
+1653|245|Custom Installation|None|113|2023-06-12|13:00|14:30|1386.4|1.5|123.03|1509.43|2120.18|5|Standard|Followup Required|2023-06-09|14:00|14:45 (Late)|N/A|Network|Yes
+359|794|System Upgrade|None|122|2023-04-13|09:30|12:12|26.54|3.2|413.76|440.3|798.15|4|Standard|Complete|2023-04-12|09:00|10:45 (Late)|N/A|Network|Yes
+12|31|Troubleshooting|181|152|2024-12-25|13:00|15:00|108.65|2.0|158.84|267.49|574.24|5|Standard|Complete|2024-12-22|11:00|11:15 (Late)|N/A|User Training|Yes
+134|600|Remote Support|1103|120|2024-07-10|16:45|17:11|0.0|1.2|130.99|130.99|283.16|4|Standard|Complete|2024-07-08|12:00|13:30 (Late)|N/A|Software|Yes
+506|23|Premium Maintenance|None|5|2023-05-24|16:30|22:00|98.95|6.0|348.48|447.43|721.44|4|Standard|Complete|2023-05-21|16:00|17:15 (Late)|N/A|Configuration|No
+212|138|Remote Support|166|181|2024-10-14|08:45|11:17|0.0|3.3|183.45|183.45|277.8|5|Standard|Complete|2024-10-11|09:00|09:45 (Late)|N/A|User Training|Yes
+597|298|System Integration|655|78|2024-07-24|09:15|14:42|0.0|5.7|646.61|646.61|1177.68|4|Emergency|Complete|2024-07-24|12:00|12:45 (Late)|N/A|Maintenance|Yes
+411|775|Custom Installation|None|50|2023-08-26|16:30|23:41|1117.82|10.7|1383.4|2501.2200000000003|5280.46|5|Standard|Complete|2023-08-25|10:00|11:45 (Late)|N/A|User Training|Yes
+281|595|Remote Support|None|115|2021-03-20|14:30|15:42|0.0|1.7|144.26|144.26|284.26|3|Standard|Complete|2021-03-19|16:00|16:45 (Late)|N/A|Network|Yes
+249|188|Premium Maintenance|419|104|2024-04-11|08:00|08:30|33.35|0.5|39.69|73.03999999999999|119.26|5|Standard|Complete|2024-04-10|14:00|15:30 (Late)|N/A|Maintenance|Yes
+1797|704|Premium Maintenance|None|87|2022-04-16|08:30|08:36|2.96|0.6|56.43|59.39|119.51|3|Standard|Complete|2022-04-16|13:00|13:45 (Late)|N/A|Maintenance|Yes
+653|450|System Integration|345|40|2022-11-01|13:45|14:11|0.0|1.2|132.95|132.95|228.32|3|Standard|Complete|2022-10-30|11:00|11:15 (Late)|N/A|Integration|Yes
+1433|254|System Integration|None|53|2024-03-20|08:00|12:30|0.0|4.5|431.28|431.28|837.28|4|Standard|Complete|2024-03-20|11:00|11:45 (Late)|N/A|Software|No
+593|602|Troubleshooting|365|5|2025-03-09|16:00|17:48|506.8|1.8|104.54|611.34|1333.01|3|Standard|Complete|2025-03-06|08:00|09:45 (Late)|N/A|Integration|Yes
+441|563|Design Consultation|354|144|2023-04-01|12:45|13:00|0.0|1.0|111.66|111.66|183.13|5|Standard|Complete|2023-03-30|13:00|13:00 (Late)|N/A|Maintenance|Yes
+1273|617|System Integration|None|137|2021-07-24|11:15|15:24|0.0|4.4|251.5|251.5|444.61|3|Standard|Complete|2021-07-24|10:00|11:30 (Late)|N/A|Integration|No
+1560|241|Remote Support|703|62|2024-12-08|10:30|10:54|0.0|0.9|65.93|65.93|127.79|3|Standard|Complete|2024-12-07|14:00|14:00 (Late)|N/A|Network|Yes
+957|639|Custom Installation|None|101|2022-08-06|14:15|20:24|718.98|6.4|700.99|1419.97|2152.8|5|Standard|Complete|2022-08-05|11:00|12:15 (Late)|N/A|User Training|No
+123|304|System Upgrade|None|46|2023-02-02|09:00|12:12|1626.59|3.2|229.95|1856.54|3879.2|4|Standard|Complete|2023-01-31|14:00|15:45 (Late)|N/A|Software|Yes
+1235|657|Premium Maintenance|207|118|2024-04-02|11:15|11:48|97.21|0.8|56.06|153.26999999999998|331.22|4|Standard|Complete|2024-04-01|14:00|15:00 (Late)|N/A|Integration|Yes
+1261|703|Remote Support|1042|176|2025-03-24|09:15|12:17|0.0|3.3|367.65|367.65|807.18|5|Standard|Complete|2025-03-22|08:00|08:45 (Late)|N/A|Configuration|Yes
+144|98|System Upgrade|None|39|2021-01-05|15:00|16:11|1178.82|1.2|69.38|1248.1999999999998|1865.05|5|Standard|Complete|2021-01-04|16:00|17:30 (Late)|N/A|Software|Yes
+1949|714|System Integration|None|81|2023-12-29|15:00|19:00|0.0|4.0|355.4|355.4|617.87|3|Standard|Followup Required|2023-12-29|12:00|12:45 (Late)|N/A|Integration|Yes
+988|489|System Integration|1176|32|2025-03-07|14:00|14:48|0.0|0.8|70.54|70.54|122.51|5|Standard|Complete|2025-03-07|12:00|13:00 (Late)|N/A|Network|Yes
+448|501|Troubleshooting|128|24|2024-09-26|15:15|18:53|1225.09|3.9|282.63|1507.7199999999998|2578.03|5|Standard|Complete|2024-09-23|10:00|11:45 (Late)|N/A|Integration|Yes
+210|765|System Integration|None|46|2021-10-19|16:15|21:24|0.0|5.4|388.04|388.04|603.1|4|Standard|Complete|2021-10-19|15:00|15:45 (Late)|N/A|Integration|Yes
+721|637|Design Consultation|520|88|2022-02-12|14:00|15:36|0.0|1.6|152.54|152.54|259.19|3|Standard|Complete|2022-02-12|08:00|09:15 (Late)|N/A|User Training|No
+1272|121|Troubleshooting|705|155|2024-09-18|11:30|12:11|1118.68|1.2|117.98|1236.66|2014.75|5|Standard|Complete|2024-09-17|16:00|16:45 (Late)|N/A|Configuration|Yes
+390|358|Remote Support|460|156|2021-07-02|13:15|13:30|0.0|0.5|39.77|39.77|62.54|4|Standard|Complete|2021-07-02|10:00|11:45 (Late)|N/A|Software|Yes
+261|263|Design Consultation|1030|70|2022-09-22|16:00|17:53|0.0|1.9|198.7|198.7|436.25|3|Standard|Complete|2022-09-22|08:00|09:30 (Late)|N/A|Hardware|Yes
+132|343|System Upgrade|None|136|2021-05-09|09:30|10:30|1117.58|1.5|129.28|1246.86|2403.96|4|Standard|Complete|2021-05-06|08:00|08:00 (Late)|N/A|Software|No
+935|503|System Upgrade|None|26|2021-03-20|10:00|13:23|59.84|3.4|379.03|438.87|628.78|3|Standard|Complete|2021-03-19|12:00|12:30 (Late)|N/A|User Training|Yes
+1817|357|Troubleshooting|670|47|2024-04-29|11:30|16:42|41.37|5.7|299.14|340.51|655.53|5|Priority|Complete|2024-04-27|09:00|10:30 (Late)|N/A|Network|Yes
+471|147|Remote Support|None|53|2023-06-01|10:00|10:36|0.0|0.6|57.5|57.5|102.49|4|Standard|Complete|2023-05-31|15:00|15:00 (Late)|N/A|Software|No
+1517|189|Remote Support|None|36|2024-08-16|08:15|09:30|0.0|1.5|148.75|148.75|253.71|5|Standard|Complete|2024-08-13|09:00|09:15 (Late)|N/A|Hardware|Yes
+1042|241|Premium Maintenance|None|76|2023-06-20|12:30|19:35|36.25|7.6|379.92|416.17|729.6|3|Standard|Complete|2023-06-19|12:00|12:00 (Late)|N/A|Maintenance|No
+1141|788|System Integration|None|22|2023-12-12|08:45|12:35|0.0|4.6|394.08|394.08|833.73|5|Standard|Complete|2023-12-09|13:00|13:45 (Late)|N/A|Maintenance|Yes
+321|667|Custom Installation|84|1|2022-03-19|12:30|14:17|1198.69|2.3|239.29|1437.98|3060.15|3|Standard|Complete|2022-03-18|13:00|14:45 (Late)|N/A|Configuration|Yes
+840|753|Design Consultation|721|180|2024-04-12|15:00|15:36|0.0|0.6|58.38|58.38|86.13|5|Standard|Complete|2024-04-11|16:00|16:00 (Late)|N/A|Hardware|Yes
+1766|92|System Upgrade|6|85|2024-05-29|11:15|18:42|368.42|7.7|503.81|872.23|1693.12|3|Standard|Complete|2024-05-29|14:00|15:45 (Late)|N/A|Hardware|Yes
+643|400|System Integration|122|1|2024-04-08|12:00|13:00|0.0|1.0|104.04|104.04|213.26|3|Standard|Complete|2024-04-07|16:00|17:30 (Late)|N/A|Maintenance|Yes
+1678|788|Custom Installation|None|128|2024-12-30|10:30|12:42|213.27|2.7|164.27|377.54|797.79|4|Standard|Complete|2024-12-27|12:00|12:00 (Late)|N/A|User Training|Yes

@@ -1,0 +1,121 @@
+AssetID|Type|Make|Model|PurchaseDate|Cost|MaintenanceSchedule|CurrentStatus|AssignedEmployeeID|CustomFeatures
+1|Premium Van|BMW|X5|2021-09-28|87456.77|Quarterly|In Maintenance|79|Roof Rack System
+2|Luxury SUV|Tesla|Cybertruck|2024-07-12|108544.03|Quarterly|Active|None|GPS Tracking
+3|Luxury SUV|Ford Transit (Custom)|Transit Connect|2024-08-02|83228.5|Monthly|Active|None|Roof Rack System
+4|Scaffold System|Fluke|F4060|2023-12-08|19788.13|Monthly|In Use|64|N/A
+5|Scaffold System|FLIR|F2843|2022-08-31|8798.51|Quarterly|In Repair|None|N/A
+6|Fiber Optic Tools|Sencore|S3445|2020-02-08|3064.81|Quarterly|In Calibration|186|N/A
+7|Fiber Optic Tools|Sencore|S1616|2021-12-22|29407.84|Annual|In Repair|None|N/A
+8|Scaffold System|FLIR|F6723|2023-03-05|23254.8|Bi-annual|In Use|137|N/A
+9|Luxury SUV|Mercedes-Benz|Sprinter|2021-08-25|67144.24|Annual|Out of Service|147|Roof Rack System
+10|Laser Measuring System|JDSU|J8540|2020-10-29|4245.38|Quarterly|In Repair|24|N/A
+11|Premium Van|RAM ProMaster (Custom)|City|2022-11-27|77053.68|Monthly|Active|123|GPS Tracking
+12|Premium Van|Mercedes-Benz|EQS|2023-08-30|120334.45|Annual|Active|152|Custom Interior Shelving
+13|Luxury SUV|BMW|X7|2020-09-13|69195.49|Monthly|Active|176|Full Vehicle Wrap
+14|Scaffold System|Werner|W8644|2020-07-25|25381.92|Monthly|In Use|191|N/A
+15|Audio Calibration System|JDSU|J7268|2020-06-14|14603.05|Quarterly|In Use|185|N/A
+16|Premium Van|RAM ProMaster (Custom)|3500|2023-11-28|109673.37|Quarterly|Active|None|Mobile Workshop
+17|Fiber Optic Tools|Fluke|F5810|2023-11-03|19814.02|Annual|In Calibration|4|N/A
+18|Scaffold System|Crestron|C9535|2022-03-01|5391.79|Quarterly|In Use|6|N/A
+19|Premium Ladder System|Sencore|S6523|2022-08-30|28683.19|Quarterly|In Use|97|N/A
+20|Premium Van|RAM ProMaster (Custom)|3500|2023-04-08|131641.43|Monthly|Out of Service|1|Roof Rack System
+21|Fiber Optic Tools|Lutron|L3100|2024-07-26|26199.94|Monthly|In Use|117|N/A
+22|Electric Vehicle|BMW|X7|2022-08-30|127721.14|Bi-annual|In Maintenance|34|Mobile Workshop
+23|Luxury SUV|Audi|Q7|2020-10-01|124614.75|Monthly|Active|None|None
+24|Premium Ladder System|JDSU|J6928|2024-05-17|21118.94|Quarterly|In Repair|16|N/A
+25|Luxury SUV|Tesla|Cybertruck|2023-11-02|113622.13|Annual|Out of Service|59|Custom Interior Shelving
+26|Electric Vehicle|Ford Transit (Custom)|E-Transit|2022-11-03|128380.06|Bi-annual|In Maintenance|None|Custom Interior Shelving
+27|Luxury SUV|BMW|i4|2019-05-13|112881.89|Quarterly|Active|158|Roof Rack System
+28|Custom Wrapped Van|Tesla|Cybertruck|2024-01-24|126337.63|Bi-annual|In Maintenance|None|GPS Tracking
+29|Luxury SUV|Audi|e-tron|2022-11-26|104948.11|Bi-annual|In Maintenance|45|None
+30|Thermal Imaging Camera|FLIR|F2743|2021-10-25|6415.26|Annual|In Calibration|12|N/A
+31|Luxury SUV|Ford Transit (Custom)|Transit Custom|2023-08-17|68556.21|Quarterly|Active|71|Custom Interior Shelving
+32|Audio Calibration System|FLIR|F3652|2019-06-24|15253.2|Monthly|In Repair|187|N/A
+33|Scaffold System|JDSU|J3426|2020-03-19|20456.62|Bi-annual|In Repair|22|N/A
+34|Luxury SUV|Tesla|Model X|2024-03-07|72709.99|Quarterly|In Maintenance|13|Custom Interior Shelving
+35|Thermal Imaging Camera|Lutron|L9694|2024-07-08|31579.74|Bi-annual|In Use|None|N/A
+36|Premium Van|Mercedes-Benz|Sprinter|2022-11-30|103298.66|Bi-annual|In Maintenance|110|Full Vehicle Wrap
+37|Custom Wrapped Van|Mercedes-Benz|Sprinter|2022-09-29|73952.76|Quarterly|Out of Service|None|Custom Interior Shelving
+38|Premium Ladder System|Sencore|S8200|2023-11-27|30596.65|Annual|In Calibration|None|N/A
+39|Luxury SUV|Ford Transit (Custom)|Transit Custom|2024-04-29|120825.74|Monthly|Active|69|GPS Tracking
+40|Custom Wrapped Van|Mercedes-Benz|GLE|2019-04-13|129695.34|Monthly|Active|151|GPS Tracking
+41|Custom Wrapped Van|Mercedes-Benz|GLE|2021-12-11|68465.15|Quarterly|Out of Service|142|GPS Tracking
+42|Electric Vehicle|Ford Transit (Custom)|Transit Custom|2019-09-27|86793.1|Bi-annual|Active|157|GPS Tracking
+43|Advanced Network Analyzer|Crestron|C9141|2023-06-06|30821.24|Annual|In Repair|17|N/A
+44|Custom Wrapped Van|RAM ProMaster (Custom)|2500|2025-03-29|119701.91|Bi-annual|Active|98|Inverter System
+45|Video Test Equipment|Audio Precision|A8945|2019-07-21|11028.97|Annual|In Calibration|64|N/A
+46|Premium Van|Audi|e-tron|2024-10-12|78079.01|Bi-annual|Out of Service|30|GPS Tracking
+47|Scaffold System|Fluke|F2097|2021-12-17|24113.8|Quarterly|In Calibration|None|N/A
+48|Video Test Equipment|Fluke|F4511|2024-10-12|16591.87|Annual|In Repair|None|N/A
+49|Custom Wrapped Van|Mercedes-Benz|Sprinter|2019-04-23|109609.89|Bi-annual|Active|None|GPS Tracking
+50|Audio Calibration System|Audio Precision|A7051|2024-10-02|23277.86|Annual|In Use|None|N/A
+51|Custom Wrapped Van|Mercedes-Benz|EQS|2022-04-01|121194.5|Monthly|Active|None|Mobile Workshop
+52|Thermal Imaging Camera|Crestron|C9767|2020-05-07|6457.81|Annual|In Calibration|189|N/A
+53|Scaffold System|Lutron|L8170|2025-01-17|30921.21|Quarterly|In Use|None|N/A
+54|Luxury SUV|Tesla|Model X|2020-01-19|87133.08|Quarterly|Active|22|GPS Tracking
+55|Custom Wrapped Van|Mercedes-Benz|EQS|2024-09-23|110086.93|Annual|Out of Service|None|Full Vehicle Wrap
+56|Premium Van|Ford Transit (Custom)|E-Transit|2020-09-08|93949.32|Annual|Out of Service|149|Mobile Workshop
+57|Scaffold System|Fluke|F5376|2022-12-23|3528.55|Quarterly|In Repair|23|N/A
+58|Premium Ladder System|JDSU|J6809|2024-07-17|15356.21|Quarterly|In Use|173|N/A
+59|Fiber Optic Tools|Lutron|L7183|2024-02-29|13104.51|Annual|In Use|12|N/A
+60|Premium Ladder System|Crestron|C7165|2021-10-15|14018.9|Bi-annual|In Repair|69|N/A
+61|Electric Vehicle|BMW|X5|2022-10-16|95300.46|Monthly|In Maintenance|92|Full Vehicle Wrap
+62|Premium Van|RAM ProMaster (Custom)|3500|2020-05-27|84164.34|Monthly|Out of Service|None|Mobile Workshop
+63|Fiber Optic Tools|Crestron|C9759|2024-08-17|14524.02|Quarterly|In Repair|112|N/A
+64|Electric Vehicle|Tesla|Model X|2024-11-29|75988.35|Annual|Out of Service|109|None
+65|Luxury SUV|Mercedes-Benz|GLE|2020-04-07|70874.3|Quarterly|In Maintenance|154|None
+66|Video Test Equipment|Audio Precision|A7674|2021-05-23|5525.18|Annual|In Repair|1|N/A
+67|Premium Van|Mercedes-Benz|GLE|2020-01-22|87200.36|Annual|In Maintenance|180|Mobile Workshop
+68|Premium Van|Audi|e-tron|2020-08-15|115531.45|Bi-annual|Active|110|Inverter System
+69|Luxury SUV|BMW|i4|2023-09-02|85084.04|Annual|Active|190|Custom Interior Shelving
+70|Luxury SUV|Ford Transit (Custom)|Transit Custom|2025-01-13|112212.84|Monthly|Out of Service|187|Mobile Workshop
+71|Custom Wrapped Van|Tesla|Cybertruck|2019-11-23|75600.37|Annual|In Maintenance|27|Roof Rack System
+72|Laser Measuring System|Sencore|S7463|2021-12-21|21498.98|Annual|In Repair|159|N/A
+73|Fiber Optic Tools|Werner|W8214|2024-09-06|11797.77|Annual|In Repair|24|N/A
+74|Electric Vehicle|Audi|A6 allroad|2020-07-06|69253.83|Quarterly|Active|None|Custom Interior Shelving
+75|Laser Measuring System|Audio Precision|A7250|2019-07-02|29585.94|Bi-annual|In Use|21|N/A
+76|Luxury SUV|BMW|i4|2025-03-24|101495.95|Annual|Active|64|None
+77|Premium Van|Mercedes-Benz|EQS|2023-03-06|104231.74|Monthly|In Maintenance|13|Roof Rack System
+78|Electric Vehicle|BMW|X7|2021-10-21|101003.29|Quarterly|Active|97|Mobile Workshop
+79|Thermal Imaging Camera|Werner|W8067|2019-07-24|17523.11|Bi-annual|In Calibration|4|N/A
+80|Thermal Imaging Camera|Lutron|L7940|2024-06-30|28847.49|Annual|In Calibration|8|N/A
+81|Electric Vehicle|Audi|Q7|2019-04-29|78690.98|Annual|Active|95|Mobile Workshop
+82|Custom Wrapped Van|Tesla|Model Y|2023-09-12|122383.02|Bi-annual|Out of Service|28|Full Vehicle Wrap
+83|Electric Vehicle|Ford Transit (Custom)|E-Transit|2019-02-07|88903.55|Annual|Active|None|Custom Interior Shelving
+84|Premium Van|Audi|Q7|2024-01-26|129576.41|Annual|In Maintenance|122|None
+85|Premium Van|Audi|A6 allroad|2020-02-29|70443.93|Monthly|Active|26|Custom Interior Shelving
+86|Electric Vehicle|Ford Transit (Custom)|E-Transit|2019-01-26|108201.58|Monthly|Active|133|Custom Interior Shelving
+87|Scaffold System|FLIR|F3094|2019-11-21|8233.22|Quarterly|In Repair|92|N/A
+88|Luxury SUV|Audi|e-tron|2023-08-01|74904.06|Bi-annual|Active|109|GPS Tracking
+89|Luxury SUV|BMW|X5|2021-07-26|79456.8|Annual|In Maintenance|89|Roof Rack System
+90|Premium Ladder System|Fluke|F8556|2020-11-22|19266.52|Bi-annual|In Calibration|None|N/A
+91|Premium Van|Mercedes-Benz|EQS|2021-08-10|102794.48|Bi-annual|In Maintenance|193|None
+92|Thermal Imaging Camera|Fluke|F1515|2023-10-25|23015.28|Bi-annual|In Calibration|74|N/A
+93|Laser Measuring System|Sencore|S4224|2019-11-11|28241.71|Monthly|In Use|None|N/A
+94|Custom Wrapped Van|Audi|A6 allroad|2024-07-05|106575.26|Monthly|In Maintenance|199|GPS Tracking
+95|Premium Van|BMW|i4|2020-11-12|85369.01|Annual|Active|143|GPS Tracking
+96|Premium Van|Mercedes-Benz|GLE|2025-02-01|89339.59|Monthly|Active|100|Custom Interior Shelving
+97|Advanced Network Analyzer|Crestron|C6389|2021-03-07|24214.55|Monthly|In Calibration|59|N/A
+98|Premium Van|Audi|A6 allroad|2021-07-29|124990.42|Bi-annual|Active|180|Roof Rack System
+99|Audio Calibration System|JDSU|J7493|2024-08-31|15768.68|Bi-annual|In Repair|None|N/A
+100|Laser Measuring System|Sencore|S5568|2023-01-12|10026.36|Bi-annual|In Calibration|137|N/A
+101|Electric Vehicle|RAM ProMaster (Custom)|2500|2021-06-09|97357.35|Annual|Out of Service|28|Mobile Workshop
+102|Electric Vehicle|BMW|i4|2025-01-07|105319.92|Annual|Out of Service|66|Full Vehicle Wrap
+103|Premium Ladder System|Werner|W9645|2020-09-26|18046.37|Monthly|In Calibration|None|N/A
+104|Premium Van|Tesla|Model Y|2020-07-17|84099.9|Bi-annual|In Maintenance|23|Inverter System
+105|Premium Ladder System|Crestron|C3867|2021-04-14|10448.23|Quarterly|In Repair|134|N/A
+106|Luxury SUV|BMW|X5|2025-03-01|131031.81|Annual|Active|41|GPS Tracking
+107|Fiber Optic Tools|Sencore|S9471|2019-07-22|28901.57|Quarterly|In Use|12|N/A
+108|Advanced Network Analyzer|Sencore|S4768|2019-01-09|7612.46|Monthly|In Use|99|N/A
+109|Custom Wrapped Van|Mercedes-Benz|Sprinter|2025-04-05|126062.69|Annual|Out of Service|3|Mobile Workshop
+110|Electric Vehicle|BMW|X7|2022-03-28|91325.25|Monthly|Out of Service|142|Custom Interior Shelving
+111|Electric Vehicle|RAM ProMaster (Custom)|2500|2024-09-21|108316.12|Monthly|In Maintenance|193|Custom Interior Shelving
+112|Video Test Equipment|Audio Precision|A6158|2022-07-19|11727.36|Monthly|In Use|188|N/A
+113|Advanced Network Analyzer|FLIR|F7623|2019-01-15|30412.78|Bi-annual|In Calibration|None|N/A
+114|Premium Ladder System|FLIR|F2221|2019-07-08|12407.35|Annual|In Calibration|None|N/A
+115|Premium Ladder System|Crestron|C2507|2023-05-29|4473.83|Bi-annual|In Calibration|None|N/A
+116|Fiber Optic Tools|Crestron|C1025|2025-01-27|27079.1|Bi-annual|In Use|152|N/A
+117|Custom Wrapped Van|Mercedes-Benz|EQS|2021-03-08|106601.59|Annual|In Maintenance|76|Roof Rack System
+118|Custom Wrapped Van|Ford Transit (Custom)|E-Transit|2023-07-18|103452.89|Quarterly|In Maintenance|4|Mobile Workshop
+119|Custom Wrapped Van|Ford Transit (Custom)|E-Transit|2020-04-29|100322.57|Annual|Out of Service|None|GPS Tracking
+120|Scaffold System|JDSU|J6965|2023-10-23|3143.55|Quarterly|In Calibration|20|N/A
